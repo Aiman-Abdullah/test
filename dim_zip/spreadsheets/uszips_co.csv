@@ -1,0 +1,526 @@
+,zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone
+1,80002,39.79503,-105.10586,Arvada,CO,Colorado,TRUE,,18877,1183.7,8059,Jefferson,"{""08059"": ""94"", ""08001"": ""6""}",Jefferson|Adams,08059|08001,FALSE,FALSE,America/Denver
+2,80003,39.82648,-105.06329,Arvada,CO,Colorado,TRUE,,36480,2073,8059,Jefferson,"{""08059"": ""83.78"", ""08001"": ""16.22""}",Jefferson|Adams,08059|08001,FALSE,FALSE,America/Denver
+3,80004,39.81473,-105.12355,Arvada,CO,Colorado,TRUE,,36595,1918,8059,Jefferson,"{""08059"": ""100""}",Jefferson,8059,FALSE,FALSE,America/Denver
+4,80005,39.85094,-105.13034,Arvada,CO,Colorado,TRUE,,28737,973.4,8059,Jefferson,"{""08059"": ""100""}",Jefferson,8059,FALSE,FALSE,America/Denver
+5,80007,39.86605,-105.19937,Arvada,CO,Colorado,TRUE,,13783,207,8059,Jefferson,"{""08059"": ""100""}",Jefferson,8059,FALSE,FALSE,America/Denver
+6,80010,39.73868,-104.86256,Aurora,CO,Colorado,TRUE,,42807,3009.4,8005,Arapahoe,"{""08005"": ""50.66"", ""08001"": ""49.34""}",Arapahoe|Adams,08005|08001,FALSE,FALSE,America/Denver
+7,80011,39.73895,-104.78318,Aurora,CO,Colorado,TRUE,,52172,817.2,8005,Arapahoe,"{""08005"": ""61.41"", ""08001"": ""38.59""}",Arapahoe|Adams,08005|08001,FALSE,FALSE,America/Denver
+8,80012,39.69975,-104.83759,Aurora,CO,Colorado,TRUE,,52588,2610.7,8005,Arapahoe,"{""08005"": ""99.02"", ""08031"": ""0.98""}",Arapahoe|Denver,08005|08031,FALSE,FALSE,America/Denver
+9,80013,39.66138,-104.7657,Aurora,CO,Colorado,TRUE,,74105,2046.5,8005,Arapahoe,"{""08005"": ""100""}",Arapahoe,8005,FALSE,FALSE,America/Denver
+10,80014,39.66354,-104.83815,Aurora,CO,Colorado,TRUE,,39333,2151.6,8005,Arapahoe,"{""08005"": ""87.84"", ""08031"": ""12.16""}",Arapahoe|Denver,08005|08031,FALSE,FALSE,America/Denver
+11,80015,39.62598,-104.77999,Aurora,CO,Colorado,TRUE,,69487,1870,8005,Arapahoe,"{""08005"": ""100""}",Arapahoe,8005,FALSE,FALSE,America/Denver
+12,80016,39.59971,-104.70728,Aurora,CO,Colorado,TRUE,,56841,471.6,8005,Arapahoe,"{""08005"": ""99.72"", ""08035"": ""0.28""}",Arapahoe|Douglas,08005|08035,FALSE,FALSE,America/Denver
+13,80017,39.69762,-104.78588,Aurora,CO,Colorado,TRUE,,37668,2490.5,8005,Arapahoe,"{""08005"": ""100""}",Arapahoe,8005,FALSE,FALSE,America/Denver
+14,80018,39.69289,-104.69551,Aurora,CO,Colorado,TRUE,,13397,194.9,8005,Arapahoe,"{""08005"": ""100""}",Arapahoe,8005,FALSE,FALSE,America/Denver
+15,80019,39.78515,-104.70191,Aurora,CO,Colorado,TRUE,,2771,43.6,8001,Adams,"{""08001"": ""100""}",Adams,8001,FALSE,FALSE,America/Denver
+16,80020,39.93182,-105.07453,Broomfield,CO,Colorado,TRUE,,50491,984.2,8014,Broomfield,"{""08014"": ""82.26"", ""08059"": ""17.43"", ""08013"": ""0.31"", ""08001"": ""0""}",Broomfield|Jefferson|Boulder|Adams,08014|08059|08013|08001,FALSE,FALSE,America/Denver
+17,80021,39.89096,-105.11448,Broomfield,CO,Colorado,TRUE,,34097,797,8059,Jefferson,"{""08059"": ""91.33"", ""08014"": ""8.67""}",Jefferson|Broomfield,08059|08014,FALSE,FALSE,America/Denver
+18,80022,39.87949,-104.79787,Commerce City,CO,Colorado,TRUE,,51863,435.5,8001,Adams,"{""08001"": ""100""}",Adams,8001,FALSE,FALSE,America/Denver
+19,80023,39.97242,-105.01092,Broomfield,CO,Colorado,TRUE,,22659,497,8014,Broomfield,"{""08014"": ""86.51"", ""08001"": ""13.49""}",Broomfield|Adams,08014|08001,FALSE,FALSE,America/Denver
+20,80024,39.84378,-104.91798,Dupont,CO,Colorado,TRUE,,216,2040,8001,Adams,"{""08001"": ""100""}",Adams,8001,FALSE,FALSE,America/Denver
+21,80025,39.94509,-105.29066,Eldorado Springs,CO,Colorado,TRUE,,293,9.7,8013,Boulder,"{""08013"": ""100""}",Boulder,8013,FALSE,FALSE,America/Denver
+22,80026,40.01317,-105.09805,Lafayette,CO,Colorado,TRUE,,30714,533.8,8013,Boulder,"{""08013"": ""100""}",Boulder,8013,FALSE,FALSE,America/Denver
+23,80027,39.95067,-105.16391,Louisville,CO,Colorado,TRUE,,34030,675.1,8013,Boulder,"{""08013"": ""100"", ""08014"": ""0""}",Boulder|Broomfield,08013|08014,FALSE,FALSE,America/Denver
+24,80030,39.83012,-105.0369,Westminster,CO,Colorado,TRUE,,15861,2321.3,8001,Adams,"{""08001"": ""100""}",Adams,8001,FALSE,FALSE,America/Denver
+25,80031,39.8758,-105.04066,Westminster,CO,Colorado,TRUE,,35741,1635.3,8001,Adams,"{""08001"": ""94.39"", ""08059"": ""5.61""}",Adams|Jefferson,08001|08059,FALSE,FALSE,America/Denver
+26,80033,39.77309,-105.1022,Wheat Ridge,CO,Colorado,TRUE,,25755,1200.5,8059,Jefferson,"{""08059"": ""100""}",Jefferson,8059,FALSE,FALSE,America/Denver
+27,80045,39.74752,-104.83861,Aurora,CO,Colorado,TRUE,,901,519.1,8001,Adams,"{""08001"": ""100""}",Adams,8001,FALSE,FALSE,America/Denver
+28,80101,39.39269,-104.02852,Agate,CO,Colorado,TRUE,,495,0.8,8039,Elbert,"{""08039"": ""100""}",Elbert,8039,FALSE,FALSE,America/Denver
+29,80102,39.74095,-104.44391,Bennett,CO,Colorado,TRUE,,5692,7.4,8001,Adams,"{""08001"": ""60.92"", ""08005"": ""37.18"", ""08039"": ""1.9""}",Adams|Arapahoe|Elbert,08001|08005|08039,FALSE,FALSE,America/Denver
+30,80103,39.78128,-104.13663,Byers,CO,Colorado,TRUE,,2949,4.1,8005,Arapahoe,"{""08005"": ""80.68"", ""08001"": ""19.32""}",Arapahoe|Adams,08005|08001,FALSE,FALSE,America/Denver
+31,80104,39.30195,-104.81809,Castle Rock,CO,Colorado,TRUE,,31522,156.8,8035,Douglas,"{""08035"": ""100""}",Douglas,8035,FALSE,FALSE,America/Denver
+32,80105,39.66096,-103.96166,Deer Trail,CO,Colorado,TRUE,,1198,0.9,8005,Arapahoe,"{""08005"": ""64.3"", ""08039"": ""32.71"", ""08001"": ""2.99""}",Arapahoe|Elbert|Adams,08005|08039|08001,FALSE,FALSE,America/Denver
+33,80106,39.17265,-104.52902,Elbert,CO,Colorado,TRUE,,5847,12.8,8041,El Paso,"{""08041"": ""65.81"", ""08039"": ""32.3"", ""08035"": ""1.89""}",El Paso|Elbert|Douglas,08041|08039|08035,FALSE,FALSE,America/Denver
+34,80107,39.40961,-104.57244,Elizabeth,CO,Colorado,TRUE,,13474,33.4,8039,Elbert,"{""08039"": ""100""}",Elbert,8039,FALSE,FALSE,America/Denver
+35,80108,39.44551,-104.85303,Castle Rock,CO,Colorado,TRUE,,27719,300.9,8035,Douglas,"{""08035"": ""100""}",Douglas,8035,FALSE,FALSE,America/Denver
+36,80109,39.36426,-104.90136,Castle Rock,CO,Colorado,TRUE,,23665,346.4,8035,Douglas,"{""08035"": ""100""}",Douglas,8035,FALSE,FALSE,America/Denver
+37,80110,39.64629,-105.00921,Englewood,CO,Colorado,TRUE,,22756,1384.2,8005,Arapahoe,"{""08005"": ""94.94"", ""08031"": ""5.06""}",Arapahoe|Denver,08005|08031,FALSE,FALSE,America/Denver
+38,80111,39.61228,-104.8798,Englewood,CO,Colorado,TRUE,,33256,1193,8005,Arapahoe,"{""08005"": ""100"", ""08031"": ""0""}",Arapahoe|Denver,08005|08031,FALSE,FALSE,America/Denver
+39,80112,39.57258,-104.8574,Englewood,CO,Colorado,TRUE,,34092,712.4,8005,Arapahoe,"{""08005"": ""92.98"", ""08035"": ""7.02""}",Arapahoe|Douglas,08005|08035,FALSE,FALSE,America/Denver
+40,80113,39.64216,-104.96251,Englewood,CO,Colorado,TRUE,,23336,1193.2,8005,Arapahoe,"{""08005"": ""100""}",Arapahoe,8005,FALSE,FALSE,America/Denver
+41,80116,39.30721,-104.71756,Franktown,CO,Colorado,TRUE,,4370,19.5,8035,Douglas,"{""08035"": ""100""}",Douglas,8035,FALSE,FALSE,America/Denver
+42,80117,39.36468,-104.36143,Kiowa,CO,Colorado,TRUE,,2794,4.4,8039,Elbert,"{""08039"": ""100""}",Elbert,8039,FALSE,FALSE,America/Denver
+43,80118,39.19239,-104.89199,Larkspur,CO,Colorado,TRUE,,6476,18.3,8035,Douglas,"{""08035"": ""100""}",Douglas,8035,FALSE,FALSE,America/Denver
+44,80120,39.5933,-105.00956,Littleton,CO,Colorado,TRUE,,31891,1483.5,8005,Arapahoe,"{""08005"": ""99.93"", ""08035"": ""0.07""}",Arapahoe|Douglas,08005|08035,FALSE,FALSE,America/Denver
+45,80121,39.61115,-104.9532,Littleton,CO,Colorado,TRUE,,19217,990.7,8005,Arapahoe,"{""08005"": ""100""}",Arapahoe,8005,FALSE,FALSE,America/Denver
+46,80122,39.58062,-104.95591,Littleton,CO,Colorado,TRUE,,33117,1811.8,8005,Arapahoe,"{""08005"": ""100""}",Arapahoe,8005,FALSE,FALSE,America/Denver
+47,80123,39.61583,-105.06888,Littleton,CO,Colorado,TRUE,,47821,1556.8,8059,Jefferson,"{""08059"": ""48.92"", ""08031"": ""26.72"", ""08005"": ""24.36""}",Jefferson|Denver|Arapahoe,08059|08031|08005,FALSE,FALSE,America/Denver
+48,80124,39.53184,-104.89207,Lone Tree,CO,Colorado,TRUE,,21273,865.5,8035,Douglas,"{""08035"": ""100""}",Douglas,8035,FALSE,FALSE,America/Denver
+49,80125,39.48598,-105.05018,Littleton,CO,Colorado,TRUE,,10548,96.7,8035,Douglas,"{""08035"": ""100""}",Douglas,8035,FALSE,FALSE,America/Denver
+50,80126,39.54073,-104.96083,Littleton,CO,Colorado,TRUE,,43356,1560.6,8035,Douglas,"{""08035"": ""100""}",Douglas,8035,FALSE,FALSE,America/Denver
+51,80127,39.54044,-105.15135,Littleton,CO,Colorado,TRUE,,45304,337.2,8059,Jefferson,"{""08059"": ""100""}",Jefferson,8059,FALSE,FALSE,America/Denver
+52,80128,39.5641,-105.07865,Littleton,CO,Colorado,TRUE,,36435,1159.2,8059,Jefferson,"{""08059"": ""94.79"", ""08005"": ""5.21""}",Jefferson|Arapahoe,08059|08005,FALSE,FALSE,America/Denver
+53,80129,39.54463,-105.01081,Littleton,CO,Colorado,TRUE,,31302,1620.3,8035,Douglas,"{""08035"": ""100"", ""08005"": ""0""}",Douglas|Arapahoe,08035|08005,FALSE,FALSE,America/Denver
+54,80130,39.53062,-104.92323,Littleton,CO,Colorado,TRUE,,28992,1752.4,8035,Douglas,"{""08035"": ""100""}",Douglas,8035,FALSE,FALSE,America/Denver
+55,80131,39.4764,-105.00751,Louviers,CO,Colorado,TRUE,,378,193.4,8035,Douglas,"{""08035"": ""100""}",Douglas,8035,FALSE,FALSE,America/Denver
+56,80132,39.09814,-104.8472,Monument,CO,Colorado,TRUE,,21286,268.8,8041,El Paso,"{""08041"": ""100""}",El Paso,8041,FALSE,FALSE,America/Denver
+57,80133,39.09972,-104.96952,Palmer Lake,CO,Colorado,TRUE,,2539,31.8,8041,El Paso,"{""08041"": ""99.12"", ""08035"": ""0.88""}",El Paso|Douglas,08041|08035,FALSE,FALSE,America/Denver
+58,80134,39.48221,-104.77886,Parker,CO,Colorado,TRUE,,69163,474.3,8035,Douglas,"{""08035"": ""100""}",Douglas,8035,FALSE,FALSE,America/Denver
+59,80135,39.2793,-105.11819,Sedalia,CO,Colorado,TRUE,,4038,4.7,8035,Douglas,"{""08035"": ""98.49"", ""08059"": ""1.51""}",Douglas|Jefferson,08035|08059,FALSE,FALSE,America/Denver
+60,80136,39.79068,-104.29748,Strasburg,CO,Colorado,TRUE,,5469,10.4,8001,Adams,"{""08001"": ""67.73"", ""08005"": ""32.27""}",Adams|Arapahoe,08001|08005,FALSE,FALSE,America/Denver
+61,80137,39.75788,-104.59287,Watkins,CO,Colorado,TRUE,,1914,7.1,8005,Arapahoe,"{""08005"": ""66.67"", ""08001"": ""33.33""}",Arapahoe|Adams,08005|08001,FALSE,FALSE,America/Denver
+62,80138,39.51759,-104.67107,Parker,CO,Colorado,TRUE,,33571,205,8035,Douglas,"{""08035"": ""85.45"", ""08039"": ""14.55""}",Douglas|Elbert,08035|08039,FALSE,FALSE,America/Denver
+63,80202,39.75193,-104.99776,Denver,CO,Colorado,TRUE,,15287,5270.5,8031,Denver,"{""08031"": ""100""}",Denver,8031,FALSE,FALSE,America/Denver
+64,80203,39.73174,-104.98265,Denver,CO,Colorado,TRUE,,21392,7697.2,8031,Denver,"{""08031"": ""100""}",Denver,8031,FALSE,FALSE,America/Denver
+65,80204,39.73489,-105.02035,Denver,CO,Colorado,TRUE,,34030,2363.2,8031,Denver,"{""08031"": ""100""}",Denver,8031,FALSE,FALSE,America/Denver
+66,80205,39.75866,-104.96339,Denver,CO,Colorado,TRUE,,35054,2965,8031,Denver,"{""08031"": ""100""}",Denver,8031,FALSE,FALSE,America/Denver
+67,80206,39.7303,-104.95259,Denver,CO,Colorado,TRUE,,25066,3929.2,8031,Denver,"{""08031"": ""100""}",Denver,8031,FALSE,FALSE,America/Denver
+68,80207,39.76227,-104.91662,Denver,CO,Colorado,TRUE,,26706,2258,8031,Denver,"{""08031"": ""100""}",Denver,8031,FALSE,FALSE,America/Denver
+69,80209,39.70599,-104.96594,Denver,CO,Colorado,TRUE,,25367,2808.3,8031,Denver,"{""08031"": ""100""}",Denver,8031,FALSE,FALSE,America/Denver
+70,80210,39.67802,-104.96256,Denver,CO,Colorado,TRUE,,37087,2359.4,8031,Denver,"{""08031"": ""100""}",Denver,8031,FALSE,FALSE,America/Denver
+71,80211,39.76706,-105.02009,Denver,CO,Colorado,TRUE,,35627,3057.8,8031,Denver,"{""08031"": ""100""}",Denver,8031,FALSE,FALSE,America/Denver
+72,80212,39.77167,-105.04831,Denver,CO,Colorado,TRUE,,19552,2113.7,8031,Denver,"{""08031"": ""78.94"", ""08059"": ""14.91"", ""08001"": ""6.14""}",Denver|Jefferson|Adams,08031|08059|08001,FALSE,FALSE,America/Denver
+73,80214,39.74214,-105.0712,Denver,CO,Colorado,TRUE,,26711,2240.2,8059,Jefferson,"{""08059"": ""99.5"", ""08031"": ""0.5""}",Jefferson|Denver,08059|08031,FALSE,FALSE,America/Denver
+74,80215,39.74409,-105.11592,Denver,CO,Colorado,TRUE,,19487,1353.2,8059,Jefferson,"{""08059"": ""100""}",Jefferson,8059,FALSE,FALSE,America/Denver
+75,80216,39.78839,-104.95672,Denver,CO,Colorado,TRUE,,13662,500.7,8031,Denver,"{""08031"": ""97.44"", ""08001"": ""2.56""}",Denver|Adams,08031|08001,FALSE,FALSE,America/Denver
+76,80218,39.73096,-104.97065,Denver,CO,Colorado,TRUE,,19385,4686.3,8031,Denver,"{""08031"": ""100""}",Denver,8031,FALSE,FALSE,America/Denver
+77,80219,39.69538,-105.03438,Denver,CO,Colorado,TRUE,,70638,3633.3,8031,Denver,"{""08031"": ""100""}",Denver,8031,FALSE,FALSE,America/Denver
+78,80220,39.7338,-104.91659,Denver,CO,Colorado,TRUE,,36483,2690,8031,Denver,"{""08031"": ""99.28"", ""08005"": ""0.72""}",Denver|Arapahoe,08031|08005,FALSE,FALSE,America/Denver
+79,80221,39.81542,-105.00955,Denver,CO,Colorado,TRUE,,42103,1789.5,8001,Adams,"{""08001"": ""84.83"", ""08031"": ""15.17""}",Adams|Denver,08001|08031,FALSE,FALSE,America/Denver
+80,80222,39.67104,-104.92791,Denver,CO,Colorado,TRUE,,23287,2268,8031,Denver,"{""08031"": ""87.44"", ""08005"": ""12.56""}",Denver|Arapahoe,08031|08005,FALSE,FALSE,America/Denver
+81,80223,39.69617,-105.00186,Denver,CO,Colorado,TRUE,,19972,1473.1,8031,Denver,"{""08031"": ""100""}",Denver,8031,FALSE,FALSE,America/Denver
+82,80224,39.68768,-104.91133,Denver,CO,Colorado,TRUE,,18941,2322.4,8031,Denver,"{""08031"": ""99.32"", ""08005"": ""0.68""}",Denver|Arapahoe,08031|08005,FALSE,FALSE,America/Denver
+83,80226,39.71106,-105.09138,Denver,CO,Colorado,TRUE,,33597,1612.3,8059,Jefferson,"{""08059"": ""99.22"", ""08031"": ""0.78""}",Jefferson|Denver,08059|08031,FALSE,FALSE,America/Denver
+84,80227,39.66717,-105.08962,Denver,CO,Colorado,TRUE,,34878,1813.3,8059,Jefferson,"{""08059"": ""70.93"", ""08031"": ""29.07""}",Jefferson|Denver,08059|08031,FALSE,FALSE,America/Denver
+85,80228,39.69002,-105.15677,Denver,CO,Colorado,TRUE,,34111,1198.2,8059,Jefferson,"{""08059"": ""100""}",Jefferson,8059,FALSE,FALSE,America/Denver
+86,80229,39.85545,-104.9574,Denver,CO,Colorado,TRUE,,55532,1681.5,8001,Adams,"{""08001"": ""100""}",Adams,8001,FALSE,FALSE,America/Denver
+87,80230,39.71946,-104.89031,Denver,CO,Colorado,TRUE,,9545,1481.5,8031,Denver,"{""08031"": ""100""}",Denver,8031,FALSE,FALSE,America/Denver
+88,80231,39.67151,-104.88785,Denver,CO,Colorado,TRUE,,36861,3012.8,8031,Denver,"{""08031"": ""57.84"", ""08005"": ""42.16""}",Denver|Arapahoe,08031|08005,FALSE,FALSE,America/Denver
+89,80232,39.68853,-105.09048,Denver,CO,Colorado,TRUE,,22705,2119.6,8059,Jefferson,"{""08059"": ""99.74"", ""08031"": ""0.26""}",Jefferson|Denver,08059|08031,FALSE,FALSE,America/Denver
+90,80233,39.89971,-104.9469,Denver,CO,Colorado,TRUE,,49875,2116,8001,Adams,"{""08001"": ""100""}",Adams,8001,FALSE,FALSE,America/Denver
+91,80234,39.91226,-105.00553,Denver,CO,Colorado,TRUE,,28133,1527,8001,Adams,"{""08001"": ""94.89"", ""08014"": ""5.11""}",Adams|Broomfield,08001|08014,FALSE,FALSE,America/Denver
+92,80235,39.6461,-105.08993,Denver,CO,Colorado,TRUE,,8804,932.1,8059,Jefferson,"{""08059"": ""56.27"", ""08031"": ""43.73""}",Jefferson|Denver,08059|08031,FALSE,FALSE,America/Denver
+93,80236,39.65165,-105.03962,Denver,CO,Colorado,TRUE,,19230,2310.5,8031,Denver,"{""08031"": ""91.96"", ""08005"": ""8.04""}",Denver|Arapahoe,08031|08005,FALSE,FALSE,America/Denver
+94,80237,39.64007,-104.90117,Denver,CO,Colorado,TRUE,,21890,2349.9,8031,Denver,"{""08031"": ""100"", ""08005"": ""0""}",Denver|Arapahoe,08031|08005,FALSE,FALSE,America/Denver
+95,80238,39.77159,-104.88236,Denver,CO,Colorado,TRUE,,21632,1718.1,8031,Denver,"{""08031"": ""100""}",Denver,8031,FALSE,FALSE,America/Denver
+96,80239,39.7868,-104.83803,Denver,CO,Colorado,TRUE,,47829,1848.7,8031,Denver,"{""08031"": ""100"", ""08001"": ""0""}",Denver|Adams,08031|08001,FALSE,FALSE,America/Denver
+97,80241,39.92873,-104.95508,Thornton,CO,Colorado,TRUE,,33638,1966.1,8001,Adams,"{""08001"": ""100""}",Adams,8001,FALSE,FALSE,America/Denver
+98,80246,39.70435,-104.93093,Denver,CO,Colorado,TRUE,,13433,3003.3,8031,Denver,"{""08031"": ""67.5"", ""08005"": ""32.5""}",Denver|Arapahoe,08031|08005,FALSE,FALSE,America/Denver
+99,80247,39.69715,-104.88179,Denver,CO,Colorado,TRUE,,29264,3852.3,8005,Arapahoe,"{""08005"": ""52.13"", ""08031"": ""47.87""}",Arapahoe|Denver,08005|08031,FALSE,FALSE,America/Denver
+100,80249,39.84982,-104.69651,Denver,CO,Colorado,TRUE,,32537,263.2,8031,Denver,"{""08031"": ""100""}",Denver,8031,FALSE,FALSE,America/Denver
+101,80260,39.86679,-105.00605,Denver,CO,Colorado,TRUE,,34837,2779.6,8001,Adams,"{""08001"": ""100""}",Adams,8001,FALSE,FALSE,America/Denver
+102,80264,39.74248,-104.98548,Denver,CO,Colorado,TRUE,,0,0,8031,Denver,"{""08031"": ""0""}",Denver,8031,FALSE,FALSE,America/Denver
+103,80290,39.74409,-104.98675,Denver,CO,Colorado,TRUE,,0,0,8031,Denver,"{""08031"": ""0""}",Denver,8031,FALSE,FALSE,America/Denver
+104,80293,39.74625,-104.98994,Denver,CO,Colorado,TRUE,,0,0,8031,Denver,"{""08031"": ""0""}",Denver,8031,FALSE,FALSE,America/Denver
+105,80294,39.74945,-104.98927,Denver,CO,Colorado,TRUE,,0,0,8031,Denver,"{""08031"": ""0""}",Denver,8031,FALSE,FALSE,America/Denver
+106,80301,40.04859,-105.20013,Boulder,CO,Colorado,TRUE,,25581,340.4,8013,Boulder,"{""08013"": ""100""}",Boulder,8013,FALSE,FALSE,America/Denver
+107,80302,40.03893,-105.3691,Boulder,CO,Colorado,TRUE,,29154,136.2,8013,Boulder,"{""08013"": ""100""}",Boulder,8013,FALSE,FALSE,America/Denver
+108,80303,39.9741,-105.21275,Boulder,CO,Colorado,TRUE,,25081,440,8013,Boulder,"{""08013"": ""100""}",Boulder,8013,FALSE,FALSE,America/Denver
+109,80304,40.04547,-105.29048,Boulder,CO,Colorado,TRUE,,26360,1115.7,8013,Boulder,"{""08013"": ""100""}",Boulder,8013,FALSE,FALSE,America/Denver
+110,80305,39.97469,-105.2492,Boulder,CO,Colorado,TRUE,,17126,918.8,8013,Boulder,"{""08013"": ""100""}",Boulder,8013,FALSE,FALSE,America/Denver
+111,80310,40.00378,-105.26138,Boulder,CO,Colorado,TRUE,,7305,6500.6,8013,Boulder,"{""08013"": ""100""}",Boulder,8013,FALSE,FALSE,America/Denver
+112,80401,39.71642,-105.2351,Golden,CO,Colorado,TRUE,,42665,315.8,8059,Jefferson,"{""08059"": ""100""}",Jefferson,8059,FALSE,FALSE,America/Denver
+113,80403,39.83088,-105.31503,Golden,CO,Colorado,TRUE,,20499,59.2,8059,Jefferson,"{""08059"": ""93.03"", ""08013"": ""4.77"", ""08047"": ""2.2""}",Jefferson|Boulder|Gilpin,08059|08013|08047,FALSE,FALSE,America/Denver
+114,80419,39.72844,-105.20284,Golden,CO,Colorado,TRUE,,0,0,8059,Jefferson,"{""08059"": ""0""}",Jefferson,8059,FALSE,FALSE,America/Denver
+115,80420,39.31679,-106.10381,Alma,CO,Colorado,TRUE,,802,7.8,8093,Park,"{""08093"": ""100""}",Park,8093,FALSE,FALSE,America/Denver
+116,80421,39.47872,-105.52618,Bailey,CO,Colorado,TRUE,,9740,27.3,8093,Park,"{""08093"": ""99.81"", ""08059"": ""0.19""}",Park|Jefferson,08093|08059,FALSE,FALSE,America/Denver
+117,80422,39.86909,-105.53237,Black Hawk,CO,Colorado,TRUE,,4744,14.2,8047,Gilpin,"{""08047"": ""97.5"", ""08013"": ""2.5""}",Gilpin|Boulder,08047|08013,FALSE,FALSE,America/Denver
+118,80423,39.89446,-106.59512,Bond,CO,Colorado,TRUE,,251,0.6,8037,Eagle,"{""08037"": ""85.21"", ""08049"": ""14.79""}",Eagle|Grand,08037|08049,FALSE,FALSE,America/Denver
+119,80424,39.47099,-106.0169,Breckenridge,CO,Colorado,TRUE,,10169,31.2,8117,Summit,"{""08117"": ""100""}",Summit,8117,FALSE,FALSE,America/Denver
+120,80425,39.34482,-105.22334,Buffalo Creek,CO,Colorado,TRUE,,157,1.3,8059,Jefferson,"{""08059"": ""100""}",Jefferson,8059,FALSE,FALSE,America/Denver
+121,80426,39.90844,-106.99145,Burns,CO,Colorado,TRUE,,38,0.1,8037,Eagle,"{""08037"": ""100"", ""08107"": ""0""}",Eagle|Routt,08037|08107,FALSE,FALSE,America/Denver
+122,80427,39.78026,-105.49498,Central City,CO,Colorado,TRUE,,720,19.1,8047,Gilpin,"{""08047"": ""100""}",Gilpin,8047,FALSE,FALSE,America/Denver
+123,80428,40.86096,-106.96086,Clark,CO,Colorado,TRUE,,670,0.8,8107,Routt,"{""08107"": ""100""}",Routt,8107,FALSE,FALSE,America/Denver
+124,80432,39.22871,-105.81904,Como,CO,Colorado,TRUE,,187,0.7,8093,Park,"{""08093"": ""100""}",Park,8093,FALSE,FALSE,America/Denver
+125,80433,39.48949,-105.27378,Conifer,CO,Colorado,TRUE,,8706,41,8059,Jefferson,"{""08059"": ""100""}",Jefferson,8059,FALSE,FALSE,America/Denver
+126,80434,40.85618,-106.29425,Cowdrey,CO,Colorado,TRUE,,42,0.6,8057,Jackson,"{""08057"": ""100""}",Jackson,8057,FALSE,FALSE,America/Denver
+127,80435,39.60145,-105.92428,Dillon,CO,Colorado,TRUE,,7665,28.5,8117,Summit,"{""08117"": ""100""}",Summit,8117,FALSE,FALSE,America/Denver
+128,80436,39.78748,-105.64738,Dumont,CO,Colorado,TRUE,,605,19,8019,Clear Creek,"{""08019"": ""100""}",Clear Creek,8019,FALSE,FALSE,America/Denver
+129,80438,39.76029,-105.78335,Empire,CO,Colorado,TRUE,,488,3.4,8019,Clear Creek,"{""08019"": ""100""}",Clear Creek,8019,FALSE,FALSE,America/Denver
+130,80439,39.6376,-105.43301,Evergreen,CO,Colorado,TRUE,,24959,54.5,8059,Jefferson,"{""08059"": ""84.58"", ""08019"": ""15.42""}",Jefferson|Clear Creek,08059|08019,FALSE,FALSE,America/Denver
+131,80440,39.22625,-105.97815,Fairplay,CO,Colorado,TRUE,,2537,3.7,8093,Park,"{""08093"": ""100""}",Park,8093,FALSE,FALSE,America/Denver
+132,80442,39.9348,-105.88144,Fraser,CO,Colorado,TRUE,,2229,12.2,8049,Grand,"{""08049"": ""100""}",Grand,8049,FALSE,FALSE,America/Denver
+133,80443,39.50537,-106.16294,Frisco,CO,Colorado,TRUE,,4483,16.6,8117,Summit,"{""08117"": ""100""}",Summit,8117,FALSE,FALSE,America/Denver
+134,80444,39.63095,-105.73747,Georgetown,CO,Colorado,TRUE,,1151,13.9,8019,Clear Creek,"{""08019"": ""100""}",Clear Creek,8019,FALSE,FALSE,America/Denver
+135,80446,40.17423,-105.95253,Granby,CO,Colorado,TRUE,,4257,5.5,8049,Grand,"{""08049"": ""100""}",Grand,8049,FALSE,FALSE,America/Denver
+136,80447,40.27251,-105.79681,Grand Lake,CO,Colorado,TRUE,,2328,3.8,8049,Grand,"{""08049"": ""100""}",Grand,8049,FALSE,FALSE,America/Denver
+137,80448,39.408,-105.63004,Grant,CO,Colorado,TRUE,,0,0,8093,Park,"{""08093"": ""100""}",Park,8093,FALSE,FALSE,America/Denver
+138,80449,38.98134,-105.85574,Hartsel,CO,Colorado,TRUE,,816,0.5,8093,Park,"{""08093"": ""99.56"", ""08015"": ""0.44""}",Park|Chaffee,08093|08015,FALSE,FALSE,America/Denver
+139,80451,40.09845,-106.07319,Hot Sulphur Springs,CO,Colorado,TRUE,,1031,5.8,8049,Grand,"{""08049"": ""100""}",Grand,8049,FALSE,FALSE,America/Denver
+140,80452,39.70716,-105.61389,Idaho Springs,CO,Colorado,TRUE,,3158,9.4,8019,Clear Creek,"{""08019"": ""100""}",Clear Creek,8019,FALSE,FALSE,America/Denver
+141,80453,39.66271,-105.24262,Idledale,CO,Colorado,TRUE,,104,99.2,8059,Jefferson,"{""08059"": ""100""}",Jefferson,8059,FALSE,FALSE,America/Denver
+142,80454,39.6295,-105.25135,Indian Hills,CO,Colorado,TRUE,,1361,123.1,8059,Jefferson,"{""08059"": ""100""}",Jefferson,8059,FALSE,FALSE,America/Denver
+143,80455,40.11342,-105.39226,Jamestown,CO,Colorado,TRUE,,391,4.3,8013,Boulder,"{""08013"": ""100""}",Boulder,8013,FALSE,FALSE,America/Denver
+144,80456,39.28408,-105.64459,Jefferson,CO,Colorado,TRUE,,640,1.1,8093,Park,"{""08093"": ""100""}",Park,8093,FALSE,FALSE,America/Denver
+145,80457,39.64839,-105.29099,Kittredge,CO,Colorado,TRUE,,192,48.2,8059,Jefferson,"{""08059"": ""100""}",Jefferson,8059,FALSE,FALSE,America/Denver
+146,80459,40.17599,-106.43491,Kremmling,CO,Colorado,TRUE,,2801,1.9,8049,Grand,"{""08049"": ""100""}",Grand,8049,FALSE,FALSE,America/Denver
+147,80461,39.23391,-106.31467,Leadville,CO,Colorado,TRUE,,7578,10.1,8065,Lake,"{""08065"": ""100""}",Lake,8065,FALSE,FALSE,America/Denver
+148,80463,39.97325,-106.73027,McCoy,CO,Colorado,TRUE,,158,0.5,8107,Routt,"{""08107"": ""52.21"", ""08037"": ""47.79""}",Routt|Eagle,08107|08037,FALSE,FALSE,America/Denver
+149,80465,39.60853,-105.20891,Morrison,CO,Colorado,TRUE,,16192,138.7,8059,Jefferson,"{""08059"": ""100""}",Jefferson,8059,FALSE,FALSE,America/Denver
+150,80466,39.97599,-105.53851,Nederland,CO,Colorado,TRUE,,3557,15.3,8013,Boulder,"{""08013"": ""100""}",Boulder,8013,FALSE,FALSE,America/Denver
+151,80467,40.25316,-106.86992,Oak Creek,CO,Colorado,TRUE,,2186,3.7,8107,Routt,"{""08107"": ""100""}",Routt,8107,FALSE,FALSE,America/Denver
+152,80468,39.94766,-106.11892,Parshall,CO,Colorado,TRUE,,397,0.4,8049,Grand,"{""08049"": ""100""}",Grand,8049,FALSE,FALSE,America/Denver
+153,80469,40.205,-106.96463,Phippsburg,CO,Colorado,TRUE,,380,2.9,8107,Routt,"{""08107"": ""100""}",Routt,8107,FALSE,FALSE,America/Denver
+154,80470,39.36775,-105.34356,Pine,CO,Colorado,TRUE,,3531,10.2,8059,Jefferson,"{""08059"": ""70.46"", ""08093"": ""29.54""}",Jefferson|Park,08059|08093,FALSE,FALSE,America/Denver
+155,80471,39.93527,-105.42114,Pinecliffe,CO,Colorado,TRUE,,0,0,8013,Boulder,"{""08013"": ""100""}",Boulder,8013,FALSE,FALSE,America/Denver
+156,80473,40.42501,-106.13465,Rand,CO,Colorado,TRUE,,6,0,8057,Jackson,"{""08057"": ""100""}",Jackson,8057,FALSE,FALSE,America/Denver
+157,80475,39.45201,-105.56006,Shawnee,CO,Colorado,TRUE,,0,0,8093,Park,"{""08093"": ""100""}",Park,8093,FALSE,FALSE,America/Denver
+158,80476,39.68542,-105.81121,Silver Plume,CO,Colorado,TRUE,,169,1.1,8019,Clear Creek,"{""08019"": ""100""}",Clear Creek,8019,FALSE,FALSE,America/Denver
+159,80477,40.48635,-106.82938,Steamboat Springs,CO,Colorado,TRUE,,78,1122,8107,Routt,"{""08107"": ""100""}",Routt,8107,FALSE,FALSE,America/Denver
+160,80478,40.02791,-105.84699,Tabernash,CO,Colorado,TRUE,,1329,12.3,8049,Grand,"{""08049"": ""100""}",Grand,8049,FALSE,FALSE,America/Denver
+161,80479,40.03184,-106.83314,Toponas,CO,Colorado,TRUE,,4,0,8107,Routt,"{""08107"": ""100""}",Routt,8107,FALSE,FALSE,America/Denver
+162,80480,40.67294,-106.35241,Walden,CO,Colorado,TRUE,,1213,0.3,8057,Jackson,"{""08057"": ""100""}",Jackson,8057,FALSE,FALSE,America/Denver
+163,80481,40.0896,-105.54587,Ward,CO,Colorado,TRUE,,426,2.3,8013,Boulder,"{""08013"": ""100""}",Boulder,8013,FALSE,FALSE,America/Denver
+164,80482,39.89395,-105.78447,Winter Park,CO,Colorado,TRUE,,831,2.5,8049,Grand,"{""08049"": ""100""}",Grand,8049,FALSE,FALSE,America/Denver
+165,80483,40.11979,-106.91774,Yampa,CO,Colorado,TRUE,,719,3.2,8107,Routt,"{""08107"": ""100""}",Routt,8107,FALSE,FALSE,America/Denver
+166,80487,40.548,-106.86711,Steamboat Springs,CO,Colorado,TRUE,,17971,9.5,8107,Routt,"{""08107"": ""100""}",Routt,8107,FALSE,FALSE,America/Denver
+167,80488,40.44905,-106.81812,Steamboat Springs,CO,Colorado,TRUE,,311,10798.6,8107,Routt,"{""08107"": ""100""}",Routt,8107,FALSE,FALSE,America/Denver
+168,80497,39.67079,-105.99996,Silverthorne,CO,Colorado,TRUE,,333,9.7,8117,Summit,"{""08117"": ""100""}",Summit,8117,FALSE,FALSE,America/Denver
+169,80498,39.77488,-106.22716,Silverthorne,CO,Colorado,TRUE,,7999,11.8,8117,Summit,"{""08117"": ""100""}",Summit,8117,FALSE,FALSE,America/Denver
+170,80501,40.16475,-105.10293,Longmont,CO,Colorado,TRUE,,42077,1312.2,8013,Boulder,"{""08013"": ""100""}",Boulder,8013,FALSE,FALSE,America/Denver
+171,80503,40.17005,-105.20362,Longmont,CO,Colorado,TRUE,,35453,150.3,8013,Boulder,"{""08013"": ""99.94"", ""08069"": ""0.06""}",Boulder|Larimer,08013|08069,FALSE,FALSE,America/Denver
+172,80504,40.16391,-105.0289,Longmont,CO,Colorado,TRUE,,55479,218.7,8013,Boulder,"{""08013"": ""59.68"", ""08123"": ""39.95"", ""08069"": ""0.37""}",Boulder|Weld|Larimer,08013|08123|08069,FALSE,FALSE,America/Denver
+173,80510,40.20871,-105.57862,Allenspark,CO,Colorado,TRUE,,288,1.7,8013,Boulder,"{""08013"": ""100""}",Boulder,8013,FALSE,FALSE,America/Denver
+174,80511,40.34002,-105.57227,Estes Park,CO,Colorado,TRUE,,154,557.5,8069,Larimer,"{""08069"": ""100""}",Larimer,8069,FALSE,FALSE,America/Denver
+175,80512,40.63401,-105.57322,Bellvue,CO,Colorado,TRUE,,1583,1.2,8069,Larimer,"{""08069"": ""100""}",Larimer,8069,FALSE,FALSE,America/Denver
+176,80513,40.29802,-105.10365,Berthoud,CO,Colorado,TRUE,,12924,75.9,8069,Larimer,"{""08069"": ""92.79"", ""08123"": ""7.21""}",Larimer|Weld,08069|08123,FALSE,FALSE,America/Denver
+177,80514,40.06592,-104.95832,Dacono,CO,Colorado,TRUE,,5488,314.4,8123,Weld,"{""08123"": ""100""}",Weld,8123,FALSE,FALSE,America/Denver
+178,80515,40.44443,-105.37528,Drake,CO,Colorado,TRUE,,957,6.1,8069,Larimer,"{""08069"": ""100""}",Larimer,8069,FALSE,FALSE,America/Denver
+179,80516,40.05124,-105.01837,Erie,CO,Colorado,TRUE,,28254,273.1,8123,Weld,"{""08123"": ""58.13"", ""08013"": ""41.54"", ""08014"": ""0.33""}",Weld|Boulder|Broomfield,08123|08013|08014,FALSE,FALSE,America/Denver
+180,80517,40.40027,-105.61164,Estes Park,CO,Colorado,TRUE,,10452,13.6,8069,Larimer,"{""08069"": ""100""}",Larimer,8069,FALSE,FALSE,America/Denver
+181,80520,40.11313,-104.93148,Firestone,CO,Colorado,TRUE,,1636,1567.4,8123,Weld,"{""08123"": ""100""}",Weld,8123,FALSE,FALSE,America/Denver
+182,80521,40.59325,-105.12777,Fort Collins,CO,Colorado,TRUE,,36729,999.1,8069,Larimer,"{""08069"": ""100""}",Larimer,8069,FALSE,FALSE,America/Denver
+183,80524,40.65295,-105.02629,Fort Collins,CO,Colorado,TRUE,,36497,111.4,8069,Larimer,"{""08069"": ""98.14"", ""08123"": ""1.86""}",Larimer|Weld,08069|08123,FALSE,FALSE,America/Denver
+184,80525,40.52921,-105.03706,Fort Collins,CO,Colorado,TRUE,,56425,896.3,8069,Larimer,"{""08069"": ""100""}",Larimer,8069,FALSE,FALSE,America/Denver
+185,80526,40.52425,-105.14003,Fort Collins,CO,Colorado,TRUE,,46271,468.1,8069,Larimer,"{""08069"": ""100""}",Larimer,8069,FALSE,FALSE,America/Denver
+186,80528,40.49615,-105.00023,Fort Collins,CO,Colorado,TRUE,,22641,460.9,8069,Larimer,"{""08069"": ""100""}",Larimer,8069,FALSE,FALSE,America/Denver
+187,80530,40.09779,-104.92927,Frederick,CO,Colorado,TRUE,,4718,959.3,8123,Weld,"{""08123"": ""100""}",Weld,8123,FALSE,FALSE,America/Denver
+188,80532,40.49323,-105.46868,Glen Haven,CO,Colorado,TRUE,,120,1.8,8069,Larimer,"{""08069"": ""100""}",Larimer,8069,FALSE,FALSE,America/Denver
+189,80534,40.332,-104.9354,Johnstown,CO,Colorado,TRUE,,17118,136.4,8123,Weld,"{""08123"": ""92.89"", ""08069"": ""7.11""}",Weld|Larimer,08123|08069,FALSE,FALSE,America/Denver
+190,80535,40.7334,-105.18355,Laporte,CO,Colorado,TRUE,,2596,22.6,8069,Larimer,"{""08069"": ""100""}",Larimer,8069,FALSE,FALSE,America/Denver
+191,80536,40.87003,-105.37666,Livermore,CO,Colorado,TRUE,,1894,2,8069,Larimer,"{""08069"": ""100""}",Larimer,8069,FALSE,FALSE,America/Denver
+192,80537,40.37543,-105.1829,Loveland,CO,Colorado,TRUE,,43583,158.8,8069,Larimer,"{""08069"": ""99.66"", ""08123"": ""0.34""}",Larimer|Weld,08069|08123,FALSE,FALSE,America/Denver
+193,80538,40.47885,-105.17397,Loveland,CO,Colorado,TRUE,,49258,176.1,8069,Larimer,"{""08069"": ""100""}",Larimer,8069,FALSE,FALSE,America/Denver
+194,80540,40.24191,-105.38334,Lyons,CO,Colorado,TRUE,,4576,11.2,8013,Boulder,"{""08013"": ""65.68"", ""08069"": ""34.32""}",Boulder|Larimer,08013|08069,FALSE,FALSE,America/Denver
+195,80542,40.23473,-104.99937,Mead,CO,Colorado,TRUE,,4918,211.8,8123,Weld,"{""08123"": ""100""}",Weld,8123,FALSE,FALSE,America/Denver
+196,80543,40.34565,-104.85143,Milliken,CO,Colorado,TRUE,,7344,89.9,8123,Weld,"{""08123"": ""100""}",Weld,8123,FALSE,FALSE,America/Denver
+197,80544,40.10345,-105.17108,Niwot,CO,Colorado,TRUE,,117,920.3,8013,Boulder,"{""08013"": ""100""}",Boulder,8013,FALSE,FALSE,America/Denver
+198,80545,40.86593,-105.68927,Red Feather Lakes,CO,Colorado,TRUE,,938,1.3,8069,Larimer,"{""08069"": ""100""}",Larimer,8069,FALSE,FALSE,America/Denver
+199,80546,40.52522,-104.8497,Severance,CO,Colorado,TRUE,,232,1170.1,8123,Weld,"{""08123"": ""100""}",Weld,8123,FALSE,FALSE,America/Denver
+200,80547,40.52499,-104.96359,Timnath,CO,Colorado,TRUE,,2574,325.5,8069,Larimer,"{""08069"": ""100""}",Larimer,8069,FALSE,FALSE,America/Denver
+201,80549,40.85312,-105.04552,Wellington,CO,Colorado,TRUE,,12135,22.9,8069,Larimer,"{""08069"": ""97.34"", ""08123"": ""2.66""}",Larimer|Weld,08069|08123,FALSE,FALSE,America/Denver
+202,80550,40.48095,-104.90024,Windsor,CO,Colorado,TRUE,,30519,221,8123,Weld,"{""08123"": ""86.83"", ""08069"": ""13.17""}",Weld|Larimer,08123|08069,FALSE,FALSE,America/Denver
+203,80601,39.96254,-104.80879,Brighton,CO,Colorado,TRUE,,40766,587.3,8001,Adams,"{""08001"": ""100""}",Adams,8001,FALSE,FALSE,America/Denver
+204,80602,39.96364,-104.90721,Brighton,CO,Colorado,TRUE,,36262,465.5,8001,Adams,"{""08001"": ""100""}",Adams,8001,FALSE,FALSE,America/Denver
+205,80603,39.98259,-104.73715,Brighton,CO,Colorado,TRUE,,13935,67,8123,Weld,"{""08123"": ""59.52"", ""08001"": ""40.48""}",Weld|Adams,08123|08001,FALSE,FALSE,America/Denver
+206,80610,40.66737,-104.59555,Ault,CO,Colorado,TRUE,,3410,7.8,8123,Weld,"{""08123"": ""100""}",Weld,8123,FALSE,FALSE,America/Denver
+207,80611,40.62306,-104.28168,Briggsdale,CO,Colorado,TRUE,,1181,1.2,8123,Weld,"{""08123"": ""100""}",Weld,8123,FALSE,FALSE,America/Denver
+208,80612,40.8798,-104.86665,Carr,CO,Colorado,TRUE,,315,0.7,8123,Weld,"{""08123"": ""74.19"", ""08069"": ""25.81""}",Weld|Larimer,08123|08069,FALSE,FALSE,America/Denver
+209,80615,40.54556,-104.64418,Eaton,CO,Colorado,TRUE,,8291,30.4,8123,Weld,"{""08123"": ""100""}",Weld,8123,FALSE,FALSE,America/Denver
+210,80620,40.37451,-104.71701,Evans,CO,Colorado,TRUE,,19622,1147.5,8123,Weld,"{""08123"": ""100""}",Weld,8123,FALSE,FALSE,America/Denver
+211,80621,40.10796,-104.80121,Fort Lupton,CO,Colorado,TRUE,,12762,38.7,8123,Weld,"{""08123"": ""100""}",Weld,8123,FALSE,FALSE,America/Denver
+212,80622,40.53776,-104.4585,Galeton,CO,Colorado,TRUE,,170,5,8123,Weld,"{""08123"": ""100""}",Weld,8123,FALSE,FALSE,America/Denver
+213,80623,40.28536,-104.78252,Gilcrest,CO,Colorado,TRUE,,938,544.7,8123,Weld,"{""08123"": ""100""}",Weld,8123,FALSE,FALSE,America/Denver
+214,80624,40.48537,-104.49928,Gill,CO,Colorado,TRUE,,1132,13.9,8123,Weld,"{""08123"": ""100""}",Weld,8123,FALSE,FALSE,America/Denver
+215,80631,40.44141,-104.6763,Greeley,CO,Colorado,TRUE,,55872,210.6,8123,Weld,"{""08123"": ""100""}",Weld,8123,FALSE,FALSE,America/Denver
+216,80634,40.40277,-104.7925,Greeley,CO,Colorado,TRUE,,59702,618.7,8123,Weld,"{""08123"": ""100""}",Weld,8123,FALSE,FALSE,America/Denver
+217,80640,39.88544,-104.88215,Henderson,CO,Colorado,TRUE,,12991,395.1,8001,Adams,"{""08001"": ""100""}",Adams,8001,FALSE,FALSE,America/Denver
+218,80642,40.04671,-104.61521,Hudson,CO,Colorado,TRUE,,5468,22.2,8123,Weld,"{""08123"": ""79.04"", ""08001"": ""20.96""}",Weld|Adams,08123|08001,FALSE,FALSE,America/Denver
+219,80643,40.11396,-104.47712,Keenesburg,CO,Colorado,TRUE,,3947,7.3,8123,Weld,"{""08123"": ""87.51"", ""08001"": ""12.49""}",Weld|Adams,08123|08001,FALSE,FALSE,America/Denver
+220,80644,40.37751,-104.43846,Kersey,CO,Colorado,TRUE,,3121,7.6,8123,Weld,"{""08123"": ""100""}",Weld,8123,FALSE,FALSE,America/Denver
+221,80645,40.28354,-104.58073,La Salle,CO,Colorado,TRUE,,4996,14.3,8123,Weld,"{""08123"": ""100""}",Weld,8123,FALSE,FALSE,America/Denver
+222,80648,40.75506,-104.7396,Nunn,CO,Colorado,TRUE,,1495,3.8,8123,Weld,"{""08123"": ""100""}",Weld,8123,FALSE,FALSE,America/Denver
+223,80649,40.37925,-104.17672,Orchard,CO,Colorado,TRUE,,358,0.8,8087,Morgan,"{""08087"": ""58.86"", ""08123"": ""41.14""}",Morgan|Weld,08087|08123,FALSE,FALSE,America/Denver
+224,80650,40.64655,-104.7798,Pierce,CO,Colorado,TRUE,,1508,11.5,8123,Weld,"{""08123"": ""100""}",Weld,8123,FALSE,FALSE,America/Denver
+225,80651,40.23685,-104.81557,Platteville,CO,Colorado,TRUE,,4284,17.4,8123,Weld,"{""08123"": ""100""}",Weld,8123,FALSE,FALSE,America/Denver
+226,80652,40.11123,-104.28012,Roggen,CO,Colorado,TRUE,,584,1.2,8123,Weld,"{""08123"": ""100""}",Weld,8123,FALSE,FALSE,America/Denver
+227,80653,40.38844,-103.97814,Weldona,CO,Colorado,TRUE,,774,2.4,8087,Morgan,"{""08087"": ""100""}",Morgan,8087,FALSE,FALSE,America/Denver
+228,80654,40.13618,-104.07484,Wiggins,CO,Colorado,TRUE,,2668,4.5,8087,Morgan,"{""08087"": ""98.13"", ""08001"": ""1.27"", ""08123"": ""0.59""}",Morgan|Adams|Weld,08087|08001|08123,FALSE,FALSE,America/Denver
+229,80701,40.16995,-103.82645,Fort Morgan,CO,Colorado,TRUE,,15858,10.1,8087,Morgan,"{""08087"": ""99.67"", ""08001"": ""0.33""}",Morgan|Adams,08087|08001,FALSE,FALSE,America/Denver
+230,80705,40.27024,-103.82927,Log Lane Village,CO,Colorado,TRUE,,1276,1812.1,8087,Morgan,"{""08087"": ""100""}",Morgan,8087,FALSE,FALSE,America/Denver
+231,80720,40.0821,-103.21274,Akron,CO,Colorado,TRUE,,2725,1.1,8121,Washington,"{""08121"": ""100""}",Washington,8121,FALSE,FALSE,America/Denver
+232,80721,40.68965,-102.15394,Amherst,CO,Colorado,TRUE,,264,1.2,8095,Phillips,"{""08095"": ""100""}",Phillips,8095,FALSE,FALSE,America/Denver
+233,80722,40.5082,-103.27497,Atwood,CO,Colorado,TRUE,,419,4.7,8075,Logan,"{""08075"": ""100""}",Logan,8075,FALSE,FALSE,America/Denver
+234,80723,40.15002,-103.57075,Brush,CO,Colorado,TRUE,,7180,9.5,8087,Morgan,"{""08087"": ""99.85"", ""08121"": ""0.15""}",Morgan|Washington,08087|08121,FALSE,FALSE,America/Denver
+235,80726,40.90626,-102.79085,Crook,CO,Colorado,TRUE,,541,1.3,8075,Logan,"{""08075"": ""100""}",Logan,8075,FALSE,FALSE,America/Denver
+236,80727,40.06044,-102.5039,Eckley,CO,Colorado,TRUE,,552,1,8125,Yuma,"{""08125"": ""100""}",Yuma,8125,FALSE,FALSE,America/Denver
+237,80728,40.64497,-102.87388,Fleming,CO,Colorado,TRUE,,1060,1.1,8075,Logan,"{""08075"": ""100""}",Logan,8075,FALSE,FALSE,America/Denver
+238,80729,40.87932,-104.26502,Grover,CO,Colorado,TRUE,,682,0.4,8123,Weld,"{""08123"": ""100""}",Weld,8123,FALSE,FALSE,America/Denver
+239,80731,40.59618,-102.60413,Haxtun,CO,Colorado,TRUE,,1233,1.3,8095,Phillips,"{""08095"": ""88.35"", ""08075"": ""9.37"", ""08125"": ""1.41"", ""08115"": ""0.87""}",Phillips|Logan|Yuma|Sedgwick,08095|08075|08125|08115,FALSE,FALSE,America/Denver
+240,80733,40.3707,-103.45197,Hillrose,CO,Colorado,TRUE,,496,6.1,8087,Morgan,"{""08087"": ""75.61"", ""08121"": ""24.39""}",Morgan|Washington,08087|08121,FALSE,FALSE,America/Denver
+241,80734,40.51933,-102.29363,Holyoke,CO,Colorado,TRUE,,3044,2.4,8095,Phillips,"{""08095"": ""96.52"", ""08125"": ""3.48""}",Phillips|Yuma,08095|08125,FALSE,FALSE,America/Denver
+242,80735,39.71567,-102.27253,Idalia,CO,Colorado,TRUE,,421,0.6,8125,Yuma,"{""08125"": ""100""}",Yuma,8125,FALSE,FALSE,America/Denver
+243,80736,40.81135,-103.03547,Iliff,CO,Colorado,TRUE,,524,1.8,8075,Logan,"{""08075"": ""100""}",Logan,8075,FALSE,FALSE,America/Denver
+244,80737,40.87971,-102.18508,Julesburg,CO,Colorado,TRUE,,1679,2.7,8115,Sedgwick,"{""08115"": ""100""}",Sedgwick,8115,FALSE,FALSE,America/Denver
+245,80740,39.73604,-103.38471,Lindon,CO,Colorado,TRUE,,103,0.2,8121,Washington,"{""08121"": ""100""}",Washington,8121,FALSE,FALSE,America/Denver
+246,80741,40.57082,-103.4719,Merino,CO,Colorado,TRUE,,897,1.5,8075,Logan,"{""08075"": ""89.63"", ""08121"": ""7.81"", ""08087"": ""2.57""}",Logan|Washington|Morgan,08075|08121|08087,FALSE,FALSE,America/Denver
+247,80742,40.74922,-103.82828,New Raymer,CO,Colorado,TRUE,,207,0.2,8123,Weld,"{""08123"": ""100""}",Weld,8123,FALSE,FALSE,America/Denver
+248,80743,40.20086,-102.95113,Otis,CO,Colorado,TRUE,,1137,0.9,8121,Washington,"{""08121"": ""100""}",Washington,8121,FALSE,FALSE,America/Denver
+249,80744,40.87797,-102.39011,Ovid,CO,Colorado,TRUE,,410,1.2,8115,Sedgwick,"{""08115"": ""100""}",Sedgwick,8115,FALSE,FALSE,America/Denver
+250,80745,40.90155,-103.39715,Padroni,CO,Colorado,TRUE,,243,0.4,8075,Logan,"{""08075"": ""100""}",Logan,8075,FALSE,FALSE,America/Denver
+251,80746,40.60957,-102.46604,Paoli,CO,Colorado,TRUE,,75,112,8095,Phillips,"{""08095"": ""100""}",Phillips,8095,FALSE,FALSE,America/Denver
+252,80747,40.94168,-103.09136,Peetz,CO,Colorado,TRUE,,357,0.8,8075,Logan,"{""08075"": ""100""}",Logan,8075,FALSE,FALSE,America/Denver
+253,80749,40.87489,-102.55734,Sedgwick,CO,Colorado,TRUE,,233,0.5,8115,Sedgwick,"{""08115"": ""100""}",Sedgwick,8115,FALSE,FALSE,America/Denver
+254,80750,40.41084,-103.60404,Snyder,CO,Colorado,TRUE,,261,0.8,8087,Morgan,"{""08087"": ""100""}",Morgan,8087,FALSE,FALSE,America/Denver
+255,80751,40.6371,-103.23146,Sterling,CO,Colorado,TRUE,,18318,15.1,8075,Logan,"{""08075"": ""100""}",Logan,8075,FALSE,FALSE,America/Denver
+256,80754,40.72065,-103.66402,Stoneham,CO,Colorado,TRUE,,189,0.3,8123,Weld,"{""08123"": ""100""}",Weld,8123,FALSE,FALSE,America/Denver
+257,80755,39.90933,-102.35404,Vernon,CO,Colorado,TRUE,,101,0.4,8125,Yuma,"{""08125"": ""100""}",Yuma,8125,FALSE,FALSE,America/Denver
+258,80757,39.79174,-103.58259,Woodrow,CO,Colorado,TRUE,,194,0.2,8121,Washington,"{""08121"": ""100""}",Washington,8121,FALSE,FALSE,America/Denver
+259,80758,40.11401,-102.20089,Wray,CO,Colorado,TRUE,,3657,2,8125,Yuma,"{""08125"": ""99.89"", ""31057"": ""0.11""}",Yuma|Dundy,08125|31057,FALSE,FALSE,America/Denver
+260,80759,40.13526,-102.68387,Yuma,CO,Colorado,TRUE,,4638,2.8,8125,Yuma,"{""08125"": ""98.51"", ""08121"": ""1.49""}",Yuma|Washington,08125|08121,FALSE,FALSE,America/Denver
+261,80801,39.73261,-103.10732,Anton,CO,Colorado,TRUE,,140,0.3,8121,Washington,"{""08121"": ""100""}",Washington,8121,FALSE,FALSE,America/Denver
+262,80802,38.8422,-102.17357,Arapahoe,CO,Colorado,TRUE,,268,0.3,8017,Cheyenne,"{""08017"": ""100""}",Cheyenne,8017,FALSE,FALSE,America/Denver
+263,80804,39.35189,-103.26141,Arriba,CO,Colorado,TRUE,,287,0.3,8073,Lincoln,"{""08073"": ""100""}",Lincoln,8073,FALSE,FALSE,America/Denver
+264,80805,39.31229,-102.44174,Bethune,CO,Colorado,TRUE,,437,1,8063,Kit Carson,"{""08063"": ""100""}",Kit Carson,8063,FALSE,FALSE,America/Denver
+265,80807,39.31882,-102.22605,Burlington,CO,Colorado,TRUE,,4576,2.4,8063,Kit Carson,"{""08063"": ""99.3"", ""08125"": ""0.7""}",Kit Carson|Yuma,08063|08125,FALSE,FALSE,America/Denver
+266,80808,38.99193,-104.30271,Calhan,CO,Colorado,TRUE,,5873,6.4,8041,El Paso,"{""08041"": ""96.65"", ""08039"": ""3.35""}",El Paso|Elbert,08041|08039,FALSE,FALSE,America/Denver
+267,80809,38.86842,-104.99695,Cascade,CO,Colorado,TRUE,,1102,8.4,8041,El Paso,"{""08041"": ""100""}",El Paso,8041,FALSE,FALSE,America/Denver
+268,80810,38.82309,-102.45986,Cheyenne Wells,CO,Colorado,TRUE,,1241,0.9,8017,Cheyenne,"{""08017"": ""100""}",Cheyenne,8017,FALSE,FALSE,America/Denver
+269,80812,39.68252,-102.89282,Cope,CO,Colorado,TRUE,,251,0.7,8121,Washington,"{""08121"": ""100""}",Washington,8121,FALSE,FALSE,America/Denver
+270,80813,38.76765,-105.0998,Cripple Creek,CO,Colorado,TRUE,,1411,4.9,8119,Teller,"{""08119"": ""100""}",Teller,8119,FALSE,FALSE,America/Denver
+271,80814,38.95729,-105.18037,Divide,CO,Colorado,TRUE,,3570,14,8119,Teller,"{""08119"": ""100""}",Teller,8119,FALSE,FALSE,America/Denver
+272,80815,39.39199,-103.0784,Flagler,CO,Colorado,TRUE,,784,0.6,8063,Kit Carson,"{""08063"": ""90.01"", ""08121"": ""9.99""}",Kit Carson|Washington,08063|08121,FALSE,FALSE,America/Denver
+273,80816,38.85459,-105.31204,Florissant,CO,Colorado,TRUE,,6371,13.3,8119,Teller,"{""08119"": ""91.24"", ""08093"": ""8.76""}",Teller|Park,08119|08093,FALSE,FALSE,America/Denver
+274,80817,38.63281,-104.68173,Fountain,CO,Colorado,TRUE,,30635,187.4,8041,El Paso,"{""08041"": ""100""}",El Paso,8041,FALSE,FALSE,America/Denver
+275,80818,39.3962,-103.47462,Genoa,CO,Colorado,TRUE,,412,0.6,8073,Lincoln,"{""08073"": ""95.34"", ""08121"": ""4.66""}",Lincoln|Washington,08073|08121,FALSE,FALSE,America/Denver
+276,80819,38.96088,-105.01371,Green Mountain Falls,CO,Colorado,TRUE,,784,36.6,8041,El Paso,"{""08041"": ""96.96"", ""08119"": ""3.04""}",El Paso|Teller,08041|08119,FALSE,FALSE,America/Denver
+277,80820,38.78833,-105.57777,Guffey,CO,Colorado,TRUE,,882,1.2,8093,Park,"{""08093"": ""100""}",Park,8093,FALSE,FALSE,America/Denver
+278,80821,38.96192,-103.40969,Hugo,CO,Colorado,TRUE,,1101,0.5,8073,Lincoln,"{""08073"": ""98.35"", ""08017"": ""1.65""}",Lincoln|Cheyenne,08073|08017,FALSE,FALSE,America/Denver
+279,80822,39.70975,-102.67257,Joes,CO,Colorado,TRUE,,243,0.4,8125,Yuma,"{""08125"": ""100""}",Yuma,8125,FALSE,FALSE,America/Denver
+280,80823,38.65557,-103.41512,Karval,CO,Colorado,TRUE,,198,0.2,8073,Lincoln,"{""08073"": ""100""}",Lincoln,8073,FALSE,FALSE,America/Denver
+281,80824,39.64665,-102.51712,Kirk,CO,Colorado,TRUE,,203,0.7,8125,Yuma,"{""08125"": ""100""}",Yuma,8125,FALSE,FALSE,America/Denver
+282,80825,38.80022,-102.84916,Kit Carson,CO,Colorado,TRUE,,461,0.3,8017,Cheyenne,"{""08017"": ""100""}",Cheyenne,8017,FALSE,FALSE,America/Denver
+283,80827,39.06015,-105.46815,Lake George,CO,Colorado,TRUE,,696,1.1,8093,Park,"{""08093"": ""69.03"", ""08119"": ""30.97""}",Park|Teller,08093|08119,FALSE,FALSE,America/Denver
+284,80828,39.34789,-103.72898,Limon,CO,Colorado,TRUE,,3605,2.6,8073,Lincoln,"{""08073"": ""94.46"", ""08039"": ""5.54""}",Lincoln|Elbert,08073|08039,FALSE,FALSE,America/Denver
+285,80829,38.82807,-104.9358,Manitou Springs,CO,Colorado,TRUE,,6138,109.9,8041,El Paso,"{""08041"": ""100""}",El Paso,8041,FALSE,FALSE,America/Denver
+286,80830,39.12083,-103.89061,Matheson,CO,Colorado,TRUE,,189,0.3,8039,Elbert,"{""08039"": ""100""}",Elbert,8039,FALSE,FALSE,America/Denver
+287,80831,38.99667,-104.50606,Peyton,CO,Colorado,TRUE,,25525,51.9,8041,El Paso,"{""08041"": ""99.53"", ""08039"": ""0.47""}",El Paso|Elbert,08041|08039,FALSE,FALSE,America/Denver
+288,80832,39.01344,-104.00738,Ramah,CO,Colorado,TRUE,,732,1.2,8041,El Paso,"{""08041"": ""71.32"", ""08039"": ""27.78"", ""08073"": ""0.9""}",El Paso|Elbert|Lincoln,08041|08039|08073,FALSE,FALSE,America/Denver
+289,80833,38.74026,-103.93414,Rush,CO,Colorado,TRUE,,686,0.6,8041,El Paso,"{""08041"": ""53.18"", ""08073"": ""43.5"", ""08039"": ""3.32""}",El Paso|Lincoln|Elbert,08041|08073|08039,FALSE,FALSE,America/Denver
+290,80834,39.28407,-102.88035,Seibert,CO,Colorado,TRUE,,284,0.4,8063,Kit Carson,"{""08063"": ""100""}",Kit Carson,8063,FALSE,FALSE,America/Denver
+291,80835,39.20787,-104.07995,Simla,CO,Colorado,TRUE,,971,2.6,8039,Elbert,"{""08039"": ""100""}",Elbert,8039,FALSE,FALSE,America/Denver
+292,80836,39.29659,-102.58246,Stratton,CO,Colorado,TRUE,,1157,1.2,8063,Kit Carson,"{""08063"": ""100""}",Kit Carson,8063,FALSE,FALSE,America/Denver
+293,80840,38.99467,-104.85708,Usaf Academy,CO,Colorado,TRUE,,6512,87,8041,El Paso,"{""08041"": ""100""}",El Paso,8041,FALSE,FALSE,America/Denver
+294,80860,38.6911,-105.08655,Victor,CO,Colorado,TRUE,,566,2.9,8119,Teller,"{""08119"": ""100""}",Teller,8119,FALSE,FALSE,America/Denver
+295,80861,39.34267,-102.7407,Vona,CO,Colorado,TRUE,,288,0.4,8063,Kit Carson,"{""08063"": ""100""}",Kit Carson,8063,FALSE,FALSE,America/Denver
+296,80862,38.88625,-103.06084,Wild Horse,CO,Colorado,TRUE,,48,0.1,8017,Cheyenne,"{""08017"": ""100""}",Cheyenne,8017,FALSE,FALSE,America/Denver
+297,80863,39.02833,-105.10805,Woodland Park,CO,Colorado,TRUE,,13034,40.6,8119,Teller,"{""08119"": ""100""}",Teller,8119,FALSE,FALSE,America/Denver
+298,80864,38.69775,-104.18675,Yoder,CO,Colorado,TRUE,,1489,2.3,8041,El Paso,"{""08041"": ""100""}",El Paso,8041,FALSE,FALSE,America/Denver
+299,80902,38.68317,-104.80786,Colorado Springs,CO,Colorado,TRUE,,12443,335,8041,El Paso,"{""08041"": ""100""}",El Paso,8041,FALSE,FALSE,America/Denver
+300,80903,38.83137,-104.81523,Colorado Springs,CO,Colorado,TRUE,,16248,1296.9,8041,El Paso,"{""08041"": ""100""}",El Paso,8041,FALSE,FALSE,America/Denver
+301,80904,38.86059,-104.87195,Colorado Springs,CO,Colorado,TRUE,,20168,816.9,8041,El Paso,"{""08041"": ""100""}",El Paso,8041,FALSE,FALSE,America/Denver
+302,80905,38.81785,-104.83682,Colorado Springs,CO,Colorado,TRUE,,16237,1263.9,8041,El Paso,"{""08041"": ""100""}",El Paso,8041,FALSE,FALSE,America/Denver
+303,80906,38.76566,-104.8716,Colorado Springs,CO,Colorado,TRUE,,37608,311.2,8041,El Paso,"{""08041"": ""100""}",El Paso,8041,FALSE,FALSE,America/Denver
+304,80907,38.87828,-104.82742,Colorado Springs,CO,Colorado,TRUE,,29247,1142,8041,El Paso,"{""08041"": ""100""}",El Paso,8041,FALSE,FALSE,America/Denver
+305,80908,39.04771,-104.68949,Colorado Springs,CO,Colorado,TRUE,,18505,74.9,8041,El Paso,"{""08041"": ""100""}",El Paso,8041,FALSE,FALSE,America/Denver
+306,80909,38.85269,-104.77573,Colorado Springs,CO,Colorado,TRUE,,38382,1769,8041,El Paso,"{""08041"": ""100""}",El Paso,8041,FALSE,FALSE,America/Denver
+307,80910,38.81252,-104.77433,Colorado Springs,CO,Colorado,TRUE,,31445,2098.3,8041,El Paso,"{""08041"": ""100""}",El Paso,8041,FALSE,FALSE,America/Denver
+308,80911,38.75329,-104.72211,Colorado Springs,CO,Colorado,TRUE,,36255,1159.1,8041,El Paso,"{""08041"": ""100""}",El Paso,8041,FALSE,FALSE,America/Denver
+309,80913,38.70279,-104.77236,Colorado Springs,CO,Colorado,TRUE,,3728,54.6,8041,El Paso,"{""08041"": ""100""}",El Paso,8041,FALSE,FALSE,America/Denver
+310,80914,38.82397,-104.70425,Colorado Springs,CO,Colorado,TRUE,,455,250.8,8041,El Paso,"{""08041"": ""100""}",El Paso,8041,FALSE,FALSE,America/Denver
+311,80915,38.85232,-104.7158,Colorado Springs,CO,Colorado,TRUE,,21548,1069,8041,El Paso,"{""08041"": ""100""}",El Paso,8041,FALSE,FALSE,America/Denver
+312,80916,38.8052,-104.71311,Colorado Springs,CO,Colorado,TRUE,,41018,921.7,8041,El Paso,"{""08041"": ""100""}",El Paso,8041,FALSE,FALSE,America/Denver
+313,80917,38.88606,-104.74543,Colorado Springs,CO,Colorado,TRUE,,31056,1839.1,8041,El Paso,"{""08041"": ""100""}",El Paso,8041,FALSE,FALSE,America/Denver
+314,80918,38.91153,-104.78022,Colorado Springs,CO,Colorado,TRUE,,48965,1578.2,8041,El Paso,"{""08041"": ""100""}",El Paso,8041,FALSE,FALSE,America/Denver
+315,80919,38.92713,-104.85417,Colorado Springs,CO,Colorado,TRUE,,28039,753.6,8041,El Paso,"{""08041"": ""100""}",El Paso,8041,FALSE,FALSE,America/Denver
+316,80920,38.95757,-104.77078,Colorado Springs,CO,Colorado,TRUE,,40016,1222.7,8041,El Paso,"{""08041"": ""100""}",El Paso,8041,FALSE,FALSE,America/Denver
+317,80921,39.0056,-104.91017,Colorado Springs,CO,Colorado,TRUE,,24087,106.9,8041,El Paso,"{""08041"": ""100""}",El Paso,8041,FALSE,FALSE,America/Denver
+318,80922,38.89066,-104.70059,Colorado Springs,CO,Colorado,TRUE,,29417,1898.1,8041,El Paso,"{""08041"": ""100""}",El Paso,8041,FALSE,FALSE,America/Denver
+319,80923,38.92694,-104.71472,Colorado Springs,CO,Colorado,TRUE,,30283,1710.3,8041,El Paso,"{""08041"": ""100""}",El Paso,8041,FALSE,FALSE,America/Denver
+320,80924,38.96751,-104.7211,Colorado Springs,CO,Colorado,TRUE,,10138,717.8,8041,El Paso,"{""08041"": ""100""}",El Paso,8041,FALSE,FALSE,America/Denver
+321,80925,38.7507,-104.65042,Colorado Springs,CO,Colorado,TRUE,,12342,201.7,8041,El Paso,"{""08041"": ""100""}",El Paso,8041,FALSE,FALSE,America/Denver
+322,80926,38.64579,-104.91865,Colorado Springs,CO,Colorado,TRUE,,1628,9.7,8041,El Paso,"{""08041"": ""94.73"", ""08043"": ""5.27""}",El Paso|Fremont,08041|08043,FALSE,FALSE,America/Denver
+323,80927,38.92862,-104.65804,Colorado Springs,CO,Colorado,TRUE,,4905,432.6,8041,El Paso,"{""08041"": ""100""}",El Paso,8041,FALSE,FALSE,America/Denver
+324,80928,38.64912,-104.452,Colorado Springs,CO,Colorado,TRUE,,1268,1.5,8041,El Paso,"{""08041"": ""100""}",El Paso,8041,FALSE,FALSE,America/Denver
+325,80929,38.82464,-104.62694,Colorado Springs,CO,Colorado,TRUE,,97,1.7,8041,El Paso,"{""08041"": ""100""}",El Paso,8041,FALSE,FALSE,America/Denver
+326,80930,38.81433,-104.50237,Colorado Springs,CO,Colorado,TRUE,,1928,20.5,8041,El Paso,"{""08041"": ""100""}",El Paso,8041,FALSE,FALSE,America/Denver
+327,80938,38.90481,-104.66327,Colorado Springs,CO,Colorado,TRUE,,100,11.6,8041,El Paso,"{""08041"": ""100""}",El Paso,8041,FALSE,FALSE,America/Denver
+328,80939,38.87791,-104.67732,Colorado Springs,CO,Colorado,TRUE,,0,0,8041,El Paso,"{""08041"": ""0""}",El Paso,8041,FALSE,FALSE,America/Denver
+329,80951,38.8881,-104.65566,Colorado Springs,CO,Colorado,TRUE,,4456,369.6,8041,El Paso,"{""08041"": ""100""}",El Paso,8041,FALSE,FALSE,America/Denver
+330,81001,38.29452,-104.53378,Pueblo,CO,Colorado,TRUE,,30169,334.3,8101,Pueblo,"{""08101"": ""100""}",Pueblo,8101,FALSE,FALSE,America/Denver
+331,81003,38.27927,-104.63144,Pueblo,CO,Colorado,TRUE,,14797,711.1,8101,Pueblo,"{""08101"": ""100""}",Pueblo,8101,FALSE,FALSE,America/Denver
+332,81004,38.04123,-104.71645,Pueblo,CO,Colorado,TRUE,,26581,63,8101,Pueblo,"{""08101"": ""100""}",Pueblo,8101,FALSE,FALSE,America/Denver
+333,81005,38.19777,-104.84172,Pueblo,CO,Colorado,TRUE,,31963,53.6,8101,Pueblo,"{""08101"": ""100""}",Pueblo,8101,FALSE,FALSE,America/Denver
+334,81006,38.23049,-104.50446,Pueblo,CO,Colorado,TRUE,,12081,82.2,8101,Pueblo,"{""08101"": ""100""}",Pueblo,8101,FALSE,FALSE,America/Denver
+335,81007,38.3551,-104.77787,Pueblo,CO,Colorado,TRUE,,31849,83.1,8101,Pueblo,"{""08101"": ""100""}",Pueblo,8101,FALSE,FALSE,America/Denver
+336,81008,38.43687,-104.61754,Pueblo,CO,Colorado,TRUE,,11632,33.5,8101,Pueblo,"{""08101"": ""99.28"", ""08041"": ""0.72""}",Pueblo|El Paso,08101|08041,FALSE,FALSE,America/Denver
+337,81019,37.94406,-104.84116,Colorado City,CO,Colorado,TRUE,,1674,65.1,8101,Pueblo,"{""08101"": ""100""}",Pueblo,8101,FALSE,FALSE,America/Denver
+338,81020,37.53092,-104.52319,Aguilar,CO,Colorado,TRUE,,902,0.6,8071,Las Animas,"{""08071"": ""100""}",Las Animas,8071,FALSE,FALSE,America/Denver
+339,81021,38.37715,-103.37273,Arlington,CO,Colorado,TRUE,,44,0.1,8061,Kiowa,"{""08061"": ""100""}",Kiowa,8061,FALSE,FALSE,America/Denver
+340,81022,38.04424,-104.4323,Avondale,CO,Colorado,TRUE,,1624,1.5,8101,Pueblo,"{""08101"": ""100""}",Pueblo,8101,FALSE,FALSE,America/Denver
+341,81023,38.06292,-104.95109,Beulah,CO,Colorado,TRUE,,1345,4.1,8101,Pueblo,"{""08101"": ""100""}",Pueblo,8101,FALSE,FALSE,America/Denver
+342,81024,37.24935,-104.73478,Boncarbo,CO,Colorado,TRUE,,231,2.1,8071,Las Animas,"{""08071"": ""100""}",Las Animas,8071,FALSE,FALSE,America/Denver
+343,81025,38.35828,-104.26799,Boone,CO,Colorado,TRUE,,741,0.5,8101,Pueblo,"{""08101"": ""100""}",Pueblo,8101,FALSE,FALSE,America/Denver
+344,81027,37.18946,-103.79991,Branson,CO,Colorado,TRUE,,169,0.1,8071,Las Animas,"{""08071"": ""100""}",Las Animas,8071,FALSE,FALSE,America/Denver
+345,81029,37.08496,-102.48255,Campo,CO,Colorado,TRUE,,314,0.2,8009,Baca,"{""08009"": ""100""}",Baca,8009,FALSE,FALSE,America/Denver
+346,81030,38.10257,-103.51925,Cheraw,CO,Colorado,TRUE,,161,164.9,8089,Otero,"{""08089"": ""100""}",Otero,8089,FALSE,FALSE,America/Denver
+347,81033,38.19488,-103.86133,Crowley,CO,Colorado,TRUE,,195,232.7,8025,Crowley,"{""08025"": ""100""}",Crowley,8025,FALSE,FALSE,America/Denver
+348,81036,38.42386,-102.78361,Eads,CO,Colorado,TRUE,,1081,0.6,8061,Kiowa,"{""08061"": ""100""}",Kiowa,8061,FALSE,FALSE,America/Denver
+349,81038,38.07927,-103.14042,Fort Lyon,CO,Colorado,TRUE,,0,0,8011,Bent,"{""08011"": ""100""}",Bent,8011,FALSE,FALSE,America/Denver
+350,81039,37.94067,-104.08167,Fowler,CO,Colorado,TRUE,,1642,1.1,8089,Otero,"{""08089"": ""87.34"", ""08101"": ""10.13"", ""08025"": ""2.53""}",Otero|Pueblo|Crowley,08089|08101|08025,FALSE,FALSE,America/Denver
+351,81040,37.78545,-105.2308,Gardner,CO,Colorado,TRUE,,295,0.2,8055,Huerfano,"{""08055"": ""100""}",Huerfano,8055,FALSE,FALSE,America/Denver
+352,81041,37.875,-102.38286,Granada,CO,Colorado,TRUE,,811,0.7,8099,Prowers,"{""08099"": ""100""}",Prowers,8099,FALSE,FALSE,America/Denver
+353,81043,38.13096,-102.22089,Hartman,CO,Colorado,TRUE,,49,13.1,8099,Prowers,"{""08099"": ""100""}",Prowers,8099,FALSE,FALSE,America/Denver
+354,81044,37.90138,-102.93284,Hasty,CO,Colorado,TRUE,,311,0.4,8011,Bent,"{""08011"": ""100""}",Bent,8011,FALSE,FALSE,America/Denver
+355,81045,38.47641,-103.16212,Haswell,CO,Colorado,TRUE,,51,0.1,8061,Kiowa,"{""08061"": ""100""}",Kiowa,8061,FALSE,FALSE,America/Denver
+356,81047,38.01784,-102.19576,Holly,CO,Colorado,TRUE,,1473,1,8099,Prowers,"{""08099"": ""100""}",Prowers,8099,FALSE,FALSE,America/Denver
+357,81049,37.33993,-103.37719,Kim,CO,Colorado,TRUE,,240,0.1,8071,Las Animas,"{""08071"": ""100""}",Las Animas,8071,FALSE,FALSE,America/Denver
+358,81050,37.94029,-103.50553,La Junta,CO,Colorado,TRUE,,9310,6.7,8089,Otero,"{""08089"": ""99.84"", ""08011"": ""0.16""}",Otero|Bent,08089|08011,FALSE,FALSE,America/Denver
+359,81052,37.92617,-102.65974,Lamar,CO,Colorado,TRUE,,9028,5.3,8099,Prowers,"{""08099"": ""99.35"", ""08011"": ""0.65""}",Prowers|Bent,08099|08011,FALSE,FALSE,America/Denver
+360,81054,37.93472,-103.16646,Las Animas,CO,Colorado,TRUE,,4904,2,8011,Bent,"{""08011"": ""99.67"", ""08009"": ""0.33""}",Bent|Baca,08011|08009,FALSE,FALSE,America/Denver
+361,81055,37.488,-105.07237,La Veta,CO,Colorado,TRUE,,1602,2.4,8055,Huerfano,"{""08055"": ""100""}",Huerfano,8055,FALSE,FALSE,America/Denver
+362,81057,38.12827,-102.88066,McClave,CO,Colorado,TRUE,,391,2.9,8011,Bent,"{""08011"": ""100""}",Bent,8011,FALSE,FALSE,America/Denver
+363,81058,38.09876,-103.87967,Manzanola,CO,Colorado,TRUE,,999,7.4,8089,Otero,"{""08089"": ""91.62"", ""08025"": ""8.38""}",Otero|Crowley,08089|08025,FALSE,FALSE,America/Denver
+364,81059,37.51074,-104.01643,Model,CO,Colorado,TRUE,,584,0.2,8071,Las Animas,"{""08071"": ""95.39"", ""08089"": ""4.61""}",Las Animas|Otero,08071|08089,FALSE,FALSE,America/Denver
+365,81062,38.29272,-103.94951,Olney Springs,CO,Colorado,TRUE,,1618,2.6,8025,Crowley,"{""08025"": ""100""}",Crowley,8025,FALSE,FALSE,America/Denver
+366,81063,38.44559,-103.78268,Ordway,CO,Colorado,TRUE,,3151,3,8025,Crowley,"{""08025"": ""98.35"", ""08073"": ""1.65""}",Crowley|Lincoln,08025|08073,FALSE,FALSE,America/Denver
+367,81064,37.23913,-102.98884,Pritchett,CO,Colorado,TRUE,,279,0.2,8009,Baca,"{""08009"": ""92.2"", ""08071"": ""7.8""}",Baca|Las Animas,08009|08071,FALSE,FALSE,America/Denver
+368,81067,37.93801,-103.7839,Rocky Ford,CO,Colorado,TRUE,,5566,7.4,8089,Otero,"{""08089"": ""100""}",Otero,8089,FALSE,FALSE,America/Denver
+369,81069,37.89709,-104.89695,Rye,CO,Colorado,TRUE,,2139,3,8101,Pueblo,"{""08101"": ""83.26"", ""08055"": ""12.39"", ""08027"": ""4.34""}",Pueblo|Huerfano|Custer,08101|08055|08027,FALSE,FALSE,America/Denver
+370,81071,38.44836,-102.26642,Sheridan Lake,CO,Colorado,TRUE,,313,0.2,8061,Kiowa,"{""08061"": ""100""}",Kiowa,8061,FALSE,FALSE,America/Denver
+371,81073,37.42388,-102.70954,Springfield,CO,Colorado,TRUE,,1818,1.1,8009,Baca,"{""08009"": ""100""}",Baca,8009,FALSE,FALSE,America/Denver
+372,81076,38.32403,-103.60951,Sugar City,CO,Colorado,TRUE,,721,1,8025,Crowley,"{""08025"": ""100""}",Crowley,8025,FALSE,FALSE,America/Denver
+373,81077,38.01785,-103.63067,Swink,CO,Colorado,TRUE,,781,662.7,8089,Otero,"{""08089"": ""100""}",Otero,8089,FALSE,FALSE,America/Denver
+374,81081,37.06734,-104.19479,Trinchera,CO,Colorado,TRUE,,77,0.1,8071,Las Animas,"{""08071"": ""100""}",Las Animas,8071,FALSE,FALSE,America/Denver
+375,81082,37.17862,-104.51613,Trinidad,CO,Colorado,TRUE,,11369,7.3,8071,Las Animas,"{""08071"": ""100""}",Las Animas,8071,FALSE,FALSE,America/Denver
+376,81084,37.57727,-102.41709,Two Buttes,CO,Colorado,TRUE,,101,0.2,8009,Baca,"{""08009"": ""92.7"", ""08099"": ""7.3""}",Baca|Prowers,08009|08099,FALSE,FALSE,America/Denver
+377,81087,37.36591,-102.40896,Vilas,CO,Colorado,TRUE,,136,1.3,8009,Baca,"{""08009"": ""100""}",Baca,8009,FALSE,FALSE,America/Denver
+378,81089,37.65595,-104.73158,Walsenburg,CO,Colorado,TRUE,,4467,2.5,8055,Huerfano,"{""08055"": ""100""}",Huerfano,8055,FALSE,FALSE,America/Denver
+379,81090,37.35668,-102.22135,Walsh,CO,Colorado,TRUE,,928,0.6,8009,Baca,"{""08009"": ""100""}",Baca,8009,FALSE,FALSE,America/Denver
+380,81091,37.15008,-104.97091,Weston,CO,Colorado,TRUE,,693,0.6,8071,Las Animas,"{""08071"": ""100""}",Las Animas,8071,FALSE,FALSE,America/Denver
+381,81092,38.19797,-102.74772,Wiley,CO,Colorado,TRUE,,847,3.9,8099,Prowers,"{""08099"": ""79.65"", ""08011"": ""20.35""}",Prowers|Bent,08099|08011,FALSE,FALSE,America/Denver
+382,81101,37.48372,-105.82998,Alamosa,CO,Colorado,TRUE,,15153,14.3,8003,Alamosa,"{""08003"": ""99.25"", ""08021"": ""0.75""}",Alamosa|Conejos,08003|08021,FALSE,FALSE,America/Denver
+383,81120,37.16424,-106.27833,Antonito,CO,Colorado,TRUE,,2271,1,8021,Conejos,"{""08021"": ""100""}",Conejos,8021,FALSE,FALSE,America/Denver
+384,81121,37.10982,-107.43911,Arboles,CO,Colorado,TRUE,,323,2.7,8007,Archuleta,"{""08007"": ""100""}",Archuleta,8007,FALSE,FALSE,America/Denver
+385,81122,37.33995,-107.47857,Bayfield,CO,Colorado,TRUE,,8798,6.7,8067,La Plata,"{""08067"": ""98.3"", ""08007"": ""1.7""}",La Plata|Archuleta,08067|08007,FALSE,FALSE,America/Denver
+386,81123,37.39859,-105.56977,Blanca,CO,Colorado,TRUE,,1026,1.5,8023,Costilla,"{""08023"": ""100""}",Costilla,8023,FALSE,FALSE,America/Denver
+387,81124,37.30632,-106.16065,Capulin,CO,Colorado,TRUE,,166,4.1,8021,Conejos,"{""08021"": ""100""}",Conejos,8021,FALSE,FALSE,America/Denver
+388,81125,37.81704,-106.06909,Center,CO,Colorado,TRUE,,3469,5,8109,Saguache,"{""08109"": ""80.56"", ""08105"": ""18.1"", ""08003"": ""1.33""}",Saguache|Rio Grande|Alamosa,08109|08105|08003,FALSE,FALSE,America/Denver
+389,81126,37.15556,-105.33459,Chama,CO,Colorado,TRUE,,152,3,8023,Costilla,"{""08023"": ""100""}",Costilla,8023,FALSE,FALSE,America/Denver
+390,81128,37.06812,-106.67242,Chromo,CO,Colorado,TRUE,,109,0.2,8007,Archuleta,"{""08007"": ""100""}",Archuleta,8007,FALSE,FALSE,America/Denver
+391,81129,37.10336,-106.02909,Conejos,CO,Colorado,TRUE,,65,5.9,8021,Conejos,"{""08021"": ""100""}",Conejos,8021,FALSE,FALSE,America/Denver
+392,81130,37.70747,-107.01535,Creede,CO,Colorado,TRUE,,769,0.3,8079,Mineral,"{""08079"": ""98.36"", ""08053"": ""1.64""}",Mineral|Hinsdale,08079|08053,FALSE,FALSE,America/Denver
+393,81131,37.87296,-105.63763,Crestone,CO,Colorado,TRUE,,1344,1.7,8109,Saguache,"{""08109"": ""100""}",Saguache,8109,FALSE,FALSE,America/Denver
+394,81132,37.70747,-106.42885,Del Norte,CO,Colorado,TRUE,,3253,1.9,8105,Rio Grande,"{""08105"": ""92.76"", ""08109"": ""7.24""}",Rio Grande|Saguache,08105|08109,FALSE,FALSE,America/Denver
+395,81133,37.42918,-105.31028,Fort Garland,CO,Colorado,TRUE,,1035,1.1,8023,Costilla,"{""08023"": ""100""}",Costilla,8023,FALSE,FALSE,America/Denver
+396,81136,37.72493,-105.82787,Hooper,CO,Colorado,TRUE,,211,0.9,8003,Alamosa,"{""08003"": ""85.06"", ""08109"": ""14.94""}",Alamosa|Saguache,08003|08109,FALSE,FALSE,America/Denver
+397,81137,37.05906,-107.61339,Ignacio,CO,Colorado,TRUE,,5891,8.9,8067,La Plata,"{""08067"": ""94.24"", ""35045"": ""2.99"", ""08007"": ""2.78""}",La Plata|San Juan|Archuleta,08067|35045|08007,FALSE,FALSE,America/Denver
+398,81138,37.02646,-105.62276,Jaroso,CO,Colorado,TRUE,,45,0.8,8023,Costilla,"{""08023"": ""100""}",Costilla,8023,FALSE,FALSE,America/Denver
+399,81140,37.30576,-106.12889,La Jara,CO,Colorado,TRUE,,2223,3.9,8021,Conejos,"{""08021"": ""100""}",Conejos,8021,FALSE,FALSE,America/Denver
+400,81141,37.15686,-105.86358,Manassa,CO,Colorado,TRUE,,1280,11.5,8021,Conejos,"{""08021"": ""100""}",Conejos,8021,FALSE,FALSE,America/Denver
+401,81143,38.04872,-105.8515,Moffat,CO,Colorado,TRUE,,782,0.9,8109,Saguache,"{""08109"": ""100""}",Saguache,8109,FALSE,FALSE,America/Denver
+402,81144,37.54984,-106.15119,Monte Vista,CO,Colorado,TRUE,,7047,9.6,8105,Rio Grande,"{""08105"": ""98.9"", ""08003"": ""1.1""}",Rio Grande|Alamosa,08105|08003,FALSE,FALSE,America/Denver
+403,81146,37.65746,-105.68689,Mosca,CO,Colorado,TRUE,,791,1.4,8003,Alamosa,"{""08003"": ""100""}",Alamosa,8003,FALSE,FALSE,America/Denver
+404,81147,37.31914,-107.09655,Pagosa Springs,CO,Colorado,TRUE,,12587,3.6,8007,Archuleta,"{""08007"": ""99.72"", ""08053"": ""0.26"", ""08079"": ""0.02""}",Archuleta|Hinsdale|Mineral,08007|08053|08079,FALSE,FALSE,America/Denver
+405,81148,37.17183,-105.98542,Romeo,CO,Colorado,TRUE,,305,504.6,8021,Conejos,"{""08021"": ""100""}",Conejos,8021,FALSE,FALSE,America/Denver
+406,81149,38.08398,-106.34014,Saguache,CO,Colorado,TRUE,,815,0.4,8109,Saguache,"{""08109"": ""100""}",Saguache,8109,FALSE,FALSE,America/Denver
+407,81151,37.23324,-105.70861,Sanford,CO,Colorado,TRUE,,1902,3.3,8021,Conejos,"{""08021"": ""92.31"", ""08023"": ""7.69""}",Conejos|Costilla,08021|08023,FALSE,FALSE,America/Denver
+408,81152,37.1152,-105.39898,San Luis,CO,Colorado,TRUE,,1310,1.1,8023,Costilla,"{""08023"": ""100""}",Costilla,8023,FALSE,FALSE,America/Denver
+409,81154,37.59503,-106.64858,South Fork,CO,Colorado,TRUE,,1022,1.5,8105,Rio Grande,"{""08105"": ""95.64"", ""08079"": ""4.36""}",Rio Grande|Mineral,08105|08079,FALSE,FALSE,America/Denver
+410,81155,38.29743,-106.03192,Villa Grove,CO,Colorado,TRUE,,230,0.3,8109,Saguache,"{""08109"": ""100""}",Saguache,8109,FALSE,FALSE,America/Denver
+411,81201,38.56049,-106.06482,Salida,CO,Colorado,TRUE,,9543,8.3,8015,Chaffee,"{""08015"": ""98.89"", ""08043"": ""1.11""}",Chaffee|Fremont,08015|08043,FALSE,FALSE,America/Denver
+412,81210,38.82131,-106.63113,Almont,CO,Colorado,TRUE,,310,0.2,8051,Gunnison,"{""08051"": ""100""}",Gunnison,8051,FALSE,FALSE,America/Denver
+413,81211,38.90712,-106.23921,Buena Vista,CO,Colorado,TRUE,,8281,6.9,8015,Chaffee,"{""08015"": ""100""}",Chaffee,8015,FALSE,FALSE,America/Denver
+414,81212,38.53864,-105.38622,Canon City,CO,Colorado,TRUE,,30986,19.4,8043,Fremont,"{""08043"": ""100""}",Fremont,8043,FALSE,FALSE,America/Denver
+415,81220,38.30912,-107.48984,Cimarron,CO,Colorado,TRUE,,155,0.2,8051,Gunnison,"{""08051"": ""68.79"", ""08085"": ""31.21""}",Gunnison|Montrose,08051|08085,FALSE,FALSE,America/Denver
+416,81221,38.36242,-105.14438,Coal Creek,CO,Colorado,TRUE,,306,81.2,8043,Fremont,"{""08043"": ""100""}",Fremont,8043,FALSE,FALSE,America/Denver
+417,81222,38.35571,-105.81844,Coaldale,CO,Colorado,TRUE,,387,4.8,8043,Fremont,"{""08043"": ""100""}",Fremont,8043,FALSE,FALSE,America/Denver
+418,81223,38.40535,-105.60648,Cotopaxi,CO,Colorado,TRUE,,1244,1.2,8043,Fremont,"{""08043"": ""100""}",Fremont,8043,FALSE,FALSE,America/Denver
+419,81224,38.8734,-106.93722,Crested Butte,CO,Colorado,TRUE,,3207,7.9,8051,Gunnison,"{""08051"": ""100""}",Gunnison,8051,FALSE,FALSE,America/Denver
+420,81225,38.95884,-106.95467,Crested Butte,CO,Colorado,TRUE,,1452,6.8,8051,Gunnison,"{""08051"": ""100""}",Gunnison,8051,FALSE,FALSE,America/Denver
+421,81226,38.33377,-105.12436,Florence,CO,Colorado,TRUE,,9295,43.7,8043,Fremont,"{""08043"": ""100""}",Fremont,8043,FALSE,FALSE,America/Denver
+422,81227,38.5493,-106.29004,Monarch,CO,Colorado,TRUE,,0,0,8015,Chaffee,"{""08015"": ""100""}",Chaffee,8015,FALSE,FALSE,America/Denver
+423,81230,38.42496,-106.95639,Gunnison,CO,Colorado,TRUE,,10041,2.2,8051,Gunnison,"{""08051"": ""99.03"", ""08109"": ""0.97""}",Gunnison|Saguache,08051|08109,FALSE,FALSE,America/Denver
+424,81231,38.54999,-106.91965,Gunnison,CO,Colorado,TRUE,,640,3937.5,8051,Gunnison,"{""08051"": ""100""}",Gunnison,8051,FALSE,FALSE,America/Denver
+425,81232,38.28509,-105.61045,Hillside,CO,Colorado,TRUE,,17,3.4,8043,Fremont,"{""08043"": ""100""}",Fremont,8043,FALSE,FALSE,America/Denver
+426,81233,38.42522,-105.82738,Howard,CO,Colorado,TRUE,,1005,4.4,8043,Fremont,"{""08043"": ""100""}",Fremont,8043,FALSE,FALSE,America/Denver
+427,81235,38.01367,-107.29516,Lake City,CO,Colorado,TRUE,,795,0.6,8053,Hinsdale,"{""08053"": ""100""}",Hinsdale,8053,FALSE,FALSE,America/Denver
+428,81236,38.70612,-106.2436,Nathrop,CO,Colorado,TRUE,,1271,2.5,8015,Chaffee,"{""08015"": ""100""}",Chaffee,8015,FALSE,FALSE,America/Denver
+429,81237,38.60303,-106.61407,Ohio City,CO,Colorado,TRUE,,26,0.3,8051,Gunnison,"{""08051"": ""100""}",Gunnison,8051,FALSE,FALSE,America/Denver
+430,81239,38.50884,-106.66357,Parlin,CO,Colorado,TRUE,,83,0.6,8051,Gunnison,"{""08051"": ""100""}",Gunnison,8051,FALSE,FALSE,America/Denver
+431,81240,38.50393,-105.0322,Penrose,CO,Colorado,TRUE,,3547,9.2,8043,Fremont,"{""08043"": ""100""}",Fremont,8043,FALSE,FALSE,America/Denver
+432,81241,38.61792,-106.51462,Pitkin,CO,Colorado,TRUE,,107,2,8051,Gunnison,"{""08051"": ""100""}",Gunnison,8051,FALSE,FALSE,America/Denver
+433,81242,38.50811,-106.07546,Poncha Springs,CO,Colorado,TRUE,,465,81.2,8015,Chaffee,"{""08015"": ""100""}",Chaffee,8015,FALSE,FALSE,America/Denver
+434,81243,38.26344,-107.18964,Powderhorn,CO,Colorado,TRUE,,74,0.1,8051,Gunnison,"{""08051"": ""100""}",Gunnison,8051,FALSE,FALSE,America/Denver
+435,81244,38.36297,-105.17768,Rockvale,CO,Colorado,TRUE,,388,40.6,8043,Fremont,"{""08043"": ""100""}",Fremont,8043,FALSE,FALSE,America/Denver
+436,81248,38.45215,-106.39655,Sargents,CO,Colorado,TRUE,,95,0.1,8109,Saguache,"{""08109"": ""95.83"", ""08051"": ""4.17""}",Saguache|Gunnison,08109|08051,FALSE,FALSE,America/Denver
+437,81251,39.10127,-106.44176,Twin Lakes,CO,Colorado,TRUE,,173,0.8,8065,Lake,"{""08065"": ""100""}",Lake,8065,FALSE,FALSE,America/Denver
+438,81252,38.10886,-105.42017,Westcliffe,CO,Colorado,TRUE,,3962,2.5,8027,Custer,"{""08027"": ""100""}",Custer,8027,FALSE,FALSE,America/Denver
+439,81253,38.21921,-105.06861,Wetmore,CO,Colorado,TRUE,,611,1.8,8027,Custer,"{""08027"": ""83.66"", ""08043"": ""16.34""}",Custer|Fremont,08027|08043,FALSE,FALSE,America/Denver
+440,81301,37.4449,-107.85159,Durango,CO,Colorado,TRUE,,30887,16,8067,La Plata,"{""08067"": ""99.86"", ""08111"": ""0.14""}",La Plata|San Juan,08067|08111,FALSE,FALSE,America/Denver
+441,81303,37.11638,-107.89112,Durango,CO,Colorado,TRUE,,8157,14.6,8067,La Plata,"{""08067"": ""100""}",La Plata,8067,FALSE,FALSE,America/Denver
+442,81320,37.72182,-108.73343,Cahone,CO,Colorado,TRUE,,262,0.5,8033,Dolores,"{""08033"": ""100""}",Dolores,8033,FALSE,FALSE,America/Denver
+443,81321,37.3184,-108.76218,Cortez,CO,Colorado,TRUE,,14863,13.6,8083,Montezuma,"{""08083"": ""100""}",Montezuma,8083,FALSE,FALSE,America/Denver
+444,81323,37.63986,-108.2847,Dolores,CO,Colorado,TRUE,,4542,2.5,8083,Montezuma,"{""08083"": ""98.89"", ""08033"": ""1.11""}",Montezuma|Dolores,08083|08033,FALSE,FALSE,America/Denver
+445,81324,37.6641,-109.0334,Dove Creek,CO,Colorado,TRUE,,1295,1.2,8033,Dolores,"{""08033"": ""96.61"", ""49037"": ""3.39""}",Dolores|San Juan,08033|49037,FALSE,FALSE,America/Denver
+446,81325,37.91688,-108.72802,Egnar,CO,Colorado,TRUE,,145,0.1,8113,San Miguel,"{""08113"": ""95.87"", ""08033"": ""4.13""}",San Miguel|Dolores,08113|08033,FALSE,FALSE,America/Denver
+447,81326,37.16195,-108.16839,Hesperus,CO,Colorado,TRUE,,2306,3.6,8067,La Plata,"{""08067"": ""100""}",La Plata,8067,FALSE,FALSE,America/Denver
+448,81327,37.51772,-108.6546,Lewis,CO,Colorado,TRUE,,416,4.7,8083,Montezuma,"{""08083"": ""100""}",Montezuma,8083,FALSE,FALSE,America/Denver
+449,81328,37.36326,-108.2586,Mancos,CO,Colorado,TRUE,,4410,4.7,8083,Montezuma,"{""08083"": ""97.1"", ""08067"": ""2.9""}",Montezuma|La Plata,08083|08067,FALSE,FALSE,America/Denver
+450,81330,37.23128,-108.48246,Mesa Verde National Park,CO,Colorado,TRUE,,65,0.4,8083,Montezuma,"{""08083"": ""100""}",Montezuma,8083,FALSE,FALSE,America/Denver
+451,81331,37.51641,-108.87147,Pleasant View,CO,Colorado,TRUE,,322,0.5,8083,Montezuma,"{""08083"": ""100""}",Montezuma,8083,FALSE,FALSE,America/Denver
+452,81332,37.72685,-107.9577,Rico,CO,Colorado,TRUE,,207,1.3,8033,Dolores,"{""08033"": ""100""}",Dolores,8033,FALSE,FALSE,America/Denver
+453,81334,37.11243,-108.54656,Towaoc,CO,Colorado,TRUE,,1525,1.7,8083,Montezuma,"{""08083"": ""100""}",Montezuma,8083,FALSE,FALSE,America/Denver
+454,81335,37.49643,-108.75704,Yellow Jacket,CO,Colorado,TRUE,,45,0.6,8083,Montezuma,"{""08083"": ""100""}",Montezuma,8083,FALSE,FALSE,America/Denver
+455,81401,38.48717,-107.75847,Montrose,CO,Colorado,TRUE,,22534,37.3,8085,Montrose,"{""08085"": ""100""}",Montrose,8085,FALSE,FALSE,America/Denver
+456,81403,38.33438,-107.96918,Montrose,CO,Colorado,TRUE,,11412,8,8085,Montrose,"{""08085"": ""93.96"", ""08091"": ""6.04""}",Montrose|Ouray,08085|08091,FALSE,FALSE,America/Denver
+457,81410,38.80135,-107.96759,Austin,CO,Colorado,TRUE,,1506,25.4,8029,Delta,"{""08029"": ""100""}",Delta,8029,FALSE,FALSE,America/Denver
+458,81411,38.25076,-108.97993,Bedrock,CO,Colorado,TRUE,,41,0.2,8085,Montrose,"{""08085"": ""100""}",Montrose,8085,FALSE,FALSE,America/Denver
+459,81413,38.9572,-107.95495,Cedaredge,CO,Colorado,TRUE,,5426,10,8029,Delta,"{""08029"": ""100""}",Delta,8029,FALSE,FALSE,America/Denver
+460,81415,38.6405,-107.63676,Crawford,CO,Colorado,TRUE,,1237,1.7,8029,Delta,"{""08029"": ""86.17"", ""08085"": ""13.83""}",Delta|Montrose,08029|08085,FALSE,FALSE,America/Denver
+461,81416,38.75096,-108.1376,Delta,CO,Colorado,TRUE,,14218,16.3,8029,Delta,"{""08029"": ""96.35"", ""08085"": ""3.65""}",Delta|Montrose,08029|08085,FALSE,FALSE,America/Denver
+462,81418,38.84869,-107.98719,Eckert,CO,Colorado,TRUE,,1793,33.6,8029,Delta,"{""08029"": ""100""}",Delta,8029,FALSE,FALSE,America/Denver
+463,81419,38.86945,-107.75853,Hotchkiss,CO,Colorado,TRUE,,3666,7,8029,Delta,"{""08029"": ""100""}",Delta,8029,FALSE,FALSE,America/Denver
+464,81422,38.34672,-108.71155,Naturita,CO,Colorado,TRUE,,664,1,8085,Montrose,"{""08085"": ""100""}",Montrose,8085,FALSE,FALSE,America/Denver
+465,81423,38.0247,-108.36906,Norwood,CO,Colorado,TRUE,,1764,1.4,8113,San Miguel,"{""08113"": ""90.88"", ""08085"": ""9.12""}",San Miguel|Montrose,08113|08085,FALSE,FALSE,America/Denver
+466,81424,38.3344,-108.45797,Nucla,CO,Colorado,TRUE,,1034,1.3,8085,Montrose,"{""08085"": ""100""}",Montrose,8085,FALSE,FALSE,America/Denver
+467,81425,38.53574,-108.22151,Olathe,CO,Colorado,TRUE,,5660,5.7,8085,Montrose,"{""08085"": ""100""}",Montrose,8085,FALSE,FALSE,America/Denver
+468,81426,37.86821,-107.89132,Ophir,CO,Colorado,TRUE,,163,3.7,8113,San Miguel,"{""08113"": ""100""}",San Miguel,8113,FALSE,FALSE,America/Denver
+469,81427,38.02011,-107.63167,Ouray,CO,Colorado,TRUE,,1117,4.2,8091,Ouray,"{""08091"": ""100""}",Ouray,8091,FALSE,FALSE,America/Denver
+470,81428,38.95808,-107.59525,Paonia,CO,Colorado,TRUE,,3214,5.7,8029,Delta,"{""08029"": ""100""}",Delta,8029,FALSE,FALSE,America/Denver
+471,81429,38.31735,-108.87793,Paradox,CO,Colorado,TRUE,,47,0.1,8085,Montrose,"{""08085"": ""100""}",Montrose,8085,FALSE,FALSE,America/Denver
+472,81430,38.01869,-108.05374,Placerville,CO,Colorado,TRUE,,825,1.3,8113,San Miguel,"{""08113"": ""100""}",San Miguel,8113,FALSE,FALSE,America/Denver
+473,81431,38.10429,-108.58295,Redvale,CO,Colorado,TRUE,,362,0.8,8085,Montrose,"{""08085"": ""95.87"", ""08113"": ""4.13""}",Montrose|San Miguel,08085|08113,FALSE,FALSE,America/Denver
+474,81432,38.12814,-107.75691,Ridgway,CO,Colorado,TRUE,,2977,4.2,8091,Ouray,"{""08091"": ""99.78"", ""08113"": ""0.22""}",Ouray|San Miguel,08091|08113,FALSE,FALSE,America/Denver
+475,81433,37.78202,-107.63083,Silverton,CO,Colorado,TRUE,,558,0.7,8111,San Juan,"{""08111"": ""100""}",San Juan,8111,FALSE,FALSE,America/Denver
+476,81434,38.95024,-107.35451,Somerset,CO,Colorado,TRUE,,274,0.2,8051,Gunnison,"{""08051"": ""100"", ""08029"": ""0""}",Gunnison|Delta,08051|08029,FALSE,FALSE,America/Denver
+477,81435,37.9038,-107.86951,Telluride,CO,Colorado,TRUE,,5252,15.2,8113,San Miguel,"{""08113"": ""100""}",San Miguel,8113,FALSE,FALSE,America/Denver
+478,81501,39.07211,-108.54759,Grand Junction,CO,Colorado,TRUE,,24002,1162.1,8077,Mesa,"{""08077"": ""100""}",Mesa,8077,FALSE,FALSE,America/Denver
+479,81503,39.03071,-108.43609,Grand Junction,CO,Colorado,TRUE,,15518,170.8,8077,Mesa,"{""08077"": ""100""}",Mesa,8077,FALSE,FALSE,America/Denver
+480,81504,39.07913,-108.49158,Grand Junction,CO,Colorado,TRUE,,29358,1001.7,8077,Mesa,"{""08077"": ""100""}",Mesa,8077,FALSE,FALSE,America/Denver
+481,81505,39.18187,-108.57772,Grand Junction,CO,Colorado,TRUE,,10454,40.1,8077,Mesa,"{""08077"": ""100""}",Mesa,8077,FALSE,FALSE,America/Denver
+482,81506,39.11586,-108.53246,Grand Junction,CO,Colorado,TRUE,,12298,368.8,8077,Mesa,"{""08077"": ""100""}",Mesa,8077,FALSE,FALSE,America/Denver
+483,81507,39.00931,-108.62608,Grand Junction,CO,Colorado,TRUE,,14953,52.4,8077,Mesa,"{""08077"": ""100""}",Mesa,8077,FALSE,FALSE,America/Denver
+484,81520,39.10989,-108.43381,Clifton,CO,Colorado,TRUE,,14080,263.2,8077,Mesa,"{""08077"": ""100""}",Mesa,8077,FALSE,FALSE,America/Denver
+485,81521,39.14589,-108.81647,Fruita,CO,Colorado,TRUE,,16299,42.6,8077,Mesa,"{""08077"": ""100""}",Mesa,8077,FALSE,FALSE,America/Denver
+486,81522,38.65091,-108.91455,Gateway,CO,Colorado,TRUE,,123,0.2,8077,Mesa,"{""08077"": ""100""}",Mesa,8077,FALSE,FALSE,America/Denver
+487,81523,38.95268,-108.88256,Glade Park,CO,Colorado,TRUE,,912,1.1,8077,Mesa,"{""08077"": ""100""}",Mesa,8077,FALSE,FALSE,America/Denver
+488,81524,39.26884,-108.78127,Loma,CO,Colorado,TRUE,,1714,3.9,8077,Mesa,"{""08077"": ""100""}",Mesa,8077,FALSE,FALSE,America/Denver
+489,81525,39.28857,-108.95157,Mack,CO,Colorado,TRUE,,1301,4.2,8077,Mesa,"{""08077"": ""100""}",Mesa,8077,FALSE,FALSE,America/Denver
+490,81526,39.09613,-108.33698,Palisade,CO,Colorado,TRUE,,5439,40.5,8077,Mesa,"{""08077"": ""100""}",Mesa,8077,FALSE,FALSE,America/Denver
+491,81527,38.74877,-108.55132,Whitewater,CO,Colorado,TRUE,,1785,0.9,8077,Mesa,"{""08077"": ""100""}",Mesa,8077,FALSE,FALSE,America/Denver
+492,81601,39.5839,-107.31363,Glenwood Springs,CO,Colorado,TRUE,,15325,17.1,8045,Garfield,"{""08045"": ""100""}",Garfield,8045,FALSE,FALSE,America/Denver
+493,81610,40.3027,-108.76948,Dinosaur,CO,Colorado,TRUE,,268,0.3,8081,Moffat,"{""08081"": ""100""}",Moffat,8081,FALSE,FALSE,America/Denver
+494,81611,39.15162,-106.77138,Aspen,CO,Colorado,TRUE,,11154,10.1,8097,Pitkin,"{""08097"": ""100""}",Pitkin,8097,FALSE,FALSE,America/Denver
+495,81612,39.13396,-106.83727,Aspen,CO,Colorado,TRUE,,0,0,8097,Pitkin,"{""08097"": ""100""}",Pitkin,8097,FALSE,FALSE,America/Denver
+496,81615,39.22115,-106.93198,Snowmass Village,CO,Colorado,TRUE,,2783,42,8097,Pitkin,"{""08097"": ""100""}",Pitkin,8097,FALSE,FALSE,America/Denver
+497,81620,39.5966,-106.51437,Avon,CO,Colorado,TRUE,,11113,114.4,8037,Eagle,"{""08037"": ""100""}",Eagle,8037,FALSE,FALSE,America/Denver
+498,81621,39.38608,-106.88558,Basalt,CO,Colorado,TRUE,,5652,9.8,8037,Eagle,"{""08037"": ""70.36"", ""08097"": ""29.64""}",Eagle|Pitkin,08037|08097,FALSE,FALSE,America/Denver
+499,81623,39.25109,-107.20443,Carbondale,CO,Colorado,TRUE,,17173,14.9,8045,Garfield,"{""08045"": ""64.8"", ""08037"": ""26.79"", ""08097"": ""6.05"", ""08051"": ""2.36""}",Garfield|Eagle|Pitkin|Gunnison,08045|08037|08097|08051,FALSE,FALSE,America/Denver
+500,81624,39.24808,-107.7775,Collbran,CO,Colorado,TRUE,,1361,0.9,8077,Mesa,"{""08077"": ""100""}",Mesa,8077,FALSE,FALSE,America/Denver
+501,81625,40.73385,-107.68711,Craig,CO,Colorado,TRUE,,12601,3.2,8081,Moffat,"{""08081"": ""99.97"", ""08107"": ""0.03""}",Moffat|Routt,08081|08107,FALSE,FALSE,America/Denver
+502,81630,39.46257,-108.54199,De Beque,CO,Colorado,TRUE,,1054,0.3,8077,Mesa,"{""08077"": ""89.99"", ""08045"": ""10.01""}",Mesa|Garfield,08077|08045,FALSE,FALSE,America/Denver
+503,81631,39.63852,-106.76545,Eagle,CO,Colorado,TRUE,,8903,14,8037,Eagle,"{""08037"": ""100""}",Eagle,8037,FALSE,FALSE,America/Denver
+504,81632,39.63335,-106.60468,Edwards,CO,Colorado,TRUE,,9299,29.4,8037,Eagle,"{""08037"": ""100""}",Eagle,8037,FALSE,FALSE,America/Denver
+505,81633,40.33837,-108.42922,Dinosaur,CO,Colorado,TRUE,,0,0,8081,Moffat,"{""08081"": ""100""}",Moffat,8081,FALSE,FALSE,America/Denver
+506,81635,39.51987,-108.04806,Parachute,CO,Colorado,TRUE,,6735,8.9,8045,Garfield,"{""08045"": ""100""}",Garfield,8045,FALSE,FALSE,America/Denver
+507,81637,39.77665,-107.10154,Gypsum,CO,Colorado,TRUE,,8500,4.3,8037,Eagle,"{""08037"": ""99.17"", ""08045"": ""0.83""}",Eagle|Garfield,08037|08045,FALSE,FALSE,America/Denver
+508,81638,40.32099,-107.55452,Hamilton,CO,Colorado,TRUE,,72,0.2,8081,Moffat,"{""08081"": ""100""}",Moffat,8081,FALSE,FALSE,America/Denver
+509,81639,40.50569,-107.25302,Hayden,CO,Colorado,TRUE,,2695,1.7,8107,Routt,"{""08107"": ""100""}",Routt,8107,FALSE,FALSE,America/Denver
+510,81640,40.65844,-108.51905,Maybell,CO,Colorado,TRUE,,129,0,8081,Moffat,"{""08081"": ""100""}",Moffat,8081,FALSE,FALSE,America/Denver
+511,81641,40.0804,-107.76297,Meeker,CO,Colorado,TRUE,,3668,0.8,8103,Rio Blanco,"{""08103"": ""99.09"", ""08081"": ""0.91""}",Rio Blanco|Moffat,08103|08081,FALSE,FALSE,America/Denver
+512,81642,39.31983,-106.65933,Meredith,CO,Colorado,TRUE,,10,0,8097,Pitkin,"{""08097"": ""100""}",Pitkin,8097,FALSE,FALSE,America/Denver
+513,81643,39.07824,-108.15794,Mesa,CO,Colorado,TRUE,,412,0.7,8077,Mesa,"{""08077"": ""100""}",Mesa,8077,FALSE,FALSE,America/Denver
+514,81645,39.45072,-106.41702,Minturn,CO,Colorado,TRUE,,1101,2.5,8037,Eagle,"{""08037"": ""100""}",Eagle,8037,FALSE,FALSE,America/Denver
+515,81646,39.10254,-107.99628,Molina,CO,Colorado,TRUE,,234,1.2,8077,Mesa,"{""08077"": ""100""}",Mesa,8077,FALSE,FALSE,America/Denver
+516,81647,39.62108,-107.5542,New Castle,CO,Colorado,TRUE,,7304,7.7,8045,Garfield,"{""08045"": ""100""}",Garfield,8045,FALSE,FALSE,America/Denver
+517,81648,39.97213,-108.73354,Rangely,CO,Colorado,TRUE,,2688,0.8,8103,Rio Blanco,"{""08103"": ""100""}",Rio Blanco,8103,FALSE,FALSE,America/Denver
+518,81649,39.51832,-106.31039,Red Cliff,CO,Colorado,TRUE,,345,1.7,8037,Eagle,"{""08037"": ""100""}",Eagle,8037,FALSE,FALSE,America/Denver
+519,81650,39.73873,-108.11824,Rifle,CO,Colorado,TRUE,,13843,5.8,8045,Garfield,"{""08045"": ""99.55"", ""08103"": ""0.45""}",Garfield|Rio Blanco,08045|08103,FALSE,FALSE,America/Denver
+520,81652,39.48535,-107.65622,Silt,CO,Colorado,TRUE,,4958,21.5,8045,Garfield,"{""08045"": ""100""}",Garfield,8045,FALSE,FALSE,America/Denver
+521,81653,40.96556,-107.2706,Slater,CO,Colorado,TRUE,,9,0.1,8081,Moffat,"{""08081"": ""54.84"", ""08107"": ""45.16""}",Moffat|Routt,08081|08107,FALSE,FALSE,America/Denver
+522,81654,39.22581,-107.03027,Snowmass,CO,Colorado,TRUE,,1487,6.5,8097,Pitkin,"{""08097"": ""100""}",Pitkin,8097,FALSE,FALSE,America/Denver
+523,81655,39.75114,-106.53373,Wolcott,CO,Colorado,TRUE,,77,0.2,8037,Eagle,"{""08037"": ""100""}",Eagle,8037,FALSE,FALSE,America/Denver
+524,81656,39.28383,-106.89719,Woody Creek,CO,Colorado,TRUE,,223,82.1,8097,Pitkin,"{""08097"": ""100""}",Pitkin,8097,FALSE,FALSE,America/Denver
+525,81657,39.6512,-106.32342,Vail,CO,Colorado,TRUE,,5847,20.3,8037,Eagle,"{""08037"": ""100""}",Eagle,8037,FALSE,FALSE,America/Denver

@@ -1,0 +1,43 @@
+---------------------------------------------------------------------------------
+/* Creating Data Warehouse Dimension Tables */
+
+/* Create table jcwf_dim_table */
+
+DROP TABLE jcwf_dim_table;
+
+CREATE TABLE jcwf_dim_table (
+   table_id  SERIAL  NOT NULL
+,  table_name  TEXT  
+,  last_batch_imported SERIAL NOT NULL
+,  number_of_records_imported INT NOT NULL
+,  last_import_version VARCHAR(200) NOT NULL
+,  last_import_user VARCHAR(200) NOT NULL
+,  row_is_current  VARCHAR(1) NOT NULL
+,  row_start_date  TIMESTAMP NOT NULL
+,  row_end_date  TIMESTAMP NOT NULL
+,  row_change_reason  VARCHAR(200) NOT NULL
+);
+
+
+SELECT * FROM jcwf_dim_table;
+
+
+
+INSERT INTO jcwf_dim_table VALUES (
+   0
+,  'jcwf_dim_product'
+,  0
+,  0
+,  0
+,  'blank'
+,  'Y'
+,  Now()
+,  Now()
+,  'initiating'
+);
+
+
+
+
+
+

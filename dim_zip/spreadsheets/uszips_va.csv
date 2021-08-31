@@ -1,0 +1,897 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone
+20105,38.96273,-77.61002,Aldie,VA,Virginia,TRUE,,25168,261.7,51107,Loudoun,"{""51107"": ""100""}",Loudoun,51107,FALSE,FALSE,America/New_York
+20106,38.68699,-78.01175,Amissville,VA,Virginia,TRUE,,5087,32.6,51047,Culpeper,"{""51047"": ""61.42"", ""51157"": ""34.89"", ""51061"": ""3.7""}",Culpeper|Rappahannock|Fauquier,51047|51157|51061,FALSE,FALSE,America/New_York
+20109,38.79282,-77.52658,Manassas,VA,Virginia,TRUE,,43093,817.5,51153,Prince William,"{""51153"": ""99.72"", ""51683"": ""0.28""}",Prince William|Manassas,51153|51683,FALSE,FALSE,America/New_York
+20110,38.74711,-77.48591,Manassas,VA,Virginia,TRUE,,47574,1454.2,51683,Manassas,"{""51683"": ""85.96"", ""51153"": ""14.04""}",Manassas|Prince William,51683|51153,FALSE,FALSE,America/New_York
+20111,38.74928,-77.43012,Manassas,VA,Virginia,TRUE,,36375,865.4,51153,Prince William,"{""51153"": ""53.34"", ""51685"": ""46.66""}",Prince William|Manassas Park,51153|51685,FALSE,FALSE,America/New_York
+20112,38.66651,-77.42484,Manassas,VA,Virginia,TRUE,,26648,263.2,51153,Prince William,"{""51153"": ""100""}",Prince William,51153,FALSE,FALSE,America/New_York
+20115,38.82155,-77.9001,Marshall,VA,Virginia,TRUE,,7142,29,51061,Fauquier,"{""51061"": ""100""}",Fauquier,51061,FALSE,FALSE,America/New_York
+20117,38.99204,-77.74336,Middleburg,VA,Virginia,TRUE,,2295,19.8,51107,Loudoun,"{""51107"": ""93.72"", ""51061"": ""6.28""}",Loudoun|Fauquier,51107|51061,FALSE,FALSE,America/New_York
+20118,38.9678,-77.73746,Middleburg,VA,Virginia,TRUE,,7,262.4,51107,Loudoun,"{""51107"": ""100""}",Loudoun,51107,FALSE,FALSE,America/New_York
+20119,38.61839,-77.62492,Catlett,VA,Virginia,TRUE,,3850,23.2,51061,Fauquier,"{""51061"": ""100""}",Fauquier,51061,FALSE,FALSE,America/New_York
+20120,38.85433,-77.47715,Centreville,VA,Virginia,TRUE,,41312,928,51059,Fairfax,"{""51059"": ""99.96"", ""51107"": ""0.04""}",Fairfax|Loudoun,51059|51107,FALSE,FALSE,America/New_York
+20121,38.81767,-77.46029,Centreville,VA,Virginia,TRUE,,29426,1311.9,51059,Fairfax,"{""51059"": ""100""}",Fairfax,51059,FALSE,FALSE,America/New_York
+20124,38.7815,-77.39162,Clifton,VA,Virginia,TRUE,,15114,274.4,51059,Fairfax,"{""51059"": ""100""}",Fairfax,51059,FALSE,FALSE,America/New_York
+20129,39.16223,-77.6018,Paeonian Springs,VA,Virginia,TRUE,,522,62.8,51107,Loudoun,"{""51107"": ""100""}",Loudoun,51107,FALSE,FALSE,America/New_York
+20130,39.02747,-77.9491,Paris,VA,Virginia,TRUE,,236,11,51043,Clarke,"{""51043"": ""77.58"", ""51061"": ""22.42""}",Clarke|Fauquier,51043|51061,FALSE,FALSE,America/New_York
+20132,39.16773,-77.72706,Purcellville,VA,Virginia,TRUE,,18053,84.1,51107,Loudoun,"{""51107"": ""100""}",Loudoun,51107,FALSE,FALSE,America/New_York
+20135,39.09525,-77.87125,Bluemont,VA,Virginia,TRUE,,3187,27.6,51043,Clarke,"{""51043"": ""63.02"", ""51107"": ""32.04"", ""54037"": ""4.94""}",Clarke|Loudoun|Jefferson,51043|51107|54037,FALSE,FALSE,America/New_York
+20136,38.73801,-77.55371,Bristow,VA,Virginia,TRUE,,29875,787.3,51153,Prince William,"{""51153"": ""100""}",Prince William,51153,FALSE,FALSE,America/New_York
+20137,38.81012,-77.72103,Broad Run,VA,Virginia,TRUE,,1527,34.3,51061,Fauquier,"{""51061"": ""67.81"", ""51153"": ""32.19""}",Fauquier|Prince William,51061|51153,FALSE,FALSE,America/New_York
+20139,38.65629,-77.69719,Casanova,VA,Virginia,TRUE,,245,28.9,51061,Fauquier,"{""51061"": ""100""}",Fauquier,51061,FALSE,FALSE,America/New_York
+20141,39.11358,-77.78901,Round Hill,VA,Virginia,TRUE,,7853,111.3,51107,Loudoun,"{""51107"": ""100""}",Loudoun,51107,FALSE,FALSE,America/New_York
+20143,38.86001,-77.56762,Catharpin,VA,Virginia,TRUE,,827,41.5,51153,Prince William,"{""51153"": ""100""}",Prince William,51153,FALSE,FALSE,America/New_York
+20144,38.91354,-77.94242,Delaplane,VA,Virginia,TRUE,,1086,10.4,51061,Fauquier,"{""51061"": ""100""}",Fauquier,51061,FALSE,FALSE,America/New_York
+20147,39.04152,-77.47954,Ashburn,VA,Virginia,TRUE,,63878,1240,51107,Loudoun,"{""51107"": ""100""}",Loudoun,51107,FALSE,FALSE,America/New_York
+20148,38.99608,-77.52734,Ashburn,VA,Virginia,TRUE,,51243,1215.9,51107,Loudoun,"{""51107"": ""100""}",Loudoun,51107,FALSE,FALSE,America/New_York
+20151,38.89574,-77.44484,Chantilly,VA,Virginia,TRUE,,23068,575,51059,Fairfax,"{""51059"": ""100""}",Fairfax,51059,FALSE,FALSE,America/New_York
+20152,38.91757,-77.50414,Chantilly,VA,Virginia,TRUE,,35302,546.9,51107,Loudoun,"{""51107"": ""100""}",Loudoun,51107,FALSE,FALSE,America/New_York
+20155,38.81015,-77.61837,Gainesville,VA,Virginia,TRUE,,36642,490.2,51153,Prince William,"{""51153"": ""100""}",Prince William,51153,FALSE,FALSE,America/New_York
+20158,39.13859,-77.65443,Hamilton,VA,Virginia,TRUE,,4610,122.3,51107,Loudoun,"{""51107"": ""100""}",Loudoun,51107,FALSE,FALSE,America/New_York
+20164,39.0127,-77.39565,Sterling,VA,Virginia,TRUE,,41684,2171.4,51107,Loudoun,"{""51107"": ""100""}",Loudoun,51107,FALSE,FALSE,America/New_York
+20165,39.05056,-77.3887,Sterling,VA,Virginia,TRUE,,31912,1254.9,51107,Loudoun,"{""51107"": ""100""}",Loudoun,51107,FALSE,FALSE,America/New_York
+20166,38.9858,-77.45517,Sterling,VA,Virginia,TRUE,,12236,270.6,51107,Loudoun,"{""51107"": ""100""}",Loudoun,51107,FALSE,FALSE,America/New_York
+20169,38.87344,-77.6454,Haymarket,VA,Virginia,TRUE,,25619,307.4,51153,Prince William,"{""51153"": ""100""}",Prince William,51153,FALSE,FALSE,America/New_York
+20170,38.98079,-77.38038,Herndon,VA,Virginia,TRUE,,42690,1879.4,51059,Fairfax,"{""51059"": ""100""}",Fairfax,51059,FALSE,FALSE,America/New_York
+20171,38.92363,-77.39821,Herndon,VA,Virginia,TRUE,,51093,1629.3,51059,Fairfax,"{""51059"": ""100""}",Fairfax,51059,FALSE,FALSE,America/New_York
+20175,39.05928,-77.60071,Leesburg,VA,Virginia,TRUE,,34857,215.5,51107,Loudoun,"{""51107"": ""100""}",Loudoun,51107,FALSE,FALSE,America/New_York
+20176,39.1821,-77.53593,Leesburg,VA,Virginia,TRUE,,52862,358.2,51107,Loudoun,"{""51107"": ""100""}",Loudoun,51107,FALSE,FALSE,America/New_York
+20180,39.26836,-77.63875,Lovettsville,VA,Virginia,TRUE,,7705,69.6,51107,Loudoun,"{""51107"": ""100""}",Loudoun,51107,FALSE,FALSE,America/New_York
+20181,38.6869,-77.57076,Nokesville,VA,Virginia,TRUE,,9350,61.3,51153,Prince William,"{""51153"": ""90.16"", ""51061"": ""9.84""}",Prince William|Fauquier,51153|51061,FALSE,FALSE,America/New_York
+20184,39.00275,-77.88265,Upperville,VA,Virginia,TRUE,,496,4.8,51061,Fauquier,"{""51061"": ""55.3"", ""51107"": ""44.7""}",Fauquier|Loudoun,51061|51107,FALSE,FALSE,America/New_York
+20186,38.70158,-77.84441,Warrenton,VA,Virginia,TRUE,,14839,88.9,51061,Fauquier,"{""51061"": ""99.9"", ""51047"": ""0.1""}",Fauquier|Culpeper,51061|51047,FALSE,FALSE,America/New_York
+20187,38.72258,-77.74269,Warrenton,VA,Virginia,TRUE,,18738,148.9,51061,Fauquier,"{""51061"": ""100""}",Fauquier,51061,FALSE,FALSE,America/New_York
+20190,38.95978,-77.33688,Reston,VA,Virginia,TRUE,,19950,1709.3,51059,Fairfax,"{""51059"": ""100""}",Fairfax,51059,FALSE,FALSE,America/New_York
+20191,38.93382,-77.35084,Reston,VA,Virginia,TRUE,,30181,1416,51059,Fairfax,"{""51059"": ""100""}",Fairfax,51059,FALSE,FALSE,America/New_York
+20194,38.98034,-77.34299,Reston,VA,Virginia,TRUE,,12467,1527.1,51059,Fairfax,"{""51059"": ""100""}",Fairfax,51059,FALSE,FALSE,America/New_York
+20197,39.19499,-77.62629,Waterford,VA,Virginia,TRUE,,2467,70.9,51107,Loudoun,"{""51107"": ""100""}",Loudoun,51107,FALSE,FALSE,America/New_York
+20198,38.88034,-77.75758,The Plains,VA,Virginia,TRUE,,1905,10.1,51061,Fauquier,"{""51061"": ""100""}",Fauquier,51061,FALSE,FALSE,America/New_York
+22003,38.83076,-77.21443,Annandale,VA,Virginia,TRUE,,59375,1842,51059,Fairfax,"{""51059"": ""100""}",Fairfax,51059,FALSE,FALSE,America/New_York
+22015,38.78812,-77.28116,Burke,VA,Virginia,TRUE,,44523,2050.3,51059,Fairfax,"{""51059"": ""100""}",Fairfax,51059,FALSE,FALSE,America/New_York
+22025,38.59932,-77.34028,Dumfries,VA,Virginia,TRUE,,18909,1071.4,51153,Prince William,"{""51153"": ""100""}",Prince William,51153,FALSE,FALSE,America/New_York
+22026,38.5666,-77.29482,Dumfries,VA,Virginia,TRUE,,16465,788.2,51153,Prince William,"{""51153"": ""100""}",Prince William,51153,FALSE,FALSE,America/New_York
+22027,38.89452,-77.22126,Dunn Loring,VA,Virginia,TRUE,,2003,1193.4,51059,Fairfax,"{""51059"": ""100""}",Fairfax,51059,FALSE,FALSE,America/New_York
+22030,38.83937,-77.34167,Fairfax,VA,Virginia,TRUE,,59332,1213.6,51059,Fairfax,"{""51059"": ""68.17"", ""51600"": ""31.83""}",Fairfax|Fairfax,51059|51600,FALSE,FALSE,America/New_York
+22031,38.85999,-77.26006,Fairfax,VA,Virginia,TRUE,,33379,1887.8,51059,Fairfax,"{""51059"": ""86.62"", ""51600"": ""13.38""}",Fairfax|Fairfax,51059|51600,FALSE,FALSE,America/New_York
+22032,38.82046,-77.28999,Fairfax,VA,Virginia,TRUE,,31201,1626.7,51059,Fairfax,"{""51059"": ""96.43"", ""51600"": ""3.57""}",Fairfax|Fairfax,51059|51600,FALSE,FALSE,America/New_York
+22033,38.87521,-77.38454,Fairfax,VA,Virginia,TRUE,,39478,2015.3,51059,Fairfax,"{""51059"": ""100""}",Fairfax,51059,FALSE,FALSE,America/New_York
+22035,38.85526,-77.35826,Fairfax,VA,Virginia,TRUE,,0,0,51059,Fairfax,"{""51059"": ""0""}",Fairfax,51059,FALSE,FALSE,America/New_York
+22039,38.75269,-77.31754,Fairfax Station,VA,Virginia,TRUE,,17598,288.6,51059,Fairfax,"{""51059"": ""100""}",Fairfax,51059,FALSE,FALSE,America/New_York
+22041,38.84806,-77.14197,Falls Church,VA,Virginia,TRUE,,28429,3933.7,51059,Fairfax,"{""51059"": ""100""}",Fairfax,51059,FALSE,FALSE,America/New_York
+22042,38.8644,-77.19563,Falls Church,VA,Virginia,TRUE,,35174,2055.3,51059,Fairfax,"{""51059"": ""99.16"", ""51610"": ""0.84""}",Fairfax|Falls Church,51059|51610,FALSE,FALSE,America/New_York
+22043,38.90029,-77.19732,Falls Church,VA,Virginia,TRUE,,24806,2011.6,51059,Fairfax,"{""51059"": ""100""}",Fairfax,51059,FALSE,FALSE,America/New_York
+22044,38.85971,-77.15559,Falls Church,VA,Virginia,TRUE,,13616,2404.4,51059,Fairfax,"{""51059"": ""89.36"", ""51610"": ""10.64""}",Fairfax|Falls Church,51059|51610,FALSE,FALSE,America/New_York
+22046,38.88711,-77.18076,Falls Church,VA,Virginia,TRUE,,18698,2559.1,51610,Falls Church,"{""51610"": ""64.88"", ""51059"": ""35.12""}",Falls Church|Fairfax,51610|51059,FALSE,FALSE,America/New_York
+22060,38.70543,-77.15639,Fort Belvoir,VA,Virginia,TRUE,,9489,278.2,51059,Fairfax,"{""51059"": ""100""}",Fairfax,51059,FALSE,FALSE,America/New_York
+22066,39.00895,-77.30026,Great Falls,VA,Virginia,TRUE,,17767,254.3,51059,Fairfax,"{""51059"": ""93.54"", ""51107"": ""6.46""}",Fairfax|Loudoun,51059|51107,FALSE,FALSE,America/New_York
+22079,38.68071,-77.20888,Lorton,VA,Virginia,TRUE,,36559,482.8,51059,Fairfax,"{""51059"": ""100""}",Fairfax,51059,FALSE,FALSE,America/New_York
+22101,38.93942,-77.16663,McLean,VA,Virginia,TRUE,,29892,846.2,51059,Fairfax,"{""51059"": ""99.88"", ""51013"": ""0.12""}",Fairfax|Arlington,51059|51013,FALSE,FALSE,America/New_York
+22102,38.94813,-77.22788,McLean,VA,Virginia,TRUE,,25627,944.2,51059,Fairfax,"{""51059"": ""100""}",Fairfax,51059,FALSE,FALSE,America/New_York
+22124,38.89056,-77.33028,Oakton,VA,Virginia,TRUE,,18530,705.8,51059,Fairfax,"{""51059"": ""100""}",Fairfax,51059,FALSE,FALSE,America/New_York
+22125,38.68228,-77.26075,Occoquan,VA,Virginia,TRUE,,955,2624.7,51153,Prince William,"{""51153"": ""100""}",Prince William,51153,FALSE,FALSE,America/New_York
+22134,38.51861,-77.38479,Quantico,VA,Virginia,TRUE,,7537,123,51153,Prince William,"{""51153"": ""71.87"", ""51179"": ""28.13""}",Prince William|Stafford,51153|51179,FALSE,FALSE,America/New_York
+22150,38.77242,-77.18599,Springfield,VA,Virginia,TRUE,,28905,1485.2,51059,Fairfax,"{""51059"": ""100""}",Fairfax,51059,FALSE,FALSE,America/New_York
+22151,38.80286,-77.2095,Springfield,VA,Virginia,TRUE,,17917,1354.8,51059,Fairfax,"{""51059"": ""100""}",Fairfax,51059,FALSE,FALSE,America/New_York
+22152,38.77578,-77.23156,Springfield,VA,Virginia,TRUE,,30624,1987,51059,Fairfax,"{""51059"": ""100""}",Fairfax,51059,FALSE,FALSE,America/New_York
+22153,38.74484,-77.23465,Springfield,VA,Virginia,TRUE,,31196,1356.3,51059,Fairfax,"{""51059"": ""100""}",Fairfax,51059,FALSE,FALSE,America/New_York
+22172,38.56708,-77.36486,Triangle,VA,Virginia,TRUE,,9934,303.8,51153,Prince William,"{""51153"": ""100""}",Prince William,51153,FALSE,FALSE,America/New_York
+22180,38.89655,-77.25486,Vienna,VA,Virginia,TRUE,,24366,1620.4,51059,Fairfax,"{""51059"": ""100""}",Fairfax,51059,FALSE,FALSE,America/New_York
+22181,38.90635,-77.29438,Vienna,VA,Virginia,TRUE,,15350,1041,51059,Fairfax,"{""51059"": ""100""}",Fairfax,51059,FALSE,FALSE,America/New_York
+22182,38.93568,-77.27194,Vienna,VA,Virginia,TRUE,,26124,857,51059,Fairfax,"{""51059"": ""100""}",Fairfax,51059,FALSE,FALSE,America/New_York
+22185,38.87463,-77.30401,Vienna,VA,Virginia,TRUE,,0,0,51059,Fairfax,"{""51059"": ""0""}",Fairfax,51059,FALSE,FALSE,America/New_York
+22191,38.62411,-77.26905,Woodbridge,VA,Virginia,TRUE,,71019,1734.3,51153,Prince William,"{""51153"": ""100""}",Prince William,51153,FALSE,FALSE,America/New_York
+22192,38.68334,-77.3161,Woodbridge,VA,Virginia,TRUE,,58690,1223.2,51153,Prince William,"{""51153"": ""100""}",Prince William,51153,FALSE,FALSE,America/New_York
+22193,38.64308,-77.34807,Woodbridge,VA,Virginia,TRUE,,82309,1797.2,51153,Prince William,"{""51153"": ""100""}",Prince William,51153,FALSE,FALSE,America/New_York
+22201,38.88665,-77.09518,Arlington,VA,Virginia,TRUE,,38541,6369.5,51013,Arlington,"{""51013"": ""100""}",Arlington,51013,FALSE,FALSE,America/New_York
+22202,38.85639,-77.0517,Arlington,VA,Virginia,TRUE,,25409,2536.1,51013,Arlington,"{""51013"": ""100""}",Arlington,51013,FALSE,FALSE,America/New_York
+22203,38.87376,-77.11726,Arlington,VA,Virginia,TRUE,,24309,6141.9,51013,Arlington,"{""51013"": ""100""}",Arlington,51013,FALSE,FALSE,America/New_York
+22204,38.86083,-77.09894,Arlington,VA,Virginia,TRUE,,54617,5117.9,51013,Arlington,"{""51013"": ""100""}",Arlington,51013,FALSE,FALSE,America/New_York
+22205,38.88348,-77.13957,Arlington,VA,Virginia,TRUE,,18982,2699.6,51013,Arlington,"{""51013"": ""99.9"", ""51610"": ""0.1""}",Arlington|Falls Church,51013|51610,FALSE,FALSE,America/New_York
+22206,38.84412,-77.08891,Arlington,VA,Virginia,TRUE,,20508,3855.6,51013,Arlington,"{""51013"": ""98.08"", ""51510"": ""1.92""}",Arlington|Alexandria,51013|51510,FALSE,FALSE,America/New_York
+22207,38.90662,-77.12384,Arlington,VA,Virginia,TRUE,,33170,1987.8,51013,Arlington,"{""51013"": ""99.72"", ""51059"": ""0.28""}",Arlington|Fairfax,51013|51059,FALSE,FALSE,America/New_York
+22209,38.89469,-77.07532,Arlington,VA,Virginia,TRUE,,13227,8510.5,51013,Arlington,"{""51013"": ""100""}",Arlington,51013,FALSE,FALSE,America/New_York
+22211,38.8802,-77.07067,Fort Myer,VA,Virginia,TRUE,,1353,298.7,51013,Arlington,"{""51013"": ""100""}",Arlington,51013,FALSE,FALSE,America/New_York
+22213,38.89529,-77.16244,Arlington,VA,Virginia,TRUE,,3713,2471,51013,Arlington,"{""51013"": ""100""}",Arlington,51013,FALSE,FALSE,America/New_York
+22214,38.86883,-77.07397,Arlington,VA,Virginia,TRUE,,0,0,51013,Arlington,"{""51013"": ""0""}",Arlington,51013,FALSE,FALSE,America/New_York
+22301,38.82002,-77.05961,Alexandria,VA,Virginia,TRUE,,13377,3660.2,51510,Alexandria,"{""51510"": ""100""}",Alexandria,51510,FALSE,FALSE,America/New_York
+22302,38.8281,-77.08485,Alexandria,VA,Virginia,TRUE,,17566,3030.9,51510,Alexandria,"{""51510"": ""94.62"", ""51059"": ""5.38""}",Alexandria|Fairfax,51510|51059,FALSE,FALSE,America/New_York
+22303,38.79331,-77.07853,Alexandria,VA,Virginia,TRUE,,14558,3873.3,51059,Fairfax,"{""51059"": ""100""}",Fairfax,51059,FALSE,FALSE,America/New_York
+22304,38.81377,-77.11394,Alexandria,VA,Virginia,TRUE,,48510,4040.8,51510,Alexandria,"{""51510"": ""99.63"", ""51059"": ""0.37""}",Alexandria|Fairfax,51510|51059,FALSE,FALSE,America/New_York
+22305,38.83646,-77.06247,Alexandria,VA,Virginia,TRUE,,18579,5318.7,51510,Alexandria,"{""51510"": ""100""}",Alexandria,51510,FALSE,FALSE,America/New_York
+22306,38.7567,-77.0929,Alexandria,VA,Virginia,TRUE,,35425,1888.8,51059,Fairfax,"{""51059"": ""100""}",Fairfax,51059,FALSE,FALSE,America/New_York
+22307,38.77203,-77.05739,Alexandria,VA,Virginia,TRUE,,9902,1321.4,51059,Fairfax,"{""51059"": ""100""}",Fairfax,51059,FALSE,FALSE,America/New_York
+22308,38.73131,-77.05774,Alexandria,VA,Virginia,TRUE,,13610,1169.4,51059,Fairfax,"{""51059"": ""100""}",Fairfax,51059,FALSE,FALSE,America/New_York
+22309,38.71932,-77.10725,Alexandria,VA,Virginia,TRUE,,37464,1921.4,51059,Fairfax,"{""51059"": ""100""}",Fairfax,51059,FALSE,FALSE,America/New_York
+22310,38.78468,-77.12148,Alexandria,VA,Virginia,TRUE,,32380,1743.5,51059,Fairfax,"{""51059"": ""100""}",Fairfax,51059,FALSE,FALSE,America/New_York
+22311,38.83438,-77.12238,Alexandria,VA,Virginia,TRUE,,19002,4768.3,51510,Alexandria,"{""51510"": ""92.95"", ""51059"": ""7.05""}",Alexandria|Fairfax,51510|51059,FALSE,FALSE,America/New_York
+22312,38.81648,-77.15368,Alexandria,VA,Virginia,TRUE,,32566,2343,51059,Fairfax,"{""51059"": ""76.18"", ""51510"": ""23.82""}",Fairfax|Alexandria,51059|51510,FALSE,FALSE,America/New_York
+22314,38.80723,-77.05683,Alexandria,VA,Virginia,TRUE,,34378,3489.2,51510,Alexandria,"{""51510"": ""100""}",Alexandria,51510,FALSE,FALSE,America/New_York
+22315,38.756,-77.15058,Alexandria,VA,Virginia,TRUE,,29470,2081,51059,Fairfax,"{""51059"": ""100""}",Fairfax,51059,FALSE,FALSE,America/New_York
+22401,38.29918,-77.48713,Fredericksburg,VA,Virginia,TRUE,,28622,1057.3,51630,Fredericksburg,"{""51630"": ""100""}",Fredericksburg,51630,FALSE,FALSE,America/New_York
+22405,38.31521,-77.40371,Fredericksburg,VA,Virginia,TRUE,,31747,232.2,51179,Stafford,"{""51179"": ""100""}",Stafford,51179,FALSE,FALSE,America/New_York
+22406,38.40022,-77.55114,Fredericksburg,VA,Virginia,TRUE,,26256,139.6,51179,Stafford,"{""51179"": ""99.92"", ""51061"": ""0.08""}",Stafford|Fauquier,51179|51061,FALSE,FALSE,America/New_York
+22407,38.2834,-77.57529,Fredericksburg,VA,Virginia,TRUE,,58826,400.5,51177,Spotsylvania,"{""51177"": ""100""}",Spotsylvania,51177,FALSE,FALSE,America/New_York
+22408,38.22075,-77.44514,Fredericksburg,VA,Virginia,TRUE,,30285,254.6,51177,Spotsylvania,"{""51177"": ""99.08"", ""51033"": ""0.92""}",Spotsylvania|Caroline,51177|51033,FALSE,FALSE,America/New_York
+22427,38.09231,-77.27064,Bowling Green,VA,Virginia,TRUE,,5349,13.5,51033,Caroline,"{""51033"": ""100""}",Caroline,51033,FALSE,FALSE,America/New_York
+22432,37.86906,-76.34909,Burgess,VA,Virginia,TRUE,,241,22.5,51133,Northumberland,"{""51133"": ""100""}",Northumberland,51133,FALSE,FALSE,America/New_York
+22433,38.3579,-77.86348,Burr Hill,VA,Virginia,TRUE,,427,39.3,51137,Orange,"{""51137"": ""100""}",Orange,51137,FALSE,FALSE,America/New_York
+22435,37.9717,-76.57188,Callao,VA,Virginia,TRUE,,2471,37.3,51133,Northumberland,"{""51133"": ""94.63"", ""51159"": ""4.18"", ""51193"": ""1.19""}",Northumberland|Richmond|Westmoreland,51133|51159|51193,FALSE,FALSE,America/New_York
+22436,38.04212,-77.07106,Caret,VA,Virginia,TRUE,,736,10,51057,Essex,"{""51057"": ""100""}",Essex,51057,FALSE,FALSE,America/New_York
+22437,37.77657,-76.80916,Center Cross,VA,Virginia,TRUE,,888,8.3,51057,Essex,"{""51057"": ""84.69"", ""51097"": ""15.31""}",Essex|King and Queen,51057|51097,FALSE,FALSE,America/New_York
+22438,38.03834,-76.99114,Champlain,VA,Virginia,TRUE,,358,3.3,51057,Essex,"{""51057"": ""100""}",Essex,51057,FALSE,FALSE,America/New_York
+22443,38.17862,-76.9962,Colonial Beach,VA,Virginia,TRUE,,8872,56.2,51193,Westmoreland,"{""51193"": ""100""}",Westmoreland,51193,FALSE,FALSE,America/New_York
+22448,38.3405,-77.03217,Dahlgren,VA,Virginia,TRUE,,646,59.3,51099,King George,"{""51099"": ""100""}",King George,51099,FALSE,FALSE,America/New_York
+22454,37.84077,-76.84591,Dunnsville,VA,Virginia,TRUE,,1746,16.6,51057,Essex,"{""51057"": ""100""}",Essex,51057,FALSE,FALSE,America/New_York
+22460,37.87589,-76.60731,Farnham,VA,Virginia,TRUE,,1344,9,51159,Richmond,"{""51159"": ""100""}",Richmond,51159,FALSE,FALSE,America/New_York
+22469,38.07,-76.6536,Hague,VA,Virginia,TRUE,,1738,21.5,51193,Westmoreland,"{""51193"": ""100""}",Westmoreland,51193,FALSE,FALSE,America/New_York
+22473,37.88529,-76.41935,Heathsville,VA,Virginia,TRUE,,5061,17.4,51133,Northumberland,"{""51133"": ""98.39"", ""51103"": ""1.61""}",Northumberland|Lancaster,51133|51103,FALSE,FALSE,America/New_York
+22476,38.04281,-77.07113,Hustle,VA,Virginia,TRUE,,238,5.2,51057,Essex,"{""51057"": ""100""}",Essex,51057,FALSE,FALSE,America/New_York
+22480,37.66653,-76.41511,Irvington,VA,Virginia,TRUE,,647,97.7,51103,Lancaster,"{""51103"": ""100""}",Lancaster,51103,FALSE,FALSE,America/New_York
+22482,37.73409,-76.35442,Kilmarnock,VA,Virginia,TRUE,,3173,40.2,51103,Lancaster,"{""51103"": ""65.69"", ""51133"": ""34.31""}",Lancaster|Northumberland,51103|51133,FALSE,FALSE,America/New_York
+22485,38.27166,-77.16006,King George,VA,Virginia,TRUE,,25606,56.3,51099,King George,"{""51099"": ""99.92"", ""51193"": ""0.08""}",King George|Westmoreland,51099|51193,FALSE,FALSE,America/New_York
+22488,38.04632,-76.59111,Kinsale,VA,Virginia,TRUE,,860,12.2,51193,Westmoreland,"{""51193"": ""100""}",Westmoreland,51193,FALSE,FALSE,America/New_York
+22503,37.76227,-76.50215,Lancaster,VA,Virginia,TRUE,,3208,14.1,51103,Lancaster,"{""51103"": ""100""}",Lancaster,51103,FALSE,FALSE,America/New_York
+22504,37.76328,-76.71059,Laneview,VA,Virginia,TRUE,,384,16.3,51057,Essex,"{""51057"": ""82.51"", ""51119"": ""17.49""}",Essex|Middlesex,51057|51119,FALSE,FALSE,America/New_York
+22508,38.31812,-77.78725,Locust Grove,VA,Virginia,TRUE,,14750,102.9,51137,Orange,"{""51137"": ""91.87"", ""51177"": ""8.13""}",Orange|Spotsylvania,51137|51177,FALSE,FALSE,America/New_York
+22509,38.12101,-77.07479,Loretto,VA,Virginia,TRUE,,102,3.4,51057,Essex,"{""51057"": ""100""}",Essex,51057,FALSE,FALSE,America/New_York
+22511,37.98868,-76.50515,Lottsburg,VA,Virginia,TRUE,,871,23.7,51133,Northumberland,"{""51133"": ""100""}",Northumberland,51133,FALSE,FALSE,America/New_York
+22514,37.97427,-77.24636,Milford,VA,Virginia,TRUE,,2195,9.7,51033,Caroline,"{""51033"": ""99.73"", ""51097"": ""0.27""}",Caroline|King and Queen,51033|51097,FALSE,FALSE,America/New_York
+22520,38.11794,-76.80415,Montross,VA,Virginia,TRUE,,5636,23.8,51193,Westmoreland,"{""51193"": ""100""}",Westmoreland,51193,FALSE,FALSE,America/New_York
+22529,38.00963,-76.68586,Oldhams,VA,Virginia,TRUE,,154,5.4,51193,Westmoreland,"{""51193"": ""100""}",Westmoreland,51193,FALSE,FALSE,America/New_York
+22530,37.90103,-76.28057,Ophelia,VA,Virginia,TRUE,,168,43.1,51133,Northumberland,"{""51133"": ""100""}",Northumberland,51133,FALSE,FALSE,America/New_York
+22534,38.0794,-77.67173,Partlow,VA,Virginia,TRUE,,3228,36.7,51177,Spotsylvania,"{""51177"": ""100""}",Spotsylvania,51177,FALSE,FALSE,America/New_York
+22535,38.1521,-77.16466,Port Royal,VA,Virginia,TRUE,,554,22.5,51033,Caroline,"{""51033"": ""100""}",Caroline,51033,FALSE,FALSE,America/New_York
+22538,38.2062,-77.25121,Rappahannock Academy,VA,Virginia,TRUE,,121,3.5,51033,Caroline,"{""51033"": ""100""}",Caroline,51033,FALSE,FALSE,America/New_York
+22539,37.85905,-76.28774,Reedville,VA,Virginia,TRUE,,2234,50.7,51133,Northumberland,"{""51133"": ""100""}",Northumberland,51133,FALSE,FALSE,America/New_York
+22542,38.29321,-77.88264,Rhoadesville,VA,Virginia,TRUE,,1761,32.9,51137,Orange,"{""51137"": ""100""}",Orange,51137,FALSE,FALSE,America/New_York
+22546,37.94192,-77.44866,Ruther Glen,VA,Virginia,TRUE,,16334,38.9,51033,Caroline,"{""51033"": ""96.86"", ""51085"": ""3.14""}",Caroline|Hanover,51033|51085,FALSE,FALSE,America/New_York
+22548,37.8293,-76.69244,Sharps,VA,Virginia,TRUE,,511,198.5,51159,Richmond,"{""51159"": ""100""}",Richmond,51159,FALSE,FALSE,America/New_York
+22551,38.16843,-77.70157,Spotsylvania,VA,Virginia,TRUE,,19571,43.4,51177,Spotsylvania,"{""51177"": ""100""}",Spotsylvania,51177,FALSE,FALSE,America/New_York
+22553,38.271,-77.64475,Spotsylvania,VA,Virginia,TRUE,,15761,136.3,51177,Spotsylvania,"{""51177"": ""100""}",Spotsylvania,51177,FALSE,FALSE,America/New_York
+22554,38.42691,-77.37803,Stafford,VA,Virginia,TRUE,,57447,334.1,51179,Stafford,"{""51179"": ""100""}",Stafford,51179,FALSE,FALSE,America/New_York
+22556,38.47178,-77.51021,Stafford,VA,Virginia,TRUE,,29386,359.1,51179,Stafford,"{""51179"": ""100""}",Stafford,51179,FALSE,FALSE,America/New_York
+22560,37.91429,-76.96102,Tappahannock,VA,Virginia,TRUE,,6435,27.3,51057,Essex,"{""51057"": ""97.49"", ""51097"": ""2.51""}",Essex|King and Queen,51057|51097,FALSE,FALSE,America/New_York
+22567,38.23434,-77.92369,Unionville,VA,Virginia,TRUE,,3552,29.1,51137,Orange,"{""51137"": ""100""}",Orange,51137,FALSE,FALSE,America/New_York
+22572,37.97584,-76.77804,Warsaw,VA,Virginia,TRUE,,7227,20.1,51159,Richmond,"{""51159"": ""96.43"", ""51193"": ""3.57""}",Richmond|Westmoreland,51159|51193,FALSE,FALSE,America/New_York
+22576,37.69171,-76.43585,Weems,VA,Virginia,TRUE,,2513,88.1,51103,Lancaster,"{""51103"": ""100""}",Lancaster,51103,FALSE,FALSE,America/New_York
+22578,37.65077,-76.36241,White Stone,VA,Virginia,TRUE,,2526,52.5,51103,Lancaster,"{""51103"": ""100""}",Lancaster,51103,FALSE,FALSE,America/New_York
+22579,37.80346,-76.32027,Wicomico Church,VA,Virginia,TRUE,,71,32.6,51133,Northumberland,"{""51133"": ""100""}",Northumberland,51133,FALSE,FALSE,America/New_York
+22580,38.10885,-77.44633,Woodford,VA,Virginia,TRUE,,5074,21.8,51033,Caroline,"{""51033"": ""91.38"", ""51177"": ""8.62""}",Caroline|Spotsylvania,51033|51177,FALSE,FALSE,America/New_York
+22601,39.17472,-78.17353,Winchester,VA,Virginia,TRUE,,28925,1136.2,51840,Winchester,"{""51840"": ""94.21"", ""51069"": ""5.79""}",Winchester|Frederick,51840|51069,FALSE,FALSE,America/New_York
+22602,39.14989,-78.26622,Winchester,VA,Virginia,TRUE,,29616,103.9,51069,Frederick,"{""51069"": ""100""}",Frederick,51069,FALSE,FALSE,America/New_York
+22603,39.27922,-78.20376,Winchester,VA,Virginia,TRUE,,16030,63.1,51069,Frederick,"{""51069"": ""100""}",Frederick,51069,FALSE,FALSE,America/New_York
+22610,38.81812,-78.27942,Bentonville,VA,Virginia,TRUE,,1735,13,51187,Warren,"{""51187"": ""100""}",Warren,51187,FALSE,FALSE,America/New_York
+22611,39.16474,-77.98393,Berryville,VA,Virginia,TRUE,,8954,42.8,51043,Clarke,"{""51043"": ""100""}",Clarke,51043,FALSE,FALSE,America/New_York
+22620,39.0659,-78.03319,Boyce,VA,Virginia,TRUE,,2653,22.4,51043,Clarke,"{""51043"": ""100""}",Clarke,51043,FALSE,FALSE,America/New_York
+22623,38.85156,-78.13737,Chester Gap,VA,Virginia,TRUE,,966,309.4,51157,Rappahannock,"{""51157"": ""80.15"", ""51187"": ""19.85""}",Rappahannock|Warren,51157|51187,FALSE,FALSE,America/New_York
+22624,39.26514,-78.09184,Clear Brook,VA,Virginia,TRUE,,2816,56.4,51069,Frederick,"{""51069"": ""100""}",Frederick,51069,FALSE,FALSE,America/New_York
+22625,39.37443,-78.30802,Cross Junction,VA,Virginia,TRUE,,3469,30.6,51069,Frederick,"{""51069"": ""100""}",Frederick,51069,FALSE,FALSE,America/New_York
+22627,38.76416,-78.11755,Flint Hill,VA,Virginia,TRUE,,704,8.3,51157,Rappahannock,"{""51157"": ""100""}",Rappahannock,51157,FALSE,FALSE,America/New_York
+22630,38.92857,-78.17669,Front Royal,VA,Virginia,TRUE,,32321,95.6,51187,Warren,"{""51187"": ""98.35"", ""51069"": ""1.54"", ""51043"": ""0.07"", ""51061"": ""0.04""}",Warren|Frederick|Clarke|Fauquier,51187|51069|51043|51061,FALSE,FALSE,America/New_York
+22637,39.25095,-78.35907,Gore,VA,Virginia,TRUE,,2443,21.2,51069,Frederick,"{""51069"": ""100""}",Frederick,51069,FALSE,FALSE,America/New_York
+22639,38.81492,-78.02296,Hume,VA,Virginia,TRUE,,544,11.3,51061,Fauquier,"{""51061"": ""100""}",Fauquier,51061,FALSE,FALSE,America/New_York
+22640,38.8088,-78.12882,Huntly,VA,Virginia,TRUE,,459,7.5,51157,Rappahannock,"{""51157"": ""100""}",Rappahannock,51157,FALSE,FALSE,America/New_York
+22641,39.08061,-78.39151,Strasburg,VA,Virginia,TRUE,,359,21,51171,Shenandoah,"{""51171"": ""100""}",Shenandoah,51171,FALSE,FALSE,America/New_York
+22642,38.9103,-78.04202,Linden,VA,Virginia,TRUE,,5022,38,51187,Warren,"{""51187"": ""84.01"", ""51061"": ""15.99""}",Warren|Fauquier,51187|51061,FALSE,FALSE,America/New_York
+22643,38.88404,-77.98651,Markham,VA,Virginia,TRUE,,289,19.4,51061,Fauquier,"{""51061"": ""100""}",Fauquier,51061,FALSE,FALSE,America/New_York
+22644,38.95277,-78.48929,Maurertown,VA,Virginia,TRUE,,2376,24.4,51171,Shenandoah,"{""51171"": ""100""}",Shenandoah,51171,FALSE,FALSE,America/New_York
+22645,39.02148,-78.27515,Middletown,VA,Virginia,TRUE,,4279,46.4,51069,Frederick,"{""51069"": ""70.03"", ""51187"": ""29.97""}",Frederick|Warren,51069|51187,FALSE,FALSE,America/New_York
+22646,39.07133,-78.04206,Millwood,VA,Virginia,TRUE,,83,16.3,51043,Clarke,"{""51043"": ""100""}",Clarke,51043,FALSE,FALSE,America/New_York
+22650,38.75957,-78.35993,Rileyville,VA,Virginia,TRUE,,499,6.7,51139,Page,"{""51139"": ""100""}",Page,51139,FALSE,FALSE,America/New_York
+22652,38.83988,-78.42848,Fort Valley,VA,Virginia,TRUE,,1543,8.5,51171,Shenandoah,"{""51171"": ""100""}",Shenandoah,51171,FALSE,FALSE,America/New_York
+22654,39.03066,-78.51986,Star Tannery,VA,Virginia,TRUE,,875,5.5,51069,Frederick,"{""51069"": ""81.72"", ""51171"": ""18.28""}",Frederick|Shenandoah,51069|51171,FALSE,FALSE,America/New_York
+22655,39.06535,-78.2144,Stephens City,VA,Virginia,TRUE,,21982,241.2,51069,Frederick,"{""51069"": ""99.56"", ""51187"": ""0.44""}",Frederick|Warren,51069|51187,FALSE,FALSE,America/New_York
+22656,39.21887,-78.08885,Stephenson,VA,Virginia,TRUE,,3527,162.2,51069,Frederick,"{""51069"": ""100""}",Frederick,51069,FALSE,FALSE,America/New_York
+22657,39.00546,-78.37231,Strasburg,VA,Virginia,TRUE,,10738,67.2,51171,Shenandoah,"{""51171"": ""92.24"", ""51187"": ""7.76""}",Shenandoah|Warren,51171|51187,FALSE,FALSE,America/New_York
+22660,38.94958,-78.43203,Toms Brook,VA,Virginia,TRUE,,1943,81.7,51171,Shenandoah,"{""51171"": ""100""}",Shenandoah,51171,FALSE,FALSE,America/New_York
+22663,39.05633,-78.11478,White Post,VA,Virginia,TRUE,,1108,19.4,51069,Frederick,"{""51069"": ""54.56"", ""51043"": ""45.44""}",Frederick|Clarke,51069|51043,FALSE,FALSE,America/New_York
+22664,38.8882,-78.53037,Woodstock,VA,Virginia,TRUE,,9457,73,51171,Shenandoah,"{""51171"": ""100""}",Shenandoah,51171,FALSE,FALSE,America/New_York
+22701,38.43912,-77.99759,Culpeper,VA,Virginia,TRUE,,35495,83.9,51047,Culpeper,"{""51047"": ""95.51"", ""51137"": ""2.65"", ""51113"": ""1.84""}",Culpeper|Orange|Madison,51047|51137|51113,FALSE,FALSE,America/New_York
+22709,38.33179,-78.21874,Aroda,VA,Virginia,TRUE,,1414,42.4,51113,Madison,"{""51113"": ""100""}",Madison,51113,FALSE,FALSE,America/New_York
+22711,38.46468,-78.27033,Banco,VA,Virginia,TRUE,,26,4.3,51113,Madison,"{""51113"": ""100""}",Madison,51113,FALSE,FALSE,America/New_York
+22712,38.56057,-77.75891,Bealeton,VA,Virginia,TRUE,,9094,96.9,51061,Fauquier,"{""51061"": ""100""}",Fauquier,51061,FALSE,FALSE,America/New_York
+22713,38.54958,-78.13123,Boston,VA,Virginia,TRUE,,1721,24.9,51047,Culpeper,"{""51047"": ""78.24"", ""51157"": ""21.76""}",Culpeper|Rappahannock,51047|51157,FALSE,FALSE,America/New_York
+22714,38.52132,-77.89738,Brandy Station,VA,Virginia,TRUE,,1133,19.6,51047,Culpeper,"{""51047"": ""100""}",Culpeper,51047,FALSE,FALSE,America/New_York
+22715,38.41144,-78.18341,Brightwood,VA,Virginia,TRUE,,1230,52.4,51113,Madison,"{""51113"": ""100""}",Madison,51113,FALSE,FALSE,America/New_York
+22716,38.62574,-78.11034,Castleton,VA,Virginia,TRUE,,507,7.8,51157,Rappahannock,"{""51157"": ""100""}",Rappahannock,51157,FALSE,FALSE,America/New_York
+22718,38.47364,-77.82243,Elkwood,VA,Virginia,TRUE,,528,8.3,51047,Culpeper,"{""51047"": ""100""}",Culpeper,51047,FALSE,FALSE,America/New_York
+22719,38.53063,-78.2857,Etlan,VA,Virginia,TRUE,,255,4.8,51113,Madison,"{""51113"": ""100""}",Madison,51113,FALSE,FALSE,America/New_York
+22720,38.47674,-77.64538,Goldvein,VA,Virginia,TRUE,,1030,19.3,51061,Fauquier,"{""51061"": ""100""}",Fauquier,51061,FALSE,FALSE,America/New_York
+22722,38.46159,-78.22953,Haywood,VA,Virginia,TRUE,,244,26.8,51113,Madison,"{""51113"": ""100""}",Madison,51113,FALSE,FALSE,America/New_York
+22723,38.34037,-78.38698,Hood,VA,Virginia,TRUE,,121,11,51113,Madison,"{""51113"": ""100""}",Madison,51113,FALSE,FALSE,America/New_York
+22724,38.61641,-77.90101,Jeffersonton,VA,Virginia,TRUE,,2102,38.5,51047,Culpeper,"{""51047"": ""100""}",Culpeper,51047,FALSE,FALSE,America/New_York
+22726,38.40137,-77.82228,Lignum,VA,Virginia,TRUE,,743,18.2,51047,Culpeper,"{""51047"": ""100""}",Culpeper,51047,FALSE,FALSE,America/New_York
+22727,38.3984,-78.29888,Madison,VA,Virginia,TRUE,,5765,22,51113,Madison,"{""51113"": ""100""}",Madison,51113,FALSE,FALSE,America/New_York
+22728,38.58746,-77.694,Midland,VA,Virginia,TRUE,,2834,24.2,51061,Fauquier,"{""51061"": ""100""}",Fauquier,51061,FALSE,FALSE,America/New_York
+22729,38.37307,-78.01428,Mitchells,VA,Virginia,TRUE,,1312,91.6,51047,Culpeper,"{""51047"": ""100""}",Culpeper,51047,FALSE,FALSE,America/New_York
+22730,38.36732,-78.16271,Oakpark,VA,Virginia,TRUE,,223,25.3,51113,Madison,"{""51113"": ""100""}",Madison,51113,FALSE,FALSE,America/New_York
+22731,38.3366,-78.25749,Pratts,VA,Virginia,TRUE,,39,17,51113,Madison,"{""51113"": ""100""}",Madison,51113,FALSE,FALSE,America/New_York
+22732,38.31466,-78.18995,Radiant,VA,Virginia,TRUE,,217,49.5,51113,Madison,"{""51113"": ""100""}",Madison,51113,FALSE,FALSE,America/New_York
+22733,38.33041,-78.04156,Rapidan,VA,Virginia,TRUE,,917,7.5,51047,Culpeper,"{""51047"": ""60.79"", ""51137"": ""35.53"", ""51113"": ""3.68""}",Culpeper|Orange|Madison,51047|51137|51113,FALSE,FALSE,America/New_York
+22734,38.5263,-77.80406,Remington,VA,Virginia,TRUE,,3480,44.7,51061,Fauquier,"{""51061"": ""94.67"", ""51047"": ""5.33""}",Fauquier|Culpeper,51061|51047,FALSE,FALSE,America/New_York
+22735,38.47751,-78.17377,Reva,VA,Virginia,TRUE,,2764,32.1,51047,Culpeper,"{""51047"": ""59.6"", ""51113"": ""40.4""}",Culpeper|Madison,51047|51113,FALSE,FALSE,America/New_York
+22736,38.39738,-77.70494,Richardsville,VA,Virginia,TRUE,,810,10.9,51047,Culpeper,"{""51047"": ""100""}",Culpeper,51047,FALSE,FALSE,America/New_York
+22737,38.59064,-78.00326,Rixeyville,VA,Virginia,TRUE,,3348,32.1,51047,Culpeper,"{""51047"": ""100""}",Culpeper,51047,FALSE,FALSE,America/New_York
+22738,38.28824,-78.2774,Rochelle,VA,Virginia,TRUE,,1513,21.6,51113,Madison,"{""51113"": ""100""}",Madison,51113,FALSE,FALSE,America/New_York
+22740,38.64178,-78.25706,Sperryville,VA,Virginia,TRUE,,873,4.3,51157,Rappahannock,"{""51157"": ""93.91"", ""51047"": ""4.19"", ""51113"": ""1.9""}",Rappahannock|Culpeper|Madison,51157|51047|51113,FALSE,FALSE,America/New_York
+22741,38.43522,-77.87336,Stevensburg,VA,Virginia,TRUE,,165,7.7,51047,Culpeper,"{""51047"": ""100""}",Culpeper,51047,FALSE,FALSE,America/New_York
+22742,38.46197,-77.71673,Sumerduck,VA,Virginia,TRUE,,1889,32.9,51061,Fauquier,"{""51061"": ""100""}",Fauquier,51061,FALSE,FALSE,America/New_York
+22743,38.52137,-78.36909,Syria,VA,Virginia,TRUE,,259,1.6,51113,Madison,"{""51113"": ""100""}",Madison,51113,FALSE,FALSE,America/New_York
+22747,38.71213,-78.16735,Washington,VA,Virginia,TRUE,,1367,13.6,51157,Rappahannock,"{""51157"": ""100""}",Rappahannock,51157,FALSE,FALSE,America/New_York
+22749,38.62021,-78.18178,Woodville,VA,Virginia,TRUE,,228,4.6,51157,Rappahannock,"{""51157"": ""100""}",Rappahannock,51157,FALSE,FALSE,America/New_York
+22801,38.40459,-78.87716,Harrisonburg,VA,Virginia,TRUE,,41572,494.1,51660,Harrisonburg,"{""51660"": ""73.73"", ""51165"": ""26.27""}",Harrisonburg|Rockingham,51660|51165,FALSE,FALSE,America/New_York
+22802,38.49949,-78.86195,Harrisonburg,VA,Virginia,TRUE,,29069,124,51660,Harrisonburg,"{""51660"": ""66.91"", ""51165"": ""33.09""}",Harrisonburg|Rockingham,51660|51165,FALSE,FALSE,America/New_York
+22807,38.43417,-78.86733,Harrisonburg,VA,Virginia,TRUE,,3161,2869,51660,Harrisonburg,"{""51660"": ""100""}",Harrisonburg,51660,FALSE,FALSE,America/New_York
+22810,38.82936,-78.79788,Basye,VA,Virginia,TRUE,,613,9.5,51171,Shenandoah,"{""51171"": ""100""}",Shenandoah,51171,FALSE,FALSE,America/New_York
+22811,38.78999,-78.97873,Bergton,VA,Virginia,TRUE,,619,7.5,51165,Rockingham,"{""51165"": ""100""}",Rockingham,51165,FALSE,FALSE,America/New_York
+22812,38.37724,-79.02623,Bridgewater,VA,Virginia,TRUE,,8952,80.1,51165,Rockingham,"{""51165"": ""91.76"", ""51015"": ""8.24""}",Rockingham|Augusta,51165|51015,FALSE,FALSE,America/New_York
+22815,38.63019,-78.80938,Broadway,VA,Virginia,TRUE,,9337,50.2,51165,Rockingham,"{""51165"": ""99.66"", ""51171"": ""0.34""}",Rockingham|Shenandoah,51165|51171,FALSE,FALSE,America/New_York
+22820,38.72812,-79.01629,Criders,VA,Virginia,TRUE,,287,4.9,51165,Rockingham,"{""51165"": ""100""}",Rockingham,51165,FALSE,FALSE,America/New_York
+22821,38.47071,-79.08519,Dayton,VA,Virginia,TRUE,,5428,25.6,51165,Rockingham,"{""51165"": ""100""}",Rockingham,51165,FALSE,FALSE,America/New_York
+22824,38.83901,-78.63065,Edinburg,VA,Virginia,TRUE,,6253,28.1,51171,Shenandoah,"{""51171"": ""100""}",Shenandoah,51171,FALSE,FALSE,America/New_York
+22827,38.41139,-78.59939,Elkton,VA,Virginia,TRUE,,10289,29.1,51165,Rockingham,"{""51165"": ""94.18"", ""51139"": ""5.82""}",Rockingham|Page,51165|51139,FALSE,FALSE,America/New_York
+22830,38.65653,-78.97464,Fulks Run,VA,Virginia,TRUE,,1867,6.4,51165,Rockingham,"{""51165"": ""100""}",Rockingham,51165,FALSE,FALSE,America/New_York
+22831,38.56888,-79.0885,Hinton,VA,Virginia,TRUE,,1199,7.6,51165,Rockingham,"{""51165"": ""100""}",Rockingham,51165,FALSE,FALSE,America/New_York
+22832,38.45465,-78.75839,Keezletown,VA,Virginia,TRUE,,1085,17.2,51165,Rockingham,"{""51165"": ""100""}",Rockingham,51165,FALSE,FALSE,America/New_York
+22834,38.55867,-78.86025,Linville,VA,Virginia,TRUE,,1055,22.9,51165,Rockingham,"{""51165"": ""100""}",Rockingham,51165,FALSE,FALSE,America/New_York
+22835,38.67241,-78.45251,Luray,VA,Virginia,TRUE,,11593,29.7,51139,Page,"{""51139"": ""100"", ""51113"": ""0""}",Page|Madison,51139|51113,FALSE,FALSE,America/New_York
+22840,38.37711,-78.74042,McGaheysville,VA,Virginia,TRUE,,4679,68.5,51165,Rockingham,"{""51165"": ""100""}",Rockingham,51165,FALSE,FALSE,America/New_York
+22841,38.3392,-78.89684,Mount Crawford,VA,Virginia,TRUE,,2747,33.9,51165,Rockingham,"{""51165"": ""96.27"", ""51015"": ""3.73""}",Rockingham|Augusta,51165|51015,FALSE,FALSE,America/New_York
+22842,38.77578,-78.70521,Mount Jackson,VA,Virginia,TRUE,,5374,28.6,51171,Shenandoah,"{""51171"": ""100""}",Shenandoah,51171,FALSE,FALSE,America/New_York
+22843,38.36852,-79.16038,Mount Solon,VA,Virginia,TRUE,,2492,8.5,51015,Augusta,"{""51015"": ""100""}",Augusta,51015,FALSE,FALSE,America/New_York
+22844,38.65573,-78.66018,New Market,VA,Virginia,TRUE,,4802,38.2,51171,Shenandoah,"{""51171"": ""94.5"", ""51165"": ""5.5""}",Shenandoah|Rockingham,51171|51165,FALSE,FALSE,America/New_York
+22845,38.78759,-78.81508,Orkney Springs,VA,Virginia,TRUE,,9,2.6,51171,Shenandoah,"{""51171"": ""100""}",Shenandoah,51171,FALSE,FALSE,America/New_York
+22846,38.37957,-78.78885,Penn Laird,VA,Virginia,TRUE,,2291,79.5,51165,Rockingham,"{""51165"": ""100""}",Rockingham,51165,FALSE,FALSE,America/New_York
+22847,38.72007,-78.72132,Quicksburg,VA,Virginia,TRUE,,861,16,51171,Shenandoah,"{""51171"": ""100""}",Shenandoah,51171,FALSE,FALSE,America/New_York
+22849,38.52589,-78.62304,Shenandoah,VA,Virginia,TRUE,,5318,43.7,51139,Page,"{""51139"": ""96.53"", ""51165"": ""3.47""}",Page|Rockingham,51139|51165,FALSE,FALSE,America/New_York
+22850,38.56071,-78.92444,Singers Glen,VA,Virginia,TRUE,,1102,35.3,51165,Rockingham,"{""51165"": ""100""}",Rockingham,51165,FALSE,FALSE,America/New_York
+22851,38.562,-78.5116,Stanley,VA,Virginia,TRUE,,6057,42.4,51139,Page,"{""51139"": ""100""}",Page,51139,FALSE,FALSE,America/New_York
+22853,38.64841,-78.76397,Timberville,VA,Virginia,TRUE,,3982,42.1,51165,Rockingham,"{""51165"": ""99.06"", ""51171"": ""0.94""}",Rockingham|Shenandoah,51165|51171,FALSE,FALSE,America/New_York
+22901,38.08844,-78.55617,Charlottesville,VA,Virginia,TRUE,,35372,261.9,51003,Albemarle,"{""51003"": ""82.36"", ""51540"": ""17.64""}",Albemarle|Charlottesville,51003|51540,FALSE,FALSE,America/New_York
+22902,37.95389,-78.46997,Charlottesville,VA,Virginia,TRUE,,25245,155.3,51540,Charlottesville,"{""51540"": ""56.72"", ""51003"": ""43.28""}",Charlottesville|Albemarle,51540|51003,FALSE,FALSE,America/New_York
+22903,38.00683,-78.59998,Charlottesville,VA,Virginia,TRUE,,40652,207.5,51540,Charlottesville,"{""51540"": ""66.71"", ""51003"": ""33.29""}",Charlottesville|Albemarle,51540|51003,FALSE,FALSE,America/New_York
+22904,38.03438,-78.51986,Charlottesville,VA,Virginia,TRUE,,4834,2905,51003,Albemarle,"{""51003"": ""95.75"", ""51540"": ""4.25""}",Albemarle|Charlottesville,51003|51540,FALSE,FALSE,America/New_York
+22911,38.09276,-78.40756,Charlottesville,VA,Virginia,TRUE,,17441,131.9,51003,Albemarle,"{""51003"": ""100""}",Albemarle,51003,FALSE,FALSE,America/New_York
+22920,37.97724,-78.81071,Afton,VA,Virginia,TRUE,,3876,19.8,51125,Nelson,"{""51125"": ""65.15"", ""51003"": ""33.87"", ""51015"": ""0.98""}",Nelson|Albemarle|Augusta,51125|51003|51015,FALSE,FALSE,America/New_York
+22922,37.69407,-78.9216,Arrington,VA,Virginia,TRUE,,2145,16.4,51125,Nelson,"{""51125"": ""95.89"", ""51009"": ""4.11""}",Nelson|Amherst,51125|51009,FALSE,FALSE,America/New_York
+22923,38.188,-78.32302,Barboursville,VA,Virginia,TRUE,,5653,43.4,51079,Greene,"{""51079"": ""43.73"", ""51137"": ""31.16"", ""51003"": ""25.1""}",Greene|Orange|Albemarle,51079|51137|51003,FALSE,FALSE,America/New_York
+22931,37.89782,-78.70609,Covesville,VA,Virginia,TRUE,,273,5.8,51003,Albemarle,"{""51003"": ""100""}",Albemarle,51003,FALSE,FALSE,America/New_York
+22932,38.15164,-78.69428,Crozet,VA,Virginia,TRUE,,7721,27.5,51003,Albemarle,"{""51003"": ""100""}",Albemarle,51003,FALSE,FALSE,America/New_York
+22935,38.26218,-78.55554,Dyke,VA,Virginia,TRUE,,965,17.4,51079,Greene,"{""51079"": ""55.4"", ""51003"": ""44.6""}",Greene|Albemarle,51079|51003,FALSE,FALSE,America/New_York
+22936,38.16728,-78.4988,Earlysville,VA,Virginia,TRUE,,4891,51.9,51003,Albemarle,"{""51003"": ""100""}",Albemarle,51003,FALSE,FALSE,America/New_York
+22937,37.80525,-78.61617,Esmont,VA,Virginia,TRUE,,2320,19.6,51003,Albemarle,"{""51003"": ""100""}",Albemarle,51003,FALSE,FALSE,America/New_York
+22938,37.86066,-78.79452,Faber,VA,Virginia,TRUE,,1378,12.5,51125,Nelson,"{""51125"": ""95.01"", ""51003"": ""4.99""}",Nelson|Albemarle,51125|51003,FALSE,FALSE,America/New_York
+22939,38.106,-78.97414,Fishersville,VA,Virginia,TRUE,,6369,147.2,51015,Augusta,"{""51015"": ""100""}",Augusta,51015,FALSE,FALSE,America/New_York
+22940,38.20259,-78.59264,Free Union,VA,Virginia,TRUE,,1406,17.3,51003,Albemarle,"{""51003"": ""87.4"", ""51079"": ""12.6""}",Albemarle|Greene,51003|51079,FALSE,FALSE,America/New_York
+22942,38.10968,-78.19864,Gordonsville,VA,Virginia,TRUE,,9774,33.8,51109,Louisa,"{""51109"": ""48.14"", ""51137"": ""46.05"", ""51003"": ""5.81""}",Louisa|Orange|Albemarle,51109|51137|51003,FALSE,FALSE,America/New_York
+22943,38.03675,-78.77112,Greenwood,VA,Virginia,TRUE,,538,36.6,51003,Albemarle,"{""51003"": ""100""}",Albemarle,51003,FALSE,FALSE,America/New_York
+22946,37.85604,-78.56991,Keene,VA,Virginia,TRUE,,138,12.4,51003,Albemarle,"{""51003"": ""100""}",Albemarle,51003,FALSE,FALSE,America/New_York
+22947,38.04553,-78.32738,Keswick,VA,Virginia,TRUE,,3956,35,51003,Albemarle,"{""51003"": ""94"", ""51109"": ""4.5"", ""51065"": ""1.5""}",Albemarle|Louisa|Fluvanna,51003|51109|51065,FALSE,FALSE,America/New_York
+22948,38.35712,-78.12292,Locust Dale,VA,Virginia,TRUE,,165,11.2,51113,Madison,"{""51113"": ""100""}",Madison,51113,FALSE,FALSE,America/New_York
+22949,37.7872,-78.87341,Lovingston,VA,Virginia,TRUE,,1066,11.2,51125,Nelson,"{""51125"": ""100""}",Nelson,51125,FALSE,FALSE,America/New_York
+22952,37.96317,-78.9651,Lyndhurst,VA,Virginia,TRUE,,1792,14.1,51015,Augusta,"{""51015"": ""100""}",Augusta,51015,FALSE,FALSE,America/New_York
+22958,37.90201,-78.90045,Nellysford,VA,Virginia,TRUE,,1998,26.6,51125,Nelson,"{""51125"": ""98.84"", ""51015"": ""1.16""}",Nelson|Augusta,51125|51015,FALSE,FALSE,America/New_York
+22959,37.94084,-78.65369,North Garden,VA,Virginia,TRUE,,1380,13.7,51003,Albemarle,"{""51003"": ""100""}",Albemarle,51003,FALSE,FALSE,America/New_York
+22960,38.22425,-78.07207,Orange,VA,Virginia,TRUE,,10079,30.3,51137,Orange,"{""51137"": ""87.43"", ""51113"": ""9.46"", ""51177"": ""3.12""}",Orange|Madison|Spotsylvania,51137|51113|51177,FALSE,FALSE,America/New_York
+22963,37.84921,-78.28843,Palmyra,VA,Virginia,TRUE,,16571,52.5,51065,Fluvanna,"{""51065"": ""100""}",Fluvanna,51065,FALSE,FALSE,America/New_York
+22964,37.72093,-79.00043,Piney River,VA,Virginia,TRUE,,298,15.4,51125,Nelson,"{""51125"": ""100""}",Nelson,51125,FALSE,FALSE,America/New_York
+22967,37.79497,-79.01438,Roseland,VA,Virginia,TRUE,,2048,10.1,51125,Nelson,"{""51125"": ""86.66"", ""51009"": ""13.34""}",Nelson|Amherst,51125|51009,FALSE,FALSE,America/New_York
+22968,38.24106,-78.39722,Ruckersville,VA,Virginia,TRUE,,10562,105.8,51079,Greene,"{""51079"": ""96.44"", ""51003"": ""3.56""}",Greene|Albemarle,51079|51003,FALSE,FALSE,America/New_York
+22969,37.79725,-78.69451,Schuyler,VA,Virginia,TRUE,,1866,16.5,51125,Nelson,"{""51125"": ""50.17"", ""51003"": ""49.83""}",Nelson|Albemarle,51125|51003,FALSE,FALSE,America/New_York
+22971,37.74389,-78.80016,Shipman,VA,Virginia,TRUE,,1749,12.6,51125,Nelson,"{""51125"": ""100""}",Nelson,51125,FALSE,FALSE,America/New_York
+22972,38.21615,-78.23029,Somerset,VA,Virginia,TRUE,,267,7.2,51137,Orange,"{""51137"": ""100""}",Orange,51137,FALSE,FALSE,America/New_York
+22973,38.33622,-78.46989,Stanardsville,VA,Virginia,TRUE,,5915,22.3,51079,Greene,"{""51079"": ""98.22"", ""51113"": ""1.78""}",Greene|Madison,51079|51113,FALSE,FALSE,America/New_York
+22974,37.96121,-78.2794,Troy,VA,Virginia,TRUE,,5115,49,51065,Fluvanna,"{""51065"": ""74.39"", ""51109"": ""18.03"", ""51003"": ""7.58""}",Fluvanna|Louisa|Albemarle,51065|51109|51003,FALSE,FALSE,America/New_York
+22976,37.83379,-79.05924,Tyro,VA,Virginia,TRUE,,587,5.9,51125,Nelson,"{""51125"": ""100""}",Nelson,51125,FALSE,FALSE,America/New_York
+22980,38.09565,-78.88513,Waynesboro,VA,Virginia,TRUE,,32337,167.7,51820,Waynesboro,"{""51820"": ""66.79"", ""51015"": ""33.21""}",Waynesboro|Augusta,51820|51015,FALSE,FALSE,America/New_York
+22989,38.29122,-78.12248,Woodberry Forest,VA,Virginia,TRUE,,17,4.5,51113,Madison,"{""51113"": ""100""}",Madison,51113,FALSE,FALSE,America/New_York
+23002,37.35065,-77.96877,Amelia Court House,VA,Virginia,TRUE,,9986,14.8,51007,Amelia,"{""51007"": ""99.46"", ""51135"": ""0.54""}",Amelia|Nottoway,51007|51135,FALSE,FALSE,America/New_York
+23004,37.68225,-78.40866,Arvonia,VA,Virginia,TRUE,,750,7.3,51029,Buckingham,"{""51029"": ""100""}",Buckingham,51029,FALSE,FALSE,America/New_York
+23005,37.75956,-77.48221,Ashland,VA,Virginia,TRUE,,17602,100.9,51085,Hanover,"{""51085"": ""100""}",Hanover,51085,FALSE,FALSE,America/New_York
+23009,37.81386,-77.18737,Aylett,VA,Virginia,TRUE,,6629,32.9,51101,King William,"{""51101"": ""100""}",King William,51101,FALSE,FALSE,America/New_York
+23011,37.47681,-76.80954,Barhamsville,VA,Virginia,TRUE,,1345,23.8,51127,New Kent,"{""51127"": ""100""}",New Kent,51127,FALSE,FALSE,America/New_York
+23015,37.92909,-77.62554,Beaverdam,VA,Virginia,TRUE,,3853,18.3,51085,Hanover,"{""51085"": ""74.72"", ""51177"": ""14.47"", ""51033"": ""9.6"", ""51109"": ""1.2""}",Hanover|Spotsylvania|Caroline|Louisa,51085|51177|51033|51109,FALSE,FALSE,America/New_York
+23021,37.39782,-76.37016,Bohannon,VA,Virginia,TRUE,,322,34.8,51115,Mathews,"{""51115"": ""100""}",Mathews,51115,FALSE,FALSE,America/New_York
+23022,37.73417,-78.26418,Bremo Bluff,VA,Virginia,TRUE,,917,13.5,51065,Fluvanna,"{""51065"": ""100""}",Fluvanna,51065,FALSE,FALSE,America/New_York
+23023,37.77866,-76.95957,Bruington,VA,Virginia,TRUE,,675,13.1,51097,King and Queen,"{""51097"": ""100""}",King and Queen,51097,FALSE,FALSE,America/New_York
+23024,37.9254,-77.77924,Bumpass,VA,Virginia,TRUE,,8502,31,51109,Louisa,"{""51109"": ""84.85"", ""51177"": ""14.29"", ""51085"": ""0.86""}",Louisa|Spotsylvania|Hanover,51109|51177|51085,FALSE,FALSE,America/New_York
+23025,37.41288,-76.36154,Cardinal,VA,Virginia,TRUE,,179,53.2,51115,Mathews,"{""51115"": ""100""}",Mathews,51115,FALSE,FALSE,America/New_York
+23027,37.64541,-78.13391,Cartersville,VA,Virginia,TRUE,,1116,9.4,51049,Cumberland,"{""51049"": ""100""}",Cumberland,51049,FALSE,FALSE,America/New_York
+23030,37.34627,-77.05928,Charles City,VA,Virginia,TRUE,,4765,12.5,51036,Charles City,"{""51036"": ""99.36"", ""51087"": ""0.64""}",Charles City|Henrico,51036|51087,FALSE,FALSE,America/New_York
+23032,37.65463,-76.67968,Church View,VA,Virginia,TRUE,,413,9.4,51119,Middlesex,"{""51119"": ""100""}",Middlesex,51119,FALSE,FALSE,America/New_York
+23035,37.49456,-76.38857,Cobbs Creek,VA,Virginia,TRUE,,1518,39.9,51115,Mathews,"{""51115"": ""100""}",Mathews,51115,FALSE,FALSE,America/New_York
+23038,37.75544,-78.14779,Columbia,VA,Virginia,TRUE,,1513,7.8,51075,Goochland,"{""51075"": ""48.68"", ""51049"": ""29.3"", ""51065"": ""22.03""}",Goochland|Cumberland|Fluvanna,51075|51049|51065,FALSE,FALSE,America/New_York
+23039,37.65579,-77.8063,Crozier,VA,Virginia,TRUE,,1056,27.5,51075,Goochland,"{""51075"": ""100""}",Goochland,51075,FALSE,FALSE,America/New_York
+23040,37.50349,-78.24753,Cumberland,VA,Virginia,TRUE,,4747,12.4,51049,Cumberland,"{""51049"": ""93.65"", ""51029"": ""6.35""}",Cumberland|Buckingham,51049|51029,FALSE,FALSE,America/New_York
+23043,37.55444,-76.34754,Deltaville,VA,Virginia,TRUE,,2036,104.5,51119,Middlesex,"{""51119"": ""100""}",Middlesex,51119,FALSE,FALSE,America/New_York
+23045,37.42929,-76.26506,Diggs,VA,Virginia,TRUE,,134,21.3,51115,Mathews,"{""51115"": ""100""}",Mathews,51115,FALSE,FALSE,America/New_York
+23047,37.84226,-77.47358,Doswell,VA,Virginia,TRUE,,1888,15.4,51085,Hanover,"{""51085"": ""82.63"", ""51033"": ""17.37""}",Hanover|Caroline,51085|51033,FALSE,FALSE,America/New_York
+23050,37.50053,-76.43588,Dutton,VA,Virginia,TRUE,,685,63.9,51115,Mathews,"{""51115"": ""82.27"", ""51073"": ""17.73""}",Mathews|Gloucester,51115|51073,FALSE,FALSE,America/New_York
+23055,37.77493,-78.22126,Fork Union,VA,Virginia,TRUE,,763,19,51065,Fluvanna,"{""51065"": ""100""}",Fluvanna,51065,FALSE,FALSE,America/New_York
+23056,37.4261,-76.37424,Foster,VA,Virginia,TRUE,,428,27.7,51115,Mathews,"{""51115"": ""100""}",Mathews,51115,FALSE,FALSE,America/New_York
+23059,37.70488,-77.56251,Glen Allen,VA,Virginia,TRUE,,36070,303.1,51087,Henrico,"{""51087"": ""86.84"", ""51085"": ""13.16""}",Henrico|Hanover,51087|51085,FALSE,FALSE,America/New_York
+23060,37.65986,-77.53341,Glen Allen,VA,Virginia,TRUE,,37554,955,51087,Henrico,"{""51087"": ""100""}",Henrico,51087,FALSE,FALSE,America/New_York
+23061,37.4337,-76.55228,Gloucester,VA,Virginia,TRUE,,21271,52.4,51073,Gloucester,"{""51073"": ""100""}",Gloucester,51073,FALSE,FALSE,America/New_York
+23062,37.25759,-76.50404,Gloucester Point,VA,Virginia,TRUE,,2246,601.5,51073,Gloucester,"{""51073"": ""100""}",Gloucester,51073,FALSE,FALSE,America/New_York
+23063,37.71652,-78.00165,Goochland,VA,Virginia,TRUE,,4720,18.2,51075,Goochland,"{""51075"": ""100""}",Goochland,51075,FALSE,FALSE,America/New_York
+23064,37.49674,-76.29979,Grimstead,VA,Virginia,TRUE,,253,284,51115,Mathews,"{""51115"": ""100""}",Mathews,51115,FALSE,FALSE,America/New_York
+23065,37.80389,-77.93212,Gum Spring,VA,Virginia,TRUE,,1472,26.2,51075,Goochland,"{""51075"": ""58.56"", ""51109"": ""41.44""}",Goochland|Louisa,51075|51109,FALSE,FALSE,America/New_York
+23066,37.49869,-76.28602,Gwynn,VA,Virginia,TRUE,,100,19.3,51115,Mathews,"{""51115"": ""100""}",Mathews,51115,FALSE,FALSE,America/New_York
+23068,37.49434,-76.33729,Hallieford,VA,Virginia,TRUE,,195,86.5,51115,Mathews,"{""51115"": ""100""}",Mathews,51115,FALSE,FALSE,America/New_York
+23069,37.77171,-77.32083,Hanover,VA,Virginia,TRUE,,2883,20.4,51085,Hanover,"{""51085"": ""57.52"", ""51033"": ""22.36"", ""51101"": ""20.11""}",Hanover|Caroline|King William,51085|51033|51101,FALSE,FALSE,America/New_York
+23070,37.55244,-76.38997,Hardyville,VA,Virginia,TRUE,,328,43.9,51119,Middlesex,"{""51119"": ""100""}",Middlesex,51119,FALSE,FALSE,America/New_York
+23071,37.54293,-76.45146,Hartfield,VA,Virginia,TRUE,,1523,49,51119,Middlesex,"{""51119"": ""100""}",Middlesex,51119,FALSE,FALSE,America/New_York
+23072,37.29641,-76.48182,Hayes,VA,Virginia,TRUE,,12377,130,51073,Gloucester,"{""51073"": ""100""}",Gloucester,51073,FALSE,FALSE,America/New_York
+23075,37.54867,-77.31773,Henrico,VA,Virginia,TRUE,,9414,792.8,51087,Henrico,"{""51087"": ""100""}",Henrico,51087,FALSE,FALSE,America/New_York
+23076,37.47556,-76.31358,Hudgins,VA,Virginia,TRUE,,872,89,51115,Mathews,"{""51115"": ""100""}",Mathews,51115,FALSE,FALSE,America/New_York
+23079,37.72321,-76.69114,Jamaica,VA,Virginia,TRUE,,409,7.5,51119,Middlesex,"{""51119"": ""100""}",Middlesex,51119,FALSE,FALSE,America/New_York
+23083,37.31387,-78.121,Jetersville,VA,Virginia,TRUE,,2616,17.8,51007,Amelia,"{""51007"": ""99.13"", ""51135"": ""0.87""}",Amelia|Nottoway,51007|51135,FALSE,FALSE,America/New_York
+23084,37.8846,-78.11014,Kents Store,VA,Virginia,TRUE,,1897,17.8,51065,Fluvanna,"{""51065"": ""64.54"", ""51075"": ""24.01"", ""51109"": ""11.45""}",Fluvanna|Goochland|Louisa,51065|51075|51109,FALSE,FALSE,America/New_York
+23085,37.70648,-76.84127,King And Queen Court House,VA,Virginia,TRUE,,557,5,51097,King and Queen,"{""51097"": ""100""}",King and Queen,51097,FALSE,FALSE,America/New_York
+23086,37.66281,-77.05337,King William,VA,Virginia,TRUE,,3638,17,51101,King William,"{""51101"": ""100""}",King William,51101,FALSE,FALSE,America/New_York
+23089,37.46306,-76.90375,Lanexa,VA,Virginia,TRUE,,5695,36.3,51127,New Kent,"{""51127"": ""65.08"", ""51095"": ""34.92""}",New Kent|James City,51127|51095,FALSE,FALSE,America/New_York
+23091,37.64796,-76.80509,Little Plymouth,VA,Virginia,TRUE,,245,4.1,51097,King and Queen,"{""51097"": ""100""}",King and Queen,51097,FALSE,FALSE,America/New_York
+23092,37.59392,-76.50956,Locust Hill,VA,Virginia,TRUE,,568,44.7,51119,Middlesex,"{""51119"": ""100""}",Middlesex,51119,FALSE,FALSE,America/New_York
+23093,38.00243,-78.04076,Louisa,VA,Virginia,TRUE,,13992,25.9,51109,Louisa,"{""51109"": ""93.89"", ""51075"": ""5.83"", ""51065"": ""0.28""}",Louisa|Goochland|Fluvanna,51109|51075|51065,FALSE,FALSE,America/New_York
+23102,37.71259,-77.83149,Maidens,VA,Virginia,TRUE,,3312,43.1,51075,Goochland,"{""51075"": ""86.72"", ""51109"": ""9.18"", ""51085"": ""4.1""}",Goochland|Louisa|Hanover,51075|51109|51085,FALSE,FALSE,America/New_York
+23103,37.65064,-77.72554,Manakin Sabot,VA,Virginia,TRUE,,5525,57.1,51075,Goochland,"{""51075"": ""100""}",Goochland,51075,FALSE,FALSE,America/New_York
+23106,37.71618,-77.20181,Manquin,VA,Virginia,TRUE,,1019,14.6,51101,King William,"{""51101"": ""100""}",King William,51101,FALSE,FALSE,America/New_York
+23108,37.64844,-76.72771,Mascot,VA,Virginia,TRUE,,89,2.7,51097,King and Queen,"{""51097"": ""100""}",King and Queen,51097,FALSE,FALSE,America/New_York
+23109,37.43527,-76.32874,Mathews,VA,Virginia,TRUE,,2084,46.8,51115,Mathews,"{""51115"": ""100""}",Mathews,51115,FALSE,FALSE,America/New_York
+23110,37.58216,-76.77014,Mattaponi,VA,Virginia,TRUE,,385,6.7,51097,King and Queen,"{""51097"": ""100""}",King and Queen,51097,FALSE,FALSE,America/New_York
+23111,37.61146,-77.24696,Mechanicsville,VA,Virginia,TRUE,,36846,182.3,51085,Hanover,"{""51085"": ""100""}",Hanover,51085,FALSE,FALSE,America/New_York
+23112,37.43498,-77.66207,Midlothian,VA,Virginia,TRUE,,53168,633.9,51041,Chesterfield,"{""51041"": ""100""}",Chesterfield,51041,FALSE,FALSE,America/New_York
+23113,37.53845,-77.67756,Midlothian,VA,Virginia,TRUE,,25021,272.7,51041,Chesterfield,"{""51041"": ""95.67"", ""51145"": ""4.33""}",Chesterfield|Powhatan,51041|51145,FALSE,FALSE,America/New_York
+23114,37.48221,-77.65937,Midlothian,VA,Virginia,TRUE,,19628,673.5,51041,Chesterfield,"{""51041"": ""100""}",Chesterfield,51041,FALSE,FALSE,America/New_York
+23115,37.81101,-76.9145,Millers Tavern,VA,Virginia,TRUE,,49,3.4,51057,Essex,"{""51057"": ""100""}",Essex,51057,FALSE,FALSE,America/New_York
+23116,37.67949,-77.33458,Mechanicsville,VA,Virginia,TRUE,,31059,190.9,51085,Hanover,"{""51085"": ""100""}",Hanover,51085,FALSE,FALSE,America/New_York
+23117,37.97998,-77.87501,Mineral,VA,Virginia,TRUE,,9353,26.4,51109,Louisa,"{""51109"": ""83.67"", ""51177"": ""13.92"", ""51075"": ""2.42""}",Louisa|Spotsylvania|Goochland,51109|51177|51075,FALSE,FALSE,America/New_York
+23119,37.44651,-76.28156,Moon,VA,Virginia,TRUE,,319,37.4,51115,Mathews,"{""51115"": ""100""}",Mathews,51115,FALSE,FALSE,America/New_York
+23120,37.40973,-77.78499,Moseley,VA,Virginia,TRUE,,10478,63.3,51041,Chesterfield,"{""51041"": ""87.27"", ""51145"": ""12.73""}",Chesterfield|Powhatan,51041|51145,FALSE,FALSE,America/New_York
+23123,37.65471,-78.29894,New Canton,VA,Virginia,TRUE,,1922,18.1,51029,Buckingham,"{""51029"": ""96.67"", ""51049"": ""3.33""}",Buckingham|Cumberland,51029|51049,FALSE,FALSE,America/New_York
+23124,37.5535,-77.05236,New Kent,VA,Virginia,TRUE,,4526,32,51127,New Kent,"{""51127"": ""100""}",New Kent,51127,FALSE,FALSE,America/New_York
+23125,37.3385,-76.28285,New Point,VA,Virginia,TRUE,,401,71.1,51115,Mathews,"{""51115"": ""100""}",Mathews,51115,FALSE,FALSE,America/New_York
+23126,37.9226,-77.14492,Newtown,VA,Virginia,TRUE,,496,8.6,51097,King and Queen,"{""51097"": ""100""}",King and Queen,51097,FALSE,FALSE,America/New_York
+23128,37.44555,-76.42687,North,VA,Virginia,TRUE,,707,23.4,51115,Mathews,"{""51115"": ""60.86"", ""51073"": ""39.14""}",Mathews|Gloucester,51115|51073,FALSE,FALSE,America/New_York
+23129,37.68646,-77.7753,Oilville,VA,Virginia,TRUE,,767,73.7,51075,Goochland,"{""51075"": ""100""}",Goochland,51075,FALSE,FALSE,America/New_York
+23130,37.39552,-76.2719,Onemo,VA,Virginia,TRUE,,223,14.5,51115,Mathews,"{""51115"": ""100""}",Mathews,51115,FALSE,FALSE,America/New_York
+23138,37.36922,-76.30324,Port Haywood,VA,Virginia,TRUE,,625,28.8,51115,Mathews,"{""51115"": ""100""}",Mathews,51115,FALSE,FALSE,America/New_York
+23139,37.54972,-77.93374,Powhatan,VA,Virginia,TRUE,,24647,39.8,51145,Powhatan,"{""51145"": ""99.21"", ""51049"": ""0.79""}",Powhatan|Cumberland,51145|51049,FALSE,FALSE,America/New_York
+23140,37.43858,-77.04431,Providence Forge,VA,Virginia,TRUE,,6431,33.1,51127,New Kent,"{""51127"": ""65.78"", ""51036"": ""34.22""}",New Kent|Charles City,51127|51036,FALSE,FALSE,America/New_York
+23141,37.52994,-77.15541,Quinton,VA,Virginia,TRUE,,7026,74.6,51127,New Kent,"{""51127"": ""100""}",New Kent,51127,FALSE,FALSE,America/New_York
+23146,37.72648,-77.7074,Rockville,VA,Virginia,TRUE,,3257,37.6,51085,Hanover,"{""51085"": ""86.84"", ""51075"": ""13.16""}",Hanover|Goochland,51085|51075,FALSE,FALSE,America/New_York
+23148,37.84792,-77.05503,Saint Stephens Church,VA,Virginia,TRUE,,1799,10.7,51097,King and Queen,"{""51097"": ""87.25"", ""51057"": ""12.75""}",King and Queen|Essex,51097|51057,FALSE,FALSE,America/New_York
+23149,37.56856,-76.61577,Saluda,VA,Virginia,TRUE,,3116,23.8,51119,Middlesex,"{""51119"": ""49.97"", ""51073"": ""39.31"", ""51097"": ""10.72""}",Middlesex|Gloucester|King and Queen,51119|51073|51097,FALSE,FALSE,America/New_York
+23150,37.50692,-77.2535,Sandston,VA,Virginia,TRUE,,12862,166.7,51087,Henrico,"{""51087"": ""100""}",Henrico,51087,FALSE,FALSE,America/New_York
+23153,37.76975,-77.94478,Sandy Hook,VA,Virginia,TRUE,,1372,40.1,51075,Goochland,"{""51075"": ""100""}",Goochland,51075,FALSE,FALSE,America/New_York
+23156,37.52127,-76.7099,Shacklefords,VA,Virginia,TRUE,,1811,17.5,51097,King and Queen,"{""51097"": ""100""}",King and Queen,51097,FALSE,FALSE,America/New_York
+23160,37.62943,-77.85103,State Farm,VA,Virginia,TRUE,,2557,262.6,51145,Powhatan,"{""51145"": ""74.63"", ""51075"": ""25.37""}",Powhatan|Goochland,51145|51075,FALSE,FALSE,America/New_York
+23161,37.71657,-76.9307,Stevensville,VA,Virginia,TRUE,,111,4,51097,King and Queen,"{""51097"": ""100""}",King and Queen,51097,FALSE,FALSE,America/New_York
+23163,37.35571,-76.30768,Susan,VA,Virginia,TRUE,,27,5.3,51115,Mathews,"{""51115"": ""100""}",Mathews,51115,FALSE,FALSE,America/New_York
+23168,37.39997,-76.82728,Toano,VA,Virginia,TRUE,,7703,127.6,51095,James City,"{""51095"": ""100""}",James City,51095,FALSE,FALSE,America/New_York
+23169,37.5901,-76.46489,Topping,VA,Virginia,TRUE,,1069,44.3,51119,Middlesex,"{""51119"": ""100""}",Middlesex,51119,FALSE,FALSE,America/New_York
+23173,37.57707,-77.53884,Richmond,VA,Virginia,TRUE,,2227,2108.3,51760,Richmond,"{""51760"": ""100""}",Richmond,51760,FALSE,FALSE,America/New_York
+23175,37.65026,-76.6225,Urbanna,VA,Virginia,TRUE,,1575,37.3,51119,Middlesex,"{""51119"": ""100""}",Middlesex,51119,FALSE,FALSE,America/New_York
+23176,37.57039,-76.42144,Wake,VA,Virginia,TRUE,,370,33,51119,Middlesex,"{""51119"": ""100""}",Middlesex,51119,FALSE,FALSE,America/New_York
+23177,37.73799,-77.01393,Walkerton,VA,Virginia,TRUE,,664,12.6,51097,King and Queen,"{""51097"": ""82.79"", ""51101"": ""17.21""}",King and Queen|King William,51097|51101,FALSE,FALSE,America/New_York
+23180,37.70008,-76.62202,Water View,VA,Virginia,TRUE,,633,24.1,51119,Middlesex,"{""51119"": ""100""}",Middlesex,51119,FALSE,FALSE,America/New_York
+23181,37.59889,-76.88952,West Point,VA,Virginia,TRUE,,5232,30.9,51101,King William,"{""51101"": ""86.33"", ""51127"": ""13.67""}",King William|New Kent,51101|51127,FALSE,FALSE,America/New_York
+23185,37.24594,-76.69829,Williamsburg,VA,Virginia,TRUE,,47894,330.2,51095,James City,"{""51095"": ""52.51"", ""51830"": ""27.24"", ""51199"": ""20.13"", ""51036"": ""0.12""}",James City|Williamsburg|York|Charles City,51095|51830|51199|51036,FALSE,FALSE,America/New_York
+23187,37.26743,-76.72078,Williamsburg,VA,Virginia,TRUE,,251,996.2,51830,Williamsburg,"{""51830"": ""100""}",Williamsburg,51830,FALSE,FALSE,America/New_York
+23188,37.33941,-76.75551,Williamsburg,VA,Virginia,TRUE,,44499,175.3,51095,James City,"{""51095"": ""89.92"", ""51199"": ""7.06"", ""51830"": ""3.02""}",James City|York|Williamsburg,51095|51199|51830,FALSE,FALSE,America/New_York
+23192,37.82069,-77.68152,Montpelier,VA,Virginia,TRUE,,6903,35,51085,Hanover,"{""51085"": ""95.2"", ""51109"": ""4.8""}",Hanover|Louisa,51085|51109,FALSE,FALSE,America/New_York
+23219,37.54011,-77.43531,Richmond,VA,Virginia,TRUE,,4504,1133.4,51760,Richmond,"{""51760"": ""100""}",Richmond,51760,FALSE,FALSE,America/New_York
+23220,37.54897,-77.46043,Richmond,VA,Virginia,TRUE,,34934,2807.2,51760,Richmond,"{""51760"": ""100""}",Richmond,51760,FALSE,FALSE,America/New_York
+23221,37.55338,-77.49392,Richmond,VA,Virginia,TRUE,,14842,1730.6,51760,Richmond,"{""51760"": ""100""}",Richmond,51760,FALSE,FALSE,America/New_York
+23222,37.58256,-77.41905,Richmond,VA,Virginia,TRUE,,27212,1265.7,51760,Richmond,"{""51760"": ""69.46"", ""51087"": ""30.54""}",Richmond|Henrico,51760|51087,FALSE,FALSE,America/New_York
+23223,37.55584,-77.37889,Richmond,VA,Virginia,TRUE,,52309,1199.2,51087,Henrico,"{""51087"": ""52.48"", ""51760"": ""47.52""}",Henrico|Richmond,51087|51760,FALSE,FALSE,America/New_York
+23224,37.49779,-77.46623,Richmond,VA,Virginia,TRUE,,40546,1342.5,51760,Richmond,"{""51760"": ""91.67"", ""51041"": ""8.33""}",Richmond|Chesterfield,51760|51041,FALSE,FALSE,America/New_York
+23225,37.51842,-77.51103,Richmond,VA,Virginia,TRUE,,42937,1159.7,51760,Richmond,"{""51760"": ""89.22"", ""51041"": ""10.78""}",Richmond|Chesterfield,51760|51041,FALSE,FALSE,America/New_York
+23226,37.5779,-77.52383,Richmond,VA,Virginia,TRUE,,16458,1074.3,51760,Richmond,"{""51760"": ""50.8"", ""51087"": ""49.2""}",Richmond|Henrico,51760|51087,FALSE,FALSE,America/New_York
+23227,37.61464,-77.4425,Richmond,VA,Virginia,TRUE,,25931,880.4,51087,Henrico,"{""51087"": ""58.82"", ""51760"": ""41.18""}",Henrico|Richmond,51087|51760,FALSE,FALSE,America/New_York
+23228,37.62536,-77.49198,Henrico,VA,Virginia,TRUE,,35704,1230.8,51087,Henrico,"{""51087"": ""100""}",Henrico,51087,FALSE,FALSE,America/New_York
+23229,37.58729,-77.57281,Henrico,VA,Virginia,TRUE,,35325,956.3,51087,Henrico,"{""51087"": ""100""}",Henrico,51087,FALSE,FALSE,America/New_York
+23230,37.5862,-77.49093,Richmond,VA,Virginia,TRUE,,6871,636.2,51087,Henrico,"{""51087"": ""62.12"", ""51760"": ""37.88""}",Henrico|Richmond,51087|51760,FALSE,FALSE,America/New_York
+23231,37.44103,-77.31869,Henrico,VA,Virginia,TRUE,,36564,159.9,51087,Henrico,"{""51087"": ""85.86"", ""51760"": ""13.18"", ""51036"": ""0.96""}",Henrico|Richmond|Charles City,51087|51760|51036,FALSE,FALSE,America/New_York
+23233,37.64547,-77.62662,Henrico,VA,Virginia,TRUE,,31605,985.1,51087,Henrico,"{""51087"": ""98.92"", ""51075"": ""1.08""}",Henrico|Goochland,51087|51075,FALSE,FALSE,America/New_York
+23234,37.45208,-77.46968,Richmond,VA,Virginia,TRUE,,44783,872.8,51041,Chesterfield,"{""51041"": ""71.57"", ""51760"": ""28.43""}",Chesterfield|Richmond,51041|51760,FALSE,FALSE,America/New_York
+23235,37.51332,-77.56451,Richmond,VA,Virginia,TRUE,,32627,721.9,51041,Chesterfield,"{""51041"": ""80.29"", ""51760"": ""19.71""}",Chesterfield|Richmond,51041|51760,FALSE,FALSE,America/New_York
+23236,37.4744,-77.58632,Richmond,VA,Virginia,TRUE,,24286,646.2,51041,Chesterfield,"{""51041"": ""100""}",Chesterfield,51041,FALSE,FALSE,America/New_York
+23237,37.40215,-77.45236,Richmond,VA,Virginia,TRUE,,24711,466.9,51041,Chesterfield,"{""51041"": ""100""}",Chesterfield,51041,FALSE,FALSE,America/New_York
+23238,37.59735,-77.64626,Henrico,VA,Virginia,TRUE,,26132,470.3,51087,Henrico,"{""51087"": ""92.22"", ""51075"": ""7.78""}",Henrico|Goochland,51087|51075,FALSE,FALSE,America/New_York
+23250,37.50516,-77.32092,Richmond,VA,Virginia,TRUE,,0,0,51087,Henrico,"{""51087"": ""0""}",Henrico,51087,FALSE,FALSE,America/New_York
+23294,37.63044,-77.54232,Henrico,VA,Virginia,TRUE,,18091,1688.4,51087,Henrico,"{""51087"": ""100""}",Henrico,51087,FALSE,FALSE,America/New_York
+23301,37.68333,-75.63618,Accomac,VA,Virginia,TRUE,,1721,24.4,51001,Accomack,"{""51001"": ""100""}",Accomack,51001,FALSE,FALSE,America/New_York
+23302,37.86357,-75.5171,Assawoman,VA,Virginia,TRUE,,162,18.8,51001,Accomack,"{""51001"": ""100""}",Accomack,51001,FALSE,FALSE,America/New_York
+23303,37.90728,-75.50885,Atlantic,VA,Virginia,TRUE,,587,31.9,51001,Accomack,"{""51001"": ""100""}",Accomack,51001,FALSE,FALSE,America/New_York
+23304,36.9961,-76.57063,Battery Park,VA,Virginia,TRUE,,36,76.3,51093,Isle of Wight,"{""51093"": ""100""}",Isle of Wight,51093,FALSE,FALSE,America/New_York
+23306,37.57016,-75.87351,Belle Haven,VA,Virginia,TRUE,,766,20.3,51001,Accomack,"{""51001"": ""100""}",Accomack,51001,FALSE,FALSE,America/New_York
+23307,37.43369,-75.87307,Birdsnest,VA,Virginia,TRUE,,704,34.9,51131,Northampton,"{""51131"": ""100""}",Northampton,51131,FALSE,FALSE,America/New_York
+23308,37.82556,-75.62061,Bloxom,VA,Virginia,TRUE,,2133,24.9,51001,Accomack,"{""51001"": ""100""}",Accomack,51001,FALSE,FALSE,America/New_York
+23310,37.26182,-75.95954,Cape Charles,VA,Virginia,TRUE,,4351,28,51131,Northampton,"{""51131"": ""100""}",Northampton,51131,FALSE,FALSE,America/New_York
+23313,37.20267,-75.9453,Capeville,VA,Virginia,TRUE,,184,58,51131,Northampton,"{""51131"": ""100""}",Northampton,51131,FALSE,FALSE,America/New_York
+23314,36.95069,-76.53571,Carrollton,VA,Virginia,TRUE,,9261,186.6,51093,Isle of Wight,"{""51093"": ""100""}",Isle of Wight,51093,FALSE,FALSE,America/New_York
+23315,36.73871,-76.84278,Carrsville,VA,Virginia,TRUE,,1213,16.1,51093,Isle of Wight,"{""51093"": ""100""}",Isle of Wight,51093,FALSE,FALSE,America/New_York
+23316,37.29877,-75.98219,Cheriton,VA,Virginia,TRUE,,521,143.5,51131,Northampton,"{""51131"": ""100""}",Northampton,51131,FALSE,FALSE,America/New_York
+23320,36.75193,-76.2183,Chesapeake,VA,Virginia,TRUE,,57619,701.2,51550,Chesapeake,"{""51550"": ""100""}",Chesapeake,51550,FALSE,FALSE,America/New_York
+23321,36.80125,-76.42294,Chesapeake,VA,Virginia,TRUE,,36212,537.1,51550,Chesapeake,"{""51550"": ""99.81"", ""51800"": ""0.19""}",Chesapeake|Suffolk,51550|51800,FALSE,FALSE,America/New_York
+23322,36.63219,-76.22873,Chesapeake,VA,Virginia,TRUE,,64972,166.7,51550,Chesapeake,"{""51550"": ""100""}",Chesapeake,51550,FALSE,FALSE,America/New_York
+23323,36.67487,-76.39162,Chesapeake,VA,Virginia,TRUE,,41074,132.4,51550,Chesapeake,"{""51550"": ""100""}",Chesapeake,51550,FALSE,FALSE,America/New_York
+23324,36.7999,-76.27517,Chesapeake,VA,Virginia,TRUE,,23893,1382.1,51550,Chesapeake,"{""51550"": ""100""}",Chesapeake,51550,FALSE,FALSE,America/New_York
+23325,36.81499,-76.23891,Chesapeake,VA,Virginia,TRUE,,16250,1642.1,51550,Chesapeake,"{""51550"": ""100""}",Chesapeake,51550,FALSE,FALSE,America/New_York
+23336,37.95452,-75.33766,Chincoteague Island,VA,Virginia,TRUE,,2899,57.9,51001,Accomack,"{""51001"": ""100""}",Accomack,51001,FALSE,FALSE,America/New_York
+23337,37.92334,-75.48324,Wallops Island,VA,Virginia,TRUE,,430,91,51001,Accomack,"{""51001"": ""100""}",Accomack,51001,FALSE,FALSE,America/New_York
+23347,37.35478,-75.9707,Eastville,VA,Virginia,TRUE,,730,23.9,51131,Northampton,"{""51131"": ""100""}",Northampton,51131,FALSE,FALSE,America/New_York
+23350,37.51869,-75.87275,Exmore,VA,Virginia,TRUE,,3551,49,51131,Northampton,"{""51131"": ""100""}",Northampton,51131,FALSE,FALSE,America/New_York
+23354,37.47638,-75.90487,Franktown,VA,Virginia,TRUE,,159,18.1,51131,Northampton,"{""51131"": ""100""}",Northampton,51131,FALSE,FALSE,America/New_York
+23356,37.99049,-75.39232,Greenbackville,VA,Virginia,TRUE,,1187,129,51001,Accomack,"{""51001"": ""100""}",Accomack,51001,FALSE,FALSE,America/New_York
+23357,37.75549,-75.67555,Greenbush,VA,Virginia,TRUE,,747,46.3,51001,Accomack,"{""51001"": ""100""}",Accomack,51001,FALSE,FALSE,America/New_York
+23358,37.64451,-75.86561,Hacksneck,VA,Virginia,TRUE,,89,6.2,51001,Accomack,"{""51001"": ""100""}",Accomack,51001,FALSE,FALSE,America/New_York
+23359,37.88316,-75.58988,Hallwood,VA,Virginia,TRUE,,666,17.2,51001,Accomack,"{""51001"": ""100""}",Accomack,51001,FALSE,FALSE,America/New_York
+23389,37.662,-75.83469,Harborton,VA,Virginia,TRUE,,221,146.9,51001,Accomack,"{""51001"": ""100""}",Accomack,51001,FALSE,FALSE,America/New_York
+23395,37.97582,-75.46743,Horntown,VA,Virginia,TRUE,,558,16.8,51001,Accomack,"{""51001"": ""100""}",Accomack,51001,FALSE,FALSE,America/New_York
+23398,37.5121,-75.94103,Jamesville,VA,Virginia,TRUE,,31,3,51131,Northampton,"{""51131"": ""100""}",Northampton,51131,FALSE,FALSE,America/New_York
+23401,37.62749,-75.77945,Keller,VA,Virginia,TRUE,,151,26,51001,Accomack,"{""51001"": ""100""}",Accomack,51001,FALSE,FALSE,America/New_York
+23405,37.4117,-75.91316,Machipongo,VA,Virginia,TRUE,,923,13,51131,Northampton,"{""51131"": ""100""}",Northampton,51131,FALSE,FALSE,America/New_York
+23407,37.83755,-75.55412,Mappsville,VA,Virginia,TRUE,,828,50.6,51001,Accomack,"{""51001"": ""100""}",Accomack,51001,FALSE,FALSE,America/New_York
+23408,37.45565,-75.84731,Marionville,VA,Virginia,TRUE,,69,14.6,51131,Northampton,"{""51131"": ""100""}",Northampton,51131,FALSE,FALSE,America/New_York
+23409,37.87938,-75.6436,Mears,VA,Virginia,TRUE,,158,7.5,51001,Accomack,"{""51001"": ""100""}",Accomack,51001,FALSE,FALSE,America/New_York
+23410,37.63348,-75.73962,Melfa,VA,Virginia,TRUE,,1326,17.7,51001,Accomack,"{""51001"": ""100""}",Accomack,51001,FALSE,FALSE,America/New_York
+23413,37.47284,-75.85798,Nassawadox,VA,Virginia,TRUE,,639,19.6,51131,Northampton,"{""51131"": ""100""}",Northampton,51131,FALSE,FALSE,America/New_York
+23414,37.8062,-75.57747,Nelsonia,VA,Virginia,TRUE,,174,46.2,51001,Accomack,"{""51001"": ""100""}",Accomack,51001,FALSE,FALSE,America/New_York
+23415,37.96889,-75.53604,New Church,VA,Virginia,TRUE,,1603,20.9,51001,Accomack,"{""51001"": ""100""}",Accomack,51001,FALSE,FALSE,America/New_York
+23416,37.93378,-75.56333,Oak Hall,VA,Virginia,TRUE,,166,11.8,51001,Accomack,"{""51001"": ""100""}",Accomack,51001,FALSE,FALSE,America/New_York
+23417,37.72934,-75.76577,Onancock,VA,Virginia,TRUE,,3438,26.9,51001,Accomack,"{""51001"": ""100""}",Accomack,51001,FALSE,FALSE,America/New_York
+23418,37.66648,-75.68136,Onley,VA,Virginia,TRUE,,963,37.3,51001,Accomack,"{""51001"": ""100""}",Accomack,51001,FALSE,FALSE,America/New_York
+23420,37.58323,-75.80986,Painter,VA,Virginia,TRUE,,3739,44.5,51001,Accomack,"{""51001"": ""100""}",Accomack,51001,FALSE,FALSE,America/New_York
+23421,37.76698,-75.61443,Parksley,VA,Virginia,TRUE,,4423,52.9,51001,Accomack,"{""51001"": ""100""}",Accomack,51001,FALSE,FALSE,America/New_York
+23422,37.63672,-75.82551,Pungoteague,VA,Virginia,TRUE,,147,13.6,51001,Accomack,"{""51001"": ""100""}",Accomack,51001,FALSE,FALSE,America/New_York
+23423,37.52286,-75.70557,Quinby,VA,Virginia,TRUE,,419,4.8,51001,Accomack,"{""51001"": ""100""}",Accomack,51001,FALSE,FALSE,America/New_York
+23426,37.92158,-75.67047,Sanford,VA,Virginia,TRUE,,94,7,51001,Accomack,"{""51001"": ""100""}",Accomack,51001,FALSE,FALSE,America/New_York
+23427,37.91297,-75.71341,Saxis,VA,Virginia,TRUE,,238,18.3,51001,Accomack,"{""51001"": ""100""}",Accomack,51001,FALSE,FALSE,America/New_York
+23430,36.9836,-76.66052,Smithfield,VA,Virginia,TRUE,,17245,66.2,51093,Isle of Wight,"{""51093"": ""100""}",Isle of Wight,51093,FALSE,FALSE,America/New_York
+23432,36.87174,-76.55076,Suffolk,VA,Virginia,TRUE,,1506,43.9,51800,Suffolk,"{""51800"": ""100""}",Suffolk,51800,FALSE,FALSE,America/New_York
+23433,36.90773,-76.49162,Suffolk,VA,Virginia,TRUE,,1214,278.4,51800,Suffolk,"{""51800"": ""100""}",Suffolk,51800,FALSE,FALSE,America/New_York
+23434,36.70121,-76.59159,Suffolk,VA,Virginia,TRUE,,49625,94.3,51800,Suffolk,"{""51800"": ""100""}",Suffolk,51800,FALSE,FALSE,America/New_York
+23435,36.83257,-76.4829,Suffolk,VA,Virginia,TRUE,,30626,304.7,51800,Suffolk,"{""51800"": ""100""}",Suffolk,51800,FALSE,FALSE,America/New_York
+23436,36.89525,-76.50858,Suffolk,VA,Virginia,TRUE,,1019,248.7,51800,Suffolk,"{""51800"": ""100""}",Suffolk,51800,FALSE,FALSE,America/New_York
+23437,36.63562,-76.80294,Suffolk,VA,Virginia,TRUE,,4308,16.7,51800,Suffolk,"{""51800"": ""100""}",Suffolk,51800,FALSE,FALSE,America/New_York
+23438,36.58144,-76.69689,Suffolk,VA,Virginia,TRUE,,1795,16.9,51800,Suffolk,"{""51800"": ""100""}",Suffolk,51800,FALSE,FALSE,America/New_York
+23440,37.8307,-75.99018,Tangier,VA,Virginia,TRUE,,506,123.2,51001,Accomack,"{""51001"": ""100""}",Accomack,51001,FALSE,FALSE,America/New_York
+23441,37.71026,-75.69956,Tasley,VA,Virginia,TRUE,,125,77.8,51001,Accomack,"{""51001"": ""100""}",Accomack,51001,FALSE,FALSE,America/New_York
+23442,37.90632,-75.57224,Temperanceville,VA,Virginia,TRUE,,1263,36.5,51001,Accomack,"{""51001"": ""100""}",Accomack,51001,FALSE,FALSE,America/New_York
+23451,36.86739,-76.00587,Virginia Beach,VA,Virginia,TRUE,,43230,900.9,51810,Virginia Beach,"{""51810"": ""100""}",Virginia Beach,51810,FALSE,FALSE,America/New_York
+23452,36.84674,-76.09255,Virginia Beach,VA,Virginia,TRUE,,58996,1539.4,51810,Virginia Beach,"{""51810"": ""100""}",Virginia Beach,51810,FALSE,FALSE,America/New_York
+23453,36.78557,-76.07572,Virginia Beach,VA,Virginia,TRUE,,35019,1458.7,51810,Virginia Beach,"{""51810"": ""100""}",Virginia Beach,51810,FALSE,FALSE,America/New_York
+23454,36.82642,-76.02462,Virginia Beach,VA,Virginia,TRUE,,58904,756.1,51810,Virginia Beach,"{""51810"": ""100""}",Virginia Beach,51810,FALSE,FALSE,America/New_York
+23455,36.89334,-76.14639,Virginia Beach,VA,Virginia,TRUE,,49263,1156.6,51810,Virginia Beach,"{""51810"": ""100""}",Virginia Beach,51810,FALSE,FALSE,America/New_York
+23456,36.73404,-76.03592,Virginia Beach,VA,Virginia,TRUE,,54337,424.7,51810,Virginia Beach,"{""51810"": ""100""}",Virginia Beach,51810,FALSE,FALSE,America/New_York
+23457,36.61597,-76.01907,Virginia Beach,VA,Virginia,TRUE,,4180,24.3,51810,Virginia Beach,"{""51810"": ""100""}",Virginia Beach,51810,FALSE,FALSE,America/New_York
+23459,36.92469,-76.0201,Virginia Beach,VA,Virginia,TRUE,,1430,389,51810,Virginia Beach,"{""51810"": ""100""}",Virginia Beach,51810,FALSE,FALSE,America/New_York
+23460,36.80798,-76.02844,Virginia Beach,VA,Virginia,TRUE,,2024,3598.1,51810,Virginia Beach,"{""51810"": ""100""}",Virginia Beach,51810,FALSE,FALSE,America/New_York
+23461,36.77533,-75.96316,Virginia Beach,VA,Virginia,TRUE,,453,2878.1,51810,Virginia Beach,"{""51810"": ""100""}",Virginia Beach,51810,FALSE,FALSE,America/New_York
+23462,36.83721,-76.1517,Virginia Beach,VA,Virginia,TRUE,,65906,2185,51810,Virginia Beach,"{""51810"": ""100""}",Virginia Beach,51810,FALSE,FALSE,America/New_York
+23464,36.79724,-76.17922,Virginia Beach,VA,Virginia,TRUE,,76421,1785.1,51810,Virginia Beach,"{""51810"": ""100""}",Virginia Beach,51810,FALSE,FALSE,America/New_York
+23480,37.61394,-75.6905,Wachapreague,VA,Virginia,TRUE,,380,76.1,51001,Accomack,"{""51001"": ""100""}",Accomack,51001,FALSE,FALSE,America/New_York
+23486,37.5135,-75.81115,Willis Wharf,VA,Virginia,TRUE,,23,22.7,51131,Northampton,"{""51131"": ""100""}",Northampton,51131,FALSE,FALSE,America/New_York
+23487,36.852,-76.72259,Windsor,VA,Virginia,TRUE,,5728,23.5,51093,Isle of Wight,"{""51093"": ""100""}",Isle of Wight,51093,FALSE,FALSE,America/New_York
+23488,37.95242,-75.60824,Withams,VA,Virginia,TRUE,,366,19.4,51001,Accomack,"{""51001"": ""100""}",Accomack,51001,FALSE,FALSE,America/New_York
+23502,36.86285,-76.20988,Norfolk,VA,Virginia,TRUE,,21363,829.3,51710,Norfolk,"{""51710"": ""100""}",Norfolk,51710,FALSE,FALSE,America/New_York
+23503,36.94728,-76.26289,Norfolk,VA,Virginia,TRUE,,31915,2396.9,51710,Norfolk,"{""51710"": ""100""}",Norfolk,51710,FALSE,FALSE,America/New_York
+23504,36.8568,-76.26574,Norfolk,VA,Virginia,TRUE,,23330,2190.1,51710,Norfolk,"{""51710"": ""100""}",Norfolk,51710,FALSE,FALSE,America/New_York
+23505,36.91587,-76.28827,Norfolk,VA,Virginia,TRUE,,30270,1836.1,51710,Norfolk,"{""51710"": ""100""}",Norfolk,51710,FALSE,FALSE,America/New_York
+23507,36.86451,-76.30312,Norfolk,VA,Virginia,TRUE,,6795,2921.8,51710,Norfolk,"{""51710"": ""100""}",Norfolk,51710,FALSE,FALSE,America/New_York
+23508,36.88444,-76.30898,Norfolk,VA,Virginia,TRUE,,21697,2513.6,51710,Norfolk,"{""51710"": ""100""}",Norfolk,51710,FALSE,FALSE,America/New_York
+23509,36.88214,-76.26203,Norfolk,VA,Virginia,TRUE,,13567,2073.3,51710,Norfolk,"{""51710"": ""100""}",Norfolk,51710,FALSE,FALSE,America/New_York
+23510,36.85188,-76.29173,Norfolk,VA,Virginia,TRUE,,8913,2921.1,51710,Norfolk,"{""51710"": ""100""}",Norfolk,51710,FALSE,FALSE,America/New_York
+23511,36.936,-76.30379,Norfolk,VA,Virginia,TRUE,,13773,1000.1,51710,Norfolk,"{""51710"": ""100""}",Norfolk,51710,FALSE,FALSE,America/New_York
+23513,36.88986,-76.23859,Norfolk,VA,Virginia,TRUE,,30384,2296,51710,Norfolk,"{""51710"": ""100""}",Norfolk,51710,FALSE,FALSE,America/New_York
+23517,36.8696,-76.29241,Norfolk,VA,Virginia,TRUE,,4543,2197.3,51710,Norfolk,"{""51710"": ""100""}",Norfolk,51710,FALSE,FALSE,America/New_York
+23518,36.91648,-76.21584,Norfolk,VA,Virginia,TRUE,,29301,1848.6,51710,Norfolk,"{""51710"": ""100""}",Norfolk,51710,FALSE,FALSE,America/New_York
+23523,36.83255,-76.272,Norfolk,VA,Virginia,TRUE,,7561,1396.4,51710,Norfolk,"{""51710"": ""100""}",Norfolk,51710,FALSE,FALSE,America/New_York
+23551,36.92404,-76.28863,Norfolk,VA,Virginia,TRUE,,1189,1358.1,51710,Norfolk,"{""51710"": ""100""}",Norfolk,51710,FALSE,FALSE,America/New_York
+23601,37.05863,-76.46392,Newport News,VA,Virginia,TRUE,,25005,1295.1,51700,Newport News,"{""51700"": ""100""}",Newport News,51700,FALSE,FALSE,America/New_York
+23602,37.1148,-76.51582,Newport News,VA,Virginia,TRUE,,38821,1117.9,51700,Newport News,"{""51700"": ""99.76"", ""51199"": ""0.24""}",Newport News|York,51700|51199,FALSE,FALSE,America/New_York
+23603,37.19285,-76.5663,Newport News,VA,Virginia,TRUE,,3907,209,51700,Newport News,"{""51700"": ""85.64"", ""51199"": ""14.36""}",Newport News|York,51700|51199,FALSE,FALSE,America/New_York
+23604,37.13162,-76.58874,Fort Eustis,VA,Virginia,TRUE,,6900,219.9,51700,Newport News,"{""51700"": ""100""}",Newport News,51700,FALSE,FALSE,America/New_York
+23605,37.01814,-76.43569,Newport News,VA,Virginia,TRUE,,13801,1418.9,51700,Newport News,"{""51700"": ""73.86"", ""51650"": ""26.14""}",Newport News|Hampton,51700|51650,FALSE,FALSE,America/New_York
+23606,37.07775,-76.49622,Newport News,VA,Virginia,TRUE,,28772,1183.8,51700,Newport News,"{""51700"": ""100""}",Newport News,51700,FALSE,FALSE,America/New_York
+23607,36.98737,-76.4223,Newport News,VA,Virginia,TRUE,,23067,1493.5,51700,Newport News,"{""51700"": ""100""}",Newport News,51700,FALSE,FALSE,America/New_York
+23608,37.15114,-76.54327,Newport News,VA,Virginia,TRUE,,43058,1553.4,51700,Newport News,"{""51700"": ""100""}",Newport News,51700,FALSE,FALSE,America/New_York
+23651,37.00917,-76.30503,Fort Monroe,VA,Virginia,TRUE,,479,235.5,51650,Hampton,"{""51650"": ""100""}",Hampton,51650,FALSE,FALSE,America/New_York
+23661,37.00799,-76.38682,Hampton,VA,Virginia,TRUE,,12812,1052.4,51650,Hampton,"{""51650"": ""100""}",Hampton,51650,FALSE,FALSE,America/New_York
+23662,37.13181,-76.35673,Poquoson,VA,Virginia,TRUE,,12066,304.1,51735,Poquoson,"{""51735"": ""100""}",Poquoson,51735,FALSE,FALSE,America/New_York
+23663,37.03303,-76.31431,Hampton,VA,Virginia,TRUE,,13528,1879.8,51650,Hampton,"{""51650"": ""100""}",Hampton,51650,FALSE,FALSE,America/New_York
+23664,37.07528,-76.29229,Hampton,VA,Virginia,TRUE,,9593,707.7,51650,Hampton,"{""51650"": ""100""}",Hampton,51650,FALSE,FALSE,America/New_York
+23665,37.09045,-76.36454,Hampton,VA,Virginia,TRUE,,6363,443.3,51199,York,"{""51199"": ""73.77"", ""51650"": ""26.23""}",York|Hampton,51199|51650,FALSE,FALSE,America/New_York
+23666,37.05912,-76.40727,Hampton,VA,Virginia,TRUE,,52249,1019.5,51650,Hampton,"{""51650"": ""100""}",Hampton,51650,FALSE,FALSE,America/New_York
+23669,37.04973,-76.33944,Hampton,VA,Virginia,TRUE,,40996,1269.9,51650,Hampton,"{""51650"": ""100""}",Hampton,51650,FALSE,FALSE,America/New_York
+23690,37.22098,-76.52399,Yorktown,VA,Virginia,TRUE,,4374,221.7,51199,York,"{""51199"": ""100""}",York,51199,FALSE,FALSE,America/New_York
+23691,37.25171,-76.55206,Yorktown,VA,Virginia,TRUE,,152,32.2,51199,York,"{""51199"": ""100""}",York,51199,FALSE,FALSE,America/New_York
+23692,37.18303,-76.46665,Yorktown,VA,Virginia,TRUE,,18273,309,51199,York,"{""51199"": ""100""}",York,51199,FALSE,FALSE,America/New_York
+23693,37.12555,-76.44667,Yorktown,VA,Virginia,TRUE,,24311,699.9,51199,York,"{""51199"": ""100""}",York,51199,FALSE,FALSE,America/New_York
+23696,37.19248,-76.4259,Seaford,VA,Virginia,TRUE,,3696,254.4,51199,York,"{""51199"": ""100""}",York,51199,FALSE,FALSE,America/New_York
+23701,36.81181,-76.37078,Portsmouth,VA,Virginia,TRUE,,23951,1237.1,51740,Portsmouth,"{""51740"": ""100""}",Portsmouth,51740,FALSE,FALSE,America/New_York
+23702,36.80318,-76.32892,Portsmouth,VA,Virginia,TRUE,,11020,1687.6,51740,Portsmouth,"{""51740"": ""100""}",Portsmouth,51740,FALSE,FALSE,America/New_York
+23703,36.88036,-76.37108,Portsmouth,VA,Virginia,TRUE,,26655,737.2,51740,Portsmouth,"{""51740"": ""100""}",Portsmouth,51740,FALSE,FALSE,America/New_York
+23704,36.82404,-76.31011,Portsmouth,VA,Virginia,TRUE,,17592,1334.6,51740,Portsmouth,"{""51740"": ""100""}",Portsmouth,51740,FALSE,FALSE,America/New_York
+23707,36.84263,-76.33988,Portsmouth,VA,Virginia,TRUE,,14685,1426.8,51740,Portsmouth,"{""51740"": ""100""}",Portsmouth,51740,FALSE,FALSE,America/New_York
+23708,36.84817,-76.30635,Portsmouth,VA,Virginia,TRUE,,508,1198.1,51740,Portsmouth,"{""51740"": ""100""}",Portsmouth,51740,FALSE,FALSE,America/New_York
+23709,36.81267,-76.30525,Portsmouth,VA,Virginia,TRUE,,686,1744.3,51740,Portsmouth,"{""51740"": ""100""}",Portsmouth,51740,FALSE,FALSE,America/New_York
+23801,37.23535,-77.3353,Fort Lee,VA,Virginia,TRUE,,5763,352.5,51149,Prince George,"{""51149"": ""100""}",Prince George,51149,FALSE,FALSE,America/New_York
+23803,37.21232,-77.48143,Petersburg,VA,Virginia,TRUE,,38187,204,51730,Petersburg,"{""51730"": ""47.53"", ""51041"": ""26.42"", ""51053"": ""26.05""}",Petersburg|Chesterfield|Dinwiddie,51730|51041|51053,FALSE,FALSE,America/New_York
+23805,37.12902,-77.39782,Petersburg,VA,Virginia,TRUE,,19440,102.4,51730,Petersburg,"{""51730"": ""67.47"", ""51149"": ""22.78"", ""51053"": ""9.75""}",Petersburg|Prince George|Dinwiddie,51730|51149|51053,FALSE,FALSE,America/New_York
+23806,37.23857,-77.41827,Virginia State University,VA,Virginia,TRUE,,1640,3802.3,51041,Chesterfield,"{""51041"": ""100""}",Chesterfield,51041,FALSE,FALSE,America/New_York
+23821,36.88067,-77.92043,Alberta,VA,Virginia,TRUE,,2016,12,51025,Brunswick,"{""51025"": ""100""}",Brunswick,51025,FALSE,FALSE,America/New_York
+23824,37.08962,-77.96734,Blackstone,VA,Virginia,TRUE,,6476,14.1,51135,Nottoway,"{""51135"": ""94.84"", ""51025"": ""3.11"", ""51053"": ""1.3"", ""51111"": ""0.75""}",Nottoway|Brunswick|Dinwiddie|Lunenburg,51135|51025|51053|51111,FALSE,FALSE,America/New_York
+23827,36.61059,-77.2012,Boykins,VA,Virginia,TRUE,,1491,11.2,51175,Southampton,"{""51175"": ""100""}",Southampton,51175,FALSE,FALSE,America/New_York
+23828,36.58214,-77.28601,Branchville,VA,Virginia,TRUE,,333,3.6,51175,Southampton,"{""51175"": ""100""}",Southampton,51175,FALSE,FALSE,America/New_York
+23829,36.73033,-77.22214,Capron,VA,Virginia,TRUE,,2454,11.6,51175,Southampton,"{""51175"": ""100""}",Southampton,51175,FALSE,FALSE,America/New_York
+23830,37.02013,-77.39588,Carson,VA,Virginia,TRUE,,1565,13,51149,Prince George,"{""51149"": ""44"", ""51053"": ""40.24"", ""51183"": ""15.76""}",Prince George|Dinwiddie|Sussex,51149|51053|51183,FALSE,FALSE,America/New_York
+23831,37.3454,-77.44974,Chester,VA,Virginia,TRUE,,35964,575.8,51041,Chesterfield,"{""51041"": ""100""}",Chesterfield,51041,FALSE,FALSE,America/New_York
+23832,37.39467,-77.5926,Chesterfield,VA,Virginia,TRUE,,38329,373.7,51041,Chesterfield,"{""51041"": ""100""}",Chesterfield,51041,FALSE,FALSE,America/New_York
+23833,37.2077,-77.6727,Church Road,VA,Virginia,TRUE,,2216,15,51053,Dinwiddie,"{""51053"": ""92.56"", ""51007"": ""7.44""}",Dinwiddie|Amelia,51053|51007,FALSE,FALSE,America/New_York
+23834,37.28974,-77.40366,Colonial Heights,VA,Virginia,TRUE,,26017,444.9,51570,Colonial Heights,"{""51570"": ""67.98"", ""51041"": ""32.02""}",Colonial Heights|Chesterfield,51570|51041,FALSE,FALSE,America/New_York
+23836,37.34422,-77.34477,Chester,VA,Virginia,TRUE,,13787,209.5,51041,Chesterfield,"{""51041"": ""100""}",Chesterfield,51041,FALSE,FALSE,America/New_York
+23837,36.75245,-77.08504,Courtland,VA,Virginia,TRUE,,4406,16,51175,Southampton,"{""51175"": ""98.51"", ""51183"": ""1.49""}",Southampton|Sussex,51175|51183,FALSE,FALSE,America/New_York
+23838,37.31847,-77.63389,Chesterfield,VA,Virginia,TRUE,,16666,64.5,51041,Chesterfield,"{""51041"": ""100""}",Chesterfield,51041,FALSE,FALSE,America/New_York
+23839,37.07982,-76.91887,Dendron,VA,Virginia,TRUE,,936,14.4,51181,Surry,"{""51181"": ""100""}",Surry,51181,FALSE,FALSE,America/New_York
+23840,37.05936,-77.66519,Dewitt,VA,Virginia,TRUE,,2719,22,51053,Dinwiddie,"{""51053"": ""100""}",Dinwiddie,51053,FALSE,FALSE,America/New_York
+23841,37.05234,-77.55182,Dinwiddie,VA,Virginia,TRUE,,3266,17.2,51053,Dinwiddie,"{""51053"": ""100""}",Dinwiddie,51053,FALSE,FALSE,America/New_York
+23842,37.13341,-77.22381,Disputanta,VA,Virginia,TRUE,,6458,19.1,51149,Prince George,"{""51149"": ""93.64"", ""51183"": ""5.89"", ""51181"": ""0.46""}",Prince George|Sussex|Surry,51149|51183|51181,FALSE,FALSE,America/New_York
+23843,36.84663,-77.81515,Dolphin,VA,Virginia,TRUE,,417,5.5,51025,Brunswick,"{""51025"": ""100""}",Brunswick,51025,FALSE,FALSE,America/New_York
+23844,36.66982,-77.33704,Drewryville,VA,Virginia,TRUE,,612,5.2,51175,Southampton,"{""51175"": ""100""}",Southampton,51175,FALSE,FALSE,America/New_York
+23845,36.5722,-77.98887,Ebony,VA,Virginia,TRUE,,519,14.7,51025,Brunswick,"{""51025"": ""100""}",Brunswick,51025,FALSE,FALSE,America/New_York
+23846,37.057,-76.83777,Elberon,VA,Virginia,TRUE,,852,7.7,51181,Surry,"{""51181"": ""100""}",Surry,51181,FALSE,FALSE,America/New_York
+23847,36.67043,-77.55067,Emporia,VA,Virginia,TRUE,,15717,21.6,51081,Greensville,"{""51081"": ""60.61"", ""51595"": ""34.94"", ""51025"": ""2.5"", ""51175"": ""1.25"", ""51183"": ""0.7""}",Greensville|Emporia|Brunswick|Southampton|Sussex,51081|51595|51025|51175|51183,FALSE,FALSE,America/New_York
+23850,37.17355,-77.7417,Ford,VA,Virginia,TRUE,,1211,9.3,51053,Dinwiddie,"{""51053"": ""77.07"", ""51007"": ""22.93""}",Dinwiddie|Amelia,51053|51007,FALSE,FALSE,America/New_York
+23851,36.65546,-76.95391,Franklin,VA,Virginia,TRUE,,13437,48.6,51620,Franklin,"{""51620"": ""62.57"", ""51175"": ""28.97"", ""51093"": ""8.46""}",Franklin|Southampton|Isle of Wight,51620|51175|51093,FALSE,FALSE,America/New_York
+23856,36.78383,-77.70183,Freeman,VA,Virginia,TRUE,,907,7.5,51025,Brunswick,"{""51025"": ""96.22"", ""51081"": ""3.78""}",Brunswick|Greensville,51025|51081,FALSE,FALSE,America/New_York
+23857,36.5856,-77.88357,Gasburg,VA,Virginia,TRUE,,687,17.6,51025,Brunswick,"{""51025"": ""100""}",Brunswick,51025,FALSE,FALSE,America/New_York
+23860,37.27984,-77.21731,Hopewell,VA,Virginia,TRUE,,30524,233.4,51670,Hopewell,"{""51670"": ""70.66"", ""51149"": ""29.34""}",Hopewell|Prince George,51670|51149,FALSE,FALSE,America/New_York
+23866,36.91864,-76.86692,Ivor,VA,Virginia,TRUE,,1974,8.8,51175,Southampton,"{""51175"": ""78.23"", ""51093"": ""21.77""}",Southampton|Isle of Wight,51175|51093,FALSE,FALSE,America/New_York
+23867,36.81698,-77.48272,Jarratt,VA,Virginia,TRUE,,1930,8.1,51081,Greensville,"{""51081"": ""56.88"", ""51183"": ""43.12""}",Greensville|Sussex,51081|51183,FALSE,FALSE,America/New_York
+23868,36.71344,-77.80481,Lawrenceville,VA,Virginia,TRUE,,6986,22.2,51025,Brunswick,"{""51025"": ""100""}",Brunswick,51025,FALSE,FALSE,America/New_York
+23872,36.98779,-77.71819,McKenney,VA,Virginia,TRUE,,2549,10.3,51053,Dinwiddie,"{""51053"": ""100""}",Dinwiddie,51053,FALSE,FALSE,America/New_York
+23874,36.60221,-77.08604,Newsoms,VA,Virginia,TRUE,,924,8.9,51175,Southampton,"{""51175"": ""100""}",Southampton,51175,FALSE,FALSE,America/New_York
+23875,37.2283,-77.2631,Prince George,VA,Virginia,TRUE,,12313,135.1,51149,Prince George,"{""51149"": ""100""}",Prince George,51149,FALSE,FALSE,America/New_York
+23876,36.95656,-77.83771,Rawlings,VA,Virginia,TRUE,,267,2.9,51025,Brunswick,"{""51025"": ""100""}",Brunswick,51025,FALSE,FALSE,America/New_York
+23878,36.83196,-77.024,Sedley,VA,Virginia,TRUE,,989,9.7,51175,Southampton,"{""51175"": ""100""}",Southampton,51175,FALSE,FALSE,America/New_York
+23879,36.59299,-77.59676,Skippers,VA,Virginia,TRUE,,512,5.9,51081,Greensville,"{""51081"": ""100""}",Greensville,51081,FALSE,FALSE,America/New_York
+23881,37.18796,-76.98665,Spring Grove,VA,Virginia,TRUE,,2023,6.5,51181,Surry,"{""51181"": ""76.47"", ""51149"": ""23.53""}",Surry|Prince George,51181|51149,FALSE,FALSE,America/New_York
+23882,36.92569,-77.4151,Stony Creek,VA,Virginia,TRUE,,2136,5.1,51183,Sussex,"{""51183"": ""71.5"", ""51053"": ""28.5""}",Sussex|Dinwiddie,51183|51053,FALSE,FALSE,America/New_York
+23883,37.12075,-76.74915,Surry,VA,Virginia,TRUE,,2065,14,51181,Surry,"{""51181"": ""100""}",Surry,51181,FALSE,FALSE,America/New_York
+23884,36.91725,-77.27943,Sussex,VA,Virginia,TRUE,,38,41.4,51183,Sussex,"{""51183"": ""100""}",Sussex,51183,FALSE,FALSE,America/New_York
+23885,37.18641,-77.57841,Sutherland,VA,Virginia,TRUE,,2542,28.9,51053,Dinwiddie,"{""51053"": ""100""}",Dinwiddie,51053,FALSE,FALSE,America/New_York
+23887,36.57107,-77.80839,Valentines,VA,Virginia,TRUE,,307,5.8,51025,Brunswick,"{""51025"": ""100""}",Brunswick,51025,FALSE,FALSE,America/New_York
+23888,36.9569,-76.98245,Wakefield,VA,Virginia,TRUE,,2420,10.7,51183,Sussex,"{""51183"": ""77.76"", ""51175"": ""11.65"", ""51181"": ""10.59""}",Sussex|Southampton|Surry,51183|51175|51181,FALSE,FALSE,America/New_York
+23889,36.89609,-77.73768,Warfield,VA,Virginia,TRUE,,748,8.6,51025,Brunswick,"{""51025"": ""100""}",Brunswick,51025,FALSE,FALSE,America/New_York
+23890,37.0034,-77.11941,Waverly,VA,Virginia,TRUE,,4396,8.7,51183,Sussex,"{""51183"": ""87.17"", ""51181"": ""12.83""}",Sussex|Surry,51183|51181,FALSE,FALSE,America/New_York
+23891,37.05082,-77.21243,Waverly,VA,Virginia,TRUE,,2112,352.3,51183,Sussex,"{""51183"": ""100""}",Sussex,51183,FALSE,FALSE,America/New_York
+23893,36.63627,-77.92792,White Plains,VA,Virginia,TRUE,,286,4.3,51025,Brunswick,"{""51025"": ""100""}",Brunswick,51025,FALSE,FALSE,America/New_York
+23894,37.12619,-77.81795,Wilsons,VA,Virginia,TRUE,,807,9.6,51053,Dinwiddie,"{""51053"": ""100""}",Dinwiddie,51053,FALSE,FALSE,America/New_York
+23897,36.83172,-77.28377,Yale,VA,Virginia,TRUE,,516,3.4,51183,Sussex,"{""51183"": ""100""}",Sussex,51183,FALSE,FALSE,America/New_York
+23898,36.8273,-76.85599,Zuni,VA,Virginia,TRUE,,2190,17,51093,Isle of Wight,"{""51093"": ""65.54"", ""51175"": ""34.46""}",Isle of Wight|Southampton,51093|51175,FALSE,FALSE,America/New_York
+23899,37.23078,-76.96558,Claremont,VA,Virginia,TRUE,,330,50.9,51181,Surry,"{""51181"": ""100""}",Surry,51181,FALSE,FALSE,America/New_York
+23901,37.31622,-78.41609,Farmville,VA,Virginia,TRUE,,18397,35.5,51147,Prince Edward,"{""51147"": ""72.93"", ""51049"": ""20.51"", ""51029"": ""6.57""}",Prince Edward|Cumberland|Buckingham,51147|51049|51029,FALSE,FALSE,America/New_York
+23909,37.30057,-78.39668,Farmville,VA,Virginia,TRUE,,447,4512.2,51147,Prince Edward,"{""51147"": ""100""}",Prince Edward,51147,FALSE,FALSE,America/New_York
+23915,36.70149,-78.28677,Baskerville,VA,Virginia,TRUE,,1215,14.3,51117,Mecklenburg,"{""51117"": ""100""}",Mecklenburg,51117,FALSE,FALSE,America/New_York
+23917,36.62447,-78.34255,Boydton,VA,Virginia,TRUE,,2778,9.9,51117,Mecklenburg,"{""51117"": ""100""}",Mecklenburg,51117,FALSE,FALSE,America/New_York
+23919,36.59513,-78.13501,Bracey,VA,Virginia,TRUE,,2436,28.8,51117,Mecklenburg,"{""51117"": ""95.87"", ""51025"": ""4.13""}",Mecklenburg|Brunswick,51117|51025,FALSE,FALSE,America/New_York
+23920,36.72431,-77.97677,Brodnax,VA,Virginia,TRUE,,2975,9.4,51025,Brunswick,"{""51025"": ""73.29"", ""51117"": ""22.84"", ""51111"": ""3.87""}",Brunswick|Mecklenburg|Lunenburg,51025|51117|51111,FALSE,FALSE,America/New_York
+23921,37.59078,-78.61976,Buckingham,VA,Virginia,TRUE,,1297,6.2,51029,Buckingham,"{""51029"": ""100""}",Buckingham,51029,FALSE,FALSE,America/New_York
+23922,37.1871,-78.2148,Burkeville,VA,Virginia,TRUE,,4551,25.9,51135,Nottoway,"{""51135"": ""85.87"", ""51147"": ""14.13""}",Nottoway|Prince Edward,51135|51147,FALSE,FALSE,America/New_York
+23923,37.09234,-78.64394,Charlotte Court House,VA,Virginia,TRUE,,3083,13.4,51037,Charlotte,"{""51037"": ""96.18"", ""51147"": ""3.82""}",Charlotte|Prince Edward,51037|51147,FALSE,FALSE,America/New_York
+23924,36.80743,-78.43198,Chase City,VA,Virginia,TRUE,,5625,15.8,51117,Mecklenburg,"{""51117"": ""94.98"", ""51111"": ""3.1"", ""51037"": ""1.93""}",Mecklenburg|Lunenburg|Charlotte,51117|51111|51037,FALSE,FALSE,America/New_York
+23927,36.61067,-78.51213,Clarksville,VA,Virginia,TRUE,,4074,20.8,51117,Mecklenburg,"{""51117"": ""100""}",Mecklenburg,51117,FALSE,FALSE,America/New_York
+23930,37.17241,-78.09939,Crewe,VA,Virginia,TRUE,,4919,17.7,51135,Nottoway,"{""51135"": ""100""}",Nottoway,51135,FALSE,FALSE,America/New_York
+23934,37.17387,-78.62197,Cullen,VA,Virginia,TRUE,,524,5.6,51037,Charlotte,"{""51037"": ""59.91"", ""51147"": ""40.09""}",Charlotte|Prince Edward,51037|51147,FALSE,FALSE,America/New_York
+23936,37.52776,-78.47872,Dillwyn,VA,Virginia,TRUE,,8215,14.5,51029,Buckingham,"{""51029"": ""98.33"", ""51049"": ""1.67""}",Buckingham|Cumberland,51029|51049,FALSE,FALSE,America/New_York
+23937,36.94483,-78.52616,Drakes Branch,VA,Virginia,TRUE,,1794,9.5,51037,Charlotte,"{""51037"": ""89.04"", ""51111"": ""10.96""}",Charlotte|Lunenburg,51037|51111,FALSE,FALSE,America/New_York
+23938,36.90654,-77.99612,Dundas,VA,Virginia,TRUE,,233,4.5,51025,Brunswick,"{""51025"": ""66.09"", ""51111"": ""33.91""}",Brunswick|Lunenburg,51025|51111,FALSE,FALSE,America/New_York
+23942,37.13542,-78.30324,Green Bay,VA,Virginia,TRUE,,1239,8.1,51147,Prince Edward,"{""51147"": ""76.44"", ""51111"": ""23.56""}",Prince Edward|Lunenburg,51147|51111,FALSE,FALSE,America/New_York
+23943,37.24362,-78.45574,Hampden Sydney,VA,Virginia,TRUE,,54,78.2,51147,Prince Edward,"{""51147"": ""100""}",Prince Edward,51147,FALSE,FALSE,America/New_York
+23944,36.90668,-78.13427,Kenbridge,VA,Virginia,TRUE,,3096,8.5,51111,Lunenburg,"{""51111"": ""100""}",Lunenburg,51111,FALSE,FALSE,America/New_York
+23947,37.0283,-78.4502,Keysville,VA,Virginia,TRUE,,3927,11.4,51037,Charlotte,"{""51037"": ""57.95"", ""51111"": ""33.96"", ""51147"": ""8.08""}",Charlotte|Lunenburg|Prince Edward,51037|51111|51147,FALSE,FALSE,America/New_York
+23950,36.66122,-78.07537,La Crosse,VA,Virginia,TRUE,,3870,24.5,51117,Mecklenburg,"{""51117"": ""91.28"", ""51025"": ""8.72""}",Mecklenburg|Brunswick,51117|51025,FALSE,FALSE,America/New_York
+23952,36.92908,-78.29143,Lunenburg,VA,Virginia,TRUE,,238,7,51111,Lunenburg,"{""51111"": ""100""}",Lunenburg,51111,FALSE,FALSE,America/New_York
+23954,37.10638,-78.38363,Meherrin,VA,Virginia,TRUE,,1663,10.1,51147,Prince Edward,"{""51147"": ""74.07"", ""51111"": ""25.93""}",Prince Edward|Lunenburg,51147|51111,FALSE,FALSE,America/New_York
+23958,37.26651,-78.65975,Pamplin,VA,Virginia,TRUE,,3318,13.1,51011,Appomattox,"{""51011"": ""48.45"", ""51147"": ""45.55"", ""51037"": ""5.99""}",Appomattox|Prince Edward|Charlotte,51011|51147|51037,FALSE,FALSE,America/New_York
+23959,37.10568,-78.7932,Phenix,VA,Virginia,TRUE,,1198,7.9,51037,Charlotte,"{""51037"": ""100""}",Charlotte,51037,FALSE,FALSE,America/New_York
+23960,37.31378,-78.56053,Prospect,VA,Virginia,TRUE,,1541,13.8,51147,Prince Edward,"{""51147"": ""98.29"", ""51011"": ""1.71""}",Prince Edward|Appomattox,51147|51011,FALSE,FALSE,America/New_York
+23962,36.93449,-78.70254,Randolph,VA,Virginia,TRUE,,830,6.8,51037,Charlotte,"{""51037"": ""69.7"", ""51083"": ""30.3""}",Charlotte|Halifax,51037|51083,FALSE,FALSE,America/New_York
+23963,37.19454,-78.80214,Red House,VA,Virginia,TRUE,,88,1.6,51037,Charlotte,"{""51037"": ""79.73"", ""51031"": ""13.8"", ""51011"": ""6.47""}",Charlotte|Campbell|Appomattox,51037|51031|51011,FALSE,FALSE,America/New_York
+23964,36.77452,-78.62881,Red Oak,VA,Virginia,TRUE,,1278,11.2,51037,Charlotte,"{""51037"": ""91.48"", ""51117"": ""8.52""}",Charlotte|Mecklenburg,51037|51117,FALSE,FALSE,America/New_York
+23966,37.29262,-78.27278,Rice,VA,Virginia,TRUE,,2286,16.5,51147,Prince Edward,"{""51147"": ""92.38"", ""51007"": ""7.62""}",Prince Edward|Amelia,51147|51007,FALSE,FALSE,America/New_York
+23967,36.91799,-78.63345,Saxe,VA,Virginia,TRUE,,1137,9.3,51037,Charlotte,"{""51037"": ""100""}",Charlotte,51037,FALSE,FALSE,America/New_York
+23968,36.72523,-78.5221,Skipwith,VA,Virginia,TRUE,,604,7.4,51117,Mecklenburg,"{""51117"": ""100""}",Mecklenburg,51117,FALSE,FALSE,America/New_York
+23970,36.7508,-78.188,South Hill,VA,Virginia,TRUE,,8616,27.4,51117,Mecklenburg,"{""51117"": ""94.61"", ""51111"": ""5.39""}",Mecklenburg|Lunenburg,51117|51111,FALSE,FALSE,America/New_York
+23974,36.97099,-78.25669,Victoria,VA,Virginia,TRUE,,5608,22,51111,Lunenburg,"{""51111"": ""100""}",Lunenburg,51111,FALSE,FALSE,America/New_York
+23976,36.84705,-78.58415,Wylliesburg,VA,Virginia,TRUE,,34,1.7,51037,Charlotte,"{""51037"": ""100""}",Charlotte,51037,FALSE,FALSE,America/New_York
+24011,37.27044,-79.94127,Roanoke,VA,Virginia,TRUE,,518,1165,51770,Roanoke,"{""51770"": ""100""}",Roanoke,51770,FALSE,FALSE,America/New_York
+24012,37.3153,-79.90276,Roanoke,VA,Virginia,TRUE,,30220,571.1,51770,Roanoke,"{""51770"": ""74.48"", ""51161"": ""21.5"", ""51023"": ""4.02""}",Roanoke|Roanoke|Botetourt,51770|51161|51023,FALSE,FALSE,America/New_York
+24013,37.26648,-79.92248,Roanoke,VA,Virginia,TRUE,,8478,1448.3,51770,Roanoke,"{""51770"": ""100""}",Roanoke,51770,FALSE,FALSE,America/New_York
+24014,37.22288,-79.91289,Roanoke,VA,Virginia,TRUE,,16605,224.1,51770,Roanoke,"{""51770"": ""71.88"", ""51161"": ""28.12""}",Roanoke|Roanoke,51770|51161,FALSE,FALSE,America/New_York
+24015,37.25644,-79.97971,Roanoke,VA,Virginia,TRUE,,14677,1257.6,51770,Roanoke,"{""51770"": ""98.37"", ""51161"": ""1.63""}",Roanoke|Roanoke,51770|51161,FALSE,FALSE,America/New_York
+24016,37.27295,-79.95414,Roanoke,VA,Virginia,TRUE,,8759,1041.6,51770,Roanoke,"{""51770"": ""100""}",Roanoke,51770,FALSE,FALSE,America/New_York
+24017,37.29476,-79.99184,Roanoke,VA,Virginia,TRUE,,23699,1020.7,51770,Roanoke,"{""51770"": ""100""}",Roanoke,51770,FALSE,FALSE,America/New_York
+24018,37.21061,-80.04236,Roanoke,VA,Virginia,TRUE,,38341,326.2,51161,Roanoke,"{""51161"": ""89.99"", ""51770"": ""10.01"", ""51775"": ""0""}",Roanoke|Roanoke|Salem,51161|51770|51775,FALSE,FALSE,America/New_York
+24019,37.34625,-79.95225,Roanoke,VA,Virginia,TRUE,,27722,346,51161,Roanoke,"{""51161"": ""71.07"", ""51023"": ""15.66"", ""51770"": ""13.27""}",Roanoke|Botetourt|Roanoke,51161|51023|51770,FALSE,FALSE,America/New_York
+24020,37.35837,-79.94416,Roanoke,VA,Virginia,TRUE,,632,892,51161,Roanoke,"{""51161"": ""100""}",Roanoke,51161,FALSE,FALSE,America/New_York
+24053,36.60858,-80.53375,Ararat,VA,Virginia,TRUE,,2646,18.6,51141,Patrick,"{""51141"": ""96.8"", ""51035"": ""3.2""}",Patrick|Carroll,51141|51035,FALSE,FALSE,America/New_York
+24054,36.67394,-79.70511,Axton,VA,Virginia,TRUE,,6367,22.9,51089,Henry,"{""51089"": ""71.22"", ""51143"": ""28.78""}",Henry|Pittsylvania,51089|51143,FALSE,FALSE,America/New_York
+24055,36.75708,-79.99954,Bassett,VA,Virginia,TRUE,,12402,55.1,51089,Henry,"{""51089"": ""91.58"", ""51067"": ""4.21"", ""51141"": ""4.21""}",Henry|Franklin|Patrick,51089|51067|51141,FALSE,FALSE,America/New_York
+24058,37.18414,-80.6157,Belspring,VA,Virginia,TRUE,,242,39.9,51155,Pulaski,"{""51155"": ""100""}",Pulaski,51155,FALSE,FALSE,America/New_York
+24059,37.15457,-80.13587,Bent Mountain,VA,Virginia,TRUE,,853,13.9,51161,Roanoke,"{""51161"": ""96.33"", ""51067"": ""3.67""}",Roanoke|Franklin,51161|51067,FALSE,FALSE,America/New_York
+24060,37.25676,-80.42107,Blacksburg,VA,Virginia,TRUE,,55676,161.8,51121,Montgomery,"{""51121"": ""100""}",Montgomery,51121,FALSE,FALSE,America/New_York
+24064,37.37194,-79.77645,Blue Ridge,VA,Virginia,TRUE,,5046,59.3,51023,Botetourt,"{""51023"": ""71.11"", ""51019"": ""28.89""}",Botetourt|Bedford,51023|51019,FALSE,FALSE,America/New_York
+24065,37.11658,-79.97088,Boones Mill,VA,Virginia,TRUE,,6098,27.6,51067,Franklin,"{""51067"": ""82.35"", ""51161"": ""17.65""}",Franklin|Roanoke,51067|51161,FALSE,FALSE,America/New_York
+24066,37.53847,-79.67921,Buchanan,VA,Virginia,TRUE,,5295,12.7,51023,Botetourt,"{""51023"": ""98.38"", ""51163"": ""1.62""}",Botetourt|Rockbridge,51023|51163,FALSE,FALSE,America/New_York
+24067,37.03371,-80.06895,Callaway,VA,Virginia,TRUE,,2368,16.3,51067,Franklin,"{""51067"": ""100""}",Franklin,51067,FALSE,FALSE,America/New_York
+24069,36.58325,-79.63481,Cascade,VA,Virginia,TRUE,,1644,19.1,51143,Pittsylvania,"{""51143"": ""100""}",Pittsylvania,51143,FALSE,FALSE,America/New_York
+24070,37.36705,-80.20873,Catawba,VA,Virginia,TRUE,,1827,12.2,51161,Roanoke,"{""51161"": ""78.06"", ""51045"": ""21.13"", ""51121"": ""0.81""}",Roanoke|Craig|Montgomery,51161|51045|51121,FALSE,FALSE,America/New_York
+24072,37.03633,-80.2329,Check,VA,Virginia,TRUE,,1029,14.3,51063,Floyd,"{""51063"": ""100""}",Floyd,51063,FALSE,FALSE,America/New_York
+24073,37.12852,-80.42216,Christiansburg,VA,Virginia,TRUE,,30710,133.6,51121,Montgomery,"{""51121"": ""100""}",Montgomery,51121,FALSE,FALSE,America/New_York
+24076,36.59731,-80.42028,Claudville,VA,Virginia,TRUE,,1362,14.6,51141,Patrick,"{""51141"": ""100""}",Patrick,51141,FALSE,FALSE,America/New_York
+24077,37.36641,-79.90388,Cloverdale,VA,Virginia,TRUE,,769,366.9,51023,Botetourt,"{""51023"": ""100""}",Botetourt,51023,FALSE,FALSE,America/New_York
+24078,36.72502,-79.91092,Collinsville,VA,Virginia,TRUE,,7527,419.8,51089,Henry,"{""51089"": ""100""}",Henry,51089,FALSE,FALSE,America/New_York
+24079,37.05424,-80.15716,Copper Hill,VA,Virginia,TRUE,,1817,18.1,51063,Floyd,"{""51063"": ""99.89"", ""51067"": ""0.11""}",Floyd|Franklin,51063|51067,FALSE,FALSE,America/New_York
+24082,36.61973,-80.12316,Critz,VA,Virginia,TRUE,,650,33.6,51141,Patrick,"{""51141"": ""100""}",Patrick,51141,FALSE,FALSE,America/New_York
+24083,37.40604,-79.92314,Daleville,VA,Virginia,TRUE,,2910,140.7,51023,Botetourt,"{""51023"": ""100""}",Botetourt,51023,FALSE,FALSE,America/New_York
+24084,37.11584,-80.79319,Dublin,VA,Virginia,TRUE,,11002,35.9,51155,Pulaski,"{""51155"": ""97.52"", ""51021"": ""2.48""}",Pulaski|Bland,51155|51021,FALSE,FALSE,America/New_York
+24085,37.6775,-79.82379,Eagle Rock,VA,Virginia,TRUE,,2139,4.7,51023,Botetourt,"{""51023"": ""99.5"", ""51005"": ""0.5""}",Botetourt|Alleghany,51023|51005,FALSE,FALSE,America/New_York
+24086,37.27426,-80.6343,Eggleston,VA,Virginia,TRUE,,113,6.9,51071,Giles,"{""51071"": ""100""}",Giles,51071,FALSE,FALSE,America/New_York
+24087,37.22569,-80.24845,Elliston,VA,Virginia,TRUE,,3789,31.9,51121,Montgomery,"{""51121"": ""96.81"", ""51161"": ""3.19""}",Montgomery|Roanoke,51121|51161,FALSE,FALSE,America/New_York
+24088,36.8969,-80.07868,Ferrum,VA,Virginia,TRUE,,5472,18,51067,Franklin,"{""51067"": ""96.86"", ""51141"": ""3.14""}",Franklin|Patrick,51067|51141,FALSE,FALSE,America/New_York
+24089,36.70917,-79.97282,Fieldale,VA,Virginia,TRUE,,2440,83.6,51089,Henry,"{""51089"": ""100""}",Henry,51089,FALSE,FALSE,America/New_York
+24090,37.52293,-79.88824,Fincastle,VA,Virginia,TRUE,,5028,20.4,51023,Botetourt,"{""51023"": ""100""}",Botetourt,51023,FALSE,FALSE,America/New_York
+24091,36.91752,-80.32859,Floyd,VA,Virginia,TRUE,,7739,17.1,51063,Floyd,"{""51063"": ""98.95"", ""51141"": ""0.57"", ""51067"": ""0.49""}",Floyd|Patrick|Franklin,51063|51141|51067,FALSE,FALSE,America/New_York
+24092,37.00339,-79.7671,Glade Hill,VA,Virginia,TRUE,,2445,26.6,51067,Franklin,"{""51067"": ""100""}",Franklin,51067,FALSE,FALSE,America/New_York
+24093,37.38779,-80.8565,Glen Lyn,VA,Virginia,TRUE,,101,7.4,51071,Giles,"{""51071"": ""100""}",Giles,51071,FALSE,FALSE,America/New_York
+24095,37.22324,-79.73811,Goodview,VA,Virginia,TRUE,,4332,66.3,51019,Bedford,"{""51019"": ""100""}",Bedford,51019,FALSE,FALSE,America/New_York
+24101,37.17622,-79.79959,Hardy,VA,Virginia,TRUE,,6290,43.7,51067,Franklin,"{""51067"": ""85.44"", ""51019"": ""14.56""}",Franklin|Bedford,51067|51019,FALSE,FALSE,America/New_York
+24102,36.83954,-79.99678,Henry,VA,Virginia,TRUE,,1552,18.6,51067,Franklin,"{""51067"": ""93.4"", ""51089"": ""6.6""}",Franklin|Henry,51067|51089,FALSE,FALSE,America/New_York
+24104,37.13604,-79.48842,Huddleston,VA,Virginia,TRUE,,3452,17.8,51019,Bedford,"{""51019"": ""100""}",Bedford,51019,FALSE,FALSE,America/New_York
+24105,36.89908,-80.60013,Indian Valley,VA,Virginia,TRUE,,468,8.4,51063,Floyd,"{""51063"": ""93.8"", ""51035"": ""6.2""}",Floyd|Carroll,51063|51035,FALSE,FALSE,America/New_York
+24112,36.72729,-79.84428,Martinsville,VA,Virginia,TRUE,,29448,75,51089,Henry,"{""51089"": ""54.11"", ""51690"": ""42.34"", ""51067"": ""3.56""}",Henry|Martinsville|Franklin,51089|51690|51067,FALSE,FALSE,America/New_York
+24120,36.71684,-80.41394,Meadows Of Dan,VA,Virginia,TRUE,,1477,8,51141,Patrick,"{""51141"": ""72.42"", ""51063"": ""16.08"", ""51035"": ""11.51""}",Patrick|Floyd|Carroll,51141|51063|51035,FALSE,FALSE,America/New_York
+24121,37.17233,-79.63977,Moneta,VA,Virginia,TRUE,,11145,45.3,51019,Bedford,"{""51019"": ""64.28"", ""51067"": ""35.72""}",Bedford|Franklin,51019|51067,FALSE,FALSE,America/New_York
+24122,37.42514,-79.69357,Montvale,VA,Virginia,TRUE,,1600,21.5,51019,Bedford,"{""51019"": ""100""}",Bedford,51019,FALSE,FALSE,America/New_York
+24124,37.31275,-80.85807,Narrows,VA,Virginia,TRUE,,4785,25.5,51071,Giles,"{""51071"": ""94.74"", ""51021"": ""5.26""}",Giles|Bland,51071|51021,FALSE,FALSE,America/New_York
+24127,37.48631,-80.19046,New Castle,VA,Virginia,TRUE,,3860,6.2,51045,Craig,"{""51045"": ""100""}",Craig,51045,FALSE,FALSE,America/New_York
+24128,37.34333,-80.46942,Newport,VA,Virginia,TRUE,,1948,10.4,51071,Giles,"{""51071"": ""73.24"", ""51045"": ""26.76""}",Giles|Craig,51071|51045,FALSE,FALSE,America/New_York
+24130,37.61252,-79.99643,Oriskany,VA,Virginia,TRUE,,15,2.5,51023,Botetourt,"{""51023"": ""100""}",Botetourt,51023,FALSE,FALSE,America/New_York
+24131,37.57072,-80.22656,Paint Bank,VA,Virginia,TRUE,,10,0.1,51045,Craig,"{""51045"": ""100""}",Craig,51045,FALSE,FALSE,America/New_York
+24132,37.21021,-80.6498,Parrott,VA,Virginia,TRUE,,282,9.3,51155,Pulaski,"{""51155"": ""100""}",Pulaski,51155,FALSE,FALSE,America/New_York
+24133,36.66968,-80.1344,Patrick Springs,VA,Virginia,TRUE,,2258,20.1,51141,Patrick,"{""51141"": ""100""}",Patrick,51141,FALSE,FALSE,America/New_York
+24134,37.24522,-80.77995,Pearisburg,VA,Virginia,TRUE,,5200,19.6,51071,Giles,"{""51071"": ""100""}",Giles,51071,FALSE,FALSE,America/New_York
+24136,37.33123,-80.59756,Pembroke,VA,Virginia,TRUE,,3156,25,51071,Giles,"{""51071"": ""100""}",Giles,51071,FALSE,FALSE,America/New_York
+24137,36.92888,-79.65251,Penhook,VA,Virginia,TRUE,,2530,13.2,51067,Franklin,"{""51067"": ""82.3"", ""51143"": ""17.7""}",Franklin|Pittsylvania,51067|51143,FALSE,FALSE,America/New_York
+24138,37.04844,-80.31825,Pilot,VA,Virginia,TRUE,,1618,23.1,51121,Montgomery,"{""51121"": ""60.01"", ""51063"": ""39.99""}",Montgomery|Floyd,51121|51063,FALSE,FALSE,America/New_York
+24139,37.01141,-79.47875,Pittsville,VA,Virginia,TRUE,,359,5.7,51143,Pittsylvania,"{""51143"": ""88.7"", ""51019"": ""11.3""}",Pittsylvania|Bedford,51143|51019,FALSE,FALSE,America/New_York
+24141,37.09487,-80.56832,Radford,VA,Virginia,TRUE,,22989,139.2,51750,Radford,"{""51750"": ""67.44"", ""51155"": ""24.55"", ""51121"": ""7.3"", ""51063"": ""0.72""}",Radford|Pulaski|Montgomery|Floyd,51750|51155|51121|51063,FALSE,FALSE,America/New_York
+24142,37.13794,-80.55083,Radford,VA,Virginia,TRUE,,2745,10379.2,51750,Radford,"{""51750"": ""100""}",Radford,51750,FALSE,FALSE,America/New_York
+24147,37.40044,-80.82588,Rich Creek,VA,Virginia,TRUE,,1418,82.1,51071,Giles,"{""51071"": ""100""}",Giles,51071,FALSE,FALSE,America/New_York
+24148,36.58168,-79.87269,Ridgeway,VA,Virginia,TRUE,,8475,45.9,51089,Henry,"{""51089"": ""100""}",Henry,51089,FALSE,FALSE,America/New_York
+24149,37.02437,-80.43582,Riner,VA,Virginia,TRUE,,3401,24.7,51121,Montgomery,"{""51121"": ""74.06"", ""51063"": ""25.94""}",Montgomery|Floyd,51121|51063,FALSE,FALSE,America/New_York
+24150,37.40581,-80.60582,Ripplemead,VA,Virginia,TRUE,,820,5.7,51071,Giles,"{""51071"": ""100""}",Giles,51071,FALSE,FALSE,America/New_York
+24151,36.95739,-79.86453,Rocky Mount,VA,Virginia,TRUE,,20436,48.6,51067,Franklin,"{""51067"": ""100""}",Franklin,51067,FALSE,FALSE,America/New_York
+24153,37.30011,-80.11063,Salem,VA,Virginia,TRUE,,37849,139,51775,Salem,"{""51775"": ""65.68"", ""51161"": ""34.25"", ""51023"": ""0.07""}",Salem|Roanoke|Botetourt,51775|51161|51023,FALSE,FALSE,America/New_York
+24161,36.97848,-79.54437,Sandy Level,VA,Virginia,TRUE,,505,7.4,51143,Pittsylvania,"{""51143"": ""100""}",Pittsylvania,51143,FALSE,FALSE,America/New_York
+24162,37.13787,-80.25777,Shawsville,VA,Virginia,TRUE,,2381,19.7,51121,Montgomery,"{""51121"": ""99.05"", ""51063"": ""0.95""}",Montgomery|Floyd,51121|51063,FALSE,FALSE,America/New_York
+24165,36.58491,-80.05194,Spencer,VA,Virginia,TRUE,,1259,11.2,51089,Henry,"{""51089"": ""64.85"", ""51141"": ""35.15""}",Henry|Patrick,51089|51141,FALSE,FALSE,America/New_York
+24167,37.24904,-80.73439,Staffordsville,VA,Virginia,TRUE,,206,15,51071,Giles,"{""51071"": ""100""}",Giles,51071,FALSE,FALSE,America/New_York
+24168,36.73475,-79.94645,Stanleytown,VA,Virginia,TRUE,,385,150,51089,Henry,"{""51089"": ""100""}",Henry,51089,FALSE,FALSE,America/New_York
+24171,36.67195,-80.23868,Stuart,VA,Virginia,TRUE,,8327,16.1,51141,Patrick,"{""51141"": ""100""}",Patrick,51141,FALSE,FALSE,America/New_York
+24174,37.35161,-79.66867,Thaxton,VA,Virginia,TRUE,,2898,32.7,51019,Bedford,"{""51019"": ""100""}",Bedford,51019,FALSE,FALSE,America/New_York
+24175,37.42845,-79.9396,Troutville,VA,Virginia,TRUE,,8142,43.7,51023,Botetourt,"{""51023"": ""99.5"", ""51161"": ""0.5""}",Botetourt|Roanoke,51023|51161,FALSE,FALSE,America/New_York
+24176,37.00932,-79.69178,Union Hall,VA,Virginia,TRUE,,1257,22.1,51067,Franklin,"{""51067"": ""100""}",Franklin,51067,FALSE,FALSE,America/New_York
+24179,37.28726,-79.80117,Vinton,VA,Virginia,TRUE,,18258,149.1,51161,Roanoke,"{""51161"": ""70.18"", ""51019"": ""29.82""}",Roanoke|Bedford,51161|51019,FALSE,FALSE,America/New_York
+24184,37.08814,-79.78134,Wirtz,VA,Virginia,TRUE,,4586,41.3,51067,Franklin,"{""51067"": ""100""}",Franklin,51067,FALSE,FALSE,America/New_York
+24185,36.8116,-80.26923,Woolwine,VA,Virginia,TRUE,,458,4.7,51141,Patrick,"{""51141"": ""100""}",Patrick,51141,FALSE,FALSE,America/New_York
+24201,36.61087,-82.16978,Bristol,VA,Virginia,TRUE,,16252,606.3,51520,Bristol,"{""51520"": ""100""}",Bristol,51520,FALSE,FALSE,America/New_York
+24202,36.66094,-82.2126,Bristol,VA,Virginia,TRUE,,11127,33.7,51191,Washington,"{""51191"": ""90.99"", ""51520"": ""5.57"", ""51169"": ""3.44""}",Washington|Bristol|Scott,51191|51520|51169,FALSE,FALSE,America/New_York
+24210,36.77248,-82.02235,Abingdon,VA,Virginia,TRUE,,16337,44.6,51191,Washington,"{""51191"": ""100""}",Washington,51191,FALSE,FALSE,America/New_York
+24211,36.65389,-81.95744,Abingdon,VA,Virginia,TRUE,,10032,54.8,51191,Washington,"{""51191"": ""100""}",Washington,51191,FALSE,FALSE,America/New_York
+24216,36.9437,-82.79763,Appalachia,VA,Virginia,TRUE,,2712,15.5,51195,Wise,"{""51195"": ""100""}",Wise,51195,FALSE,FALSE,America/New_York
+24217,37.08415,-82.17205,Bee,VA,Virginia,TRUE,,278,5.3,51051,Dickenson,"{""51051"": ""81.28"", ""51027"": ""18.72""}",Dickenson|Buchanan,51051|51027,FALSE,FALSE,America/New_York
+24219,36.84878,-82.75814,Big Stone Gap,VA,Virginia,TRUE,,11393,60.4,51195,Wise,"{""51195"": ""88.22"", ""51105"": ""11.78""}",Wise|Lee,51195|51105,FALSE,FALSE,America/New_York
+24220,37.13948,-82.24335,Birchleaf,VA,Virginia,TRUE,,1049,16.3,51051,Dickenson,"{""51051"": ""100""}",Dickenson,51051,FALSE,FALSE,America/New_York
+24221,36.63361,-82.99548,Blackwater,VA,Virginia,TRUE,,596,4.5,51105,Lee,"{""51105"": ""58"", ""51169"": ""42""}",Lee|Scott,51105|51169,FALSE,FALSE,America/New_York
+24224,36.86232,-82.28197,Castlewood,VA,Virginia,TRUE,,5866,20.9,51167,Russell,"{""51167"": ""100""}",Russell,51167,FALSE,FALSE,America/New_York
+24225,36.98142,-82.13603,Cleveland,VA,Virginia,TRUE,,2283,15.3,51167,Russell,"{""51167"": ""100""}",Russell,51167,FALSE,FALSE,America/New_York
+24226,37.13931,-82.33458,Clinchco,VA,Virginia,TRUE,,1154,16.7,51051,Dickenson,"{""51051"": ""100""}",Dickenson,51051,FALSE,FALSE,America/New_York
+24228,37.16971,-82.45001,Clintwood,VA,Virginia,TRUE,,6449,26.8,51051,Dickenson,"{""51051"": ""100""}",Dickenson,51051,FALSE,FALSE,America/New_York
+24230,36.96108,-82.46443,Coeburn,VA,Virginia,TRUE,,8092,24.3,51195,Wise,"{""51195"": ""80.3"", ""51051"": ""17.6"", ""51169"": ""2.1""}",Wise|Dickenson|Scott,51195|51051|51169,FALSE,FALSE,America/New_York
+24236,36.6424,-81.74467,Damascus,VA,Virginia,TRUE,,3092,21.1,51191,Washington,"{""51191"": ""100""}",Washington,51191,FALSE,FALSE,America/New_York
+24237,37.0358,-82.25593,Dante,VA,Virginia,TRUE,,865,5.8,51051,Dickenson,"{""51051"": ""52.35"", ""51167"": ""47.65""}",Dickenson|Russell,51051|51167,FALSE,FALSE,America/New_York
+24239,37.11348,-82.15014,Davenport,VA,Virginia,TRUE,,241,33.6,51027,Buchanan,"{""51027"": ""100""}",Buchanan,51027,FALSE,FALSE,America/New_York
+24243,36.77883,-82.92718,Dryden,VA,Virginia,TRUE,,1948,33.6,51105,Lee,"{""51105"": ""100""}",Lee,51105,FALSE,FALSE,America/New_York
+24244,36.71568,-82.78923,Duffield,VA,Virginia,TRUE,,5881,13.3,51169,Scott,"{""51169"": ""83.31"", ""51105"": ""16.69""}",Scott|Lee,51169|51105,FALSE,FALSE,America/New_York
+24245,36.83615,-82.49912,Dungannon,VA,Virginia,TRUE,,757,5.6,51169,Scott,"{""51169"": ""100""}",Scott,51169,FALSE,FALSE,America/New_York
+24246,36.86696,-82.74519,East Stone Gap,VA,Virginia,TRUE,,492,388,51195,Wise,"{""51195"": ""100""}",Wise,51195,FALSE,FALSE,America/New_York
+24248,36.62711,-83.51378,Ewing,VA,Virginia,TRUE,,2465,18.2,51105,Lee,"{""51105"": ""100""}",Lee,51105,FALSE,FALSE,America/New_York
+24250,36.75664,-82.59741,Fort Blackmore,VA,Virginia,TRUE,,1309,9.6,51169,Scott,"{""51169"": ""100""}",Scott,51169,FALSE,FALSE,America/New_York
+24251,36.65886,-82.60645,Gate City,VA,Virginia,TRUE,,8275,27,51169,Scott,"{""51169"": ""100""}",Scott,51169,FALSE,FALSE,America/New_York
+24256,37.22066,-82.28182,Haysi,VA,Virginia,TRUE,,3471,23,51051,Dickenson,"{""51051"": ""80.78"", ""51027"": ""19.22""}",Dickenson|Buchanan,51051|51027,FALSE,FALSE,America/New_York
+24258,36.64803,-82.42034,Hiltons,VA,Virginia,TRUE,,1577,14.7,51169,Scott,"{""51169"": ""97.6"", ""51191"": ""2.4""}",Scott|Washington,51169|51191,FALSE,FALSE,America/New_York
+24260,37.03954,-82.02463,Honaker,VA,Virginia,TRUE,,5340,26.1,51167,Russell,"{""51167"": ""81.08"", ""51027"": ""18.92""}",Russell|Buchanan,51167|51027,FALSE,FALSE,America/New_York
+24263,36.67174,-83.14547,Jonesville,VA,Virginia,TRUE,,5875,18.7,51105,Lee,"{""51105"": ""100""}",Lee,51105,FALSE,FALSE,America/New_York
+24265,36.83806,-82.93891,Keokee,VA,Virginia,TRUE,,707,7,51105,Lee,"{""51105"": ""100""}",Lee,51105,FALSE,FALSE,America/New_York
+24266,36.86436,-82.11867,Lebanon,VA,Virginia,TRUE,,8986,28.6,51167,Russell,"{""51167"": ""100""}",Russell,51167,FALSE,FALSE,America/New_York
+24269,37.08122,-82.37603,McClure,VA,Virginia,TRUE,,390,19.7,51051,Dickenson,"{""51051"": ""100""}",Dickenson,51051,FALSE,FALSE,America/New_York
+24270,36.72716,-82.25077,Mendota,VA,Virginia,TRUE,,793,14.3,51191,Washington,"{""51191"": ""100""}",Washington,51191,FALSE,FALSE,America/New_York
+24271,36.7467,-82.41696,Nickelsville,VA,Virginia,TRUE,,2319,14.2,51169,Scott,"{""51169"": ""100""}",Scott,51169,FALSE,FALSE,America/New_York
+24272,37.0218,-82.33306,Nora,VA,Virginia,TRUE,,716,13.2,51051,Dickenson,"{""51051"": ""100""}",Dickenson,51051,FALSE,FALSE,America/New_York
+24273,36.96167,-82.65647,Norton,VA,Virginia,TRUE,,6072,37,51720,Norton,"{""51720"": ""63.21"", ""51195"": ""36.79""}",Norton|Wise,51720|51195,FALSE,FALSE,America/New_York
+24277,36.74835,-83.03076,Pennington Gap,VA,Virginia,TRUE,,6906,50.4,51105,Lee,"{""51105"": ""100""}",Lee,51105,FALSE,FALSE,America/New_York
+24279,37.10263,-82.61839,Pound,VA,Virginia,TRUE,,5247,25.1,51195,Wise,"{""51195"": ""100""}",Wise,51195,FALSE,FALSE,America/New_York
+24280,36.95609,-81.93742,Rosedale,VA,Virginia,TRUE,,850,31,51167,Russell,"{""51167"": ""100""}",Russell,51167,FALSE,FALSE,America/New_York
+24281,36.64929,-83.33253,Rose Hill,VA,Virginia,TRUE,,2483,17.4,51105,Lee,"{""51105"": ""100""}",Lee,51105,FALSE,FALSE,America/New_York
+24282,36.82137,-83.05428,Saint Charles,VA,Virginia,TRUE,,865,21.2,51105,Lee,"{""51105"": ""100""}",Lee,51105,FALSE,FALSE,America/New_York
+24283,36.94302,-82.34732,Saint Paul,VA,Virginia,TRUE,,2130,32.2,51195,Wise,"{""51195"": ""81.9"", ""51167"": ""11.05"", ""51051"": ""7.05""}",Wise|Russell|Dickenson,51195|51167|51051,FALSE,FALSE,America/New_York
+24290,36.61196,-82.56806,Weber City,VA,Virginia,TRUE,,1968,153.4,51169,Scott,"{""51169"": ""100""}",Scott,51169,FALSE,FALSE,America/New_York
+24292,36.61457,-81.57778,Whitetop,VA,Virginia,TRUE,,392,5.7,51077,Grayson,"{""51077"": ""100""}",Grayson,51077,FALSE,FALSE,America/New_York
+24293,37.00496,-82.56082,Wise,VA,Virginia,TRUE,,9575,63.2,51195,Wise,"{""51195"": ""100""}",Wise,51195,FALSE,FALSE,America/New_York
+24301,37.06048,-80.79978,Pulaski,VA,Virginia,TRUE,,14164,68.2,51155,Pulaski,"{""51155"": ""100""}",Pulaski,51155,FALSE,FALSE,America/New_York
+24311,36.88173,-81.40915,Atkins,VA,Virginia,TRUE,,1475,14.1,51173,Smyth,"{""51173"": ""100""}",Smyth,51173,FALSE,FALSE,America/New_York
+24312,36.8371,-80.87483,Austinville,VA,Virginia,TRUE,,1678,17.4,51035,Carroll,"{""51035"": ""56.85"", ""51197"": ""43.15""}",Carroll|Wythe,51035|51197,FALSE,FALSE,America/New_York
+24313,36.90827,-80.80658,Barren Springs,VA,Virginia,TRUE,,917,49.6,51197,Wythe,"{""51197"": ""98.53"", ""51155"": ""1.47""}",Wythe|Pulaski,51197|51155,FALSE,FALSE,America/New_York
+24314,37.16731,-81.21383,Bastian,VA,Virginia,TRUE,,1403,6.1,51021,Bland,"{""51021"": ""89.49"", ""51185"": ""10.51""}",Bland|Tazewell,51021|51185,FALSE,FALSE,America/New_York
+24315,37.13892,-81.0643,Bland,VA,Virginia,TRUE,,3563,7.5,51021,Bland,"{""51021"": ""99.55"", ""51071"": ""0.45""}",Bland|Giles,51021|51071,FALSE,FALSE,America/New_York
+24316,36.95465,-81.67291,Broadford,VA,Virginia,TRUE,,0,0,51185,Tazewell,"{""51185"": ""100""}",Tazewell,51185,FALSE,FALSE,America/New_York
+24317,36.60351,-80.67192,Cana,VA,Virginia,TRUE,,3903,40.1,51035,Carroll,"{""51035"": ""100""}",Carroll,51035,FALSE,FALSE,America/New_York
+24318,36.99739,-81.38637,Ceres,VA,Virginia,TRUE,,599,3.5,51021,Bland,"{""51021"": ""59.62"", ""51173"": ""40.38""}",Bland|Smyth,51021|51173,FALSE,FALSE,America/New_York
+24319,36.74804,-81.64611,Chilhowie,VA,Virginia,TRUE,,7228,34.7,51173,Smyth,"{""51173"": ""90.41"", ""51191"": ""9.59""}",Smyth|Washington,51173|51191,FALSE,FALSE,America/New_York
+24322,36.80642,-81.11414,Cripple Creek,VA,Virginia,TRUE,,99,2.8,51197,Wythe,"{""51197"": ""100""}",Wythe,51197,FALSE,FALSE,America/New_York
+24323,36.86759,-81.19686,Crockett,VA,Virginia,TRUE,,893,18.4,51197,Wythe,"{""51197"": ""100""}",Wythe,51197,FALSE,FALSE,America/New_York
+24324,36.97559,-80.77948,Draper,VA,Virginia,TRUE,,1853,20.5,51155,Pulaski,"{""51155"": ""92.25"", ""51197"": ""7.75""}",Pulaski|Wythe,51155|51197,FALSE,FALSE,America/New_York
+24325,36.80532,-80.59684,Dugspur,VA,Virginia,TRUE,,1020,7.5,51035,Carroll,"{""51035"": ""100""}",Carroll,51035,FALSE,FALSE,America/New_York
+24326,36.73007,-81.20247,Elk Creek,VA,Virginia,TRUE,,1030,7.3,51077,Grayson,"{""51077"": ""100""}",Grayson,51077,FALSE,FALSE,America/New_York
+24328,36.66206,-80.69463,Fancy Gap,VA,Virginia,TRUE,,1748,18,51035,Carroll,"{""51035"": ""100""}",Carroll,51035,FALSE,FALSE,America/New_York
+24330,36.72655,-81.01998,Fries,VA,Virginia,TRUE,,3078,28.6,51077,Grayson,"{""51077"": ""78.77"", ""51035"": ""21.23""}",Grayson|Carroll,51077|51035,FALSE,FALSE,America/New_York
+24333,36.63834,-80.92883,Galax,VA,Virginia,TRUE,,17768,47.6,51640,Galax,"{""51640"": ""39.13"", ""51035"": ""33.72"", ""51077"": ""27.14""}",Galax|Carroll|Grayson,51640|51035|51077,FALSE,FALSE,America/New_York
+24340,36.76018,-81.76542,Glade Spring,VA,Virginia,TRUE,,6050,39.6,51191,Washington,"{""51191"": ""100""}",Washington,51191,FALSE,FALSE,America/New_York
+24343,36.76955,-80.70144,Hillsville,VA,Virginia,TRUE,,9597,28,51035,Carroll,"{""51035"": ""99.13"", ""51141"": ""0.44"", ""51197"": ""0.43""}",Carroll|Patrick|Wythe,51035|51141|51197,FALSE,FALSE,America/New_York
+24347,36.96183,-80.65565,Hiwassee,VA,Virginia,TRUE,,1619,7.9,51155,Pulaski,"{""51155"": ""90.83"", ""51121"": ""7.3"", ""51035"": ""1.86""}",Pulaski|Montgomery|Carroll,51155|51121|51035,FALSE,FALSE,America/New_York
+24348,36.6411,-81.17212,Independence,VA,Virginia,TRUE,,4760,17.3,51077,Grayson,"{""51077"": ""100""}",Grayson,51077,FALSE,FALSE,America/New_York
+24350,36.81117,-81.01963,Ivanhoe,VA,Virginia,TRUE,,1179,9.6,51197,Wythe,"{""51197"": ""69.71"", ""51035"": ""25.69"", ""51077"": ""4.6""}",Wythe|Carroll|Grayson,51197|51035|51077,FALSE,FALSE,America/New_York
+24351,36.58079,-80.7659,Lambsburg,VA,Virginia,TRUE,,447,15.2,51035,Carroll,"{""51035"": ""100""}",Carroll,51035,FALSE,FALSE,America/New_York
+24352,36.7148,-80.53313,Laurel Fork,VA,Virginia,TRUE,,839,11.3,51035,Carroll,"{""51035"": ""99.89"", ""51063"": ""0.11""}",Carroll|Floyd,51035|51063,FALSE,FALSE,America/New_York
+24354,36.82712,-81.54325,Marion,VA,Virginia,TRUE,,13934,50.7,51173,Smyth,"{""51173"": ""100""}",Smyth,51173,FALSE,FALSE,America/New_York
+24360,36.93372,-80.89676,Max Meadows,VA,Virginia,TRUE,,5802,26.3,51197,Wythe,"{""51197"": ""100""}",Wythe,51197,FALSE,FALSE,America/New_York
+24361,36.76674,-81.84611,Meadowview,VA,Virginia,TRUE,,5795,39.8,51191,Washington,"{""51191"": ""100""}",Washington,51191,FALSE,FALSE,America/New_York
+24363,36.61363,-81.39861,Mouth Of Wilson,VA,Virginia,TRUE,,1290,6.6,51077,Grayson,"{""51077"": ""100""}",Grayson,51077,FALSE,FALSE,America/New_York
+24366,37.25786,-81.11575,Rocky Gap,VA,Virginia,TRUE,,548,7.7,51021,Bland,"{""51021"": ""100""}",Bland,51021,FALSE,FALSE,America/New_York
+24368,36.88987,-81.29595,Rural Retreat,VA,Virginia,TRUE,,5252,24.5,51197,Wythe,"{""51197"": ""83.04"", ""51173"": ""16.96""}",Wythe|Smyth,51197|51173,FALSE,FALSE,America/New_York
+24370,36.91371,-81.69237,Saltville,VA,Virginia,TRUE,,6821,17.5,51173,Smyth,"{""51173"": ""86.17"", ""51191"": ""13.83""}",Smyth|Washington,51173|51191,FALSE,FALSE,America/New_York
+24374,36.79077,-81.19621,Speedwell,VA,Virginia,TRUE,,791,10.5,51197,Wythe,"{""51197"": ""100""}",Wythe,51197,FALSE,FALSE,America/New_York
+24375,36.77177,-81.38824,Sugar Grove,VA,Virginia,TRUE,,1888,11.8,51173,Smyth,"{""51173"": ""100""}",Smyth,51173,FALSE,FALSE,America/New_York
+24377,37.0008,-81.57247,Tannersville,VA,Virginia,TRUE,,329,3.6,51185,Tazewell,"{""51185"": ""100""}",Tazewell,51185,FALSE,FALSE,America/New_York
+24378,36.68736,-81.44408,Troutdale,VA,Virginia,TRUE,,998,4.7,51077,Grayson,"{""51077"": ""80.96"", ""51173"": ""19.04""}",Grayson|Smyth,51077|51173,FALSE,FALSE,America/New_York
+24380,36.86007,-80.50025,Willis,VA,Virginia,TRUE,,2696,12.3,51063,Floyd,"{""51063"": ""99.55"", ""51035"": ""0.45""}",Floyd|Carroll,51063|51035,FALSE,FALSE,America/New_York
+24381,36.72755,-80.84298,Woodlawn,VA,Virginia,TRUE,,3826,28.6,51035,Carroll,"{""51035"": ""100""}",Carroll,51035,FALSE,FALSE,America/New_York
+24382,36.96023,-81.09972,Wytheville,VA,Virginia,TRUE,,13780,26.6,51197,Wythe,"{""51197"": ""100""}",Wythe,51197,FALSE,FALSE,America/New_York
+24401,38.13353,-79.08591,Staunton,VA,Virginia,TRUE,,35718,103.5,51790,Staunton,"{""51790"": ""66.89"", ""51015"": ""33.11""}",Staunton|Augusta,51790|51015,FALSE,FALSE,America/New_York
+24411,38.10519,-79.3111,Augusta Springs,VA,Virginia,TRUE,,52,48,51015,Augusta,"{""51015"": ""100""}",Augusta,51015,FALSE,FALSE,America/New_York
+24412,38.05505,-79.82804,Bacova,VA,Virginia,TRUE,,27,4,51017,Bath,"{""51017"": ""100""}",Bath,51017,FALSE,FALSE,America/New_York
+24413,38.52851,-79.59324,Blue Grass,VA,Virginia,TRUE,,269,2.6,51091,Highland,"{""51091"": ""100""}",Highland,51091,FALSE,FALSE,America/New_York
+24415,37.92506,-79.31711,Brownsburg,VA,Virginia,TRUE,,0,0,51163,Rockbridge,"{""51163"": ""100""}",Rockbridge,51163,FALSE,FALSE,America/New_York
+24416,37.7223,-79.3607,Buena Vista,VA,Virginia,TRUE,,8756,60.9,51530,Buena Vista,"{""51530"": ""75.51"", ""51163"": ""24.49""}",Buena Vista|Rockbridge,51530|51163,FALSE,FALSE,America/New_York
+24421,38.26198,-79.20084,Churchville,VA,Virginia,TRUE,,4029,20.3,51015,Augusta,"{""51015"": ""100""}",Augusta,51015,FALSE,FALSE,America/New_York
+24422,37.82994,-79.75643,Clifton Forge,VA,Virginia,TRUE,,5924,27.5,51005,Alleghany,"{""51005"": ""96.53"", ""51023"": ""3.47""}",Alleghany|Botetourt,51005|51023,FALSE,FALSE,America/New_York
+24426,37.76844,-80.07654,Covington,VA,Virginia,TRUE,,13451,15.6,51005,Alleghany,"{""51005"": ""58.4"", ""51580"": ""41.6""}",Alleghany|Covington,51005|51580,FALSE,FALSE,America/New_York
+24430,38.08803,-79.35441,Craigsville,VA,Virginia,TRUE,,3829,41.9,51015,Augusta,"{""51015"": ""100""}",Augusta,51015,FALSE,FALSE,America/New_York
+24431,38.16873,-78.84034,Crimora,VA,Virginia,TRUE,,2571,69.8,51015,Augusta,"{""51015"": ""100""}",Augusta,51015,FALSE,FALSE,America/New_York
+24432,38.16222,-79.43398,Deerfield,VA,Virginia,TRUE,,286,2.2,51015,Augusta,"{""51015"": ""93.75"", ""51017"": ""6.25""}",Augusta|Bath,51015|51017,FALSE,FALSE,America/New_York
+24433,38.42073,-79.46284,Doe Hill,VA,Virginia,TRUE,,73,1.9,51091,Highland,"{""51091"": ""100""}",Highland,51091,FALSE,FALSE,America/New_York
+24435,37.87203,-79.30305,Fairfield,VA,Virginia,TRUE,,2028,25,51163,Rockbridge,"{""51163"": ""100""}",Rockbridge,51163,FALSE,FALSE,America/New_York
+24437,38.22158,-78.93861,Fort Defiance,VA,Virginia,TRUE,,705,20.4,51015,Augusta,"{""51015"": ""100""}",Augusta,51015,FALSE,FALSE,America/New_York
+24439,37.99289,-79.48967,Goshen,VA,Virginia,TRUE,,1227,5,51163,Rockbridge,"{""51163"": ""82.04"", ""51015"": ""17.96""}",Rockbridge|Augusta,51163|51015,FALSE,FALSE,America/New_York
+24440,37.99463,-79.16613,Greenville,VA,Virginia,TRUE,,2948,41,51015,Augusta,"{""51015"": ""100""}",Augusta,51015,FALSE,FALSE,America/New_York
+24441,38.22631,-78.82184,Grottoes,VA,Virginia,TRUE,,6190,54.1,51165,Rockingham,"{""51165"": ""62.36"", ""51015"": ""37.64""}",Rockingham|Augusta,51165|51015,FALSE,FALSE,America/New_York
+24442,38.33915,-79.40838,Head Waters,VA,Virginia,TRUE,,123,1,51091,Highland,"{""51091"": ""100""}",Highland,51091,FALSE,FALSE,America/New_York
+24445,37.95507,-79.88501,Hot Springs,VA,Virginia,TRUE,,2798,10.2,51017,Bath,"{""51017"": ""78.11"", ""51005"": ""21.89""}",Bath|Alleghany,51017|51005,FALSE,FALSE,America/New_York
+24448,37.79831,-79.78995,Iron Gate,VA,Virginia,TRUE,,256,321.6,51005,Alleghany,"{""51005"": ""100""}",Alleghany,51005,FALSE,FALSE,America/New_York
+24450,37.78579,-79.52385,Lexington,VA,Virginia,TRUE,,17140,32.2,51163,Rockbridge,"{""51163"": ""57.94"", ""51678"": ""42.06""}",Rockbridge|Lexington,51163|51678,FALSE,FALSE,America/New_York
+24457,37.77061,-79.92019,Low Moor,VA,Virginia,TRUE,,207,11.1,51005,Alleghany,"{""51005"": ""100""}",Alleghany,51005,FALSE,FALSE,America/New_York
+24458,38.31187,-79.525,McDowell,VA,Virginia,TRUE,,401,1.8,51091,Highland,"{""51091"": ""100""}",Highland,51091,FALSE,FALSE,America/New_York
+24459,38.02689,-79.28828,Middlebrook,VA,Virginia,TRUE,,728,5.6,51015,Augusta,"{""51015"": ""92.05"", ""51163"": ""7.95""}",Augusta|Rockbridge,51015|51163,FALSE,FALSE,America/New_York
+24460,38.01893,-79.65204,Millboro,VA,Virginia,TRUE,,1182,1.9,51017,Bath,"{""51017"": ""100""}",Bath,51017,FALSE,FALSE,America/New_York
+24464,37.87323,-79.10378,Montebello,VA,Virginia,TRUE,,168,2.9,51125,Nelson,"{""51125"": ""100""}",Nelson,51125,FALSE,FALSE,America/New_York
+24465,38.38024,-79.64631,Monterey,VA,Virginia,TRUE,,1239,2.7,51091,Highland,"{""51091"": ""100""}",Highland,51091,FALSE,FALSE,America/New_York
+24467,38.25999,-78.97223,Mount Sidney,VA,Virginia,TRUE,,2363,38.7,51015,Augusta,"{""51015"": ""100""}",Augusta,51015,FALSE,FALSE,America/New_York
+24471,38.30905,-78.79629,Port Republic,VA,Virginia,TRUE,,1791,42.6,51165,Rockingham,"{""51165"": ""100""}",Rockingham,51165,FALSE,FALSE,America/New_York
+24472,37.93755,-79.21452,Raphine,VA,Virginia,TRUE,,1722,10.4,51163,Rockbridge,"{""51163"": ""59.4"", ""51015"": ""40.6""}",Rockbridge|Augusta,51163|51015,FALSE,FALSE,America/New_York
+24473,37.91697,-79.41446,Rockbridge Baths,VA,Virginia,TRUE,,889,6.3,51163,Rockbridge,"{""51163"": ""100""}",Rockbridge,51163,FALSE,FALSE,America/New_York
+24474,37.8057,-79.84541,Selma,VA,Virginia,TRUE,,672,403.6,51005,Alleghany,"{""51005"": ""100""}",Alleghany,51005,FALSE,FALSE,America/New_York
+24476,37.97044,-79.2233,Steeles Tavern,VA,Virginia,TRUE,,225,12.4,51015,Augusta,"{""51015"": ""100""}",Augusta,51015,FALSE,FALSE,America/New_York
+24477,38.00446,-79.04232,Stuarts Draft,VA,Virginia,TRUE,,10894,86.6,51015,Augusta,"{""51015"": ""100""}",Augusta,51015,FALSE,FALSE,America/New_York
+24479,38.15207,-79.24144,Swoope,VA,Virginia,TRUE,,1539,9.8,51015,Augusta,"{""51015"": ""100""}",Augusta,51015,FALSE,FALSE,America/New_York
+24482,38.20521,-78.99551,Verona,VA,Virginia,TRUE,,5267,132.4,51015,Augusta,"{""51015"": ""100"", ""51790"": ""0""}",Augusta|Staunton,51015|51790,FALSE,FALSE,America/New_York
+24483,37.81192,-79.22925,Vesuvius,VA,Virginia,TRUE,,582,3.1,51163,Rockbridge,"{""51163"": ""77.85"", ""51009"": ""22.15""}",Rockbridge|Amherst,51163|51009,FALSE,FALSE,America/New_York
+24484,38.14374,-79.8207,Warm Springs,VA,Virginia,TRUE,,549,1.2,51017,Bath,"{""51017"": ""91.09"", ""51091"": ""8.91""}",Bath|Highland,51017|51091,FALSE,FALSE,America/New_York
+24485,38.27271,-79.33542,West Augusta,VA,Virginia,TRUE,,333,1.5,51015,Augusta,"{""51015"": ""100""}",Augusta,51015,FALSE,FALSE,America/New_York
+24486,38.29299,-78.93013,Weyers Cave,VA,Virginia,TRUE,,3304,56,51015,Augusta,"{""51015"": ""93.95"", ""51165"": ""6.05""}",Augusta|Rockingham,51015|51165,FALSE,FALSE,America/New_York
+24487,38.18974,-79.58785,Williamsville,VA,Virginia,TRUE,,322,1.7,51017,Bath,"{""51017"": ""89.38"", ""51091"": ""10.63""}",Bath|Highland,51017|51091,FALSE,FALSE,America/New_York
+24501,37.353,-79.15576,Lynchburg,VA,Virginia,TRUE,,28036,280.8,51680,Lynchburg,"{""51680"": ""82.46"", ""51031"": ""17.54""}",Lynchburg|Campbell,51680|51031,FALSE,FALSE,America/New_York
+24502,37.35805,-79.22058,Lynchburg,VA,Virginia,TRUE,,46044,640.4,51680,Lynchburg,"{""51680"": ""72.7"", ""51031"": ""25.29"", ""51019"": ""2.01""}",Lynchburg|Campbell|Bedford,51680|51031|51019,FALSE,FALSE,America/New_York
+24503,37.45331,-79.24965,Lynchburg,VA,Virginia,TRUE,,19349,178.9,51680,Lynchburg,"{""51680"": ""76.04"", ""51019"": ""23.96""}",Lynchburg|Bedford,51680|51019,FALSE,FALSE,America/New_York
+24504,37.36104,-79.05445,Lynchburg,VA,Virginia,TRUE,,9765,117.4,51680,Lynchburg,"{""51680"": ""72.23"", ""51031"": ""26.76"", ""51011"": ""1.01""}",Lynchburg|Campbell|Appomattox,51680|51031|51011,FALSE,FALSE,America/New_York
+24517,37.14937,-79.22977,Altavista,VA,Virginia,TRUE,,4743,50.8,51031,Campbell,"{""51031"": ""100""}",Campbell,51031,FALSE,FALSE,America/New_York
+24520,36.58395,-79.03673,Alton,VA,Virginia,TRUE,,2261,9.4,51083,Halifax,"{""51083"": ""100""}",Halifax,51083,FALSE,FALSE,America/New_York
+24521,37.63442,-79.09689,Amherst,VA,Virginia,TRUE,,9830,16.4,51009,Amherst,"{""51009"": ""97.76"", ""51125"": ""2.24""}",Amherst|Nelson,51009|51125,FALSE,FALSE,America/New_York
+24522,37.37369,-78.78523,Appomattox,VA,Virginia,TRUE,,9206,18,51011,Appomattox,"{""51011"": ""99.57"", ""51029"": ""0.43""}",Appomattox|Buckingham,51011|51029,FALSE,FALSE,America/New_York
+24523,37.34003,-79.5221,Bedford,VA,Virginia,TRUE,,19711,33.8,51019,Bedford,"{""51019"": 100}",Bedford,51019,FALSE,FALSE,America/New_York
+24526,37.54207,-79.40242,Big Island,VA,Virginia,TRUE,,1264,7.5,51019,Bedford,"{""51019"": ""100"", ""51009"": ""0""}",Bedford|Amherst,51019|51009,FALSE,FALSE,America/New_York
+24527,36.7369,-79.34396,Blairs,VA,Virginia,TRUE,,2884,35.3,51143,Pittsylvania,"{""51143"": ""100""}",Pittsylvania,51143,FALSE,FALSE,America/New_York
+24528,37.07678,-78.87836,Brookneal,VA,Virginia,TRUE,,3126,12.3,51031,Campbell,"{""51031"": ""82.97"", ""51037"": ""17.03""}",Campbell|Charlotte,51031|51037,FALSE,FALSE,America/New_York
+24529,36.62441,-78.64117,Buffalo Junction,VA,Virginia,TRUE,,2050,21.2,51117,Mecklenburg,"{""51117"": ""100""}",Mecklenburg,51117,FALSE,FALSE,America/New_York
+24530,36.80401,-79.61411,Callands,VA,Virginia,TRUE,,932,10.3,51143,Pittsylvania,"{""51143"": ""99.08"", ""51089"": ""0.92""}",Pittsylvania|Henry,51143|51089,FALSE,FALSE,America/New_York
+24531,36.84029,-79.44817,Chatham,VA,Virginia,TRUE,,8818,17.2,51143,Pittsylvania,"{""51143"": ""100""}",Pittsylvania,51143,FALSE,FALSE,America/New_York
+24534,36.87472,-78.76692,Clover,VA,Virginia,TRUE,,1208,8.1,51083,Halifax,"{""51083"": ""100""}",Halifax,51083,FALSE,FALSE,America/New_York
+24536,37.49299,-79.32598,Coleman Falls,VA,Virginia,TRUE,,286,18.7,51019,Bedford,"{""51019"": ""100""}",Bedford,51019,FALSE,FALSE,America/New_York
+24538,37.33355,-78.95837,Concord,VA,Virginia,TRUE,,5591,23.4,51031,Campbell,"{""51031"": ""65.56"", ""51011"": ""34.44""}",Campbell|Appomattox,51031|51011,FALSE,FALSE,America/New_York
+24539,36.85133,-78.9179,Crystal Hill,VA,Virginia,TRUE,,80,4.1,51083,Halifax,"{""51083"": ""100""}",Halifax,51083,FALSE,FALSE,America/New_York
+24540,36.64309,-79.4234,Danville,VA,Virginia,TRUE,,31607,160.6,51590,Danville,"{""51590"": ""60.1"", ""51143"": ""39.9""}",Danville|Pittsylvania,51590|51143,FALSE,FALSE,America/New_York
+24541,36.59208,-79.51244,Danville,VA,Virginia,TRUE,,27114,143.4,51590,Danville,"{""51590"": ""84.06"", ""51143"": ""15.94""}",Danville|Pittsylvania,51590|51143,FALSE,FALSE,America/New_York
+24549,36.71496,-79.50706,Dry Fork,VA,Virginia,TRUE,,3805,28.8,51143,Pittsylvania,"{""51143"": ""100""}",Pittsylvania,51143,FALSE,FALSE,America/New_York
+24550,37.23318,-79.25998,Evington,VA,Virginia,TRUE,,7272,43.1,51031,Campbell,"{""51031"": ""94.19"", ""51019"": ""5.81""}",Campbell|Bedford,51031|51019,FALSE,FALSE,America/New_York
+24551,37.35604,-79.32368,Forest,VA,Virginia,TRUE,,25625,145.1,51019,Bedford,"{""51019"": ""85.5"", ""51031"": ""13.66"", ""51680"": ""0.83""}",Bedford|Campbell|Lynchburg,51019|51031|51680,FALSE,FALSE,America/New_York
+24553,37.54759,-78.81782,Gladstone,VA,Virginia,TRUE,,1489,4.5,51125,Nelson,"{""51125"": ""27.29"", ""51011"": ""26.13"", ""51009"": ""25.76"", ""51029"": ""20.82""}",Nelson|Appomattox|Amherst|Buckingham,51125|51011|51009|51029,FALSE,FALSE,America/New_York
+24554,37.13308,-79.0626,Gladys,VA,Virginia,TRUE,,3952,12.9,51031,Campbell,"{""51031"": ""100""}",Campbell,51031,FALSE,FALSE,America/New_York
+24555,37.66874,-79.47241,Glasgow,VA,Virginia,TRUE,,2245,37.3,51163,Rockbridge,"{""51163"": ""100""}",Rockbridge,51163,FALSE,FALSE,America/New_York
+24556,37.38279,-79.39626,Goode,VA,Virginia,TRUE,,3218,29.1,51019,Bedford,"{""51019"": ""100""}",Bedford,51019,FALSE,FALSE,America/New_York
+24557,36.96662,-79.30432,Gretna,VA,Virginia,TRUE,,7696,18.1,51143,Pittsylvania,"{""51143"": ""99.54"", ""51083"": ""0.46""}",Pittsylvania|Halifax,51143|51083,FALSE,FALSE,America/New_York
+24558,36.77421,-78.95416,Halifax,VA,Virginia,TRUE,,5813,23.9,51083,Halifax,"{""51083"": ""100""}",Halifax,51083,FALSE,FALSE,America/New_York
+24562,37.69247,-78.62293,Howardsville,VA,Virginia,TRUE,,526,11.3,51029,Buckingham,"{""51029"": ""78.17"", ""51125"": ""18.31"", ""51003"": ""3.52""}",Buckingham|Nelson|Albemarle,51029|51125|51003,FALSE,FALSE,America/New_York
+24563,37.06392,-79.27634,Hurt,VA,Virginia,TRUE,,5290,30.3,51143,Pittsylvania,"{""51143"": ""100""}",Pittsylvania,51143,FALSE,FALSE,America/New_York
+24565,36.8499,-79.18943,Java,VA,Virginia,TRUE,,815,5.5,51143,Pittsylvania,"{""51143"": ""92.79"", ""51083"": ""7.21""}",Pittsylvania|Halifax,51143|51083,FALSE,FALSE,America/New_York
+24566,36.72748,-79.25076,Keeling,VA,Virginia,TRUE,,1386,14.4,51143,Pittsylvania,"{""51143"": ""100""}",Pittsylvania,51143,FALSE,FALSE,America/New_York
+24569,37.04485,-79.12173,Long Island,VA,Virginia,TRUE,,938,10,51143,Pittsylvania,"{""51143"": ""64.66"", ""51083"": ""20.49"", ""51031"": ""14.85""}",Pittsylvania|Halifax|Campbell,51143|51083|51031,FALSE,FALSE,America/New_York
+24570,37.34837,-79.42701,Lowry,VA,Virginia,TRUE,,0,0,51019,Bedford,"{""51019"": ""100""}",Bedford,51019,FALSE,FALSE,America/New_York
+24571,37.13691,-79.37932,Lynch Station,VA,Virginia,TRUE,,2310,17.4,51031,Campbell,"{""51031"": ""78.58"", ""51019"": ""21.42""}",Campbell|Bedford,51031|51019,FALSE,FALSE,America/New_York
+24572,37.46363,-79.0965,Madison Heights,VA,Virginia,TRUE,,16691,100.8,51009,Amherst,"{""51009"": ""100""}",Amherst,51009,FALSE,FALSE,America/New_York
+24574,37.57697,-79.2598,Monroe,VA,Virginia,TRUE,,4009,14.2,51009,Amherst,"{""51009"": ""100""}",Amherst,51009,FALSE,FALSE,America/New_York
+24577,36.93564,-78.97195,Nathalie,VA,Virginia,TRUE,,4720,9.5,51083,Halifax,"{""51083"": ""100""}",Halifax,51083,FALSE,FALSE,America/New_York
+24578,37.66174,-79.55753,Natural Bridge,VA,Virginia,TRUE,,926,10.3,51163,Rockbridge,"{""51163"": ""100""}",Rockbridge,51163,FALSE,FALSE,America/New_York
+24579,37.58705,-79.50457,Natural Bridge Station,VA,Virginia,TRUE,,1256,14.8,51163,Rockbridge,"{""51163"": ""100""}",Rockbridge,51163,FALSE,FALSE,America/New_York
+24580,36.58095,-78.68318,Nelson,VA,Virginia,TRUE,,531,9.9,51117,Mecklenburg,"{""51117"": ""100""}",Mecklenburg,51117,FALSE,FALSE,America/New_York
+24581,37.6575,-78.80464,Norwood,VA,Virginia,TRUE,,27,2.4,51125,Nelson,"{""51125"": ""100""}",Nelson,51125,FALSE,FALSE,America/New_York
+24586,36.60699,-79.283,Ringgold,VA,Virginia,TRUE,,5819,42.3,51143,Pittsylvania,"{""51143"": ""100""}",Pittsylvania,51143,FALSE,FALSE,America/New_York
+24588,37.26276,-79.09685,Rustburg,VA,Virginia,TRUE,,9936,52.8,51031,Campbell,"{""51031"": ""100""}",Campbell,51031,FALSE,FALSE,America/New_York
+24589,36.75875,-78.75788,Scottsburg,VA,Virginia,TRUE,,3170,15.8,51083,Halifax,"{""51083"": ""100""}",Halifax,51083,FALSE,FALSE,America/New_York
+24590,37.79308,-78.48481,Scottsville,VA,Virginia,TRUE,,7779,18,51003,Albemarle,"{""51003"": ""41.27"", ""51065"": ""34.53"", ""51029"": ""24.2""}",Albemarle|Fluvanna|Buckingham,51003|51065|51029,FALSE,FALSE,America/New_York
+24592,36.67561,-78.9636,South Boston,VA,Virginia,TRUE,,13342,41,51083,Halifax,"{""51083"": ""100""}",Halifax,51083,FALSE,FALSE,America/New_York
+24593,37.32795,-78.91137,Spout Spring,VA,Virginia,TRUE,,2260,24.1,51011,Appomattox,"{""51011"": ""100""}",Appomattox,51011,FALSE,FALSE,America/New_York
+24594,36.64366,-79.18779,Sutherlin,VA,Virginia,TRUE,,1600,11.3,51143,Pittsylvania,"{""51143"": ""69.11"", ""51083"": ""30.89""}",Pittsylvania|Halifax,51143|51083,FALSE,FALSE,America/New_York
+24595,37.55779,-79.08251,Sweet Briar,VA,Virginia,TRUE,,639,132.5,51009,Amherst,"{""51009"": ""100""}",Amherst,51009,FALSE,FALSE,America/New_York
+24597,36.78531,-79.10954,Vernon Hill,VA,Virginia,TRUE,,1151,8.9,51083,Halifax,"{""51083"": ""90.21"", ""51143"": ""9.79""}",Halifax|Pittsylvania,51083|51143,FALSE,FALSE,America/New_York
+24598,36.60742,-78.78345,Virgilina,VA,Virginia,TRUE,,1677,8.8,51083,Halifax,"{""51083"": ""98.29"", ""51117"": ""1.71""}",Halifax|Mecklenburg,51083|51117,FALSE,FALSE,America/New_York
+24599,37.63047,-78.72569,Wingina,VA,Virginia,TRUE,,1083,8.9,51029,Buckingham,"{""51029"": ""55.28"", ""51125"": ""44.72""}",Buckingham|Nelson,51029|51125,FALSE,FALSE,America/New_York
+24601,37.19378,-81.64921,Amonate,VA,Virginia,TRUE,,0,0,51185,Tazewell,"{""51185"": ""100""}",Tazewell,51185,FALSE,FALSE,America/New_York
+24602,37.18279,-81.65999,Bandy,VA,Virginia,TRUE,,670,5.2,51185,Tazewell,"{""51185"": ""100""}",Tazewell,51185,FALSE,FALSE,America/New_York
+24603,37.35328,-82.19682,Big Rock,VA,Virginia,TRUE,,766,14.3,51027,Buchanan,"{""51027"": ""100""}",Buchanan,51027,FALSE,FALSE,America/New_York
+24604,37.20996,-81.54212,Bishop,VA,Virginia,TRUE,,189,17.9,51185,Tazewell,"{""51185"": ""76.61"", ""54047"": ""23.39""}",Tazewell|McDowell,51185|54047,FALSE,FALSE,America/New_York
+24605,37.2448,-81.36635,Bluefield,VA,Virginia,TRUE,,7870,63.1,51185,Tazewell,"{""51185"": ""100""}",Tazewell,51185,FALSE,FALSE,America/New_York
+24606,37.28771,-81.39385,Boissevain,VA,Virginia,TRUE,,209,34.5,51185,Tazewell,"{""51185"": ""100""}",Tazewell,51185,FALSE,FALSE,America/New_York
+24607,37.29078,-82.2653,Breaks,VA,Virginia,TRUE,,254,7.7,51027,Buchanan,"{""51027"": ""80.09"", ""51051"": ""19.91""}",Buchanan|Dickenson,51027|51051,FALSE,FALSE,America/New_York
+24609,37.0107,-81.81373,Cedar Bluff,VA,Virginia,TRUE,,7136,26.5,51185,Tazewell,"{""51185"": ""75.12"", ""51167"": ""24.88""}",Tazewell|Russell,51185|51167,FALSE,FALSE,America/New_York
+24612,37.09338,-81.83828,Doran,VA,Virginia,TRUE,,165,120.8,51185,Tazewell,"{""51185"": ""100""}",Tazewell,51185,FALSE,FALSE,America/New_York
+24613,37.26168,-81.33695,Falls Mills,VA,Virginia,TRUE,,560,18.8,51185,Tazewell,"{""51185"": ""100""}",Tazewell,51185,FALSE,FALSE,America/New_York
+24614,37.31062,-82.06499,Grundy,VA,Virginia,TRUE,,7198,21.7,51027,Buchanan,"{""51027"": ""100""}",Buchanan,51027,FALSE,FALSE,America/New_York
+24620,37.42993,-82.01884,Hurley,VA,Virginia,TRUE,,2932,14.7,51027,Buchanan,"{""51027"": ""100""}",Buchanan,51027,FALSE,FALSE,America/New_York
+24622,37.20942,-81.79562,Jewell Ridge,VA,Virginia,TRUE,,839,6.6,51027,Buchanan,"{""51027"": ""53.11"", ""51185"": ""46.89""}",Buchanan|Tazewell,51027|51185,FALSE,FALSE,America/New_York
+24628,37.28718,-82.2177,Maxie,VA,Virginia,TRUE,,250,15.2,51027,Buchanan,"{""51027"": ""100""}",Buchanan,51027,FALSE,FALSE,America/New_York
+24630,37.17592,-81.46741,North Tazewell,VA,Virginia,TRUE,,7148,42.1,51185,Tazewell,"{""51185"": ""100""}",Tazewell,51185,FALSE,FALSE,America/New_York
+24631,37.21374,-81.99169,Oakwood,VA,Virginia,TRUE,,2334,17.8,51027,Buchanan,"{""51027"": ""100""}",Buchanan,51027,FALSE,FALSE,America/New_York
+24634,37.27465,-81.90232,Pilgrims Knob,VA,Virginia,TRUE,,462,12.3,51027,Buchanan,"{""51027"": ""100""}",Buchanan,51027,FALSE,FALSE,America/New_York
+24635,37.309,-81.35133,Pocahontas,VA,Virginia,TRUE,,1420,93.8,51185,Tazewell,"{""51185"": ""100""}",Tazewell,51185,FALSE,FALSE,America/New_York
+24637,37.05873,-81.70332,Pounding Mill,VA,Virginia,TRUE,,3683,50,51185,Tazewell,"{""51185"": ""100""}",Tazewell,51185,FALSE,FALSE,America/New_York
+24639,37.16695,-81.89861,Raven,VA,Virginia,TRUE,,3412,31.3,51185,Tazewell,"{""51185"": ""64.79"", ""51027"": ""34.73"", ""51167"": ""0.48""}",Tazewell|Buchanan|Russell,51185|51027|51167,FALSE,FALSE,America/New_York
+24641,37.11584,-81.80373,Richlands,VA,Virginia,TRUE,,5489,111.1,51185,Tazewell,"{""51185"": ""100""}",Tazewell,51185,FALSE,FALSE,America/New_York
+24646,37.13642,-82.02889,Rowe,VA,Virginia,TRUE,,642,21.1,51027,Buchanan,"{""51027"": ""100""}",Buchanan,51027,FALSE,FALSE,America/New_York
+24649,37.07276,-81.90936,Swords Creek,VA,Virginia,TRUE,,2705,23.6,51167,Russell,"{""51167"": ""99.64"", ""51027"": ""0.36""}",Russell|Buchanan,51167|51027,FALSE,FALSE,America/New_York
+24651,37.07667,-81.50416,Tazewell,VA,Virginia,TRUE,,5665,13.9,51185,Tazewell,"{""51185"": ""100""}",Tazewell,51185,FALSE,FALSE,America/New_York
+24656,37.17393,-82.1233,Vansant,VA,Virginia,TRUE,,2906,16.4,51027,Buchanan,"{""51027"": ""100""}",Buchanan,51027,FALSE,FALSE,America/New_York
+24657,37.22509,-81.8605,Whitewood,VA,Virginia,TRUE,,381,8.8,51027,Buchanan,"{""51027"": ""100""}",Buchanan,51027,FALSE,FALSE,America/New_York

@@ -1,0 +1,608 @@
+---------------------------------------------------------------------------------
+/* Creating Stage Tables */
+---------------------------------------------------------------------------------
+
+/* Create table jcwf_stage_customer */
+DROP TABLE jcwf_stage_customer ;
+CREATE TABLE jcwf_stage_customer  (
+   Customer_Account  TEXT   
+,  Customer_Business_Person  TEXT   
+,  Customer_Name  TEXT   
+,  Customer_Primary_Phone  TEXT   
+,  Customer_Zip  TEXT   
+,  Customer_Street_1  TEXT   
+/* ,  Customer_Street_2  TEXT   */
+/* ,  Customer_Street_3  TEXT   */
+/* ,  Customer_Street_4  TEXT   */
+,  Customer_City  TEXT   
+,  Customer_State  TEXT   
+,  Customer_Country  TEXT   
+,  Customer_Address_Type  TEXT   
+,  Customer_Address_Fax  TEXT   
+/* ,  Customer_Country_Code  TEXT   */
+/* ,  Customer_IDD_Prefix  TEXT   */
+,  Customer_Account_Activation_Email  TEXT   
+,  Customer_Advance_Ship_Notice  TEXT   
+,  Customer_Order_Submittal  TEXT   
+,  Customer_Email_Subscription   TEXT   
+/* ,  Customer_Website  TEXT   */
+/* ,  Customer_Customer_Reference TEXT   */
+,  Customer_Default_Order_Comments  TEXT   
+,  Customer_Default_Invoice_Comments  TEXT   
+/* ,  Customer_Hide_Cost_on_Order_Confirmation  TEXT   */
+/* ,  Customer_Allow_Duplicate_PO  TEXT   */
+,  Customer_First_Name_Last_Name  TEXT   
+,  Customer_Work_Phone  TEXT   
+,  Customer_Ext  TEXT   
+,  Customer_Cell_Phone  TEXT   
+,  Customer_Home_Phone  TEXT   
+,  Customer_Fax  TEXT   
+,  Customer_Corporate_Account  TEXT   
+,  Customer_Email_Credit_Hold  TEXT   
+,  Customer_Credit_Hold_Email  TEXT   
+,  Customer_Art_Hold_Email  TEXT   
+,  Customer_Email_Invoice  TEXT   	
+,  Customer_Invoice_Notification  TEXT   
+,  Customer_Email_Invoice_Past_Due_Alert  TEXT   
+,  Customer_Invoice_Past_Due_Alert  TEXT   
+,  Customer_Email_Statement  TEXT   
+,  Customer_Statements  TEXT   
+,  Customer_Email_Credit_Memo  TEXT   
+,  Customer_Credit_Memo_Email  TEXT   
+,  Customer_Email_Return_Reminder  TEXT   
+,  Customer_Return_Reminder_Email  TEXT   
+,  Customer_Reference_Associate_Email  TEXT   
+,  Customer_Fed_Tax_Code  TEXT   
+,  Customer_Fed_Tax_Freight  TEXT   
+,  Customer_Fed_Exempt_Number  TEXT   
+/* ,  Customer_Signed_Fed_Certificate  TEXT   */
+,  Customer_State_Tax_Code  TEXT   
+,  Customer_State_Tax_Freight  TEXT   
+,  Customer_State_Exempt_Number  TEXT   
+/* ,  Customer_Signed_State_Certificate  TEXT   */
+,  Customer_Warehouse  TEXT   
+,  Customer_Site  TEXT   
+,  Customer_Type  TEXT   
+,  Customer_Territory  TEXT   
+,  Customer_Site_Number  TEXT   
+,  Customer_Source  TEXT   
+/* ,  Customer_Royalty_Included  TEXT   */
+,  Customer_Route_Codes  TEXT   
+,  Customer_Route_Sequence  TEXT   
+,  Customer_Ship_Via  TEXT   
+,  Customer_Price_Suffix  TEXT   
+,  Customer_Drop_Ship  TEXT   
+,  Customer_High_Low_Discount  TEXT   
+,  Customer_Bill_To_Name  TEXT   
+,  Customer_Bill_To_Street_1  TEXT   
+/* ,  Customer_Bill_To_Street_2  TEXT   */
+/* ,  Customer_Bill_To_Street_3  TEXT   */
+/* ,  Customer_Bill_To_Street_4  TEXT   */
+,  Customer_Bill_To_City  TEXT   
+,  Customer_Bill_To_State  TEXT   
+,  Customer_Bill_To_Zipcode  TEXT   
+,  Customer_Bill_To_Country  TEXT   
+,  Customer_Bill_To_Phone  TEXT   
+,  Customer_Bill_To_Fax  TEXT   
+,  Customer_Opened  TEXT   
+/* ,  Customer_Last_Invoice  TEXT   */
+/* ,  Customer_Last_Payment  TEXT   */
+,  Customer_Terms  TEXT   
+,  Customer_Days TEXT   
+,  Customer_Other  TEXT   
+,  Customer_Past_Due_Max  TEXT   
+,  Customer_Invoice_Due_Days  TEXT   
+,  Customer_COD TEXT   
+,  Customer_Prepay_CC  TEXT   
+,  Customer_Charge_Freight  TEXT   
+/* ,  Customer_Collector  TEXT   */
+,  Customer_Credit_Hold_Code  TEXT   
+,  Customer_Credit_Limit  TEXT   
+,  Customer_Last_Reviewed  TEXT   
+,  Customer_Include_Remakes  TEXT   
+,  Customer_On_Any_Order_Lower  TEXT   
+,  Customer_On_Any_Order_Higher TEXT   
+/* ,  Customer_Current_Lower  TEXT   */
+/* ,  Customer_Current_Higher  TEXT   */
+/* ,  Customer_30_Days_AR_Lower  TEXT   */
+/* ,  Customer_30_Days_AR_Higher  TEXT   */
+/* ,  Customer_60_Days_AR_Lower  TEXT   */
+/* ,  Customer_60_Days_AR_Higher  TEXT   */
+/* ,  Customer_90_Days_AR_Lower  TEXT   */
+/* ,  Customer_90_Days_AR_Higher  TEXT   */
+/* ,  Customer_120_Days_AR_Lower  TEXT   */
+/* ,  Customer_120_Days_AR_Higher  TEXT   */
+,  Customer_Reference_1  TEXT   
+,  Customer_Waive_Minimum_Deposit  TEXT   
+/* ,  Customer_Reference_2  TEXT   */
+,  Customer_Account_Suspended  TEXT   
+,  Customer_Saleperson_1  TEXT   
+/* ,  Customer_Saleperson_2  TEXT   */
+/* ,  Customer_Saleperson_3  TEXT   */
+/* ,  Customer_Saleperson_4  TEXT   */
+/* ,  Customer_Saleperson_5  TEXT   */
+/* ,  Customer_Constant_1  TEXT   */
+/* ,  Customer_Constant_2  TEXT   */
+/* ,  Customer_Constant_3  TEXT   */
+/* ,  Customer_Constant_4  TEXT   */
+/* ,  Customer_Constant_5  TEXT   */
+/* ,  Customer_Constant_6  TEXT   */
+/* ,  Customer_Constant_7  TEXT   */
+/* ,  Customer_Constant_8  TEXT   */
+/* ,  Customer_Constant_9  TEXT   */
+/* ,  Customer_Constant_10  TEXT   */
+/* ,  Customer_Constant_11  TEXT   */
+/* ,  Customer_Constant_12  TEXT   */
+/* ,  Customer_Constant_13  TEXT   */
+/* ,  Customer_Constant_14  TEXT   */
+/* ,  Customer_Constant_15  TEXT   */
+/* ,  Customer_Constant_16  TEXT   */
+/* ,  Customer_Constant_17  TEXT   */
+/* ,  Customer_Constant_18  TEXT   */
+/* ,  Customer_Constant_19  TEXT   */
+/* ,  Customer_Constant_20  TEXT   */
+/* ,  User_Defined_1  TEXT   */
+/* ,  User_Defined_2  TEXT   */
+/* ,  User_Defined_3  TEXT   */
+/* ,  User_Defined_4  TEXT   */
+/* ,  User_Defined_5  TEXT   */
+/* ,  User_Defined_6  TEXT   */
+/* ,  User_Defined_7  TEXT   */
+/* ,  User_Defined_8  TEXT   */
+/* ,  User_Defined_9  TEXT   */
+/* ,  User_Defined_10  TEXT   */
+/* ,  User_Defined_11  TEXT   */
+/* ,  User_Defined_12  TEXT   */
+/* ,  User_Defined_13  TEXT   */
+/* ,  User_Defined_14  TEXT   */
+/* ,  User_Defined_15  TEXT   */
+/* ,  User_Defined_16  TEXT   */
+/* ,  User_Defined_17  TEXT   */
+/* ,  User_Defined_18  TEXT   */
+/* ,  User_Defined_19  TEXT   */
+/* ,  User_Defined_20  TEXT   */
+,  Customer_Customer_W_Tax  TEXT   
+,  Customer_Limit_Number_of_Dealer_Logins_To  TEXT   
+,  Customer_Days_To_Hold_Quotes  TEXT   
+/* ,  Customer_Enable_Price_Calculation  TEXT   */
+/* ,  Customer_Enable_Freight_Calculation  TEXT   */
+/* ,  Customer_Collection_Display  TEXT   */
+/* ,  Customer_Internal_XML_ID  TEXT   */
+/* ,  Customer_Client_Quote_Letter_Verbiage  TEXT   */
+/* ,  Customer_Booked_Orders  TEXT   */
+/* ,  Customer_Deposits  TEXT   */
+/* ,  Customer_Balance_Due  TEXT   */
+/* ,  Customer_Open_AR  TEXT   */
+/* ,  Customer_30_Day_AR  TEXT   */
+/* ,  Customer_60_Day_AR TEXT   */
+/* ,  Customer_90_Day_AR  TEXT   */
+/* ,  Customer_120_Day_AR TEXT   */
+/* ,  Customer_Unapplied  TEXT   */
+/* ,  Customer_Total_Open_AR  TEXT   */
+/* ,  Customer_YTD  TEXT   */
+/* ,  Customer_Previous_Year  TEXT   */
+/* ,  Customer_High_Sale  TEXT   */
+/* ,  Customer_PY_High_Sale  TEXT   */
+/* ,  Customer_COGS  TEXT   */
+/* ,  Customer_PY_COGS  TEXT   */
+,  Customer_Avg_Days_To_Pay  TEXT   
+,  Customer_PV_Avg_Days_To_Pay  TEXT   
+,  Customer_Times_Past_Due  TEXT   
+,  Customer_PY_Times_Past_Due  TEXT   
+);
+
+SELECT * FROM jcwf_stage_customer;
+
+---------------------------------------------------------------------------------
+/* Creating Transform Tables */
+---------------------------------------------------------------------------------
+
+/* Create table jcwf_tran_customer*/
+DROP TABLE jcwf_tran_customer;
+
+CREATE TABLE jcwf_tran_customer (
+   Customer_Account  TEXT   
+,  Customer_Business_Person  TEXT   
+,  Customer_Name  TEXT   
+,  Customer_Primary_Phone  TEXT   
+,  Customer_Zip  TEXT   
+,  Customer_Street_1  TEXT   
+/* ,  Customer_Street_2  TEXT   */
+/* ,  Customer_Street_3  TEXT   */
+/* ,  Customer_Street_4  TEXT   */
+,  Customer_City  TEXT   
+,  Customer_State  TEXT   
+,  Customer_Country  TEXT   
+,  Customer_Address_Type  TEXT   
+,  Customer_Address_Fax  TEXT   
+/* ,  Customer_Country_Code  TEXT   */
+/* ,  Customer_IDD_Prefix  TEXT   */
+,  Customer_Account_Activation_Email  TEXT   
+,  Customer_Advance_Ship_Notice  TEXT   
+,  Customer_Order_Submittal  TEXT   
+,  Customer_Email_Subscription   TEXT   
+/* ,  Customer_Website  TEXT   */
+/* ,  Customer_Customer_Reference TEXT   */
+,  Customer_Default_Order_Comments  TEXT   
+,  Customer_Default_Invoice_Comments  TEXT   
+/* ,  Customer_Hide_Cost_on_Order_Confirmation  TEXT   */
+/* ,  Customer_Allow_Duplicate_PO  TEXT   */
+,  Customer_First_Name_Last_Name  TEXT   
+,  Customer_Work_Phone  TEXT   
+,  Customer_Ext  TEXT   
+,  Customer_Cell_Phone  TEXT   
+,  Customer_Home_Phone  TEXT   
+,  Customer_Fax  TEXT   
+,  Customer_Corporate_Account  TEXT   
+,  Customer_Email_Credit_Hold  TEXT   
+,  Customer_Credit_Hold_Email  TEXT   
+,  Customer_Art_Hold_Email  TEXT   
+,  Customer_Email_Invoice  TEXT   	
+,  Customer_Invoice_Notification  TEXT   
+,  Customer_Email_Invoice_Past_Due_Alert  TEXT   
+,  Customer_Invoice_Past_Due_Alert  TEXT   
+,  Customer_Email_Statement  TEXT   
+,  Customer_Statements  TEXT   
+,  Customer_Email_Credit_Memo  TEXT   
+,  Customer_Credit_Memo_Email  TEXT   
+,  Customer_Email_Return_Reminder  TEXT   
+,  Customer_Return_Reminder_Email  TEXT   
+,  Customer_Reference_Associate_Email  TEXT   
+,  Customer_Fed_Tax_Code  TEXT   
+,  Customer_Fed_Tax_Freight  TEXT   
+,  Customer_Fed_Exempt_Number  TEXT   
+/* ,  Customer_Signed_Fed_Certificate  TEXT   */
+,  Customer_State_Tax_Code  TEXT   
+,  Customer_State_Tax_Freight  TEXT   
+,  Customer_State_Exempt_Number  TEXT   
+/* ,  Customer_Signed_State_Certificate  TEXT   */
+,  Customer_Warehouse  TEXT   
+,  Customer_Site  TEXT   
+,  Customer_Type  TEXT   
+,  Customer_Territory  TEXT   
+,  Customer_Site_Number  TEXT   
+,  Customer_Source  TEXT   
+/* ,  Customer_Royalty_Included  TEXT   */
+,  Customer_Route_Codes  TEXT   
+,  Customer_Route_Sequence  TEXT   
+,  Customer_Ship_Via  TEXT   
+,  Customer_Price_Suffix  TEXT   
+,  Customer_Drop_Ship  TEXT   
+,  Customer_High_Low_Discount  TEXT   
+,  Customer_Bill_To_Name  TEXT   
+,  Customer_Bill_To_Street_1  TEXT   
+/* ,  Customer_Bill_To_Street_2  TEXT   */
+/* ,  Customer_Bill_To_Street_3  TEXT   */
+/* ,  Customer_Bill_To_Street_4  TEXT   */
+,  Customer_Bill_To_City  TEXT   
+,  Customer_Bill_To_State  TEXT   
+,  Customer_Bill_To_Zipcode  TEXT   
+,  Customer_Bill_To_Country  TEXT   
+,  Customer_Bill_To_Phone  TEXT   
+,  Customer_Bill_To_Fax  TEXT   
+,  Customer_Opened  TEXT   
+/* ,  Customer_Last_Invoice  TEXT   */
+/* ,  Customer_Last_Payment  TEXT   */
+,  Customer_Terms  TEXT   
+,  Customer_Days TEXT   
+,  Customer_Other  TEXT   
+,  Customer_Past_Due_Max  TEXT   
+,  Customer_Invoice_Due_Days  TEXT   
+,  Customer_COD TEXT   
+,  Customer_Prepay_CC  TEXT   
+,  Customer_Charge_Freight  TEXT   
+/* ,  Customer_Collector  TEXT   */
+,  Customer_Credit_Hold_Code  TEXT   
+,  Customer_Credit_Limit  TEXT   
+,  Customer_Last_Reviewed  TEXT   
+,  Customer_Include_Remakes  TEXT   
+,  Customer_On_Any_Order_Lower  TEXT   
+,  Customer_On_Any_Order_Higher TEXT   
+/* ,  Customer_Current_Lower  TEXT   */
+/* ,  Customer_Current_Higher  TEXT   */
+/* ,  Customer_30_Days_AR_Lower  TEXT   */
+/* ,  Customer_30_Days_AR_Higher  TEXT   */
+/* ,  Customer_60_Days_AR_Lower  TEXT   */
+/* ,  Customer_60_Days_AR_Higher  TEXT   */
+/* ,  Customer_90_Days_AR_Lower  TEXT   */
+/* ,  Customer_90_Days_AR_Higher  TEXT   */
+/* ,  Customer_120_Days_AR_Lower  TEXT   */
+/* ,  Customer_120_Days_AR_Higher  TEXT   */
+,  Customer_Reference_1  TEXT   
+,  Customer_Waive_Minimum_Deposit  TEXT   
+/* ,  Customer_Reference_2  TEXT   */
+,  Customer_Account_Suspended  TEXT   
+,  Customer_Saleperson_1  TEXT   
+/* ,  Customer_Saleperson_2  TEXT   */
+/* ,  Customer_Saleperson_3  TEXT   */
+/* ,  Customer_Saleperson_4  TEXT   */
+/* ,  Customer_Saleperson_5  TEXT   */
+/* ,  Customer_Constant_1  TEXT   */
+/* ,  Customer_Constant_2  TEXT   */
+/* ,  Customer_Constant_3  TEXT   */
+/* ,  Customer_Constant_4  TEXT   */
+/* ,  Customer_Constant_5  TEXT   */
+/* ,  Customer_Constant_6  TEXT   */
+/* ,  Customer_Constant_7  TEXT   */
+/* ,  Customer_Constant_8  TEXT   */
+/* ,  Customer_Constant_9  TEXT   */
+/* ,  Customer_Constant_10  TEXT   */
+/* ,  Customer_Constant_11  TEXT   */
+/* ,  Customer_Constant_12  TEXT   */
+/* ,  Customer_Constant_13  TEXT   */
+/* ,  Customer_Constant_14  TEXT   */
+/* ,  Customer_Constant_15  TEXT   */
+/* ,  Customer_Constant_16  TEXT   */
+/* ,  Customer_Constant_17  TEXT   */
+/* ,  Customer_Constant_18  TEXT   */
+/* ,  Customer_Constant_19  TEXT   */
+/* ,  Customer_Constant_20  TEXT   */
+/* ,  User_Defined_1  TEXT   */
+/* ,  User_Defined_2  TEXT   */
+/* ,  User_Defined_3  TEXT   */
+/* ,  User_Defined_4  TEXT   */
+/* ,  User_Defined_5  TEXT   */
+/* ,  User_Defined_6  TEXT   */
+/* ,  User_Defined_7  TEXT   */
+/* ,  User_Defined_8  TEXT   */
+/* ,  User_Defined_9  TEXT   */
+/* ,  User_Defined_10  TEXT   */
+/* ,  User_Defined_11  TEXT   */
+/* ,  User_Defined_12  TEXT   */
+/* ,  User_Defined_13  TEXT   */
+/* ,  User_Defined_14  TEXT   */
+/* ,  User_Defined_15  TEXT   */
+/* ,  User_Defined_16  TEXT   */
+/* ,  User_Defined_17  TEXT   */
+/* ,  User_Defined_18  TEXT   */
+/* ,  User_Defined_19  TEXT   */
+/* ,  User_Defined_20  TEXT   */
+,  Customer_Customer_W_Tax  TEXT   
+,  Customer_Limit_Number_of_Dealer_Logins_To  TEXT   
+,  Customer_Days_To_Hold_Quotes  TEXT   
+/* ,  Customer_Enable_Price_Calculation  TEXT   */
+/* ,  Customer_Enable_Freight_Calculation  TEXT   */
+/* ,  Customer_Collection_Display  TEXT   */
+/* ,  Customer_Internal_XML_ID  TEXT   */
+/* ,  Customer_Client_Quote_Letter_Verbiage  TEXT   */
+/* ,  Customer_Booked_Orders  TEXT   */
+/* ,  Customer_Deposits  TEXT   */
+/* ,  Customer_Balance_Due  TEXT   */
+/* ,  Customer_Open_AR  TEXT   */
+/* ,  Customer_30_Day_AR  TEXT   */
+/* ,  Customer_60_Day_AR TEXT   */
+/* ,  Customer_90_Day_AR  TEXT   */
+/* ,  Customer_120_Day_AR TEXT   */
+/* ,  Customer_Unapplied  TEXT   */
+/* ,  Customer_Total_Open_AR  TEXT   */
+/* ,  Customer_YTD  TEXT   */
+/* ,  Customer_Previous_Year  TEXT   */
+/* ,  Customer_High_Sale  TEXT   */
+/* ,  Customer_PY_High_Sale  TEXT   */
+/* ,  Customer_COGS  TEXT   */
+/* ,  Customer_PY_COGS  TEXT   */
+,  Customer_Avg_Days_To_Pay  TEXT   
+,  Customer_PV_Avg_Days_To_Pay  TEXT   
+,  Customer_Times_Past_Due  TEXT   
+,  Customer_PY_Times_Past_Due  TEXT    
+
+,  row_is_current  VARCHAR(1)   
+,  row_start_date  TIMESTAMP   
+,  row_end_date  TIMESTAMP 
+,  row_change_reason  VARCHAR(200)   
+,  CONSTRAINT Unique_jcwf_tran_customer_id UNIQUE (Customer_Account)
+);
+
+
+SELECT * FROM jcwf_tran_customer;
+
+---------------------------------------------------------------------------------
+/* Creating Data Warehouse Dimension Tables */
+---------------------------------------------------------------------------------
+
+/* Create table jcwf_dim_customer */
+DROP TABLE jcwf_dim_customer;
+
+CREATE TABLE jcwf_dim_customer (
+   Customer_key  SERIAL  NOT NULL
+
+,  Customer_Account  TEXT   
+,  Customer_Business_Person  TEXT   
+,  Customer_Name  TEXT   
+,  Customer_Primary_Phone  TEXT   
+,  Customer_Zip  TEXT   
+,  Customer_Street_1  TEXT   
+/* ,  Customer_Street_2  TEXT   */
+/* ,  Customer_Street_3  TEXT   */
+/* ,  Customer_Street_4  TEXT   */
+,  Customer_City  TEXT   
+,  Customer_State  TEXT   
+,  Customer_Country  TEXT   
+,  Customer_Address_Type  TEXT   
+,  Customer_Address_Fax  TEXT   
+/* ,  Customer_Country_Code  TEXT   */
+/* ,  Customer_IDD_Prefix  TEXT   */
+,  Customer_Account_Activation_Email  TEXT   
+,  Customer_Advance_Ship_Notice  TEXT   
+,  Customer_Order_Submittal  TEXT   
+,  Customer_Email_Subscription   TEXT   
+/* ,  Customer_Website  TEXT   */
+/* ,  Customer_Customer_Reference TEXT   */
+,  Customer_Default_Order_Comments  TEXT   
+,  Customer_Default_Invoice_Comments  TEXT   
+/* ,  Customer_Hide_Cost_on_Order_Confirmation  TEXT   */
+/* ,  Customer_Allow_Duplicate_PO  TEXT   */
+,  Customer_First_Name_Last_Name  TEXT   
+,  Customer_Work_Phone  TEXT   
+,  Customer_Ext  TEXT   
+,  Customer_Cell_Phone  TEXT   
+,  Customer_Home_Phone  TEXT   
+,  Customer_Fax  TEXT   
+,  Customer_Corporate_Account  TEXT   
+,  Customer_Email_Credit_Hold  TEXT   
+,  Customer_Credit_Hold_Email  TEXT   
+,  Customer_Art_Hold_Email  TEXT   
+,  Customer_Email_Invoice  TEXT   	
+,  Customer_Invoice_Notification  TEXT   
+,  Customer_Email_Invoice_Past_Due_Alert  TEXT   
+,  Customer_Invoice_Past_Due_Alert  TEXT   
+,  Customer_Email_Statement  TEXT   
+,  Customer_Statements  TEXT   
+,  Customer_Email_Credit_Memo  TEXT   
+,  Customer_Credit_Memo_Email  TEXT   
+,  Customer_Email_Return_Reminder  TEXT   
+,  Customer_Return_Reminder_Email  TEXT   
+,  Customer_Reference_Associate_Email  TEXT   
+,  Customer_Fed_Tax_Code  TEXT   
+,  Customer_Fed_Tax_Freight  TEXT   
+,  Customer_Fed_Exempt_Number  TEXT   
+/* ,  Customer_Signed_Fed_Certificate  TEXT   */
+,  Customer_State_Tax_Code  TEXT   
+,  Customer_State_Tax_Freight  TEXT   
+,  Customer_State_Exempt_Number  TEXT   
+/* ,  Customer_Signed_State_Certificate  TEXT   */
+,  Customer_Warehouse  TEXT   
+,  Customer_Site  TEXT   
+,  Customer_Type  TEXT   
+,  Customer_Territory  TEXT   
+,  Customer_Site_Number  TEXT   
+,  Customer_Source  TEXT   
+/* ,  Customer_Royalty_Included  TEXT   */
+,  Customer_Route_Codes  TEXT   
+,  Customer_Route_Sequence  TEXT   
+,  Customer_Ship_Via  TEXT   
+,  Customer_Price_Suffix  TEXT   
+,  Customer_Drop_Ship  TEXT   
+,  Customer_High_Low_Discount  TEXT   
+,  Customer_Bill_To_Name  TEXT   
+,  Customer_Bill_To_Street_1  TEXT   
+/* ,  Customer_Bill_To_Street_2  TEXT   */
+/* ,  Customer_Bill_To_Street_3  TEXT   */
+/* ,  Customer_Bill_To_Street_4  TEXT   */
+,  Customer_Bill_To_City  TEXT   
+,  Customer_Bill_To_State  TEXT   
+,  Customer_Bill_To_Zipcode  TEXT   
+,  Customer_Bill_To_Country  TEXT   
+,  Customer_Bill_To_Phone  TEXT   
+,  Customer_Bill_To_Fax  TEXT   
+,  Customer_Opened  TEXT   
+/* ,  Customer_Last_Invoice  TEXT   */
+/* ,  Customer_Last_Payment  TEXT   */
+,  Customer_Terms  TEXT   
+,  Customer_Days TEXT   
+,  Customer_Other  TEXT   
+,  Customer_Past_Due_Max  TEXT   
+,  Customer_Invoice_Due_Days  TEXT   
+,  Customer_COD TEXT   
+,  Customer_Prepay_CC  TEXT   
+,  Customer_Charge_Freight  TEXT   
+/* ,  Customer_Collector  TEXT   */
+,  Customer_Credit_Hold_Code  TEXT   
+,  Customer_Credit_Limit  TEXT   
+,  Customer_Last_Reviewed  TEXT   
+,  Customer_Include_Remakes  TEXT   
+,  Customer_On_Any_Order_Lower  TEXT   
+,  Customer_On_Any_Order_Higher TEXT   
+/* ,  Customer_Current_Lower  TEXT   */
+/* ,  Customer_Current_Higher  TEXT   */
+/* ,  Customer_30_Days_AR_Lower  TEXT   */
+/* ,  Customer_30_Days_AR_Higher  TEXT   */
+/* ,  Customer_60_Days_AR_Lower  TEXT   */
+/* ,  Customer_60_Days_AR_Higher  TEXT   */
+/* ,  Customer_90_Days_AR_Lower  TEXT   */
+/* ,  Customer_90_Days_AR_Higher  TEXT   */
+/* ,  Customer_120_Days_AR_Lower  TEXT   */
+/* ,  Customer_120_Days_AR_Higher  TEXT   */
+,  Customer_Reference_1  TEXT   
+,  Customer_Waive_Minimum_Deposit  TEXT   
+/* ,  Customer_Reference_2  TEXT   */
+,  Customer_Account_Suspended  TEXT   
+,  Customer_Saleperson_1  TEXT   
+/* ,  Customer_Saleperson_2  TEXT   */
+/* ,  Customer_Saleperson_3  TEXT   */
+/* ,  Customer_Saleperson_4  TEXT   */
+/* ,  Customer_Saleperson_5  TEXT   */
+/* ,  Customer_Constant_1  TEXT   */
+/* ,  Customer_Constant_2  TEXT   */
+/* ,  Customer_Constant_3  TEXT   */
+/* ,  Customer_Constant_4  TEXT   */
+/* ,  Customer_Constant_5  TEXT   */
+/* ,  Customer_Constant_6  TEXT   */
+/* ,  Customer_Constant_7  TEXT   */
+/* ,  Customer_Constant_8  TEXT   */
+/* ,  Customer_Constant_9  TEXT   */
+/* ,  Customer_Constant_10  TEXT   */
+/* ,  Customer_Constant_11  TEXT   */
+/* ,  Customer_Constant_12  TEXT   */
+/* ,  Customer_Constant_13  TEXT   */
+/* ,  Customer_Constant_14  TEXT   */
+/* ,  Customer_Constant_15  TEXT   */
+/* ,  Customer_Constant_16  TEXT   */
+/* ,  Customer_Constant_17  TEXT   */
+/* ,  Customer_Constant_18  TEXT   */
+/* ,  Customer_Constant_19  TEXT   */
+/* ,  Customer_Constant_20  TEXT   */
+/* ,  User_Defined_1  TEXT   */
+/* ,  User_Defined_2  TEXT   */
+/* ,  User_Defined_3  TEXT   */
+/* ,  User_Defined_4  TEXT   */
+/* ,  User_Defined_5  TEXT   */
+/* ,  User_Defined_6  TEXT   */
+/* ,  User_Defined_7  TEXT   */
+/* ,  User_Defined_8  TEXT   */
+/* ,  User_Defined_9  TEXT   */
+/* ,  User_Defined_10  TEXT   */
+/* ,  User_Defined_11  TEXT   */
+/* ,  User_Defined_12  TEXT   */
+/* ,  User_Defined_13  TEXT   */
+/* ,  User_Defined_14  TEXT   */
+/* ,  User_Defined_15  TEXT   */
+/* ,  User_Defined_16  TEXT   */
+/* ,  User_Defined_17  TEXT   */
+/* ,  User_Defined_18  TEXT   */
+/* ,  User_Defined_19  TEXT   */
+/* ,  User_Defined_20  TEXT   */
+,  Customer_Customer_W_Tax  TEXT   
+,  Customer_Limit_Number_of_Dealer_Logins_To  TEXT   
+,  Customer_Days_To_Hold_Quotes  TEXT   
+/* ,  Customer_Enable_Price_Calculation  TEXT   */
+/* ,  Customer_Enable_Freight_Calculation  TEXT   */
+/* ,  Customer_Collection_Display  TEXT   */
+/* ,  Customer_Internal_XML_ID  TEXT   */
+/* ,  Customer_Client_Quote_Letter_Verbiage  TEXT   */
+/* ,  Customer_Booked_Orders  TEXT   */
+/* ,  Customer_Deposits  TEXT   */
+/* ,  Customer_Balance_Due  TEXT   */
+/* ,  Customer_Open_AR  TEXT   */
+/* ,  Customer_30_Day_AR  TEXT   */
+/* ,  Customer_60_Day_AR TEXT   */
+/* ,  Customer_90_Day_AR  TEXT   */
+/* ,  Customer_120_Day_AR TEXT   */
+/* ,  Customer_Unapplied  TEXT   */
+/* ,  Customer_Total_Open_AR  TEXT   */
+/* ,  Customer_YTD  TEXT   */
+/* ,  Customer_Previous_Year  TEXT   */
+/* ,  Customer_High_Sale  TEXT   */
+/* ,  Customer_PY_High_Sale  TEXT   */
+/* ,  Customer_COGS  TEXT   */
+/* ,  Customer_PY_COGS  TEXT   */
+,  Customer_Avg_Days_To_Pay  TEXT   
+,  Customer_PV_Avg_Days_To_Pay  TEXT   
+,  Customer_Times_Past_Due  TEXT   
+,  Customer_PY_Times_Past_Due  TEXT   
+
+
+,  row_is_current  VARCHAR(1) NOT NULL
+,  row_start_date  TIMESTAMP NOT NULL
+,  row_end_date  TIMESTAMP NOT NULL
+,  row_change_reason  VARCHAR(200) NOT NULL
+,  import_version VARCHAR(200) NOT NULL
+,  import_batch VARCHAR(200) NOT NULL
+,  import_user VARCHAR(200) NOT NULL
+,  CONSTRAINT pk_jcwf_dim_customer PRIMARY KEY (Customer_key)
+,  CONSTRAINT Unique_jcwf_customerID UNIQUE (Customer_Account)
+);
+
+SELECT * FROM jcwf_stage_customer;
+SELECT * FROM jcwf_tran_customer;
+SELECT * FROM jcwf_dim_customer;

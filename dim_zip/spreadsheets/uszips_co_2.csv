@@ -1,0 +1,7 @@
+,zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone
+520,81652,39.48535,-107.65622,Silt,CO,Colorado,TRUE,,4958,21.5,8045,Garfield,"{""08045"": ""100""}",Garfield,8045,FALSE,FALSE,America/Denver
+521,81653,40.96556,-107.2706,Slater,CO,Colorado,TRUE,,9,0.1,8081,Moffat,"{""08081"": ""54.84"", ""08107"": ""45.16""}",Moffat|Routt,08081|08107,FALSE,FALSE,America/Denver
+522,81654,39.22581,-107.03027,Snowmass,CO,Colorado,TRUE,,1487,6.5,8097,Pitkin,"{""08097"": ""100""}",Pitkin,8097,FALSE,FALSE,America/Denver
+523,81655,39.75114,-106.53373,Wolcott,CO,Colorado,TRUE,,77,0.2,8037,Eagle,"{""08037"": ""100""}",Eagle,8037,FALSE,FALSE,America/Denver
+524,81656,39.28383,-106.89719,Woody Creek,CO,Colorado,TRUE,,223,82.1,8097,Pitkin,"{""08097"": ""100""}",Pitkin,8097,FALSE,FALSE,America/Denver
+525,81657,39.6512,-106.32342,Vail,CO,Colorado,TRUE,,5847,20.3,8037,Eagle,"{""08037"": ""100""}",Eagle,8037,FALSE,FALSE,America/Denver

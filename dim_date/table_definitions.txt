@@ -1,0 +1,62 @@
+---------------------------------------------------------------------------------
+/* Creating Data Stage Tables */
+---------------------------------------------------------------------------------
+
+
+/* Create table jcwf_stage_date */
+DROP TABLE jcwf_stage_date;
+CREATE TABLE jcwf_stage_date (
+   date_date_key  SERIAL   NOT NULL
+,  date_date_name  date   NULL
+,  date_full_date_usa  VARCHAR(200)   NOT NULL
+,  date_day_of_week  VARCHAR(200)   NOT NULL
+,  date_day_name  VARCHAR(200)   NOT NULL
+,  date_day_of_month  VARCHAR(200)   NOT NULL
+,  date_day_of_year  VARCHAR(200)   NOT NULL
+,  date_week_of_year  VARCHAR(200)   NOT NULL
+,  date_month_name  VARCHAR(200)   NOT NULL
+,  date_month_of_year  VARCHAR(200)   NOT NULL
+,  date_quarter  VARCHAR(200)   NOT NULL
+,  date_quarter_name  VARCHAR(200)   NOT NULL
+,  date_year_name  VARCHAR(200)   NOT NULL
+,  date_is_weekday  VARCHAR(200)  DEFAULT 'Unk' NOT NULL
+
+);
+
+SELECT * FROM jcwf_stage_date;
+
+---------------------------------------------------------------------------------
+/* Creating Data Warehouse Tables */
+---------------------------------------------------------------------------------
+
+
+/* Create table jcwf_dim_date */
+DROP TABLE jcwf_dim_date;
+CREATE TABLE jcwf_dim_date (
+   date_date_key  SERIAL   NOT NULL
+,  date_date_name  date   NULL
+,  date_full_date_usa  VARCHAR(200)   NOT NULL
+,  date_day_of_week  VARCHAR(200)   NOT NULL
+,  date_day_name  VARCHAR(200)   NOT NULL
+,  date_day_of_month  VARCHAR(200)   NOT NULL
+,  date_day_of_year  VARCHAR(200)   NOT NULL
+,  date_week_of_year  VARCHAR(200)   NOT NULL
+,  date_month_name  VARCHAR(200)   NOT NULL
+,  date_month_of_year  VARCHAR(200)   NOT NULL
+,  date_quarter  VARCHAR(200)   NOT NULL
+,  date_quarter_name  VARCHAR(200)   NOT NULL
+,  date_year_name  VARCHAR(200)   NOT NULL
+,  date_is_weekday  VARCHAR(200)  DEFAULT 'Unk' NOT NULL
+
+,  row_is_current  VARCHAR(200)   NOT NULL
+,  row_start_date  VARCHAR(200)   NOT NULL
+,  row_end_date  VARCHAR(200)   NOT NULL
+,  row_change_reason  VARCHAR(200)  DEFAULT 'Unk' NOT NULL
+,  import_version VARCHAR(200) NOT NULL
+,  import_batch SERIAL NOT NULL
+,  import_user VARCHAR(200) NOT NULL
+,  CONSTRAINT pk_jcwf_dim_date PRIMARY KEY (date_date_key)
+);
+
+SELECT * FROM jcwf_stage_date;
+SELECT * FROM jcwf_dim_date;

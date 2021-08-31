@@ -1,0 +1,92 @@
+---------------------------------------------------------------------------------
+/* Creating Stage Tables */
+---------------------------------------------------------------------------------
+
+/* Create table jcwf_stage_color */
+DROP TABLE jcwf_stage_color;
+CREATE TABLE jcwf_stage_color (
+   color_temp_key TEXT    NULL
+,  color_table  TEXT    NULL
+,  color_group  TEXT   NULL
+,  color_name  TEXT    NULL
+,  color_description  TEXT    NULL
+,  color_bo_date  TEXT   NULL
+,  color_disc_group  TEXT    NULL
+,  color_formula_group  TEXT    NULL
+,  color_begin_date  TEXT    NULL
+,  color_discontinued_date  TEXT    NULL
+,  color_inactive_date  TEXT    NULL
+,  color_constants  TEXT    NULL
+);
+
+SELECT * FROM jcwf_stage_color;
+
+---------------------------------------------------------------------------------
+/* Creating Transform Tables */
+---------------------------------------------------------------------------------
+
+/* Create table jcwf_tran_color*/
+DROP TABLE jcwf_tran_color;
+
+CREATE TABLE jcwf_tran_color (
+   color_temp_key  TEXT    NULL  
+,  color_table  TEXT    NULL
+,  color_group  TEXT   NULL
+,  color_name  TEXT    NULL
+,  color_description  TEXT    NULL
+,  color_bo_date  TEXT   NULL
+,  color_disc_group  TEXT    NULL
+,  color_formula_group  TEXT    NULL
+,  color_begin_date  TEXT    NULL
+,  color_discontinued_date  TEXT    NULL
+,  color_inactive_date  TEXT    NULL
+,  color_constants  TEXT    NULL  
+
+,  row_is_current  VARCHAR(1)   
+,  row_start_date  TIMESTAMP   
+,  row_end_date  TIMESTAMP 
+,  row_change_reason  VARCHAR(200)   
+,  CONSTRAINT Unique_jcwf_tran_color_id UNIQUE (color_temp_key)
+);
+
+
+SELECT * FROM jcwf_tran_color;
+
+---------------------------------------------------------------------------------
+/* Creating Data Warehouse Dimension Tables */
+---------------------------------------------------------------------------------
+
+/* Create table jcwf_dim_color */
+DROP TABLE jcwf_dim_color;
+
+CREATE TABLE jcwf_dim_color (
+   color_key  SERIAL NOT  NULL
+
+,  color_unique_key TEXT  NOT  NULL
+,  color_table  TEXT    NULL
+,  color_group  TEXT   NULL
+,  color_name  TEXT    NULL
+,  color_description  TEXT    NULL
+,  color_bo_date  TEXT   NULL
+,  color_disc_group  TEXT    NULL
+,  color_formula_group  TEXT    NULL
+,  color_begin_date  TEXT    NULL
+,  color_discontinued_date  TEXT    NULL
+,  color_inactive_date  TEXT    NULL
+,  color_constants  TEXT    NULL  
+
+
+,  row_is_current  VARCHAR(1)  NULL
+,  row_start_date  TIMESTAMP  NULL
+,  row_end_date  TIMESTAMP  NULL
+,  row_change_reason  VARCHAR(200)  NULL
+,  import_version VARCHAR(200)  NULL
+,  import_batch VARCHAR(200)  NULL
+,  import_user VARCHAR(200)  NULL
+,  CONSTRAINT pk_jcwf_dim_color PRIMARY KEY (color_key)
+,  CONSTRAINT Unique_jcwf_colorID UNIQUE (color_unique_key)
+);
+
+SELECT * FROM jcwf_stage_color;
+SELECT * FROM jcwf_tran_color;
+SELECT * FROM jcwf_dim_color;

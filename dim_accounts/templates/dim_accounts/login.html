@@ -1,0 +1,17 @@
+{% extends 'base_layout.html' %}
+
+{% block content %}
+
+    <h1>Log in</h1>
+    <form class='site-form' action="{% url 'dim_accounts:login' %}" method="post">
+        {%csrf_token %}
+        {{form}}
+        {% if request.GET.next%} 
+            <input type =  "hidden" name="next" value ="{{ reqeust.GET.next}}">
+        {% endif %} 
+        <button type="submit" class="btn btn-secondary btn-lg"><i class="fas fa-database">Log in</i>
+
+    </form>
+
+
+{% endblock %}

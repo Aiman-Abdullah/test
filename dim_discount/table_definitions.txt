@@ -1,0 +1,99 @@
+---------------------------------------------------------------------------------
+/* Creating Stage Tables */
+---------------------------------------------------------------------------------
+
+/* Create table jcwf_stage_discount */
+DROP TABLE jcwf_stage_discount;
+CREATE TABLE jcwf_stage_discount (
+
+   discount_customer_id  TEXT   NULL
+,  discount_customer_name  TEXT    NULL
+,  discount_account_type TEXT    NULL
+,  discount_product_id  TEXT    NULL
+,  discount_product_name  TEXT    NULL
+,  discount_product_discount_category  TEXT    NULL
+,  discount_model  TEXT    NULL
+,  discount_color  TEXT    NULL
+,  discount_discount_group   TEXT    NULL
+,  discount_discount_from  TEXT    NULL
+,  discount_discount_to  TEXT    NULL
+,  discount_eff  TEXT    NULL
+,  discount_factor  TEXT    NULL
+);
+
+SELECT * FROM jcwf_stage_discount;
+
+---------------------------------------------------------------------------------
+/* Creating Transform Tables */
+---------------------------------------------------------------------------------
+
+/* Create table jcwf_tran_discount*/
+DROP TABLE jcwf_tran_discount;
+
+CREATE TABLE jcwf_tran_discount (
+
+   discount_name TEXT    NULL
+,  discount_customer_id  TEXT    NULL
+,  discount_customer_name  TEXT    NULL
+,  discount_account_type TEXT    NULL
+,  discount_product_id  TEXT    NULL
+,  discount_product_name  TEXT    NULL
+,  discount_product_discount_category  TEXT    NULL
+,  discount_model  TEXT    NULL
+,  discount_color  TEXT    NULL
+,  discount_discount_group   TEXT    NULL
+,  discount_discount_from  TEXT    NULL
+,  discount_discount_to  TEXT    NULL
+,  discount_eff  TEXT    NULL
+,  discount_factor  TEXT    NULL
+
+,  row_is_current  VARCHAR(1)   
+,  row_start_date  TIMESTAMP   
+,  row_end_date  TIMESTAMP 
+,  row_change_reason  VARCHAR(200)   
+,  CONSTRAINT Unique_jcwf_tran_discount_id UNIQUE (discount_name)
+);
+
+
+SELECT * FROM jcwf_tran_discount;
+
+---------------------------------------------------------------------------------
+/* Creating Data Warehouse Dimension Tables */
+---------------------------------------------------------------------------------
+
+/* Create table jcwf_dim_discount */
+DROP TABLE jcwf_dim_discount;
+
+CREATE TABLE jcwf_dim_discount (
+   discount_key  SERIAL NOT  NULL
+
+,  discount_name TEXT    NULL
+,  discount_customer_id  TEXT    NULL
+,  discount_customer_name  TEXT    NULL
+,  discount_account_type TEXT    NULL
+,  discount_product_id  TEXT    NULL
+,  discount_product_name  TEXT    NULL
+,  discount_product_discount_category  TEXT    NULL
+,  discount_model  TEXT    NULL
+,  discount_color  TEXT    NULL
+,  discount_discount_group   TEXT    NULL
+,  discount_discount_from  TEXT    NULL
+,  discount_discount_to  TEXT    NULL
+,  discount_eff  TEXT    NULL
+,  discount_factor  TEXT    NULL
+
+
+,  row_is_current  VARCHAR(1)  NULL
+,  row_start_date  TIMESTAMP  NULL
+,  row_end_date  TIMESTAMP  NULL
+,  row_change_reason  VARCHAR(200)  NULL
+,  import_version VARCHAR(200)  NULL
+,  import_batch VARCHAR(200)  NULL
+,  import_user VARCHAR(200)  NULL
+,  CONSTRAINT pk_jcwf_dim_discount PRIMARY KEY (discount_key)
+,  CONSTRAINT Unique_jcwf_dim_discount_id UNIQUE (discount_name)
+);
+
+SELECT * FROM jcwf_stage_discount;
+SELECT * FROM jcwf_tran_discount;
+SELECT * FROM jcwf_dim_discount;

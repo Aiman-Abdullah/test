@@ -1,0 +1,987 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone
+48001,42.63776,-82.5796,Algonac,MI,Michigan,TRUE,,11903,241.5,26147,St. Clair,"{""26147"": ""100""}",St. Clair,26147,FALSE,FALSE,America/Detroit
+48002,42.93908,-82.926,Allenton,MI,Michigan,TRUE,,3224,33.5,26147,St. Clair,"{""26147"": ""100""}",St. Clair,26147,FALSE,FALSE,America/Detroit
+48003,42.93259,-83.04065,Almont,MI,Michigan,TRUE,,6047,70.8,26087,Lapeer,"{""26087"": ""100""}",Lapeer,26087,FALSE,FALSE,America/Detroit
+48005,42.85024,-82.9231,Armada,MI,Michigan,TRUE,,5509,58.3,26099,Macomb,"{""26099"": ""100""}",Macomb,26099,FALSE,FALSE,America/Detroit
+48006,43.07539,-82.69647,Avoca,MI,Michigan,TRUE,,4058,21.9,26147,St. Clair,"{""26147"": ""100""}",St. Clair,26147,FALSE,FALSE,America/Detroit
+48009,42.54421,-83.21766,Birmingham,MI,Michigan,TRUE,,21201,1623,26125,Oakland,"{""26125"": ""100""}",Oakland,26125,FALSE,FALSE,America/Detroit
+48014,43.02537,-82.93086,Capac,MI,Michigan,TRUE,,4136,43.6,26147,St. Clair,"{""26147"": ""98.83"", ""26087"": ""1.17""}",St. Clair|Lapeer,26147|26087,FALSE,FALSE,America/Detroit
+48015,42.48042,-83.0272,Center Line,MI,Michigan,TRUE,,8260,1862.7,26099,Macomb,"{""26099"": ""100""}",Macomb,26099,FALSE,FALSE,America/Detroit
+48017,42.53669,-83.15038,Clawson,MI,Michigan,TRUE,,11910,2094.8,26125,Oakland,"{""26125"": ""100""}",Oakland,26125,FALSE,FALSE,America/Detroit
+48021,42.46561,-82.94606,Eastpointe,MI,Michigan,TRUE,,32336,2434.1,26099,Macomb,"{""26099"": ""100""}",Macomb,26099,FALSE,FALSE,America/Detroit
+48022,43.02828,-82.81122,Emmett,MI,Michigan,TRUE,,2605,28.5,26147,St. Clair,"{""26147"": ""100""}",St. Clair,26147,FALSE,FALSE,America/Detroit
+48023,42.70096,-82.65923,Fair Haven,MI,Michigan,TRUE,,5094,115.5,26147,St. Clair,"{""26147"": ""100""}",St. Clair,26147,FALSE,FALSE,America/Detroit
+48025,42.52032,-83.26737,Franklin,MI,Michigan,TRUE,,14820,711.7,26125,Oakland,"{""26125"": ""100""}",Oakland,26125,FALSE,FALSE,America/Detroit
+48026,42.5388,-82.94964,Fraser,MI,Michigan,TRUE,,14580,1359.4,26099,Macomb,"{""26099"": ""100""}",Macomb,26099,FALSE,FALSE,America/Detroit
+48027,42.94467,-82.68212,Goodells,MI,Michigan,TRUE,,3194,33,26147,St. Clair,"{""26147"": ""100""}",St. Clair,26147,FALSE,FALSE,America/Detroit
+48028,42.5891,-82.61944,Harsens Island,MI,Michigan,TRUE,,999,21.6,26147,St. Clair,"{""26147"": ""100""}",St. Clair,26147,FALSE,FALSE,America/Detroit
+48030,42.46192,-83.09766,Hazel Park,MI,Michigan,TRUE,,16525,2265.2,26125,Oakland,"{""26125"": ""100""}",Oakland,26125,FALSE,FALSE,America/Detroit
+48032,43.13334,-82.59489,Jeddo,MI,Michigan,TRUE,,1875,19.4,26147,St. Clair,"{""26147"": ""81.44"", ""26151"": ""18.56""}",St. Clair|Sanilac,26147|26151,FALSE,FALSE,America/Detroit
+48033,42.46456,-83.28869,Southfield,MI,Michigan,TRUE,,16757,721.8,26125,Oakland,"{""26125"": ""100""}",Oakland,26125,FALSE,FALSE,America/Detroit
+48034,42.49693,-83.29111,Southfield,MI,Michigan,TRUE,,13846,1240.1,26125,Oakland,"{""26125"": ""100""}",Oakland,26125,FALSE,FALSE,America/Detroit
+48035,42.55613,-82.90942,Clinton Township,MI,Michigan,TRUE,,35599,1563.4,26099,Macomb,"{""26099"": ""100""}",Macomb,26099,FALSE,FALSE,America/Detroit
+48036,42.59213,-82.89995,Clinton Township,MI,Michigan,TRUE,,21353,990.4,26099,Macomb,"{""26099"": ""100""}",Macomb,26099,FALSE,FALSE,America/Detroit
+48038,42.60546,-82.94158,Clinton Township,MI,Michigan,TRUE,,43478,1539.3,26099,Macomb,"{""26099"": ""100""}",Macomb,26099,FALSE,FALSE,America/Detroit
+48039,42.69665,-82.55054,Marine City,MI,Michigan,TRUE,,7573,127.1,26147,St. Clair,"{""26147"": ""100""}",St. Clair,26147,FALSE,FALSE,America/Detroit
+48040,42.90986,-82.48023,Marysville,MI,Michigan,TRUE,,9693,541.6,26147,St. Clair,"{""26147"": ""100""}",St. Clair,26147,FALSE,FALSE,America/Detroit
+48041,42.93873,-82.80268,Memphis,MI,Michigan,TRUE,,4536,43.8,26147,St. Clair,"{""26147"": ""81.41"", ""26099"": ""18.59""}",St. Clair|Macomb,26147|26099,FALSE,FALSE,America/Detroit
+48042,42.68677,-82.90861,Macomb,MI,Michigan,TRUE,,31485,534.4,26099,Macomb,"{""26099"": ""100""}",Macomb,26099,FALSE,FALSE,America/Detroit
+48043,42.59781,-82.88221,Mount Clemens,MI,Michigan,TRUE,,16332,1535.6,26099,Macomb,"{""26099"": ""100""}",Macomb,26099,FALSE,FALSE,America/Detroit
+48044,42.64991,-82.92956,Macomb,MI,Michigan,TRUE,,57745,1651.1,26099,Macomb,"{""26099"": ""100""}",Macomb,26099,FALSE,FALSE,America/Detroit
+48045,42.59168,-82.83023,Harrison Township,MI,Michigan,TRUE,,24995,670.4,26099,Macomb,"{""26099"": ""100""}",Macomb,26099,FALSE,FALSE,America/Detroit
+48047,42.6777,-82.77761,New Baltimore,MI,Michigan,TRUE,,40535,867.9,26099,Macomb,"{""26099"": ""100""}",Macomb,26099,FALSE,FALSE,America/Detroit
+48048,42.74246,-82.79774,New Haven,MI,Michigan,TRUE,,7973,161.9,26099,Macomb,"{""26099"": ""100""}",Macomb,26099,FALSE,FALSE,America/Detroit
+48049,43.03594,-82.57496,North Street,MI,Michigan,TRUE,,5451,58.8,26147,St. Clair,"{""26147"": ""100""}",St. Clair,26147,FALSE,FALSE,America/Detroit
+48050,42.78482,-82.80142,New Haven,MI,Michigan,TRUE,,1416,29.5,26099,Macomb,"{""26099"": ""100""}",Macomb,26099,FALSE,FALSE,America/Detroit
+48051,42.69378,-82.82068,New Baltimore,MI,Michigan,TRUE,,18878,485.1,26099,Macomb,"{""26099"": ""100""}",Macomb,26099,FALSE,FALSE,America/Detroit
+48054,42.77074,-82.54496,East China,MI,Michigan,TRUE,,7170,68.2,26147,St. Clair,"{""26147"": ""100""}",St. Clair,26147,FALSE,FALSE,America/Detroit
+48059,43.08281,-82.49942,Fort Gratiot,MI,Michigan,TRUE,,14932,182.5,26147,St. Clair,"{""26147"": ""100""}",St. Clair,26147,FALSE,FALSE,America/Detroit
+48060,42.97864,-82.46271,Port Huron,MI,Michigan,TRUE,,39405,729.6,26147,St. Clair,"{""26147"": ""100""}",St. Clair,26147,FALSE,FALSE,America/Detroit
+48062,42.849,-82.79989,Richmond,MI,Michigan,TRUE,,9604,93.9,26099,Macomb,"{""26099"": ""100""}",Macomb,26099,FALSE,FALSE,America/Detroit
+48063,42.85587,-82.67679,Columbus,MI,Michigan,TRUE,,4013,42.2,26147,St. Clair,"{""26147"": ""100""}",St. Clair,26147,FALSE,FALSE,America/Detroit
+48064,42.76719,-82.67231,Casco,MI,Michigan,TRUE,,4036,42.1,26147,St. Clair,"{""26147"": ""100""}",St. Clair,26147,FALSE,FALSE,America/Detroit
+48065,42.84552,-83.0407,Romeo,MI,Michigan,TRUE,,11042,114.1,26099,Macomb,"{""26099"": ""100""}",Macomb,26099,FALSE,FALSE,America/Detroit
+48066,42.50734,-82.93697,Roseville,MI,Michigan,TRUE,,47507,1860.7,26099,Macomb,"{""26099"": ""100""}",Macomb,26099,FALSE,FALSE,America/Detroit
+48067,42.49046,-83.13795,Royal Oak,MI,Michigan,TRUE,,24556,2065.5,26125,Oakland,"{""26125"": ""100""}",Oakland,26125,FALSE,FALSE,America/Detroit
+48069,42.4714,-83.14426,Pleasant Ridge,MI,Michigan,TRUE,,2431,1757.9,26125,Oakland,"{""26125"": ""100""}",Oakland,26125,FALSE,FALSE,America/Detroit
+48070,42.48163,-83.16844,Huntington Woods,MI,Michigan,TRUE,,6322,1640.7,26125,Oakland,"{""26125"": ""100""}",Oakland,26125,FALSE,FALSE,America/Detroit
+48071,42.5073,-83.10339,Madison Heights,MI,Michigan,TRUE,,30120,1639,26125,Oakland,"{""26125"": ""100""}",Oakland,26125,FALSE,FALSE,America/Detroit
+48072,42.49788,-83.18588,Berkley,MI,Michigan,TRUE,,15372,2471.3,26125,Oakland,"{""26125"": ""100""}",Oakland,26125,FALSE,FALSE,America/Detroit
+48073,42.5192,-83.16436,Royal Oak,MI,Michigan,TRUE,,34700,1815.6,26125,Oakland,"{""26125"": ""100""}",Oakland,26125,FALSE,FALSE,America/Detroit
+48074,42.94827,-82.56202,Smiths Creek,MI,Michigan,TRUE,,9172,95.5,26147,St. Clair,"{""26147"": ""100""}",St. Clair,26147,FALSE,FALSE,America/Detroit
+48075,42.46206,-83.23042,Southfield,MI,Michigan,TRUE,,21758,1135.9,26125,Oakland,"{""26125"": ""100""}",Oakland,26125,FALSE,FALSE,America/Detroit
+48076,42.4975,-83.23088,Southfield,MI,Michigan,TRUE,,24947,1353.8,26125,Oakland,"{""26125"": ""100""}",Oakland,26125,FALSE,FALSE,America/Detroit
+48079,42.85781,-82.54738,Saint Clair,MI,Michigan,TRUE,,12188,112.9,26147,St. Clair,"{""26147"": ""100""}",St. Clair,26147,FALSE,FALSE,America/Detroit
+48080,42.46416,-82.89956,Saint Clair Shores,MI,Michigan,TRUE,,22592,1973.6,26099,Macomb,"{""26099"": ""100""}",Macomb,26099,FALSE,FALSE,America/Detroit
+48081,42.49505,-82.89862,Saint Clair Shores,MI,Michigan,TRUE,,20671,2030.5,26099,Macomb,"{""26099"": ""100""}",Macomb,26099,FALSE,FALSE,America/Detroit
+48082,42.52703,-82.88713,Saint Clair Shores,MI,Michigan,TRUE,,16200,1892.6,26099,Macomb,"{""26099"": ""100""}",Macomb,26099,FALSE,FALSE,America/Detroit
+48083,42.55706,-83.11685,Troy,MI,Michigan,TRUE,,22561,1008.4,26125,Oakland,"{""26125"": ""100""}",Oakland,26125,FALSE,FALSE,America/Detroit
+48084,42.56064,-83.17572,Troy,MI,Michigan,TRUE,,15737,983.2,26125,Oakland,"{""26125"": ""100""}",Oakland,26125,FALSE,FALSE,America/Detroit
+48085,42.60063,-83.11982,Troy,MI,Michigan,TRUE,,26459,1098.3,26125,Oakland,"{""26125"": ""100""}",Oakland,26125,FALSE,FALSE,America/Detroit
+48088,42.51565,-82.98297,Warren,MI,Michigan,TRUE,,22189,1931.1,26099,Macomb,"{""26099"": ""100""}",Macomb,26099,FALSE,FALSE,America/Detroit
+48089,42.47019,-82.99544,Warren,MI,Michigan,TRUE,,31226,1516.4,26099,Macomb,"{""26099"": ""100""}",Macomb,26099,FALSE,FALSE,America/Detroit
+48091,42.46818,-83.05799,Warren,MI,Michigan,TRUE,,29811,1441,26099,Macomb,"{""26099"": ""100""}",Macomb,26099,FALSE,FALSE,America/Detroit
+48092,42.51398,-83.05937,Warren,MI,Michigan,TRUE,,26939,1269.6,26099,Macomb,"{""26099"": ""100""}",Macomb,26099,FALSE,FALSE,America/Detroit
+48093,42.51416,-83.01481,Warren,MI,Michigan,TRUE,,24632,1682,26099,Macomb,"{""26099"": ""100""}",Macomb,26099,FALSE,FALSE,America/Detroit
+48094,42.73641,-83.03709,Washington,MI,Michigan,TRUE,,19872,438,26099,Macomb,"{""26099"": ""100""}",Macomb,26099,FALSE,FALSE,America/Detroit
+48095,42.7798,-83.03864,Washington,MI,Michigan,TRUE,,5765,131.5,26099,Macomb,"{""26099"": ""100""}",Macomb,26099,FALSE,FALSE,America/Detroit
+48096,42.76136,-82.92003,Ray,MI,Michigan,TRUE,,4010,42.3,26099,Macomb,"{""26099"": ""100""}",Macomb,26099,FALSE,FALSE,America/Detroit
+48097,43.126,-82.8295,Yale,MI,Michigan,TRUE,,5273,26.7,26147,St. Clair,"{""26147"": ""88.93"", ""26151"": ""11.07""}",St. Clair|Sanilac,26147|26151,FALSE,FALSE,America/Detroit
+48098,42.59907,-83.17888,Troy,MI,Michigan,TRUE,,19232,791.1,26125,Oakland,"{""26125"": ""100""}",Oakland,26125,FALSE,FALSE,America/Detroit
+48101,42.25987,-83.21061,Allen Park,MI,Michigan,TRUE,,27216,1495.6,26163,Wayne,"{""26163"": ""100""}",Wayne,26163,FALSE,FALSE,America/Detroit
+48103,42.25991,-83.84325,Ann Arbor,MI,Michigan,TRUE,,55118,327,26161,Washtenaw,"{""26161"": ""100""}",Washtenaw,26161,FALSE,FALSE,America/Detroit
+48104,42.26425,-83.71703,Ann Arbor,MI,Michigan,TRUE,,43369,2152.9,26161,Washtenaw,"{""26161"": ""100""}",Washtenaw,26161,FALSE,FALSE,America/Detroit
+48105,42.33168,-83.70705,Ann Arbor,MI,Michigan,TRUE,,36718,284.1,26161,Washtenaw,"{""26161"": ""100""}",Washtenaw,26161,FALSE,FALSE,America/Detroit
+48108,42.22217,-83.73181,Ann Arbor,MI,Michigan,TRUE,,26753,608.9,26161,Washtenaw,"{""26161"": ""100""}",Washtenaw,26161,FALSE,FALSE,America/Detroit
+48109,42.28357,-83.72398,Ann Arbor,MI,Michigan,TRUE,,5506,2176.5,26161,Washtenaw,"{""26161"": ""100""}",Washtenaw,26161,FALSE,FALSE,America/Detroit
+48111,42.17903,-83.48676,Belleville,MI,Michigan,TRUE,,40926,234.1,26163,Wayne,"{""26163"": ""99.34"", ""26161"": ""0.48"", ""26115"": ""0.17""}",Wayne|Washtenaw|Monroe,26163|26161|26115,FALSE,FALSE,America/Detroit
+48114,42.57002,-83.74835,Brighton,MI,Michigan,TRUE,,21177,247.4,26093,Livingston,"{""26093"": ""100""}",Livingston,26093,FALSE,FALSE,America/Detroit
+48116,42.50513,-83.78199,Brighton,MI,Michigan,TRUE,,27244,287.6,26093,Livingston,"{""26093"": ""100""}",Livingston,26093,FALSE,FALSE,America/Detroit
+48117,42.04999,-83.40922,Carleton,MI,Michigan,TRUE,,10039,70.6,26115,Monroe,"{""26115"": ""100""}",Monroe,26115,FALSE,FALSE,America/Detroit
+48118,42.31257,-84.03874,Chelsea,MI,Michigan,TRUE,,12827,56.4,26161,Washtenaw,"{""26161"": ""100""}",Washtenaw,26161,FALSE,FALSE,America/Detroit
+48120,42.30697,-83.17394,Dearborn,MI,Michigan,TRUE,,7386,894.9,26163,Wayne,"{""26163"": ""100""}",Wayne,26163,FALSE,FALSE,America/Detroit
+48122,42.28024,-83.17807,Melvindale,MI,Michigan,TRUE,,10348,1466.2,26163,Wayne,"{""26163"": ""100""}",Wayne,26163,FALSE,FALSE,America/Detroit
+48124,42.29832,-83.24756,Dearborn,MI,Michigan,TRUE,,28396,1238.1,26163,Wayne,"{""26163"": ""100""}",Wayne,26163,FALSE,FALSE,America/Detroit
+48125,42.27791,-83.26539,Dearborn Heights,MI,Michigan,TRUE,,20110,1917.2,26163,Wayne,"{""26163"": ""100""}",Wayne,26163,FALSE,FALSE,America/Detroit
+48126,42.32556,-83.18336,Dearborn,MI,Michigan,TRUE,,48424,1907.9,26163,Wayne,"{""26163"": ""100""}",Wayne,26163,FALSE,FALSE,America/Detroit
+48127,42.33659,-83.28293,Dearborn Heights,MI,Michigan,TRUE,,35747,1794.1,26163,Wayne,"{""26163"": ""100""}",Wayne,26163,FALSE,FALSE,America/Detroit
+48128,42.32043,-83.25926,Dearborn,MI,Michigan,TRUE,,10495,1713.9,26163,Wayne,"{""26163"": ""100""}",Wayne,26163,FALSE,FALSE,America/Detroit
+48130,42.35419,-83.90324,Dexter,MI,Michigan,TRUE,,15756,97.8,26161,Washtenaw,"{""26161"": ""100""}",Washtenaw,26161,FALSE,FALSE,America/Detroit
+48131,41.96572,-83.67235,Dundee,MI,Michigan,TRUE,,7060,54.4,26115,Monroe,"{""26115"": ""100""}",Monroe,26115,FALSE,FALSE,America/Detroit
+48133,41.7812,-83.48594,Erie,MI,Michigan,TRUE,,5227,74.7,26115,Monroe,"{""26115"": ""100""}",Monroe,26115,FALSE,FALSE,America/Detroit
+48134,42.10714,-83.29339,Flat Rock,MI,Michigan,TRUE,,21937,472.5,26163,Wayne,"{""26163"": ""96.61"", ""26115"": ""3.39""}",Wayne|Monroe,26163|26115,FALSE,FALSE,America/Detroit
+48135,42.3244,-83.34119,Garden City,MI,Michigan,TRUE,,26683,1755.5,26163,Wayne,"{""26163"": ""100""}",Wayne,26163,FALSE,FALSE,America/Detroit
+48137,42.46219,-84.0736,Gregory,MI,Michigan,TRUE,,5245,47.7,26093,Livingston,"{""26093"": ""71.25"", ""26161"": ""28.75""}",Livingston|Washtenaw,26093|26161,FALSE,FALSE,America/Detroit
+48138,42.13309,-83.15577,Grosse Ile,MI,Michigan,TRUE,,10159,441.5,26163,Wayne,"{""26163"": ""100""}",Wayne,26163,FALSE,FALSE,America/Detroit
+48139,42.45237,-83.80585,Hamburg,MI,Michigan,TRUE,,135,75.7,26093,Livingston,"{""26093"": ""100""}",Livingston,26093,FALSE,FALSE,America/Detroit
+48140,41.88134,-83.58142,Ida,MI,Michigan,TRUE,,3251,47.2,26115,Monroe,"{""26115"": ""100""}",Monroe,26115,FALSE,FALSE,America/Detroit
+48141,42.29349,-83.31483,Inkster,MI,Michigan,TRUE,,24520,1514.1,26163,Wayne,"{""26163"": ""100""}",Wayne,26163,FALSE,FALSE,America/Detroit
+48143,42.45982,-83.85196,Lakeland,MI,Michigan,TRUE,,0,0,26093,Livingston,"{""26093"": ""100""}",Livingston,26093,FALSE,FALSE,America/Detroit
+48144,41.75327,-83.62835,Lambertville,MI,Michigan,TRUE,,9545,484.6,26115,Monroe,"{""26115"": ""100""}",Monroe,26115,FALSE,FALSE,America/Detroit
+48145,41.85061,-83.46329,La Salle,MI,Michigan,TRUE,,3358,77.2,26115,Monroe,"{""26115"": ""100""}",Monroe,26115,FALSE,FALSE,America/Detroit
+48146,42.2433,-83.18113,Lincoln Park,MI,Michigan,TRUE,,36697,2419.6,26163,Wayne,"{""26163"": ""100""}",Wayne,26163,FALSE,FALSE,America/Detroit
+48150,42.36843,-83.3726,Livonia,MI,Michigan,TRUE,,25938,835.5,26163,Wayne,"{""26163"": ""100""}",Wayne,26163,FALSE,FALSE,America/Detroit
+48152,42.42583,-83.37459,Livonia,MI,Michigan,TRUE,,31018,988.8,26163,Wayne,"{""26163"": ""100""}",Wayne,26163,FALSE,FALSE,America/Detroit
+48154,42.3971,-83.37291,Livonia,MI,Michigan,TRUE,,37293,1239.6,26163,Wayne,"{""26163"": ""100""}",Wayne,26163,FALSE,FALSE,America/Detroit
+48157,41.81451,-83.43854,Luna Pier,MI,Michigan,TRUE,,1217,488.9,26115,Monroe,"{""26115"": ""100""}",Monroe,26115,FALSE,FALSE,America/Detroit
+48158,42.15601,-84.03098,Manchester,MI,Michigan,TRUE,,7585,31.2,26161,Washtenaw,"{""26161"": ""99.29"", ""26075"": ""0.71""}",Washtenaw|Jackson,26161|26075,FALSE,FALSE,America/Detroit
+48159,42.02416,-83.55357,Maybee,MI,Michigan,TRUE,,2615,33.1,26115,Monroe,"{""26115"": ""100""}",Monroe,26115,FALSE,FALSE,America/Detroit
+48160,42.08085,-83.67886,Milan,MI,Michigan,TRUE,,13565,65.1,26161,Washtenaw,"{""26161"": ""65.61"", ""26115"": ""34.39""}",Washtenaw|Monroe,26161|26115,FALSE,FALSE,America/Detroit
+48161,41.90805,-83.47199,Monroe,MI,Michigan,TRUE,,26254,226.3,26115,Monroe,"{""26115"": ""100""}",Monroe,26115,FALSE,FALSE,America/Detroit
+48162,41.96032,-83.4356,Monroe,MI,Michigan,TRUE,,27659,187.5,26115,Monroe,"{""26115"": ""100""}",Monroe,26115,FALSE,FALSE,America/Detroit
+48164,42.12697,-83.3909,New Boston,MI,Michigan,TRUE,,8713,114.5,26163,Wayne,"{""26163"": ""99.24"", ""26115"": ""0.76""}",Wayne|Monroe,26163|26115,FALSE,FALSE,America/Detroit
+48165,42.50135,-83.6176,New Hudson,MI,Michigan,TRUE,,7506,311.6,26125,Oakland,"{""26125"": ""100""}",Oakland,26125,FALSE,FALSE,America/Detroit
+48166,41.9863,-83.29408,Newport,MI,Michigan,TRUE,,11758,170.8,26115,Monroe,"{""26115"": ""100""}",Monroe,26115,FALSE,FALSE,America/Detroit
+48167,42.43528,-83.52917,Northville,MI,Michigan,TRUE,,22382,486,26125,Oakland,"{""26125"": ""49.74"", ""26163"": ""44.04"", ""26161"": ""6.22""}",Oakland|Wayne|Washtenaw,26125|26163|26161,FALSE,FALSE,America/Detroit
+48168,42.4063,-83.54044,Northville,MI,Michigan,TRUE,,22849,432.6,26163,Wayne,"{""26163"": ""93.58"", ""26161"": ""6.42""}",Wayne|Washtenaw,26163|26161,FALSE,FALSE,America/Detroit
+48169,42.46279,-83.949,Pinckney,MI,Michigan,TRUE,,21818,146.1,26093,Livingston,"{""26093"": ""95.09"", ""26161"": ""4.91""}",Livingston|Washtenaw,26093|26161,FALSE,FALSE,America/Detroit
+48170,42.36761,-83.53159,Plymouth,MI,Michigan,TRUE,,39470,446.2,26163,Wayne,"{""26163"": ""95.15"", ""26161"": ""4.85""}",Wayne|Washtenaw,26163|26161,FALSE,FALSE,America/Detroit
+48173,42.07512,-83.21467,Rockwood,MI,Michigan,TRUE,,12443,418.7,26163,Wayne,"{""26163"": ""100""}",Wayne,26163,FALSE,FALSE,America/Detroit
+48174,42.20857,-83.35402,Romulus,MI,Michigan,TRUE,,31633,297.9,26163,Wayne,"{""26163"": ""100""}",Wayne,26163,FALSE,FALSE,America/Detroit
+48176,42.15132,-83.81531,Saline,MI,Michigan,TRUE,,23640,122.8,26161,Washtenaw,"{""26161"": ""99.86"", ""26091"": ""0.14""}",Washtenaw|Lenawee,26161|26091,FALSE,FALSE,America/Detroit
+48177,41.80396,-83.58091,Samaria,MI,Michigan,TRUE,,229,142.2,26115,Monroe,"{""26115"": ""100""}",Monroe,26115,FALSE,FALSE,America/Detroit
+48178,42.44466,-83.6635,South Lyon,MI,Michigan,TRUE,,35390,270.3,26125,Oakland,"{""26125"": ""61.52"", ""26093"": ""31.16"", ""26161"": ""7.32""}",Oakland|Livingston|Washtenaw,26125|26093|26161,FALSE,FALSE,America/Detroit
+48179,42.03561,-83.2534,South Rockwood,MI,Michigan,TRUE,,3686,69.8,26115,Monroe,"{""26115"": ""100""}",Monroe,26115,FALSE,FALSE,America/Detroit
+48180,42.226,-83.26882,Taylor,MI,Michigan,TRUE,,61379,1003.9,26163,Wayne,"{""26163"": ""100""}",Wayne,26163,FALSE,FALSE,America/Detroit
+48182,41.79189,-83.57932,Temperance,MI,Michigan,TRUE,,22463,218.7,26115,Monroe,"{""26115"": ""100""}",Monroe,26115,FALSE,FALSE,America/Detroit
+48183,42.13585,-83.21932,Trenton,MI,Michigan,TRUE,,42248,879.4,26163,Wayne,"{""26163"": ""100""}",Wayne,26163,FALSE,FALSE,America/Detroit
+48184,42.27421,-83.39407,Wayne,MI,Michigan,TRUE,,17279,948.9,26163,Wayne,"{""26163"": ""100""}",Wayne,26163,FALSE,FALSE,America/Detroit
+48185,42.33574,-83.38462,Westland,MI,Michigan,TRUE,,48007,1523.5,26163,Wayne,"{""26163"": ""100""}",Wayne,26163,FALSE,FALSE,America/Detroit
+48186,42.29478,-83.37453,Westland,MI,Michigan,TRUE,,33931,1586.2,26163,Wayne,"{""26163"": ""100""}",Wayne,26163,FALSE,FALSE,America/Detroit
+48187,42.32916,-83.48782,Canton,MI,Michigan,TRUE,,50037,1068.9,26163,Wayne,"{""26163"": ""100""}",Wayne,26163,FALSE,FALSE,America/Detroit
+48188,42.28563,-83.48588,Canton,MI,Michigan,TRUE,,41883,896.5,26163,Wayne,"{""26163"": ""100""}",Wayne,26163,FALSE,FALSE,America/Detroit
+48189,42.41212,-83.78537,Whitmore Lake,MI,Michigan,TRUE,,13830,155.5,26161,Washtenaw,"{""26161"": ""54.18"", ""26093"": ""45.82""}",Washtenaw|Livingston,26161|26093,FALSE,FALSE,America/Detroit
+48190,42.13155,-83.59377,Whittaker,MI,Michigan,TRUE,,226,247.1,26161,Washtenaw,"{""26161"": ""100""}",Washtenaw,26161,FALSE,FALSE,America/Detroit
+48191,42.11987,-83.564,Willis,MI,Michigan,TRUE,,4436,105.3,26161,Washtenaw,"{""26161"": ""95.56"", ""26115"": ""4.44""}",Washtenaw|Monroe,26161|26115,FALSE,FALSE,America/Detroit
+48192,42.20834,-83.16162,Wyandotte,MI,Michigan,TRUE,,25044,1837.4,26163,Wayne,"{""26163"": ""100""}",Wayne,26163,FALSE,FALSE,America/Detroit
+48193,42.17378,-83.20944,Riverview,MI,Michigan,TRUE,,15754,865.5,26163,Wayne,"{""26163"": ""100""}",Wayne,26163,FALSE,FALSE,America/Detroit
+48195,42.20472,-83.20589,Southgate,MI,Michigan,TRUE,,29165,1649.2,26163,Wayne,"{""26163"": ""100""}",Wayne,26163,FALSE,FALSE,America/Detroit
+48197,42.19714,-83.62885,Ypsilanti,MI,Michigan,TRUE,,68108,627.3,26161,Washtenaw,"{""26161"": ""100""}",Washtenaw,26161,FALSE,FALSE,America/Detroit
+48198,42.27549,-83.58835,Ypsilanti,MI,Michigan,TRUE,,38451,442.1,26161,Washtenaw,"{""26161"": ""100""}",Washtenaw,26161,FALSE,FALSE,America/Detroit
+48201,42.34704,-83.06014,Detroit,MI,Michigan,TRUE,,15846,3050.9,26163,Wayne,"{""26163"": ""100""}",Wayne,26163,FALSE,FALSE,America/Detroit
+48202,42.37483,-83.07771,Detroit,MI,Michigan,TRUE,,15816,1835.6,26163,Wayne,"{""26163"": ""100""}",Wayne,26163,FALSE,FALSE,America/Detroit
+48203,42.42166,-83.10232,Highland Park,MI,Michigan,TRUE,,23063,1111.4,26163,Wayne,"{""26163"": ""100""}",Wayne,26163,FALSE,FALSE,America/Detroit
+48204,42.36576,-83.14294,Detroit,MI,Michigan,TRUE,,23927,1843.3,26163,Wayne,"{""26163"": ""100""}",Wayne,26163,FALSE,FALSE,America/Detroit
+48205,42.43315,-82.9811,Detroit,MI,Michigan,TRUE,,33956,2054,26163,Wayne,"{""26163"": ""100""}",Wayne,26163,FALSE,FALSE,America/Detroit
+48206,42.3751,-83.10785,Detroit,MI,Michigan,TRUE,,16065,1984.4,26163,Wayne,"{""26163"": ""100""}",Wayne,26163,FALSE,FALSE,America/Detroit
+48207,42.3493,-83.0148,Detroit,MI,Michigan,TRUE,,20809,1296,26163,Wayne,"{""26163"": ""100""}",Wayne,26163,FALSE,FALSE,America/Detroit
+48208,42.34852,-83.09192,Detroit,MI,Michigan,TRUE,,9026,1102.1,26163,Wayne,"{""26163"": ""100""}",Wayne,26163,FALSE,FALSE,America/Detroit
+48209,42.30535,-83.11626,Detroit,MI,Michigan,TRUE,,31624,1800.9,26163,Wayne,"{""26163"": ""100""}",Wayne,26163,FALSE,FALSE,America/Detroit
+48210,42.33622,-83.12832,Detroit,MI,Michigan,TRUE,,30046,2301.9,26163,Wayne,"{""26163"": ""100""}",Wayne,26163,FALSE,FALSE,America/Detroit
+48211,42.38134,-83.04578,Detroit,MI,Michigan,TRUE,,6229,575,26163,Wayne,"{""26163"": ""100""}",Wayne,26163,FALSE,FALSE,America/Detroit
+48212,42.40942,-83.05601,Hamtramck,MI,Michigan,TRUE,,38162,2751.2,26163,Wayne,"{""26163"": ""100""}",Wayne,26163,FALSE,FALSE,America/Detroit
+48213,42.39794,-82.9954,Detroit,MI,Michigan,TRUE,,22148,1308.7,26163,Wayne,"{""26163"": ""100""}",Wayne,26163,FALSE,FALSE,America/Detroit
+48214,42.36508,-82.98744,Detroit,MI,Michigan,TRUE,,21599,1671.1,26163,Wayne,"{""26163"": ""100""}",Wayne,26163,FALSE,FALSE,America/Detroit
+48215,42.37512,-82.95445,Detroit,MI,Michigan,TRUE,,11690,1124.8,26163,Wayne,"{""26163"": ""100""}",Wayne,26163,FALSE,FALSE,America/Detroit
+48216,42.32655,-83.07873,Detroit,MI,Michigan,TRUE,,5318,929.2,26163,Wayne,"{""26163"": ""100""}",Wayne,26163,FALSE,FALSE,America/Detroit
+48217,42.27806,-83.15399,Detroit,MI,Michigan,TRUE,,6678,1129.6,26163,Wayne,"{""26163"": ""100""}",Wayne,26163,FALSE,FALSE,America/Detroit
+48218,42.27317,-83.12728,River Rouge,MI,Michigan,TRUE,,7502,1091.3,26163,Wayne,"{""26163"": ""100""}",Wayne,26163,FALSE,FALSE,America/Detroit
+48219,42.42575,-83.25286,Detroit,MI,Michigan,TRUE,,47632,2187.6,26163,Wayne,"{""26163"": ""100""}",Wayne,26163,FALSE,FALSE,America/Detroit
+48220,42.45807,-83.13521,Ferndale,MI,Michigan,TRUE,,22548,1967.2,26125,Oakland,"{""26125"": ""100""}",Oakland,26125,FALSE,FALSE,America/Detroit
+48221,42.42703,-83.14869,Detroit,MI,Michigan,TRUE,,41523,2940.8,26163,Wayne,"{""26163"": ""100""}",Wayne,26163,FALSE,FALSE,America/Detroit
+48223,42.39343,-83.24641,Detroit,MI,Michigan,TRUE,,25746,1642,26163,Wayne,"{""26163"": ""100""}",Wayne,26163,FALSE,FALSE,America/Detroit
+48224,42.41067,-82.94128,Detroit,MI,Michigan,TRUE,,41453,2790.9,26163,Wayne,"{""26163"": ""100""}",Wayne,26163,FALSE,FALSE,America/Detroit
+48225,42.43897,-82.92948,Harper Woods,MI,Michigan,TRUE,,14194,2055.9,26163,Wayne,"{""26163"": ""100""}",Wayne,26163,FALSE,FALSE,America/Detroit
+48226,42.33168,-83.05016,Detroit,MI,Michigan,TRUE,,7150,2284.8,26163,Wayne,"{""26163"": ""100""}",Wayne,26163,FALSE,FALSE,America/Detroit
+48227,42.38725,-83.19264,Detroit,MI,Michigan,TRUE,,41353,2120.4,26163,Wayne,"{""26163"": ""100""}",Wayne,26163,FALSE,FALSE,America/Detroit
+48228,42.35545,-83.21705,Detroit,MI,Michigan,TRUE,,56262,2523,26163,Wayne,"{""26163"": ""100""}",Wayne,26163,FALSE,FALSE,America/Detroit
+48229,42.25087,-83.14284,Ecorse,MI,Michigan,TRUE,,9432,1300.4,26163,Wayne,"{""26163"": ""100""}",Wayne,26163,FALSE,FALSE,America/Detroit
+48230,42.38324,-82.92332,Grosse Pointe,MI,Michigan,TRUE,,16359,1956.2,26163,Wayne,"{""26163"": ""100""}",Wayne,26163,FALSE,FALSE,America/Toronto
+48233,42.3237,-83.06166,Detroit,MI,Michigan,TRUE,,0,0,26163,Wayne,"{""26163"": ""0""}",Wayne,26163,FALSE,FALSE,America/Detroit
+48234,42.43127,-83.03958,Detroit,MI,Michigan,TRUE,,34307,1691,26163,Wayne,"{""26163"": ""100""}",Wayne,26163,FALSE,FALSE,America/Detroit
+48235,42.42704,-83.1948,Detroit,MI,Michigan,TRUE,,46450,2869.1,26163,Wayne,"{""26163"": ""100""}",Wayne,26163,FALSE,FALSE,America/Detroit
+48236,42.42502,-82.89655,Grosse Pointe,MI,Michigan,TRUE,,29492,1524.5,26163,Wayne,"{""26163"": ""99.74"", ""26099"": ""0.26""}",Wayne|Macomb,26163|26099,FALSE,FALSE,America/Detroit
+48237,42.46494,-83.18237,Oak Park,MI,Michigan,TRUE,,29726,2222.9,26125,Oakland,"{""26125"": ""100""}",Oakland,26125,FALSE,FALSE,America/Detroit
+48238,42.39627,-83.14133,Detroit,MI,Michigan,TRUE,,25038,1791.5,26163,Wayne,"{""26163"": ""100""}",Wayne,26163,FALSE,FALSE,America/Detroit
+48239,42.37587,-83.28466,Redford,MI,Michigan,TRUE,,36364,1443.4,26163,Wayne,"{""26163"": ""100""}",Wayne,26163,FALSE,FALSE,America/Detroit
+48240,42.42445,-83.30128,Redford,MI,Michigan,TRUE,,16978,1751.1,26163,Wayne,"{""26163"": ""100""}",Wayne,26163,FALSE,FALSE,America/Detroit
+48242,42.212,-83.35249,Detroit,MI,Michigan,TRUE,,0,0,26163,Wayne,"{""26163"": ""0""}",Wayne,26163,FALSE,FALSE,America/Detroit
+48243,42.32995,-83.03954,Detroit,MI,Michigan,TRUE,,0,0,26163,Wayne,"{""26163"": ""0""}",Wayne,26163,FALSE,FALSE,America/Detroit
+48301,42.54444,-83.28284,Bloomfield Hills,MI,Michigan,TRUE,,14796,774,26125,Oakland,"{""26125"": ""100""}",Oakland,26125,FALSE,FALSE,America/Detroit
+48302,42.58569,-83.29526,Bloomfield Hills,MI,Michigan,TRUE,,15964,557.8,26125,Oakland,"{""26125"": ""100""}",Oakland,26125,FALSE,FALSE,America/Detroit
+48304,42.58765,-83.23463,Bloomfield Hills,MI,Michigan,TRUE,,16237,554.4,26125,Oakland,"{""26125"": ""100""}",Oakland,26125,FALSE,FALSE,America/Detroit
+48306,42.72323,-83.14914,Rochester,MI,Michigan,TRUE,,27334,464.1,26125,Oakland,"{""26125"": ""98.66"", ""26099"": ""1.34""}",Oakland|Macomb,26125|26099,FALSE,FALSE,America/Detroit
+48307,42.65958,-83.12322,Rochester,MI,Michigan,TRUE,,43674,1099,26125,Oakland,"{""26125"": ""100""}",Oakland,26125,FALSE,FALSE,America/Detroit
+48309,42.65864,-83.18367,Rochester,MI,Michigan,TRUE,,30215,754.9,26125,Oakland,"{""26125"": ""100""}",Oakland,26125,FALSE,FALSE,America/Detroit
+48310,42.56436,-83.06782,Sterling Heights,MI,Michigan,TRUE,,43545,1987.2,26099,Macomb,"{""26099"": ""100""}",Macomb,26099,FALSE,FALSE,America/Detroit
+48312,42.55846,-83.00941,Sterling Heights,MI,Michigan,TRUE,,34882,1197.2,26099,Macomb,"{""26099"": ""100""}",Macomb,26099,FALSE,FALSE,America/Detroit
+48313,42.59956,-83.00153,Sterling Heights,MI,Michigan,TRUE,,33467,1422.6,26099,Macomb,"{""26099"": ""100""}",Macomb,26099,FALSE,FALSE,America/Detroit
+48314,42.60989,-83.05431,Sterling Heights,MI,Michigan,TRUE,,20582,1031.5,26099,Macomb,"{""26099"": ""100""}",Macomb,26099,FALSE,FALSE,America/Detroit
+48315,42.6729,-82.99631,Utica,MI,Michigan,TRUE,,27662,836.4,26099,Macomb,"{""26099"": ""100""}",Macomb,26099,FALSE,FALSE,America/Detroit
+48316,42.69064,-83.0568,Utica,MI,Michigan,TRUE,,27858,965.8,26099,Macomb,"{""26099"": ""100""}",Macomb,26099,FALSE,FALSE,America/Detroit
+48317,42.64676,-83.05315,Utica,MI,Michigan,TRUE,,28651,910.5,26099,Macomb,"{""26099"": ""100""}",Macomb,26099,FALSE,FALSE,America/Detroit
+48320,42.61261,-83.33801,Keego Harbor,MI,Michigan,TRUE,,4933,1756,26125,Oakland,"{""26125"": ""100""}",Oakland,26125,FALSE,FALSE,America/Detroit
+48322,42.54215,-83.38137,West Bloomfield,MI,Michigan,TRUE,,32608,1070.9,26125,Oakland,"{""26125"": ""100""}",Oakland,26125,FALSE,FALSE,America/Detroit
+48323,42.57032,-83.37617,West Bloomfield,MI,Michigan,TRUE,,17128,758.7,26125,Oakland,"{""26125"": ""100""}",Oakland,26125,FALSE,FALSE,America/Detroit
+48324,42.59614,-83.39263,West Bloomfield,MI,Michigan,TRUE,,17830,808.4,26125,Oakland,"{""26125"": ""100""}",Oakland,26125,FALSE,FALSE,America/Detroit
+48326,42.67577,-83.25332,Auburn Hills,MI,Michigan,TRUE,,22352,501.1,26125,Oakland,"{""26125"": ""100""}",Oakland,26125,FALSE,FALSE,America/Detroit
+48327,42.64421,-83.41415,Waterford,MI,Michigan,TRUE,,21937,747.2,26125,Oakland,"{""26125"": ""100""}",Oakland,26125,FALSE,FALSE,America/Detroit
+48328,42.64382,-83.35626,Waterford,MI,Michigan,TRUE,,26476,1128.5,26125,Oakland,"{""26125"": ""100""}",Oakland,26125,FALSE,FALSE,America/Detroit
+48329,42.68839,-83.38888,Waterford,MI,Michigan,TRUE,,24400,924.5,26125,Oakland,"{""26125"": ""100""}",Oakland,26125,FALSE,FALSE,America/Detroit
+48331,42.50399,-83.40853,Farmington,MI,Michigan,TRUE,,21372,888.1,26125,Oakland,"{""26125"": ""100""}",Oakland,26125,FALSE,FALSE,America/Detroit
+48334,42.50667,-83.34946,Farmington,MI,Michigan,TRUE,,19107,821.1,26125,Oakland,"{""26125"": ""100""}",Oakland,26125,FALSE,FALSE,America/Detroit
+48335,42.46285,-83.40199,Farmington,MI,Michigan,TRUE,,22998,1178.8,26125,Oakland,"{""26125"": ""100""}",Oakland,26125,FALSE,FALSE,America/Detroit
+48336,42.4631,-83.34727,Farmington,MI,Michigan,TRUE,,25913,1100.6,26125,Oakland,"{""26125"": ""100""}",Oakland,26125,FALSE,FALSE,America/Detroit
+48340,42.67083,-83.29099,Pontiac,MI,Michigan,TRUE,,25387,1311.7,26125,Oakland,"{""26125"": ""100""}",Oakland,26125,FALSE,FALSE,America/Detroit
+48341,42.62781,-83.29636,Pontiac,MI,Michigan,TRUE,,18020,1089.6,26125,Oakland,"{""26125"": ""100""}",Oakland,26125,FALSE,FALSE,America/Detroit
+48342,42.64337,-83.27435,Pontiac,MI,Michigan,TRUE,,16652,1123.3,26125,Oakland,"{""26125"": ""100""}",Oakland,26125,FALSE,FALSE,America/Detroit
+48346,42.72155,-83.42304,Clarkston,MI,Michigan,TRUE,,23776,511.3,26125,Oakland,"{""26125"": ""100""}",Oakland,26125,FALSE,FALSE,America/Detroit
+48348,42.76696,-83.40128,Clarkston,MI,Michigan,TRUE,,24605,286.9,26125,Oakland,"{""26125"": ""100""}",Oakland,26125,FALSE,FALSE,America/Detroit
+48350,42.74084,-83.53218,Davisburg,MI,Michigan,TRUE,,7242,117.5,26125,Oakland,"{""26125"": ""100""}",Oakland,26125,FALSE,FALSE,America/Detroit
+48353,42.64765,-83.71682,Hartland,MI,Michigan,TRUE,,6753,194.6,26093,Livingston,"{""26093"": ""100""}",Livingston,26093,FALSE,FALSE,America/Detroit
+48356,42.65507,-83.58926,Highland,MI,Michigan,TRUE,,8743,239.1,26125,Oakland,"{""26125"": ""100""}",Oakland,26125,FALSE,FALSE,America/Detroit
+48357,42.65606,-83.64388,Highland,MI,Michigan,TRUE,,8347,274,26125,Oakland,"{""26125"": ""100""}",Oakland,26125,FALSE,FALSE,America/Detroit
+48359,42.72202,-83.27878,Lake Orion,MI,Michigan,TRUE,,9800,351.5,26125,Oakland,"{""26125"": ""100""}",Oakland,26125,FALSE,FALSE,America/Detroit
+48360,42.74934,-83.269,Lake Orion,MI,Michigan,TRUE,,12768,417.1,26125,Oakland,"{""26125"": ""100""}",Oakland,26125,FALSE,FALSE,America/Detroit
+48362,42.78226,-83.26969,Lake Orion,MI,Michigan,TRUE,,15833,617.5,26125,Oakland,"{""26125"": ""100""}",Oakland,26125,FALSE,FALSE,America/Detroit
+48363,42.77285,-83.1618,Oakland,MI,Michigan,TRUE,,7049,134.8,26125,Oakland,"{""26125"": ""100""}",Oakland,26125,FALSE,FALSE,America/Detroit
+48367,42.84283,-83.14145,Leonard,MI,Michigan,TRUE,,4697,77.3,26125,Oakland,"{""26125"": ""100""}",Oakland,26125,FALSE,FALSE,America/Detroit
+48370,42.84124,-83.20084,Oxford,MI,Michigan,TRUE,,1901,61.4,26125,Oakland,"{""26125"": ""100""}",Oakland,26125,FALSE,FALSE,America/Detroit
+48371,42.84121,-83.29086,Oxford,MI,Michigan,TRUE,,25463,229.8,26125,Oakland,"{""26125"": ""98.63"", ""26087"": ""1.37""}",Oakland|Lapeer,26125|26087,FALSE,FALSE,America/Detroit
+48374,42.47081,-83.52386,Novi,MI,Michigan,TRUE,,16589,704.3,26125,Oakland,"{""26125"": ""100""}",Oakland,26125,FALSE,FALSE,America/Detroit
+48375,42.46482,-83.46335,Novi,MI,Michigan,TRUE,,22041,991.4,26125,Oakland,"{""26125"": ""100""}",Oakland,26125,FALSE,FALSE,America/Detroit
+48377,42.50648,-83.47275,Novi,MI,Michigan,TRUE,,16735,672.5,26125,Oakland,"{""26125"": ""100""}",Oakland,26125,FALSE,FALSE,America/Detroit
+48380,42.58073,-83.66216,Milford,MI,Michigan,TRUE,,7435,113.1,26125,Oakland,"{""26125"": ""76.7"", ""26093"": ""23.3""}",Oakland|Livingston,26125|26093,FALSE,FALSE,America/Detroit
+48381,42.56168,-83.5942,Milford,MI,Michigan,TRUE,,13481,259.6,26125,Oakland,"{""26125"": ""100""}",Oakland,26125,FALSE,FALSE,America/Detroit
+48382,42.59073,-83.50585,Commerce Township,MI,Michigan,TRUE,,23581,553.1,26125,Oakland,"{""26125"": ""100""}",Oakland,26125,FALSE,FALSE,America/Detroit
+48383,42.65789,-83.53215,White Lake,MI,Michigan,TRUE,,13013,337.5,26125,Oakland,"{""26125"": ""100""}",Oakland,26125,FALSE,FALSE,America/Detroit
+48386,42.65786,-83.47527,White Lake,MI,Michigan,TRUE,,18341,426,26125,Oakland,"{""26125"": ""100""}",Oakland,26125,FALSE,FALSE,America/Detroit
+48390,42.55142,-83.47637,Walled Lake,MI,Michigan,TRUE,,23880,736.6,26125,Oakland,"{""26125"": ""100""}",Oakland,26125,FALSE,FALSE,America/Detroit
+48393,42.52113,-83.54507,Wixom,MI,Michigan,TRUE,,17054,496.8,26125,Oakland,"{""26125"": ""100""}",Oakland,26125,FALSE,FALSE,America/Detroit
+48397,42.49501,-83.04105,Warren,MI,Michigan,TRUE,,0,0,26099,Macomb,"{""26099"": ""0""}",Macomb,26099,FALSE,FALSE,America/Detroit
+48401,43.3527,-82.66725,Applegate,MI,Michigan,TRUE,,1453,16.9,26151,Sanilac,"{""26151"": ""100""}",Sanilac,26151,FALSE,FALSE,America/Detroit
+48411,42.93608,-83.53083,Atlas,MI,Michigan,TRUE,,123,78.9,26049,Genesee,"{""26049"": ""100""}",Genesee,26049,FALSE,FALSE,America/Detroit
+48412,43.06287,-83.17079,Attica,MI,Michigan,TRUE,,5000,38.6,26087,Lapeer,"{""26087"": ""100""}",Lapeer,26087,FALSE,FALSE,America/Detroit
+48413,43.80193,-82.99474,Bad Axe,MI,Michigan,TRUE,,7231,20.3,26063,Huron,"{""26063"": ""100""}",Huron,26063,FALSE,FALSE,America/Detroit
+48414,42.86178,-84.07879,Bancroft,MI,Michigan,TRUE,,2610,31.3,26155,Shiawassee,"{""26155"": ""100""}",Shiawassee,26155,FALSE,FALSE,America/Detroit
+48415,43.27114,-83.80094,Birch Run,MI,Michigan,TRUE,,9107,53.8,26145,Saginaw,"{""26145"": ""96.54"", ""26049"": ""1.83"", ""26157"": ""1.64""}",Saginaw|Genesee|Tuscola,26145|26049|26157,FALSE,FALSE,America/Detroit
+48416,43.21671,-82.98451,Brown City,MI,Michigan,TRUE,,5179,17.8,26151,Sanilac,"{""26151"": ""62.2"", ""26087"": ""32.95"", ""26147"": ""4.86""}",Sanilac|Lapeer|St. Clair,26151|26087|26147,FALSE,FALSE,America/Detroit
+48417,43.26049,-83.93595,Burt,MI,Michigan,TRUE,,2691,42.1,26145,Saginaw,"{""26145"": ""100""}",Saginaw,26145,FALSE,FALSE,America/Detroit
+48418,42.80426,-83.97019,Byron,MI,Michigan,TRUE,,3926,39.1,26155,Shiawassee,"{""26155"": ""60.02"", ""26049"": ""30.45"", ""26093"": ""9.53""}",Shiawassee|Genesee|Livingston,26155|26049|26093,FALSE,FALSE,America/Detroit
+48419,43.42927,-82.65461,Carsonville,MI,Michigan,TRUE,,2282,11.4,26151,Sanilac,"{""26151"": ""100""}",Sanilac,26151,FALSE,FALSE,America/Detroit
+48420,43.17959,-83.71417,Clio,MI,Michigan,TRUE,,21380,127.9,26049,Genesee,"{""26049"": ""97.31"", ""26157"": ""2.57"", ""26145"": ""0.13""}",Genesee|Tuscola|Saginaw,26049|26157|26145,FALSE,FALSE,America/Detroit
+48421,43.1537,-83.39208,Columbiaville,MI,Michigan,TRUE,,6259,59.3,26087,Lapeer,"{""26087"": ""97.67"", ""26049"": ""2.33""}",Lapeer|Genesee,26087|26049,FALSE,FALSE,America/Detroit
+48422,43.26263,-82.65059,Croswell,MI,Michigan,TRUE,,6571,26.4,26151,Sanilac,"{""26151"": ""100""}",Sanilac,26151,FALSE,FALSE,America/Detroit
+48423,43.0398,-83.51346,Davison,MI,Michigan,TRUE,,31859,187.5,26049,Genesee,"{""26049"": ""99.88"", ""26087"": ""0.12""}",Genesee|Lapeer,26049|26087,FALSE,FALSE,America/Detroit
+48426,43.51006,-83.05897,Decker,MI,Michigan,TRUE,,1007,9.9,26151,Sanilac,"{""26151"": ""100""}",Sanilac,26151,FALSE,FALSE,America/Detroit
+48427,43.53798,-82.72406,Deckerville,MI,Michigan,TRUE,,2754,11,26151,Sanilac,"{""26151"": ""100""}",Sanilac,26151,FALSE,FALSE,America/Detroit
+48428,42.93844,-83.14816,Dryden,MI,Michigan,TRUE,,5281,59.6,26087,Lapeer,"{""26087"": ""99.8"", ""26125"": ""0.2""}",Lapeer|Oakland,26087|26125,FALSE,FALSE,America/Detroit
+48429,42.9068,-84.00369,Durand,MI,Michigan,TRUE,,8937,63.6,26155,Shiawassee,"{""26155"": ""97.48"", ""26049"": ""2.52""}",Shiawassee|Genesee,26155|26049,FALSE,FALSE,America/Detroit
+48430,42.75837,-83.74277,Fenton,MI,Michigan,TRUE,,35948,167.2,26049,Genesee,"{""26049"": ""59.58"", ""26093"": ""37.43"", ""26125"": ""2.99""}",Genesee|Livingston|Oakland,26049|26093|26125,FALSE,FALSE,America/Detroit
+48432,43.89911,-82.97668,Filion,MI,Michigan,TRUE,,600,6.9,26063,Huron,"{""26063"": ""100""}",Huron,26063,FALSE,FALSE,America/Detroit
+48433,43.07575,-83.86625,Flushing,MI,Michigan,TRUE,,25000,173.8,26049,Genesee,"{""26049"": ""99.75"", ""26155"": ""0.25""}",Genesee|Shiawassee,26049|26155,FALSE,FALSE,America/Detroit
+48434,43.66187,-82.61168,Forestville,MI,Michigan,TRUE,,89,62.9,26151,Sanilac,"{""26151"": ""100""}",Sanilac,26151,FALSE,FALSE,America/Detroit
+48435,43.24828,-83.35811,Fostoria,MI,Michigan,TRUE,,1940,29.9,26157,Tuscola,"{""26157"": ""57.13"", ""26087"": ""42.87""}",Tuscola|Lapeer,26157|26087,FALSE,FALSE,America/Detroit
+48436,42.86708,-83.87327,Gaines,MI,Michigan,TRUE,,3795,46,26049,Genesee,"{""26049"": ""96.81"", ""26155"": ""3.19""}",Genesee|Shiawassee,26049|26155,FALSE,FALSE,America/Detroit
+48437,43.11231,-83.61542,Genesee,MI,Michigan,TRUE,,783,511.9,26049,Genesee,"{""26049"": ""100""}",Genesee,26049,FALSE,FALSE,America/Detroit
+48438,42.91236,-83.47688,Goodrich,MI,Michigan,TRUE,,6805,81.7,26049,Genesee,"{""26049"": ""84.06"", ""26087"": ""15.94""}",Genesee|Lapeer,26049|26087,FALSE,FALSE,America/Detroit
+48439,42.91681,-83.62911,Grand Blanc,MI,Michigan,TRUE,,48754,355.8,26049,Genesee,"{""26049"": ""99.27"", ""26125"": ""0.73""}",Genesee|Oakland,26049|26125,FALSE,FALSE,America/Detroit
+48440,42.95066,-83.41234,Hadley,MI,Michigan,TRUE,,89,50.9,26087,Lapeer,"{""26087"": ""100""}",Lapeer,26087,FALSE,FALSE,America/Detroit
+48441,43.8062,-82.71738,Harbor Beach,MI,Michigan,TRUE,,4041,15.4,26063,Huron,"{""26063"": ""98.87"", ""26151"": ""1.13""}",Huron|Sanilac,26063|26151,FALSE,FALSE,America/Detroit
+48442,42.79164,-83.60347,Holly,MI,Michigan,TRUE,,21228,95.9,26125,Oakland,"{""26125"": ""93.05"", ""26049"": ""5.77"", ""26093"": ""1.18""}",Oakland|Genesee|Livingston,26125|26049|26093,FALSE,FALSE,America/Detroit
+48444,43.06499,-83.05511,Imlay City,MI,Michigan,TRUE,,9730,46.5,26087,Lapeer,"{""26087"": ""99.22"", ""26147"": ""0.78""}",Lapeer|St. Clair,26087|26147,FALSE,FALSE,America/Detroit
+48445,43.95158,-82.98696,Kinde,MI,Michigan,TRUE,,1245,8.6,26063,Huron,"{""26063"": ""100""}",Huron,26063,FALSE,FALSE,America/Detroit
+48446,43.05355,-83.33761,Lapeer,MI,Michigan,TRUE,,31014,99.1,26087,Lapeer,"{""26087"": ""100""}",Lapeer,26087,FALSE,FALSE,America/Detroit
+48449,42.9949,-83.94622,Lennon,MI,Michigan,TRUE,,2855,43.1,26155,Shiawassee,"{""26155"": ""60.34"", ""26049"": ""39.66""}",Shiawassee|Genesee,26155|26049,FALSE,FALSE,America/Detroit
+48450,43.25872,-82.54203,Lexington,MI,Michigan,TRUE,,4511,78.3,26151,Sanilac,"{""26151"": ""100""}",Sanilac,26151,FALSE,FALSE,America/Detroit
+48451,42.80266,-83.81948,Linden,MI,Michigan,TRUE,,14988,171.3,26049,Genesee,"{""26049"": ""94.59"", ""26093"": ""5.41""}",Genesee|Livingston,26049|26093,FALSE,FALSE,America/Detroit
+48453,43.34412,-83.03193,Marlette,MI,Michigan,TRUE,,5153,18.6,26151,Sanilac,"{""26151"": ""89.9"", ""26157"": ""5.29"", ""26087"": ""4.82""}",Sanilac|Tuscola|Lapeer,26151|26157|26087,FALSE,FALSE,America/Detroit
+48454,43.19918,-82.81951,Melvin,MI,Michigan,TRUE,,1187,15.2,26151,Sanilac,"{""26151"": ""100""}",Sanilac,26151,FALSE,FALSE,America/Detroit
+48455,42.93886,-83.2892,Metamora,MI,Michigan,TRUE,,7924,47,26087,Lapeer,"{""26087"": ""100""}",Lapeer,26087,FALSE,FALSE,America/Detroit
+48456,43.67026,-82.75953,Minden City,MI,Michigan,TRUE,,777,6.5,26151,Sanilac,"{""26151"": ""85.9"", ""26063"": ""14.1""}",Sanilac|Huron,26151|26063,FALSE,FALSE,America/Detroit
+48457,43.18943,-83.89564,Montrose,MI,Michigan,TRUE,,8118,71.4,26049,Genesee,"{""26049"": ""82.82"", ""26145"": ""17.18""}",Genesee|Saginaw,26049|26145,FALSE,FALSE,America/Detroit
+48458,43.12225,-83.68221,Mount Morris,MI,Michigan,TRUE,,18410,202.6,26049,Genesee,"{""26049"": ""100""}",Genesee,26049,FALSE,FALSE,America/Detroit
+48460,43.1282,-83.98722,New Lothrop,MI,Michigan,TRUE,,2356,27,26155,Shiawassee,"{""26155"": ""63.43"", ""26145"": ""36.57""}",Shiawassee|Saginaw,26155|26145,FALSE,FALSE,America/Detroit
+48461,43.204,-83.20452,North Branch,MI,Michigan,TRUE,,8239,38,26087,Lapeer,"{""26087"": ""100""}",Lapeer,26087,FALSE,FALSE,America/Detroit
+48462,42.8489,-83.42665,Ortonville,MI,Michigan,TRUE,,13860,112.3,26125,Oakland,"{""26125"": ""94.6"", ""26087"": ""4.44"", ""26049"": ""0.96""}",Oakland|Lapeer|Genesee,26125|26087|26049,FALSE,FALSE,America/Detroit
+48463,43.16587,-83.52301,Otisville,MI,Michigan,TRUE,,4445,49.1,26049,Genesee,"{""26049"": ""100""}",Genesee,26049,FALSE,FALSE,America/Detroit
+48464,43.21906,-83.42104,Otter Lake,MI,Michigan,TRUE,,2157,44.6,26087,Lapeer,"{""26087"": ""78.17"", ""26157"": ""13.63"", ""26049"": ""8.2""}",Lapeer|Tuscola|Genesee,26087|26157|26049,FALSE,FALSE,America/Detroit
+48465,43.6146,-82.70806,Palms,MI,Michigan,TRUE,,702,6.6,26151,Sanilac,"{""26151"": ""100""}",Sanilac,26151,FALSE,FALSE,America/Detroit
+48466,43.27695,-82.81672,Peck,MI,Michigan,TRUE,,1473,15.5,26151,Sanilac,"{""26151"": ""100""}",Sanilac,26151,FALSE,FALSE,America/Detroit
+48467,44.00834,-82.98494,Port Austin,MI,Michigan,TRUE,,2127,12.9,26063,Huron,"{""26063"": ""100""}",Huron,26063,FALSE,FALSE,America/Detroit
+48468,43.94225,-82.78773,Port Hope,MI,Michigan,TRUE,,1088,6.6,26063,Huron,"{""26063"": ""100""}",Huron,26063,FALSE,FALSE,America/Detroit
+48469,43.43925,-82.5583,Port Sanilac,MI,Michigan,TRUE,,1213,59.4,26151,Sanilac,"{""26151"": ""100""}",Sanilac,26151,FALSE,FALSE,America/Detroit
+48470,43.73254,-82.75783,Ruth,MI,Michigan,TRUE,,743,7.2,26063,Huron,"{""26063"": ""100""}",Huron,26063,FALSE,FALSE,America/Detroit
+48471,43.41814,-82.85228,Sandusky,MI,Michigan,TRUE,,5341,20.4,26151,Sanilac,"{""26151"": ""100""}",Sanilac,26151,FALSE,FALSE,America/Detroit
+48472,43.51347,-82.95538,Snover,MI,Michigan,TRUE,,1731,8.8,26151,Sanilac,"{""26151"": ""100""}",Sanilac,26151,FALSE,FALSE,America/Detroit
+48473,42.93991,-83.82618,Swartz Creek,MI,Michigan,TRUE,,22022,144.2,26049,Genesee,"{""26049"": ""100""}",Genesee,26049,FALSE,FALSE,America/Detroit
+48475,43.67062,-82.93945,Ubly,MI,Michigan,TRUE,,2519,9,26063,Huron,"{""26063"": ""66.74"", ""26151"": ""33.26""}",Huron|Sanilac,26063|26151,FALSE,FALSE,America/Detroit
+48476,42.9385,-84.02992,Vernon,MI,Michigan,TRUE,,471,684.1,26155,Shiawassee,"{""26155"": ""100""}",Shiawassee,26155,FALSE,FALSE,America/Detroit
+48502,43.01359,-83.68855,Flint,MI,Michigan,TRUE,,1152,1125.7,26049,Genesee,"{""26049"": ""100""}",Genesee,26049,FALSE,FALSE,America/Detroit
+48503,43.01179,-83.6885,Flint,MI,Michigan,TRUE,,26466,1245.3,26049,Genesee,"{""26049"": ""100""}",Genesee,26049,FALSE,FALSE,America/Detroit
+48504,43.05734,-83.74982,Flint,MI,Michigan,TRUE,,26804,669.2,26049,Genesee,"{""26049"": ""100""}",Genesee,26049,FALSE,FALSE,America/Detroit
+48505,43.07042,-83.68744,Flint,MI,Michigan,TRUE,,20327,624.9,26049,Genesee,"{""26049"": ""100""}",Genesee,26049,FALSE,FALSE,America/Detroit
+48506,43.06784,-83.62161,Flint,MI,Michigan,TRUE,,28915,590.1,26049,Genesee,"{""26049"": ""100""}",Genesee,26049,FALSE,FALSE,America/Detroit
+48507,42.96539,-83.71547,Flint,MI,Michigan,TRUE,,30760,570.1,26049,Genesee,"{""26049"": ""100""}",Genesee,26049,FALSE,FALSE,America/Detroit
+48509,43.02616,-83.60528,Burton,MI,Michigan,TRUE,,9351,407.5,26049,Genesee,"{""26049"": ""100""}",Genesee,26049,FALSE,FALSE,America/Detroit
+48519,42.98752,-83.60693,Burton,MI,Michigan,TRUE,,6984,349.1,26049,Genesee,"{""26049"": ""100""}",Genesee,26049,FALSE,FALSE,America/Detroit
+48529,42.97245,-83.6618,Burton,MI,Michigan,TRUE,,9424,736.8,26049,Genesee,"{""26049"": ""100""}",Genesee,26049,FALSE,FALSE,America/Detroit
+48532,43.01239,-83.79085,Flint,MI,Michigan,TRUE,,20270,511.3,26049,Genesee,"{""26049"": ""100""}",Genesee,26049,FALSE,FALSE,America/Detroit
+48551,42.98103,-83.71691,Flint,MI,Michigan,TRUE,,0,0,26049,Genesee,"{""26049"": ""0""}",Genesee,26049,FALSE,FALSE,America/Detroit
+48553,42.97781,-83.72352,Flint,MI,Michigan,TRUE,,0,0,26049,Genesee,"{""26049"": ""0""}",Genesee,26049,FALSE,FALSE,America/Detroit
+48554,42.97584,-83.79096,Flint,MI,Michigan,TRUE,,0,0,26049,Genesee,"{""26049"": ""0""}",Genesee,26049,FALSE,FALSE,America/Detroit
+48601,43.40416,-83.89375,Saginaw,MI,Michigan,TRUE,,34793,128,26145,Saginaw,"{""26145"": ""100""}",Saginaw,26145,FALSE,FALSE,America/Detroit
+48602,43.41969,-83.97466,Saginaw,MI,Michigan,TRUE,,30199,1489,26145,Saginaw,"{""26145"": ""100""}",Saginaw,26145,FALSE,FALSE,America/Detroit
+48603,43.46313,-84.02967,Saginaw,MI,Michigan,TRUE,,26623,561.4,26145,Saginaw,"{""26145"": ""100""}",Saginaw,26145,FALSE,FALSE,America/Detroit
+48604,43.49444,-83.96255,Saginaw,MI,Michigan,TRUE,,12307,190.6,26145,Saginaw,"{""26145"": ""98.81"", ""26017"": ""1.19""}",Saginaw|Bay,26145|26017,FALSE,FALSE,America/Detroit
+48607,43.43177,-83.9338,Saginaw,MI,Michigan,TRUE,,1556,673.1,26145,Saginaw,"{""26145"": ""100""}",Saginaw,26145,FALSE,FALSE,America/Detroit
+48609,43.38736,-84.08797,Saginaw,MI,Michigan,TRUE,,12422,107.6,26145,Saginaw,"{""26145"": ""100""}",Saginaw,26145,FALSE,FALSE,America/Detroit
+48610,44.12834,-84.17435,Alger,MI,Michigan,TRUE,,2760,9.1,26011,Arenac,"{""26011"": ""39.05"", ""26129"": ""38.01"", ""26051"": ""22.93""}",Arenac|Ogemaw|Gladwin,26011|26129|26051,FALSE,FALSE,America/Detroit
+48611,43.63183,-84.09311,Auburn,MI,Michigan,TRUE,,6611,66.5,26017,Bay,"{""26017"": ""100""}",Bay,26017,FALSE,FALSE,America/Detroit
+48612,43.88113,-84.43196,Beaverton,MI,Michigan,TRUE,,8772,28,26051,Gladwin,"{""26051"": ""98.48"", ""26111"": ""1.52""}",Gladwin|Midland,26051|26111,FALSE,FALSE,America/Detroit
+48613,43.9532,-84.16778,Bentley,MI,Michigan,TRUE,,983,6.3,26017,Bay,"{""26017"": ""91.36"", ""26051"": ""8.64""}",Bay|Gladwin,26017|26051,FALSE,FALSE,America/Detroit
+48614,43.25053,-84.3025,Brant,MI,Michigan,TRUE,,1425,15.5,26145,Saginaw,"{""26145"": ""98.11"", ""26057"": ""1.89""}",Saginaw|Gratiot,26145|26057,FALSE,FALSE,America/Detroit
+48615,43.42948,-84.47145,Breckenridge,MI,Michigan,TRUE,,2729,18.3,26057,Gratiot,"{""26057"": ""71.81"", ""26111"": ""28.19""}",Gratiot|Midland,26057|26111,FALSE,FALSE,America/Detroit
+48616,43.19288,-84.11164,Chesaning,MI,Michigan,TRUE,,7321,35.1,26145,Saginaw,"{""26145"": ""99.75"", ""26155"": ""0.25""}",Saginaw|Shiawassee,26145|26155,FALSE,FALSE,America/Detroit
+48617,43.84684,-84.71585,Clare,MI,Michigan,TRUE,,9242,25.7,26035,Clare,"{""26035"": ""77.87"", ""26073"": ""22.13""}",Clare|Isabella,26035|26073,FALSE,FALSE,America/Detroit
+48618,43.73725,-84.56022,Coleman,MI,Michigan,TRUE,,5049,18.8,26111,Midland,"{""26111"": ""84.33"", ""26073"": ""12.65"", ""26051"": ""3.02""}",Midland|Isabella|Gladwin,26111|26073|26051,FALSE,FALSE,America/Detroit
+48619,44.82455,-84.03134,Comins,MI,Michigan,TRUE,,549,2.7,26135,Oscoda,"{""26135"": ""89.03"", ""26119"": ""10.97""}",Oscoda|Montmorency,26135|26119,FALSE,FALSE,America/Detroit
+48621,44.72406,-83.99442,Fairview,MI,Michigan,TRUE,,1149,7.9,26135,Oscoda,"{""26135"": ""100""}",Oscoda,26135,FALSE,FALSE,America/Detroit
+48622,43.84005,-84.88039,Farwell,MI,Michigan,TRUE,,5838,23.7,26035,Clare,"{""26035"": ""82.44"", ""26073"": ""17.56""}",Clare|Isabella,26035|26073,FALSE,FALSE,America/Detroit
+48623,43.51988,-84.13557,Freeland,MI,Michigan,TRUE,,13662,71.4,26145,Saginaw,"{""26145"": ""88.06"", ""26111"": ""7.48"", ""26017"": ""4.46""}",Saginaw|Midland|Bay,26145|26111|26017,FALSE,FALSE,America/Detroit
+48624,44.06207,-84.46659,Gladwin,MI,Michigan,TRUE,,15837,18,26051,Gladwin,"{""26051"": ""91.68"", ""26035"": ""6.07"", ""26143"": ""1.28"", ""26129"": ""0.97""}",Gladwin|Clare|Roscommon|Ogemaw,26051|26035|26143|26129,FALSE,FALSE,America/Detroit
+48625,44.05402,-84.83132,Harrison,MI,Michigan,TRUE,,13104,21,26035,Clare,"{""26035"": ""100""}",Clare,26035,FALSE,FALSE,America/Detroit
+48626,43.42214,-84.22535,Hemlock,MI,Michigan,TRUE,,5847,35.4,26145,Saginaw,"{""26145"": ""92.04"", ""26111"": ""7.96""}",Saginaw|Midland,26145|26111,FALSE,FALSE,America/Detroit
+48627,44.46165,-84.74959,Higgins Lake,MI,Michigan,TRUE,,131,233,26143,Roscommon,"{""26143"": ""100""}",Roscommon,26143,FALSE,FALSE,America/Detroit
+48628,43.7835,-84.32883,Hope,MI,Michigan,TRUE,,2281,26.6,26111,Midland,"{""26111"": ""86.27"", ""26051"": ""13.73""}",Midland|Gladwin,26111|26051,FALSE,FALSE,America/Detroit
+48629,44.31164,-84.77662,Houghton Lake,MI,Michigan,TRUE,,7551,36.3,26143,Roscommon,"{""26143"": ""100""}",Roscommon,26143,FALSE,FALSE,America/Detroit
+48630,44.32478,-84.77246,Houghton Lake Heights,MI,Michigan,TRUE,,42,169.9,26143,Roscommon,"{""26143"": ""100""}",Roscommon,26143,FALSE,FALSE,America/Detroit
+48631,43.68516,-84.001,Kawkawlin,MI,Michigan,TRUE,,4188,48.8,26017,Bay,"{""26017"": ""100""}",Bay,26017,FALSE,FALSE,America/Detroit
+48632,43.85751,-85.02182,Lake,MI,Michigan,TRUE,,5311,16.2,26035,Clare,"{""26035"": ""74.46"", ""26073"": ""23.73"", ""26133"": ""1.81""}",Clare|Isabella|Osceola,26035|26073|26133,FALSE,FALSE,America/Detroit
+48633,43.93715,-84.93121,Lake George,MI,Michigan,TRUE,,107,16,26035,Clare,"{""26035"": ""100""}",Clare,26035,FALSE,FALSE,America/Detroit
+48634,43.75358,-84.06081,Linwood,MI,Michigan,TRUE,,4298,35.7,26017,Bay,"{""26017"": ""100""}",Bay,26017,FALSE,FALSE,America/Detroit
+48635,44.39543,-84.00128,Lupton,MI,Michigan,TRUE,,1510,10.1,26129,Ogemaw,"{""26129"": ""100""}",Ogemaw,26129,FALSE,FALSE,America/Detroit
+48636,44.60008,-84.29318,Luzerne,MI,Michigan,TRUE,,782,3.4,26135,Oscoda,"{""26135"": ""100""}",Oscoda,26135,FALSE,FALSE,America/Detroit
+48637,43.41327,-84.33678,Merrill,MI,Michigan,TRUE,,3163,16.8,26145,Saginaw,"{""26145"": ""81.04"", ""26111"": ""11.73"", ""26057"": ""7.23""}",Saginaw|Midland|Gratiot,26145|26111|26057,FALSE,FALSE,America/Detroit
+48638,43.41704,-84.01958,Saginaw,MI,Michigan,TRUE,,11692,683.3,26145,Saginaw,"{""26145"": ""100""}",Saginaw,26145,FALSE,FALSE,America/Detroit
+48640,43.58564,-84.33573,Midland,MI,Michigan,TRUE,,32202,123.1,26111,Midland,"{""26111"": ""100""}",Midland,26111,FALSE,FALSE,America/Detroit
+48642,43.70615,-84.22942,Midland,MI,Michigan,TRUE,,33259,112.3,26111,Midland,"{""26111"": ""93.86"", ""26017"": ""6.14""}",Midland|Bay,26111|26017,FALSE,FALSE,America/Detroit
+48647,44.65892,-84.10486,Mio,MI,Michigan,TRUE,,4384,12,26135,Oscoda,"{""26135"": ""99.93"", ""26001"": ""0.07""}",Oscoda|Alcona,26135|26001,FALSE,FALSE,America/Detroit
+48649,43.15577,-84.21534,Oakley,MI,Michigan,TRUE,,1253,18.7,26145,Saginaw,"{""26145"": ""97.59"", ""26155"": ""2.41""}",Saginaw|Shiawassee,26145|26155,FALSE,FALSE,America/Detroit
+48650,43.8503,-84.01348,Pinconning,MI,Michigan,TRUE,,6995,27.5,26017,Bay,"{""26017"": ""93.2"", ""26011"": ""6.8""}",Bay|Arenac,26017|26011,FALSE,FALSE,America/Detroit
+48651,44.25569,-84.6156,Prudenville,MI,Michigan,TRUE,,4740,27.5,26143,Roscommon,"{""26143"": ""100""}",Roscommon,26143,FALSE,FALSE,America/Detroit
+48652,43.85571,-84.20511,Rhodes,MI,Michigan,TRUE,,1647,11.9,26051,Gladwin,"{""26051"": ""54.52"", ""26017"": ""30.62"", ""26111"": ""14.86""}",Gladwin|Bay|Midland,26051|26017|26111,FALSE,FALSE,America/Detroit
+48653,44.48783,-84.60048,Roscommon,MI,Michigan,TRUE,,10084,15.5,26143,Roscommon,"{""26143"": ""72.22"", ""26039"": ""27.78""}",Roscommon|Crawford,26143|26039,FALSE,FALSE,America/Detroit
+48654,44.45598,-84.13163,Rose City,MI,Michigan,TRUE,,2215,9,26129,Ogemaw,"{""26129"": ""89.96"", ""26135"": ""10.04""}",Ogemaw|Oscoda,26129|26135,FALSE,FALSE,America/Detroit
+48655,43.29223,-84.15912,Saint Charles,MI,Michigan,TRUE,,5688,23.2,26145,Saginaw,"{""26145"": ""100""}",Saginaw,26145,FALSE,FALSE,America/Detroit
+48656,44.34819,-84.44879,Saint Helen,MI,Michigan,TRUE,,3875,11.3,26143,Roscommon,"{""26143"": ""100""}",Roscommon,26143,FALSE,FALSE,America/Detroit
+48657,43.7109,-84.42066,Sanford,MI,Michigan,TRUE,,7871,49.2,26111,Midland,"{""26111"": ""100""}",Midland,26111,FALSE,FALSE,America/Detroit
+48658,43.98067,-83.93686,Standish,MI,Michigan,TRUE,,4915,23.3,26011,Arenac,"{""26011"": ""95.5"", ""26017"": ""4.5""}",Arenac|Bay,26011|26017,FALSE,FALSE,America/Detroit
+48659,44.06686,-84.05049,Sterling,MI,Michigan,TRUE,,2758,13.4,26011,Arenac,"{""26011"": ""98"", ""26017"": ""2""}",Arenac|Bay,26011|26017,FALSE,FALSE,America/Detroit
+48661,44.3289,-84.24079,West Branch,MI,Michigan,TRUE,,10469,15.2,26129,Ogemaw,"{""26129"": ""100""}",Ogemaw,26129,FALSE,FALSE,America/Detroit
+48662,43.41115,-84.41098,Wheeler,MI,Michigan,TRUE,,1659,13.8,26057,Gratiot,"{""26057"": ""80.3"", ""26111"": ""19.7""}",Gratiot|Midland,26057|26111,FALSE,FALSE,America/Detroit
+48667,43.60217,-84.23409,Midland,MI,Michigan,TRUE,,0,0,26111,Midland,"{""26111"": ""0""}",Midland,26111,FALSE,FALSE,America/Detroit
+48701,43.58606,-83.54525,Akron,MI,Michigan,TRUE,,1420,12.9,26157,Tuscola,"{""26157"": ""100""}",Tuscola,26157,FALSE,FALSE,America/Detroit
+48703,44.0631,-83.67161,Au Gres,MI,Michigan,TRUE,,2939,26,26011,Arenac,"{""26011"": ""100""}",Arenac,26011,FALSE,FALSE,America/Detroit
+48705,44.70086,-83.65359,Barton City,MI,Michigan,TRUE,,511,2.2,26001,Alcona,"{""26001"": ""100""}",Alcona,26001,FALSE,FALSE,America/Detroit
+48706,43.59715,-83.95464,Bay City,MI,Michigan,TRUE,,39499,227.7,26017,Bay,"{""26017"": ""100""}",Bay,26017,FALSE,FALSE,America/Detroit
+48708,43.5619,-83.84505,Bay City,MI,Michigan,TRUE,,25827,357.8,26017,Bay,"{""26017"": ""99.9"", ""26145"": ""0.1""}",Bay|Saginaw,26017|26145,FALSE,FALSE,America/Detroit
+48710,43.55649,-83.98781,University Center,MI,Michigan,TRUE,,0,0,26017,Bay,"{""26017"": ""0""}",Bay,26017,FALSE,FALSE,America/Detroit
+48720,43.83237,-83.35022,Bay Port,MI,Michigan,TRUE,,1036,12.5,26063,Huron,"{""26063"": ""100""}",Huron,26063,FALSE,FALSE,America/Detroit
+48721,44.80516,-83.34552,Black River,MI,Michigan,TRUE,,472,6.6,26001,Alcona,"{""26001"": ""100""}",Alcona,26001,FALSE,FALSE,America/Detroit
+48722,43.34833,-83.8418,Bridgeport,MI,Michigan,TRUE,,3068,68.9,26145,Saginaw,"{""26145"": ""100""}",Saginaw,26145,FALSE,FALSE,America/Detroit
+48723,43.4856,-83.387,Caro,MI,Michigan,TRUE,,12050,35.8,26157,Tuscola,"{""26157"": ""100""}",Tuscola,26157,FALSE,FALSE,America/Detroit
+48724,43.46004,-83.92283,Carrollton,MI,Michigan,TRUE,,544,608.6,26145,Saginaw,"{""26145"": ""100""}",Saginaw,26145,FALSE,FALSE,America/Detroit
+48725,43.93738,-83.2071,Caseville,MI,Michigan,TRUE,,2072,22.5,26063,Huron,"{""26063"": ""100""}",Huron,26063,FALSE,FALSE,America/Detroit
+48726,43.60769,-83.16911,Cass City,MI,Michigan,TRUE,,5831,17.8,26157,Tuscola,"{""26157"": ""83.04"", ""26151"": ""13.56"", ""26063"": ""3.4""}",Tuscola|Sanilac|Huron,26157|26151|26063,FALSE,FALSE,America/Detroit
+48727,43.30975,-83.17566,Clifford,MI,Michigan,TRUE,,1128,18.1,26087,Lapeer,"{""26087"": ""67.69"", ""26157"": ""32.31""}",Lapeer|Tuscola,26087|26157,FALSE,FALSE,America/Detroit
+48728,44.73606,-83.82747,Curran,MI,Michigan,TRUE,,252,0.8,26001,Alcona,"{""26001"": ""86.55"", ""26135"": ""13.45""}",Alcona|Oscoda,26001|26135,FALSE,FALSE,America/Detroit
+48729,43.49495,-83.17857,Deford,MI,Michigan,TRUE,,1479,13.1,26157,Tuscola,"{""26157"": ""100""}",Tuscola,26157,FALSE,FALSE,America/Detroit
+48730,44.34876,-83.47091,East Tawas,MI,Michigan,TRUE,,4558,24,26069,Iosco,"{""26069"": ""100""}",Iosco,26069,FALSE,FALSE,America/Detroit
+48731,43.84084,-83.1587,Elkton,MI,Michigan,TRUE,,1534,12.2,26063,Huron,"{""26063"": ""100""}",Huron,26063,FALSE,FALSE,America/Detroit
+48732,43.60666,-83.78266,Essexville,MI,Michigan,TRUE,,11173,175.5,26017,Bay,"{""26017"": ""100""}",Bay,26017,FALSE,FALSE,America/Detroit
+48733,43.53286,-83.5907,Fairgrove,MI,Michigan,TRUE,,1587,12.5,26157,Tuscola,"{""26157"": ""100""}",Tuscola,26157,FALSE,FALSE,America/Detroit
+48734,43.35437,-83.74436,Frankenmuth,MI,Michigan,TRUE,,7601,71.9,26145,Saginaw,"{""26145"": ""98.12"", ""26157"": ""1.88""}",Saginaw|Tuscola,26145|26157,FALSE,FALSE,America/Detroit
+48735,43.66824,-83.27345,Gagetown,MI,Michigan,TRUE,,1049,10.9,26157,Tuscola,"{""26157"": ""67.46"", ""26063"": ""32.54""}",Tuscola|Huron,26157|26063,FALSE,FALSE,America/Detroit
+48737,44.55041,-83.69879,Glennie,MI,Michigan,TRUE,,1226,4.6,26001,Alcona,"{""26001"": ""87.95"", ""26069"": ""12.05""}",Alcona|Iosco,26001|26069,FALSE,FALSE,America/Detroit
+48738,44.55187,-83.33286,Greenbush,MI,Michigan,TRUE,,1085,38.5,26001,Alcona,"{""26001"": ""91.1"", ""26069"": ""8.9""}",Alcona|Iosco,26001|26069,FALSE,FALSE,America/Detroit
+48739,44.37289,-83.84006,Hale,MI,Michigan,TRUE,,4007,16.6,26069,Iosco,"{""26069"": ""77.2"", ""26129"": ""22.8""}",Iosco|Ogemaw,26069|26129,FALSE,FALSE,America/Detroit
+48740,44.66021,-83.37952,Harrisville,MI,Michigan,TRUE,,2425,13.9,26001,Alcona,"{""26001"": ""100""}",Alcona,26001,FALSE,FALSE,America/Detroit
+48741,43.40514,-83.18348,Kingston,MI,Michigan,TRUE,,1924,16.2,26157,Tuscola,"{""26157"": ""100""}",Tuscola,26157,FALSE,FALSE,America/Detroit
+48742,44.72833,-83.4436,Lincoln,MI,Michigan,TRUE,,1618,8.4,26001,Alcona,"{""26001"": ""100""}",Alcona,26001,FALSE,FALSE,America/Detroit
+48743,44.43963,-83.86964,Long Lake,MI,Michigan,TRUE,,90,17,26069,Iosco,"{""26069"": ""100""}",Iosco,26069,FALSE,FALSE,America/Detroit
+48744,43.3477,-83.36059,Mayville,MI,Michigan,TRUE,,4128,24.6,26157,Tuscola,"{""26157"": ""91.55"", ""26087"": ""8.45""}",Tuscola|Lapeer,26157|26087,FALSE,FALSE,America/Detroit
+48745,44.56994,-83.47269,Mikado,MI,Michigan,TRUE,,1264,6.5,26001,Alcona,"{""26001"": ""98.81"", ""26069"": ""1.19""}",Alcona|Iosco,26001|26069,FALSE,FALSE,America/Detroit
+48746,43.265,-83.54281,Millington,MI,Michigan,TRUE,,7904,37.5,26157,Tuscola,"{""26157"": ""90.31"", ""26049"": ""9.69""}",Tuscola|Genesee,26157|26049,FALSE,FALSE,America/Detroit
+48747,43.52176,-83.76125,Munger,MI,Michigan,TRUE,,1288,16.2,26017,Bay,"{""26017"": ""98.59"", ""26145"": ""1.41""}",Bay|Saginaw,26017|26145,FALSE,FALSE,America/Detroit
+48748,44.30406,-83.66737,National City,MI,Michigan,TRUE,,1662,13.9,26069,Iosco,"{""26069"": ""100""}",Iosco,26069,FALSE,FALSE,America/Detroit
+48749,44.0546,-83.88724,Omer,MI,Michigan,TRUE,,1105,12.3,26011,Arenac,"{""26011"": ""100""}",Arenac,26011,FALSE,FALSE,America/Detroit
+48750,44.44325,-83.45426,Oscoda,MI,Michigan,TRUE,,8629,34.7,26069,Iosco,"{""26069"": ""99.36"", ""26001"": ""0.64""}",Iosco|Alcona,26069|26001,FALSE,FALSE,America/Detroit
+48754,43.73368,-83.23591,Owendale,MI,Michigan,TRUE,,965,10.2,26063,Huron,"{""26063"": ""100""}",Huron,26063,FALSE,FALSE,America/Detroit
+48755,43.83422,-83.27021,Pigeon,MI,Michigan,TRUE,,2993,22.8,26063,Huron,"{""26063"": ""100""}",Huron,26063,FALSE,FALSE,America/Detroit
+48756,44.22939,-83.97408,Prescott,MI,Michigan,TRUE,,4630,22.9,26129,Ogemaw,"{""26129"": ""100""}",Ogemaw,26129,FALSE,FALSE,America/Detroit
+48757,43.46941,-83.67944,Reese,MI,Michigan,TRUE,,3742,26.2,26157,Tuscola,"{""26157"": ""76.37"", ""26145"": ""21.69"", ""26017"": ""1.94""}",Tuscola|Saginaw|Bay,26157|26145|26017,FALSE,FALSE,America/Detroit
+48759,43.72871,-83.39381,Sebewaing,MI,Michigan,TRUE,,3211,24.9,26063,Huron,"{""26063"": ""99.09"", ""26157"": ""0.91""}",Huron|Tuscola,26063|26157,FALSE,FALSE,America/Detroit
+48760,43.32116,-83.25754,Silverwood,MI,Michigan,TRUE,,1419,20,26157,Tuscola,"{""26157"": ""54.7"", ""26087"": ""45.3""}",Tuscola|Lapeer,26157|26087,FALSE,FALSE,America/Detroit
+48761,44.51192,-83.8924,South Branch,MI,Michigan,TRUE,,841,3.7,26069,Iosco,"{""26069"": ""48.54"", ""26129"": ""27.19"", ""26001"": ""20.47"", ""26135"": ""3.8""}",Iosco|Ogemaw|Alcona|Oscoda,26069|26129|26001|26135,FALSE,FALSE,America/Detroit
+48762,44.81744,-83.4888,Spruce,MI,Michigan,TRUE,,1097,9.4,26001,Alcona,"{""26001"": ""83.23"", ""26007"": ""16.77""}",Alcona|Alpena,26001|26007,FALSE,FALSE,America/Detroit
+48763,44.25253,-83.61271,Tawas City,MI,Michigan,TRUE,,4951,20.5,26069,Iosco,"{""26069"": ""91.92"", ""26011"": ""8.08""}",Iosco|Arenac,26069|26011,FALSE,FALSE,America/Detroit
+48765,44.15241,-83.7179,Turner,MI,Michigan,TRUE,,711,5,26011,Arenac,"{""26011"": ""68.28"", ""26069"": ""31.72""}",Arenac|Iosco,26011|26069,FALSE,FALSE,America/Detroit
+48766,44.11105,-83.84696,Twining,MI,Michigan,TRUE,,1251,9.3,26011,Arenac,"{""26011"": ""100""}",Arenac,26011,FALSE,FALSE,America/Detroit
+48767,43.64224,-83.45716,Unionville,MI,Michigan,TRUE,,2060,10.7,26157,Tuscola,"{""26157"": ""98.84"", ""26063"": ""1.16""}",Tuscola|Huron,26157|26063,FALSE,FALSE,America/Detroit
+48768,43.37136,-83.57789,Vassar,MI,Michigan,TRUE,,9697,35.7,26157,Tuscola,"{""26157"": ""100""}",Tuscola,26157,FALSE,FALSE,America/Detroit
+48770,44.24876,-83.82086,Whittemore,MI,Michigan,TRUE,,1774,10.1,26069,Iosco,"{""26069"": ""100""}",Iosco,26069,FALSE,FALSE,America/Detroit
+48801,43.3777,-84.67974,Alma,MI,Michigan,TRUE,,12691,68.6,26057,Gratiot,"{""26057"": ""100""}",Gratiot,26057,FALSE,FALSE,America/Detroit
+48806,43.18499,-84.49754,Ashley,MI,Michigan,TRUE,,1523,9.1,26057,Gratiot,"{""26057"": ""100""}",Gratiot,26057,FALSE,FALSE,America/Detroit
+48807,43.15305,-84.40478,Bannister,MI,Michigan,TRUE,,853,11.8,26057,Gratiot,"{""26057"": ""70.09"", ""26145"": ""29.91""}",Gratiot|Saginaw,26057|26145,FALSE,FALSE,America/Detroit
+48808,42.82554,-84.44828,Bath,MI,Michigan,TRUE,,5943,93.1,26037,Clinton,"{""26037"": ""100""}",Clinton,26037,FALSE,FALSE,America/Detroit
+48809,43.06537,-85.25823,Belding,MI,Michigan,TRUE,,10728,50.5,26067,Ionia,"{""26067"": ""85.24"", ""26081"": ""14.7"", ""26117"": ""0.06""}",Ionia|Kent|Montcalm,26067|26081|26117,FALSE,FALSE,America/Detroit
+48811,43.1811,-84.855,Carson City,MI,Michigan,TRUE,,5390,33.1,26117,Montcalm,"{""26117"": ""93.39"", ""26057"": ""6.61""}",Montcalm|Gratiot,26117|26057,FALSE,FALSE,America/Detroit
+48813,42.58015,-84.8454,Charlotte,MI,Michigan,TRUE,,20967,47.7,26045,Eaton,"{""26045"": ""99.88"", ""26025"": ""0.12""}",Eaton|Calhoun,26045|26025,FALSE,FALSE,America/Detroit
+48815,42.84126,-85.25708,Clarksville,MI,Michigan,TRUE,,2424,34.1,26067,Ionia,"{""26067"": ""98.63"", ""26081"": ""1.37""}",Ionia|Kent,26067|26081,FALSE,FALSE,America/Detroit
+48816,42.76398,-83.95447,Cohoctah,MI,Michigan,TRUE,,36,30.1,26093,Livingston,"{""26093"": ""100""}",Livingston,26093,FALSE,FALSE,America/Detroit
+48817,43.01789,-84.03859,Corunna,MI,Michigan,TRUE,,6075,39.7,26155,Shiawassee,"{""26155"": ""100""}",Shiawassee,26155,FALSE,FALSE,America/Detroit
+48818,43.27546,-84.89218,Crystal,MI,Michigan,TRUE,,2392,36.6,26117,Montcalm,"{""26117"": ""100""}",Montcalm,26117,FALSE,FALSE,America/Detroit
+48819,42.54638,-84.28531,Dansville,MI,Michigan,TRUE,,2738,23.8,26065,Ingham,"{""26065"": ""100""}",Ingham,26065,FALSE,FALSE,America/Detroit
+48820,42.86302,-84.5929,Dewitt,MI,Michigan,TRUE,,18187,106.9,26037,Clinton,"{""26037"": ""100""}",Clinton,26037,FALSE,FALSE,America/Detroit
+48821,42.63938,-84.64707,Dimondale,MI,Michigan,TRUE,,5862,106.8,26045,Eaton,"{""26045"": ""94.71"", ""26065"": ""5.29""}",Eaton|Ingham,26045|26065,FALSE,FALSE,America/Detroit
+48822,42.83332,-84.76068,Eagle,MI,Michigan,TRUE,,2888,34.5,26037,Clinton,"{""26037"": ""100""}",Clinton,26037,FALSE,FALSE,America/Detroit
+48823,42.76191,-84.45389,East Lansing,MI,Michigan,TRUE,,51469,887,26065,Ingham,"{""26065"": ""85.5"", ""26037"": ""14.5""}",Ingham|Clinton,26065|26037,FALSE,FALSE,America/Detroit
+48825,42.72701,-84.48087,East Lansing,MI,Michigan,TRUE,,12829,3992.4,26065,Ingham,"{""26065"": ""100""}",Ingham,26065,FALSE,FALSE,America/Detroit
+48827,42.50912,-84.65979,Eaton Rapids,MI,Michigan,TRUE,,16116,55.7,26045,Eaton,"{""26045"": ""88.01"", ""26065"": ""11.7"", ""26075"": ""0.29""}",Eaton|Ingham|Jackson,26045|26065|26075,FALSE,FALSE,America/Detroit
+48829,43.40119,-85.0202,Edmore,MI,Michigan,TRUE,,3360,19.8,26117,Montcalm,"{""26117"": ""98.16"", ""26073"": ""1.84""}",Montcalm|Isabella,26117|26073,FALSE,FALSE,America/Detroit
+48831,43.10289,-84.37169,Elsie,MI,Michigan,TRUE,,3473,18.4,26037,Clinton,"{""26037"": ""61.85"", ""26155"": ""20.64"", ""26145"": ""16.63"", ""26057"": ""0.88""}",Clinton|Shiawassee|Saginaw|Gratiot,26037|26155|26145|26057,FALSE,FALSE,America/Detroit
+48832,43.41464,-84.78014,Elwell,MI,Michigan,TRUE,,1465,21.8,26057,Gratiot,"{""26057"": ""100""}",Gratiot,26057,FALSE,FALSE,America/Detroit
+48834,43.13224,-85.02952,Fenwick,MI,Michigan,TRUE,,2275,19,26117,Montcalm,"{""26117"": ""68.42"", ""26067"": ""31.58""}",Montcalm|Ionia,26117|26067,FALSE,FALSE,America/Detroit
+48835,43.02831,-84.74686,Fowler,MI,Michigan,TRUE,,3109,21.4,26037,Clinton,"{""26037"": ""99.07"", ""26057"": ""0.93""}",Clinton|Gratiot,26037|26057,FALSE,FALSE,America/Detroit
+48836,42.67078,-84.07467,Fowlerville,MI,Michigan,TRUE,,13967,58,26093,Livingston,"{""26093"": ""100""}",Livingston,26093,FALSE,FALSE,America/Detroit
+48837,42.74646,-84.7684,Grand Ledge,MI,Michigan,TRUE,,19603,95.2,26045,Eaton,"{""26045"": ""88.09"", ""26037"": ""10.84"", ""26067"": ""1.07""}",Eaton|Clinton|Ionia,26045|26037|26067,FALSE,FALSE,America/Detroit
+48838,43.18392,-85.25749,Greenville,MI,Michigan,TRUE,,18376,76.8,26117,Montcalm,"{""26117"": ""85.66"", ""26081"": ""14.17"", ""26067"": ""0.16""}",Montcalm|Kent|Ionia,26117|26081|26067,FALSE,FALSE,America/Detroit
+48840,42.76902,-84.37066,Haslett,MI,Michigan,TRUE,,12685,253.1,26065,Ingham,"{""26065"": ""85.69"", ""26037"": ""8.86"", ""26155"": ""5.45""}",Ingham|Clinton|Shiawassee,26065|26037|26155,FALSE,FALSE,America/Detroit
+48841,43.11434,-84.237,Henderson,MI,Michigan,TRUE,,723,11.8,26155,Shiawassee,"{""26155"": ""75.79"", ""26145"": ""24.21""}",Shiawassee|Saginaw,26155|26145,FALSE,FALSE,America/Detroit
+48842,42.63384,-84.53868,Holt,MI,Michigan,TRUE,,21974,471.9,26065,Ingham,"{""26065"": ""100""}",Ingham,26065,FALSE,FALSE,America/Detroit
+48843,42.56904,-83.92628,Howell,MI,Michigan,TRUE,,45544,195.3,26093,Livingston,"{""26093"": ""100""}",Livingston,26093,FALSE,FALSE,America/Detroit
+48845,43.10442,-84.8479,Hubbardston,MI,Michigan,TRUE,,900,14.2,26067,Ionia,"{""26067"": ""73.48"", ""26037"": ""15.75"", ""26117"": ""8.08"", ""26057"": ""2.69""}",Ionia|Clinton|Montcalm|Gratiot,26067|26037|26117|26057,FALSE,FALSE,America/Detroit
+48846,42.98705,-85.05756,Ionia,MI,Michigan,TRUE,,20472,72.9,26067,Ionia,"{""26067"": ""100""}",Ionia,26067,FALSE,FALSE,America/Detroit
+48847,43.27111,-84.57475,Ithaca,MI,Michigan,TRUE,,5811,18.3,26057,Gratiot,"{""26057"": ""100""}",Gratiot,26057,FALSE,FALSE,America/Detroit
+48848,42.88721,-84.35562,Laingsburg,MI,Michigan,TRUE,,7444,43.5,26155,Shiawassee,"{""26155"": ""63.74"", ""26037"": ""36.26""}",Shiawassee|Clinton,26155|26037,FALSE,FALSE,America/Detroit
+48849,42.80093,-85.13199,Lake Odessa,MI,Michigan,TRUE,,6000,27.9,26067,Ionia,"{""26067"": ""82.16"", ""26015"": ""15.46"", ""26045"": ""2.38""}",Ionia|Barry|Eaton,26067|26015|26045,FALSE,FALSE,America/Detroit
+48850,43.43784,-85.25416,Lakeview,MI,Michigan,TRUE,,4647,22.2,26117,Montcalm,"{""26117"": ""81.96"", ""26107"": ""18.04""}",Montcalm|Mecosta,26117|26107,FALSE,FALSE,America/Detroit
+48851,42.95567,-84.93978,Lyons,MI,Michigan,TRUE,,2161,26.8,26067,Ionia,"{""26067"": ""100""}",Ionia,26067,FALSE,FALSE,America/Detroit
+48852,43.35167,-85.04608,Mcbrides,MI,Michigan,TRUE,,189,174.6,26117,Montcalm,"{""26117"": ""100""}",Montcalm,26117,FALSE,FALSE,America/Detroit
+48853,43.10129,-84.69016,Maple Rapids,MI,Michigan,TRUE,,542,223.8,26037,Clinton,"{""26037"": ""100""}",Clinton,26037,FALSE,FALSE,America/Detroit
+48854,42.58201,-84.45163,Mason,MI,Michigan,TRUE,,19737,68.4,26065,Ingham,"{""26065"": ""100""}",Ingham,26065,FALSE,FALSE,America/Detroit
+48855,42.68702,-83.91404,Howell,MI,Michigan,TRUE,,15704,66.7,26093,Livingston,"{""26093"": ""100""}",Livingston,26093,FALSE,FALSE,America/Detroit
+48856,43.2,-84.73662,Middleton,MI,Michigan,TRUE,,817,11.5,26057,Gratiot,"{""26057"": ""100""}",Gratiot,26057,FALSE,FALSE,America/Detroit
+48857,42.84251,-84.1553,Morrice,MI,Michigan,TRUE,,3202,53.9,26155,Shiawassee,"{""26155"": ""100""}",Shiawassee,26155,FALSE,FALSE,America/Detroit
+48858,43.61519,-84.79615,Mount Pleasant,MI,Michigan,TRUE,,50521,112.8,26073,Isabella,"{""26073"": ""99.67"", ""26111"": ""0.33""}",Isabella|Midland,26073|26111,FALSE,FALSE,America/Detroit
+48860,43.05232,-84.91093,Muir,MI,Michigan,TRUE,,1771,23.1,26067,Ionia,"{""26067"": ""100""}",Ionia,26067,FALSE,FALSE,America/Detroit
+48861,42.7306,-84.92028,Mulliken,MI,Michigan,TRUE,,1379,22.7,26045,Eaton,"{""26045"": ""90.74"", ""26067"": ""9.26""}",Eaton|Ionia,26045|26067,FALSE,FALSE,America/Detroit
+48864,42.70133,-84.40675,Okemos,MI,Michigan,TRUE,,23451,419.9,26065,Ingham,"{""26065"": ""100""}",Ingham,26065,FALSE,FALSE,America/Detroit
+48865,43.087,-85.10561,Orleans,MI,Michigan,TRUE,,2158,37.3,26067,Ionia,"{""26067"": ""100""}",Ionia,26067,FALSE,FALSE,America/Detroit
+48866,42.99488,-84.37438,Ovid,MI,Michigan,TRUE,,4942,39.2,26037,Clinton,"{""26037"": ""72.25"", ""26155"": ""27.75""}",Clinton|Shiawassee,26037|26155,FALSE,FALSE,America/Detroit
+48867,43.00318,-84.1886,Owosso,MI,Michigan,TRUE,,27186,76.2,26155,Shiawassee,"{""26155"": ""100""}",Shiawassee,26155,FALSE,FALSE,America/Detroit
+48870,43.11037,-84.98474,Palo,MI,Michigan,TRUE,,191,1246.7,26067,Ionia,"{""26067"": ""100""}",Ionia,26067,FALSE,FALSE,America/Detroit
+48871,43.15437,-84.67549,Perrinton,MI,Michigan,TRUE,,2093,26.7,26057,Gratiot,"{""26057"": ""100""}",Gratiot,26057,FALSE,FALSE,America/Detroit
+48872,42.80075,-84.21794,Perry,MI,Michigan,TRUE,,6767,46.4,26155,Shiawassee,"{""26155"": ""91.45"", ""26065"": ""5.6"", ""26093"": ""2.95""}",Shiawassee|Ingham|Livingston,26155|26065|26093,FALSE,FALSE,America/Detroit
+48873,42.99628,-84.84343,Pewamo,MI,Michigan,TRUE,,1483,17.1,26067,Ionia,"{""26067"": ""83.28"", ""26037"": ""16.72""}",Ionia|Clinton,26067|26037,FALSE,FALSE,America/Detroit
+48874,43.18645,-84.59493,Pompeii,MI,Michigan,TRUE,,188,126,26057,Gratiot,"{""26057"": ""100""}",Gratiot,26057,FALSE,FALSE,America/Detroit
+48875,42.85933,-84.92965,Portland,MI,Michigan,TRUE,,10432,46.7,26067,Ionia,"{""26067"": ""95.59"", ""26037"": ""4.41""}",Ionia|Clinton,26067|26037,FALSE,FALSE,America/Detroit
+48876,42.64556,-84.7357,Potterville,MI,Michigan,TRUE,,4172,116.4,26045,Eaton,"{""26045"": ""100""}",Eaton,26045,FALSE,FALSE,America/Detroit
+48877,43.40172,-84.84284,Riverdale,MI,Michigan,TRUE,,2459,28.2,26057,Gratiot,"{""26057"": ""62.08"", ""26117"": ""33.11"", ""26073"": ""4.81""}",Gratiot|Montcalm|Isabella,26057|26117|26073,FALSE,FALSE,America/Detroit
+48878,43.71229,-84.77694,Rosebush,MI,Michigan,TRUE,,1386,16.7,26073,Isabella,"{""26073"": ""100""}",Isabella,26073,FALSE,FALSE,America/Detroit
+48879,43.0043,-84.57907,Saint Johns,MI,Michigan,TRUE,,17980,36.7,26037,Clinton,"{""26037"": ""99.16"", ""26057"": ""0.84""}",Clinton|Gratiot,26037|26057,FALSE,FALSE,America/Detroit
+48880,43.4576,-84.56832,Saint Louis,MI,Michigan,TRUE,,10034,51.6,26057,Gratiot,"{""26057"": ""89.46"", ""26111"": ""9.01"", ""26073"": ""1.54""}",Gratiot|Midland|Isabella,26057|26111|26073,FALSE,FALSE,America/Detroit
+48881,42.93281,-85.20153,Saranac,MI,Michigan,TRUE,,5560,38.5,26067,Ionia,"{""26067"": ""100""}",Ionia,26067,FALSE,FALSE,America/Detroit
+48883,43.54186,-84.66863,Shepherd,MI,Michigan,TRUE,,6822,22.4,26073,Isabella,"{""26073"": ""74.11"", ""26111"": ""25.89""}",Isabella|Midland,26073|26111,FALSE,FALSE,America/Detroit
+48884,43.2083,-85.04322,Sheridan,MI,Michigan,TRUE,,4440,28.2,26117,Montcalm,"{""26117"": ""100""}",Montcalm,26117,FALSE,FALSE,America/Detroit
+48885,43.24983,-85.14445,Sidney,MI,Michigan,TRUE,,972,22.1,26117,Montcalm,"{""26117"": ""100""}",Montcalm,26117,FALSE,FALSE,America/Detroit
+48886,43.41909,-85.16183,Six Lakes,MI,Michigan,TRUE,,1956,25.3,26117,Montcalm,"{""26117"": ""97.59"", ""26107"": ""2.41""}",Montcalm|Mecosta,26117|26107,FALSE,FALSE,America/Detroit
+48888,43.31038,-85.09559,Stanton,MI,Michigan,TRUE,,6079,26.5,26117,Montcalm,"{""26117"": ""100""}",Montcalm,26117,FALSE,FALSE,America/Detroit
+48889,43.29162,-84.7976,Sumner,MI,Michigan,TRUE,,1300,17,26057,Gratiot,"{""26057"": ""100""}",Gratiot,26057,FALSE,FALSE,America/Detroit
+48890,42.76963,-84.96872,Sunfield,MI,Michigan,TRUE,,2059,25.6,26045,Eaton,"{""26045"": ""59.99"", ""26067"": ""40.01""}",Eaton|Ionia,26045|26067,FALSE,FALSE,America/Detroit
+48891,43.39589,-84.91364,Vestaburg,MI,Michigan,TRUE,,2807,25.3,26117,Montcalm,"{""26117"": ""100""}",Montcalm,26117,FALSE,FALSE,America/Detroit
+48892,42.63649,-84.1745,Webberville,MI,Michigan,TRUE,,4753,33.8,26065,Ingham,"{""26065"": ""81.24"", ""26093"": ""18.76""}",Ingham|Livingston,26065|26093,FALSE,FALSE,America/Detroit
+48893,43.683,-84.97788,Weidman,MI,Michigan,TRUE,,5244,39.5,26073,Isabella,"{""26073"": ""100""}",Isabella,26073,FALSE,FALSE,America/Detroit
+48894,42.92452,-84.78564,Westphalia,MI,Michigan,TRUE,,1938,26,26037,Clinton,"{""26037"": ""100""}",Clinton,26037,FALSE,FALSE,America/Detroit
+48895,42.68872,-84.2796,Williamston,MI,Michigan,TRUE,,11437,53.2,26065,Ingham,"{""26065"": ""100""}",Ingham,26065,FALSE,FALSE,America/Detroit
+48896,43.52128,-84.90102,Winn,MI,Michigan,TRUE,,306,433.6,26073,Isabella,"{""26073"": ""100""}",Isabella,26073,FALSE,FALSE,America/Detroit
+48897,42.7068,-85.13214,Woodland,MI,Michigan,TRUE,,1846,22,26015,Barry,"{""26015"": ""98.1"", ""26045"": ""1.9""}",Barry|Eaton,26015|26045,FALSE,FALSE,America/Detroit
+48906,42.78453,-84.58759,Lansing,MI,Michigan,TRUE,,26391,307.2,26065,Ingham,"{""26065"": ""68.33"", ""26037"": ""28.4"", ""26045"": ""3.27""}",Ingham|Clinton|Eaton,26065|26037|26045,FALSE,FALSE,America/Detroit
+48910,42.69853,-84.52299,Lansing,MI,Michigan,TRUE,,35183,893.4,26065,Ingham,"{""26065"": ""100""}",Ingham,26065,FALSE,FALSE,America/Detroit
+48911,42.67443,-84.57087,Lansing,MI,Michigan,TRUE,,40852,991.9,26065,Ingham,"{""26065"": ""87.31"", ""26045"": ""12.69""}",Ingham|Eaton,26065|26045,FALSE,FALSE,America/Detroit
+48912,42.7402,-84.52354,Lansing,MI,Michigan,TRUE,,17452,1403.1,26065,Ingham,"{""26065"": ""100""}",Ingham,26065,FALSE,FALSE,America/Detroit
+48915,42.7382,-84.57099,Lansing,MI,Michigan,TRUE,,10740,2285.7,26065,Ingham,"{""26065"": ""100""}",Ingham,26065,FALSE,FALSE,America/Detroit
+48917,42.72379,-84.63995,Lansing,MI,Michigan,TRUE,,32044,508.8,26045,Eaton,"{""26045"": ""83.2"", ""26065"": ""16.8""}",Eaton|Ingham,26045|26065,FALSE,FALSE,America/Detroit
+48933,42.7325,-84.55428,Lansing,MI,Michigan,TRUE,,2637,1348.7,26065,Ingham,"{""26065"": ""100""}",Ingham,26065,FALSE,FALSE,America/Detroit
+49001,42.26472,-85.56245,Kalamazoo,MI,Michigan,TRUE,,21643,1085.8,26077,Kalamazoo,"{""26077"": ""100""}",Kalamazoo,26077,FALSE,FALSE,America/Detroit
+49002,42.19737,-85.56095,Portage,MI,Michigan,TRUE,,20739,453.4,26077,Kalamazoo,"{""26077"": ""100""}",Kalamazoo,26077,FALSE,FALSE,America/Detroit
+49004,42.35183,-85.56203,Kalamazoo,MI,Michigan,TRUE,,16434,301,26077,Kalamazoo,"{""26077"": ""100""}",Kalamazoo,26077,FALSE,FALSE,America/Detroit
+49006,42.29536,-85.63017,Kalamazoo,MI,Michigan,TRUE,,28711,1699.6,26077,Kalamazoo,"{""26077"": ""100""}",Kalamazoo,26077,FALSE,FALSE,America/Detroit
+49007,42.30237,-85.58823,Kalamazoo,MI,Michigan,TRUE,,10097,1081.2,26077,Kalamazoo,"{""26077"": ""100""}",Kalamazoo,26077,FALSE,FALSE,America/Detroit
+49008,42.26284,-85.61512,Kalamazoo,MI,Michigan,TRUE,,17012,1004.5,26077,Kalamazoo,"{""26077"": ""100""}",Kalamazoo,26077,FALSE,FALSE,America/Detroit
+49009,42.30764,-85.69405,Kalamazoo,MI,Michigan,TRUE,,45267,170.3,26077,Kalamazoo,"{""26077"": ""99.17"", ""26159"": ""0.83""}",Kalamazoo|Van Buren,26077|26159,FALSE,FALSE,America/Detroit
+49010,42.53463,-85.87431,Allegan,MI,Michigan,TRUE,,18001,43.8,26005,Allegan,"{""26005"": ""99.48"", ""26159"": ""0.52""}",Allegan|Van Buren,26005|26159,FALSE,FALSE,America/Detroit
+49011,42.10523,-85.22291,Athens,MI,Michigan,TRUE,,2272,27.1,26025,Calhoun,"{""26025"": ""96.28"", ""26023"": ""1.97"", ""26149"": ""1.75""}",Calhoun|Branch|St. Joseph,26025|26023|26149,FALSE,FALSE,America/Detroit
+49012,42.36122,-85.34642,Augusta,MI,Michigan,TRUE,,3356,41.8,26077,Kalamazoo,"{""26077"": ""97.12"", ""26025"": ""2.88""}",Kalamazoo|Calhoun,26077|26025,FALSE,FALSE,America/Detroit
+49013,42.30567,-86.10846,Bangor,MI,Michigan,TRUE,,5301,34.7,26159,Van Buren,"{""26159"": ""100""}",Van Buren,26159,FALSE,FALSE,America/Detroit
+49014,42.31108,-85.10611,Battle Creek,MI,Michigan,TRUE,,21481,109.7,26025,Calhoun,"{""26025"": ""100""}",Calhoun,26025,FALSE,FALSE,America/Detroit
+49015,42.27125,-85.2261,Battle Creek,MI,Michigan,TRUE,,27465,450.5,26025,Calhoun,"{""26025"": ""100""}",Calhoun,26025,FALSE,FALSE,America/Detroit
+49017,42.39988,-85.21207,Battle Creek,MI,Michigan,TRUE,,21238,147.8,26025,Calhoun,"{""26025"": ""92.66"", ""26015"": ""7.34""}",Calhoun|Barry,26025|26015,FALSE,FALSE,America/Detroit
+49021,42.45915,-85.06393,Bellevue,MI,Michigan,TRUE,,6382,26.8,26045,Eaton,"{""26045"": ""54.51"", ""26015"": ""34.07"", ""26025"": ""11.42""}",Eaton|Barry|Calhoun,26045|26015|26025,FALSE,FALSE,America/Detroit
+49022,42.11367,-86.36565,Benton Harbor,MI,Michigan,TRUE,,31185,175,26021,Berrien,"{""26021"": ""99.22"", ""26159"": ""0.78""}",Berrien|Van Buren,26021|26159,FALSE,FALSE,America/Detroit
+49024,42.20269,-85.61906,Portage,MI,Michigan,TRUE,,29299,659.4,26077,Kalamazoo,"{""26077"": ""100""}",Kalamazoo,26077,FALSE,FALSE,America/Detroit
+49026,42.3772,-85.96541,Bloomingdale,MI,Michigan,TRUE,,2364,30.9,26159,Van Buren,"{""26159"": ""92.27"", ""26005"": ""7.73""}",Van Buren|Allegan,26159|26005,FALSE,FALSE,America/Detroit
+49027,42.34805,-86.06872,Breedsville,MI,Michigan,TRUE,,215,194.5,26159,Van Buren,"{""26159"": ""100""}",Van Buren,26159,FALSE,FALSE,America/Detroit
+49028,41.84824,-85.18658,Bronson,MI,Michigan,TRUE,,6174,20.1,26023,Branch,"{""26023"": ""100""}",Branch,26023,FALSE,FALSE,America/Detroit
+49029,42.14344,-85.09245,Burlington,MI,Michigan,TRUE,,1595,18.3,26025,Calhoun,"{""26025"": ""100""}",Calhoun,26025,FALSE,FALSE,America/Detroit
+49030,41.85654,-85.33179,Burr Oak,MI,Michigan,TRUE,,2420,19.7,26149,St. Joseph,"{""26149"": ""95.8"", ""26023"": ""4.2""}",St. Joseph|Branch,26149|26023,FALSE,FALSE,America/Detroit
+49031,41.89839,-85.9873,Cassopolis,MI,Michigan,TRUE,,7646,25.8,26027,Cass,"{""26027"": ""100""}",Cass,26027,FALSE,FALSE,America/Detroit
+49032,41.91821,-85.5095,Centreville,MI,Michigan,TRUE,,3284,34.5,26149,St. Joseph,"{""26149"": ""100""}",St. Joseph,26149,FALSE,FALSE,America/Detroit
+49033,42.2262,-85.09109,Ceresco,MI,Michigan,TRUE,,1698,20.3,26025,Calhoun,"{""26025"": ""100""}",Calhoun,26025,FALSE,FALSE,America/Detroit
+49034,42.23117,-85.33688,Climax,MI,Michigan,TRUE,,2564,26.2,26077,Kalamazoo,"{""26077"": ""91.92"", ""26025"": ""8.08""}",Kalamazoo|Calhoun,26077|26025,FALSE,FALSE,America/Detroit
+49036,41.90283,-85.02321,Coldwater,MI,Michigan,TRUE,,23685,58.1,26023,Branch,"{""26023"": ""100""}",Branch,26023,FALSE,FALSE,America/Detroit
+49037,42.33243,-85.24827,Battle Creek,MI,Michigan,TRUE,,20647,321.5,26025,Calhoun,"{""26025"": ""100""}",Calhoun,26025,FALSE,FALSE,America/Detroit
+49038,42.20296,-86.3258,Coloma,MI,Michigan,TRUE,,9267,94.9,26021,Berrien,"{""26021"": ""95.7"", ""26159"": ""4.3""}",Berrien|Van Buren,26021|26159,FALSE,FALSE,America/Detroit
+49040,41.96419,-85.32892,Colon,MI,Michigan,TRUE,,3252,31.3,26149,St. Joseph,"{""26149"": ""92.41"", ""26023"": ""7.59""}",St. Joseph|Branch,26149|26023,FALSE,FALSE,America/Detroit
+49042,41.85734,-85.66665,Constantine,MI,Michigan,TRUE,,4723,33.5,26149,St. Joseph,"{""26149"": ""99.65"", ""26027"": ""0.35""}",St. Joseph|Cass,26149|26027,FALSE,FALSE,America/Detroit
+49043,42.28577,-86.26737,Covert,MI,Michigan,TRUE,,2106,25.1,26159,Van Buren,"{""26159"": ""100""}",Van Buren,26159,FALSE,FALSE,America/Detroit
+49045,42.10531,-86.00067,Decatur,MI,Michigan,TRUE,,5322,23.7,26159,Van Buren,"{""26159"": ""91.98"", ""26027"": ""8.02""}",Van Buren|Cass,26159|26027,FALSE,FALSE,America/Detroit
+49046,42.51237,-85.40322,Delton,MI,Michigan,TRUE,,7883,38.5,26015,Barry,"{""26015"": ""100""}",Barry,26015,FALSE,FALSE,America/Detroit
+49047,42.00405,-86.12197,Dowagiac,MI,Michigan,TRUE,,14810,47.8,26027,Cass,"{""26027"": ""93.25"", ""26159"": ""6.11"", ""26021"": ""0.64""}",Cass|Van Buren|Berrien,26027|26159|26021,FALSE,FALSE,America/Detroit
+49048,42.27284,-85.49849,Kalamazoo,MI,Michigan,TRUE,,25416,258.9,26077,Kalamazoo,"{""26077"": ""100""}",Kalamazoo,26077,FALSE,FALSE,America/Detroit
+49050,42.5059,-85.23697,Dowling,MI,Michigan,TRUE,,1567,24.3,26015,Barry,"{""26015"": ""100""}",Barry,26015,FALSE,FALSE,America/Detroit
+49051,42.1835,-85.24042,East Leroy,MI,Michigan,TRUE,,2796,36.7,26025,Calhoun,"{""26025"": ""100""}",Calhoun,26025,FALSE,FALSE,America/Detroit
+49052,42.11428,-85.32073,Fulton,MI,Michigan,TRUE,,864,10.8,26077,Kalamazoo,"{""26077"": ""74.87"", ""26025"": ""25.13""}",Kalamazoo|Calhoun,26077|26025,FALSE,FALSE,America/Detroit
+49053,42.28896,-85.4163,Galesburg,MI,Michigan,TRUE,,7640,122.5,26077,Kalamazoo,"{""26077"": ""100""}",Kalamazoo,26077,FALSE,FALSE,America/Detroit
+49055,42.37012,-85.85335,Gobles,MI,Michigan,TRUE,,6342,41.6,26159,Van Buren,"{""26159"": ""91.83"", ""26005"": ""8.17""}",Van Buren|Allegan,26159|26005,FALSE,FALSE,America/Detroit
+49056,42.4022,-86.06054,Grand Junction,MI,Michigan,TRUE,,3391,23.1,26159,Van Buren,"{""26159"": ""63.05"", ""26005"": ""36.95""}",Van Buren|Allegan,26159|26005,FALSE,FALSE,America/Detroit
+49057,42.18365,-86.16402,Hartford,MI,Michigan,TRUE,,6459,48.4,26159,Van Buren,"{""26159"": ""100""}",Van Buren,26159,FALSE,FALSE,America/Detroit
+49058,42.6319,-85.29211,Hastings,MI,Michigan,TRUE,,19122,50.1,26015,Barry,"{""26015"": ""100""}",Barry,26015,FALSE,FALSE,America/Detroit
+49060,42.42654,-85.39533,Hickory Corners,MI,Michigan,TRUE,,1902,38.8,26015,Barry,"{""26015"": ""67.55"", ""26077"": ""32.45""}",Barry|Kalamazoo,26015|26077,FALSE,FALSE,America/Detroit
+49061,41.87903,-85.82276,Jones,MI,Michigan,TRUE,,1605,16.5,26027,Cass,"{""26027"": ""100""}",Cass,26027,FALSE,FALSE,America/Detroit
+49064,42.22108,-86.04888,Lawrence,MI,Michigan,TRUE,,3818,32.4,26159,Van Buren,"{""26159"": ""100""}",Van Buren,26159,FALSE,FALSE,America/Detroit
+49065,42.13619,-85.84016,Lawton,MI,Michigan,TRUE,,6290,55.9,26159,Van Buren,"{""26159"": ""100""}",Van Buren,26159,FALSE,FALSE,America/Detroit
+49066,42.03445,-85.34999,Leonidas,MI,Michigan,TRUE,,546,10.4,26149,St. Joseph,"{""26149"": ""100""}",St. Joseph,26149,FALSE,FALSE,America/Detroit
+49067,42.02408,-85.80197,Marcellus,MI,Michigan,TRUE,,4434,20.6,26027,Cass,"{""26027"": ""72.31"", ""26149"": ""19.7"", ""26159"": ""7.98""}",Cass|St. Joseph|Van Buren,26027|26149|26159,FALSE,FALSE,America/Detroit
+49068,42.27682,-84.94084,Marshall,MI,Michigan,TRUE,,14862,44.3,26025,Calhoun,"{""26025"": ""100""}",Calhoun,26025,FALSE,FALSE,America/Detroit
+49070,42.54045,-85.63117,Martin,MI,Michigan,TRUE,,2458,35.9,26005,Allegan,"{""26005"": ""100""}",Allegan,26005,FALSE,FALSE,America/Detroit
+49071,42.22744,-85.78169,Mattawan,MI,Michigan,TRUE,,10286,139.4,26159,Van Buren,"{""26159"": ""82.48"", ""26077"": ""17.52""}",Van Buren|Kalamazoo,26159|26077,FALSE,FALSE,America/Detroit
+49072,42.01201,-85.46057,Mendon,MI,Michigan,TRUE,,2945,20.3,26149,St. Joseph,"{""26149"": ""100""}",St. Joseph,26149,FALSE,FALSE,America/Detroit
+49073,42.57738,-85.11775,Nashville,MI,Michigan,TRUE,,4777,26.5,26015,Barry,"{""26015"": ""91.82"", ""26045"": ""8.18""}",Barry|Eaton,26015|26045,FALSE,FALSE,America/Detroit
+49074,42.31736,-85.5387,Nazareth,MI,Michigan,TRUE,,160,870.4,26077,Kalamazoo,"{""26077"": ""100""}",Kalamazoo,26077,FALSE,FALSE,America/Detroit
+49075,41.91758,-85.44912,Nottawa,MI,Michigan,TRUE,,136,980.9,26149,St. Joseph,"{""26149"": ""100""}",St. Joseph,26149,FALSE,FALSE,America/Detroit
+49076,42.43181,-84.8876,Olivet,MI,Michigan,TRUE,,4694,32.5,26045,Eaton,"{""26045"": ""76.81"", ""26025"": ""23.19""}",Eaton|Calhoun,26045|26025,FALSE,FALSE,America/Detroit
+49078,42.46507,-85.72807,Otsego,MI,Michigan,TRUE,,9452,76,26005,Allegan,"{""26005"": ""93.82"", ""26077"": ""5.17"", ""26159"": ""1.01""}",Allegan|Kalamazoo|Van Buren,26005|26077|26159,FALSE,FALSE,America/Detroit
+49079,42.24056,-85.90806,Paw Paw,MI,Michigan,TRUE,,13185,61.2,26159,Van Buren,"{""26159"": ""100""}",Van Buren,26159,FALSE,FALSE,America/Detroit
+49080,42.461,-85.57506,Plainwell,MI,Michigan,TRUE,,16160,80,26005,Allegan,"{""26005"": ""71.38"", ""26015"": ""18.59"", ""26077"": ""10.03""}",Allegan|Barry|Kalamazoo,26005|26015|26077,FALSE,FALSE,America/Detroit
+49082,41.94441,-84.87575,Quincy,MI,Michigan,TRUE,,5965,26.8,26023,Branch,"{""26023"": ""96.17"", ""26059"": ""3.83""}",Branch|Hillsdale,26023|26059,FALSE,FALSE,America/Detroit
+49083,42.3775,-85.46056,Richland,MI,Michigan,TRUE,,7896,90.2,26077,Kalamazoo,"{""26077"": ""99.66"", ""26015"": ""0.34""}",Kalamazoo|Barry,26077|26015,FALSE,FALSE,America/Detroit
+49084,42.18255,-86.38207,Riverside,MI,Michigan,TRUE,,39,798,26021,Berrien,"{""26021"": ""100""}",Berrien,26021,FALSE,FALSE,America/Detroit
+49085,42.05013,-86.46028,Saint Joseph,MI,Michigan,TRUE,,23959,393,26021,Berrien,"{""26021"": ""100""}",Berrien,26021,FALSE,FALSE,America/Detroit
+49087,42.12188,-85.68818,Schoolcraft,MI,Michigan,TRUE,,6397,40.4,26077,Kalamazoo,"{""26077"": ""98.58"", ""26159"": ""1.42""}",Kalamazoo|Van Buren,26077|26159,FALSE,FALSE,America/Detroit
+49088,42.18514,-85.4289,Scotts,MI,Michigan,TRUE,,3802,45.7,26077,Kalamazoo,"{""26077"": ""100""}",Kalamazoo,26077,FALSE,FALSE,America/Detroit
+49089,42.00466,-85.23596,Sherwood,MI,Michigan,TRUE,,1851,18.5,26023,Branch,"{""26023"": ""100""}",Branch,26023,FALSE,FALSE,America/Detroit
+49090,42.40865,-86.21614,South Haven,MI,Michigan,TRUE,,14439,70.7,26159,Van Buren,"{""26159"": ""82.08"", ""26005"": ""17.92""}",Van Buren|Allegan,26159|26005,FALSE,FALSE,America/Detroit
+49091,41.82443,-85.44609,Sturgis,MI,Michigan,TRUE,,19644,87.1,26149,St. Joseph,"{""26149"": ""100""}",St. Joseph,26149,FALSE,FALSE,America/Detroit
+49092,42.10005,-84.97579,Tekonsha,MI,Michigan,TRUE,,1920,13.3,26025,Calhoun,"{""26025"": ""80.89"", ""26023"": ""19.11""}",Calhoun|Branch,26025|26023,FALSE,FALSE,America/Detroit
+49093,41.97256,-85.64978,Three Rivers,MI,Michigan,TRUE,,18346,67,26149,St. Joseph,"{""26149"": ""97.5"", ""26027"": ""2.5""}",St. Joseph|Cass,26149|26027,FALSE,FALSE,America/Detroit
+49094,42.04734,-85.11419,Union City,MI,Michigan,TRUE,,4028,27.2,26023,Branch,"{""26023"": ""82.04"", ""26025"": ""17.96""}",Branch|Calhoun,26023|26025,FALSE,FALSE,America/Detroit
+49095,41.90703,-85.88036,Vandalia,MI,Michigan,TRUE,,2223,30.9,26027,Cass,"{""26027"": ""100""}",Cass,26027,FALSE,FALSE,America/Detroit
+49096,42.64167,-85.01576,Vermontville,MI,Michigan,TRUE,,3441,20,26045,Eaton,"{""26045"": ""100""}",Eaton,26045,FALSE,FALSE,America/Detroit
+49097,42.11459,-85.48818,Vicksburg,MI,Michigan,TRUE,,11106,57.6,26077,Kalamazoo,"{""26077"": ""98.97"", ""26149"": ""1.03""}",Kalamazoo|St. Joseph,26077|26149,FALSE,FALSE,America/Detroit
+49098,42.16878,-86.24276,Watervliet,MI,Michigan,TRUE,,5776,68.7,26021,Berrien,"{""26021"": ""92.41"", ""26159"": ""7.59""}",Berrien|Van Buren,26021|26159,FALSE,FALSE,America/Detroit
+49099,41.79176,-85.6779,White Pigeon,MI,Michigan,TRUE,,5787,37.8,26149,St. Joseph,"{""26149"": ""87.6"", ""26027"": ""12.4""}",St. Joseph|Cass,26149|26027,FALSE,FALSE,America/Detroit
+49101,41.94291,-86.4829,Baroda,MI,Michigan,TRUE,,2861,50.6,26021,Berrien,"{""26021"": ""100""}",Berrien,26021,FALSE,FALSE,America/Detroit
+49102,41.9523,-86.26113,Berrien Center,MI,Michigan,TRUE,,1627,40.6,26021,Berrien,"{""26021"": ""99.55"", ""26027"": ""0.45""}",Berrien|Cass,26021|26027,FALSE,FALSE,America/Detroit
+49103,41.94691,-86.37641,Berrien Springs,MI,Michigan,TRUE,,10437,90.6,26021,Berrien,"{""26021"": ""100""}",Berrien,26021,FALSE,FALSE,America/Detroit
+49104,41.96373,-86.35895,Berrien Springs,MI,Michigan,TRUE,,668,1619.9,26021,Berrien,"{""26021"": ""100""}",Berrien,26021,FALSE,FALSE,America/Detroit
+49106,41.93763,-86.55148,Bridgman,MI,Michigan,TRUE,,4973,122.2,26021,Berrien,"{""26021"": ""100""}",Berrien,26021,FALSE,FALSE,America/Detroit
+49107,41.84578,-86.41376,Buchanan,MI,Michigan,TRUE,,10431,61.6,26021,Berrien,"{""26021"": ""100""}",Berrien,26021,FALSE,FALSE,America/Detroit
+49111,42.02477,-86.28776,Eau Claire,MI,Michigan,TRUE,,3620,34.2,26021,Berrien,"{""26021"": ""95.64"", ""26027"": ""4.36""}",Berrien|Cass,26021|26027,FALSE,FALSE,America/Detroit
+49112,41.79758,-86.03353,Edwardsburg,MI,Michigan,TRUE,,9941,89.2,26027,Cass,"{""26027"": ""100""}",Cass,26027,FALSE,FALSE,America/Detroit
+49113,41.80237,-86.50087,Galien,MI,Michigan,TRUE,,1773,19.4,26021,Berrien,"{""26021"": ""100""}",Berrien,26021,FALSE,FALSE,America/Detroit
+49115,41.87229,-86.62929,Harbert,MI,Michigan,TRUE,,458,132.4,26021,Berrien,"{""26021"": ""100""}",Berrien,26021,FALSE,FALSE,America/Detroit
+49116,41.84904,-86.66164,Lakeside,MI,Michigan,TRUE,,256,46.9,26021,Berrien,"{""26021"": ""100""}",Berrien,26021,FALSE,FALSE,America/Detroit
+49117,41.7806,-86.72678,New Buffalo,MI,Michigan,TRUE,,3756,75.8,26021,Berrien,"{""26021"": ""100""}",Berrien,26021,FALSE,FALSE,America/Detroit
+49119,41.87436,-86.54904,New Troy,MI,Michigan,TRUE,,66,195.3,26021,Berrien,"{""26021"": ""100""}",Berrien,26021,FALSE,FALSE,America/Detroit
+49120,41.83224,-86.23082,Niles,MI,Michigan,TRUE,,36346,119.5,26021,Berrien,"{""26021"": ""72.67"", ""26027"": ""27.33""}",Berrien|Cass,26021|26027,FALSE,FALSE,America/Detroit
+49125,41.88708,-86.57745,Sawyer,MI,Michigan,TRUE,,2243,64.2,26021,Berrien,"{""26021"": ""100""}",Berrien,26021,FALSE,FALSE,America/Detroit
+49126,42.02581,-86.36878,Sodus,MI,Michigan,TRUE,,1225,29.6,26021,Berrien,"{""26021"": ""100""}",Berrien,26021,FALSE,FALSE,America/Detroit
+49127,42.00635,-86.51219,Stevensville,MI,Michigan,TRUE,,10755,256.5,26021,Berrien,"{""26021"": ""100""}",Berrien,26021,FALSE,FALSE,America/Detroit
+49128,41.81651,-86.60333,Three Oaks,MI,Michigan,TRUE,,3408,30.7,26021,Berrien,"{""26021"": ""100""}",Berrien,26021,FALSE,FALSE,America/Detroit
+49129,41.81695,-86.68803,Union Pier,MI,Michigan,TRUE,,513,39.5,26021,Berrien,"{""26021"": ""100""}",Berrien,26021,FALSE,FALSE,America/Detroit
+49130,41.78195,-85.85943,Union,MI,Michigan,TRUE,,1474,47.2,26027,Cass,"{""26027"": ""100""}",Cass,26027,FALSE,FALSE,America/Detroit
+49201,42.24977,-84.38151,Jackson,MI,Michigan,TRUE,,45222,114.3,26075,Jackson,"{""26075"": ""100""}",Jackson,26075,FALSE,FALSE,America/Detroit
+49202,42.26859,-84.41036,Jackson,MI,Michigan,TRUE,,19289,534.3,26075,Jackson,"{""26075"": ""100""}",Jackson,26075,FALSE,FALSE,America/Detroit
+49203,42.22151,-84.4011,Jackson,MI,Michigan,TRUE,,38633,566.7,26075,Jackson,"{""26075"": ""100""}",Jackson,26075,FALSE,FALSE,America/Detroit
+49220,41.99461,-84.34243,Addison,MI,Michigan,TRUE,,2415,32.9,26091,Lenawee,"{""26091"": ""84.76"", ""26059"": ""15.24""}",Lenawee|Hillsdale,26091|26059,FALSE,FALSE,America/Detroit
+49221,41.90301,-84.06363,Adrian,MI,Michigan,TRUE,,40423,131.8,26091,Lenawee,"{""26091"": ""100""}",Lenawee,26091,FALSE,FALSE,America/Detroit
+49224,42.28109,-84.75185,Albion,MI,Michigan,TRUE,,13966,54.5,26025,Calhoun,"{""26025"": ""87.18"", ""26075"": ""12.82""}",Calhoun|Jackson,26025|26075,FALSE,FALSE,America/Detroit
+49227,41.95194,-84.77118,Allen,MI,Michigan,TRUE,,1114,16.8,26059,Hillsdale,"{""26059"": ""100""}",Hillsdale,26059,FALSE,FALSE,America/Detroit
+49228,41.80438,-83.88349,Blissfield,MI,Michigan,TRUE,,5310,25.8,26091,Lenawee,"{""26091"": ""100""}",Lenawee,26091,FALSE,FALSE,America/Detroit
+49229,41.98679,-83.82832,Britton,MI,Michigan,TRUE,,3404,23.8,26091,Lenawee,"{""26091"": ""96.46"", ""26115"": ""3.54""}",Lenawee|Monroe,26091|26115,FALSE,FALSE,America/Detroit
+49230,42.09465,-84.22071,Brooklyn,MI,Michigan,TRUE,,10331,60.8,26075,Jackson,"{""26075"": ""78.66"", ""26091"": ""21.34""}",Jackson|Lenawee,26075|26091,FALSE,FALSE,America/Detroit
+49232,41.74047,-84.66858,Camden,MI,Michigan,TRUE,,2716,16.7,26059,Hillsdale,"{""26059"": ""100""}",Hillsdale,26059,FALSE,FALSE,America/Detroit
+49233,42.06223,-84.36286,Cement City,MI,Michigan,TRUE,,2386,43,26059,Hillsdale,"{""26059"": ""55.56"", ""26091"": ""32.16"", ""26075"": ""12.28""}",Hillsdale|Lenawee|Jackson,26059|26091|26075,FALSE,FALSE,America/Detroit
+49234,42.11855,-84.36865,Clarklake,MI,Michigan,TRUE,,2650,46.7,26075,Jackson,"{""26075"": ""100""}",Jackson,26075,FALSE,FALSE,America/Detroit
+49235,41.86356,-84.21469,Clayton,MI,Michigan,TRUE,,2088,16.1,26091,Lenawee,"{""26091"": ""100""}",Lenawee,26091,FALSE,FALSE,America/Detroit
+49236,42.07839,-83.95098,Clinton,MI,Michigan,TRUE,,4807,49.4,26091,Lenawee,"{""26091"": ""86.69"", ""26161"": ""13.31""}",Lenawee|Washtenaw,26091|26161,FALSE,FALSE,America/Detroit
+49237,42.17573,-84.65157,Concord,MI,Michigan,TRUE,,3047,30.9,26075,Jackson,"{""26075"": ""99.53"", ""26025"": ""0.47""}",Jackson|Calhoun,26075|26025,FALSE,FALSE,America/Detroit
+49238,41.90553,-83.78599,Deerfield,MI,Michigan,TRUE,,1803,24.6,26091,Lenawee,"{""26091"": ""81.1"", ""26115"": ""18.9""}",Lenawee|Monroe,26091|26115,FALSE,FALSE,America/Detroit
+49240,42.27984,-84.17871,Grass Lake,MI,Michigan,TRUE,,9688,35.4,26075,Jackson,"{""26075"": ""90.82"", ""26161"": ""9.18""}",Jackson|Washtenaw,26075|26161,FALSE,FALSE,America/Detroit
+49241,42.10325,-84.60227,Hanover,MI,Michigan,TRUE,,2773,31.5,26075,Jackson,"{""26075"": ""100""}",Jackson,26075,FALSE,FALSE,America/Detroit
+49242,41.88334,-84.6164,Hillsdale,MI,Michigan,TRUE,,14809,63.1,26059,Hillsdale,"{""26059"": ""100""}",Hillsdale,26059,FALSE,FALSE,America/Detroit
+49245,42.14004,-84.81759,Homer,MI,Michigan,TRUE,,4745,19,26025,Calhoun,"{""26025"": ""97.44"", ""26023"": ""1.98"", ""26075"": ""0.58""}",Calhoun|Branch|Jackson,26025|26023|26075,FALSE,FALSE,America/Detroit
+49246,42.12627,-84.50881,Horton,MI,Michigan,TRUE,,3116,35.2,26075,Jackson,"{""26075"": ""97.02"", ""26059"": ""2.98""}",Jackson|Hillsdale,26075|26059,FALSE,FALSE,America/Detroit
+49247,41.84785,-84.34247,Hudson,MI,Michigan,TRUE,,5690,25.7,26091,Lenawee,"{""26091"": ""75.68"", ""26059"": ""24.32""}",Lenawee|Hillsdale,26091|26059,FALSE,FALSE,America/Detroit
+49248,41.75645,-84.01123,Jasper,MI,Michigan,TRUE,,821,9.6,26091,Lenawee,"{""26091"": ""100""}",Lenawee,26091,FALSE,FALSE,America/Detroit
+49249,42.02285,-84.45833,Jerome,MI,Michigan,TRUE,,3625,43.7,26059,Hillsdale,"{""26059"": ""89.5"", ""26075"": ""10.5""}",Hillsdale|Jackson,26059|26075,FALSE,FALSE,America/Detroit
+49250,42.01912,-84.62273,Jonesville,MI,Michigan,TRUE,,6322,31.2,26059,Hillsdale,"{""26059"": ""97.22"", ""26075"": ""2.78""}",Hillsdale|Jackson,26059|26075,FALSE,FALSE,America/Detroit
+49251,42.46595,-84.41006,Leslie,MI,Michigan,TRUE,,6278,41.5,26065,Ingham,"{""26065"": ""95.25"", ""26075"": ""4.75""}",Ingham|Jackson,26065|26075,FALSE,FALSE,America/Detroit
+49252,42.0369,-84.76722,Litchfield,MI,Michigan,TRUE,,2373,23.5,26059,Hillsdale,"{""26059"": ""93.47"", ""26075"": ""4.41"", ""26023"": ""1.77"", ""26025"": ""0.35""}",Hillsdale|Jackson|Branch|Calhoun,26059|26075|26023|26025,FALSE,FALSE,America/Detroit
+49253,41.96685,-84.271,Manitou Beach,MI,Michigan,TRUE,,2771,43.6,26091,Lenawee,"{""26091"": ""100""}",Lenawee,26091,FALSE,FALSE,America/Detroit
+49254,42.22712,-84.31609,Michigan Center,MI,Michigan,TRUE,,3069,365.2,26075,Jackson,"{""26075"": ""100""}",Jackson,26075,FALSE,FALSE,America/Detroit
+49255,41.77276,-84.85057,Montgomery,MI,Michigan,TRUE,,2617,25.3,26023,Branch,"{""26023"": ""56.73"", ""26059"": ""43.27""}",Branch|Hillsdale,26023|26059,FALSE,FALSE,America/Detroit
+49256,41.74998,-84.21859,Morenci,MI,Michigan,TRUE,,3750,24.6,26091,Lenawee,"{""26091"": ""100""}",Lenawee,26091,FALSE,FALSE,America/Detroit
+49259,42.3789,-84.25303,Munith,MI,Michigan,TRUE,,2116,29.2,26075,Jackson,"{""26075"": ""100""}",Jackson,26075,FALSE,FALSE,America/Detroit
+49261,42.16098,-84.23845,Napoleon,MI,Michigan,TRUE,,269,177.2,26075,Jackson,"{""26075"": ""100""}",Jackson,26075,FALSE,FALSE,America/Detroit
+49262,41.96146,-84.46737,North Adams,MI,Michigan,TRUE,,1243,20.9,26059,Hillsdale,"{""26059"": ""100""}",Hillsdale,26059,FALSE,FALSE,America/Detroit
+49263,42.15943,-84.18477,Norvell,MI,Michigan,TRUE,,65,249.4,26075,Jackson,"{""26075"": ""100""}",Jackson,26075,FALSE,FALSE,America/Detroit
+49264,42.44358,-84.5514,Onondaga,MI,Michigan,TRUE,,2100,30.2,26065,Ingham,"{""26065"": ""75.7"", ""26075"": ""24.3""}",Ingham|Jackson,26065|26075,FALSE,FALSE,America/Detroit
+49265,42.0073,-84.17264,Onsted,MI,Michigan,TRUE,,5102,65.5,26091,Lenawee,"{""26091"": ""100""}",Lenawee,26091,FALSE,FALSE,America/Detroit
+49266,41.84223,-84.54784,Osseo,MI,Michigan,TRUE,,3323,29,26059,Hillsdale,"{""26059"": ""100""}",Hillsdale,26059,FALSE,FALSE,America/Detroit
+49267,41.76089,-83.72251,Ottawa Lake,MI,Michigan,TRUE,,3988,38.5,26115,Monroe,"{""26115"": ""93.03"", ""26091"": ""6.97""}",Monroe|Lenawee,26115|26091,FALSE,FALSE,America/Detroit
+49268,41.8729,-83.92632,Palmyra,MI,Michigan,TRUE,,1153,20.6,26091,Lenawee,"{""26091"": ""100""}",Lenawee,26091,FALSE,FALSE,America/Detroit
+49269,42.29295,-84.58793,Parma,MI,Michigan,TRUE,,6175,39.7,26075,Jackson,"{""26075"": ""100""}",Jackson,26075,FALSE,FALSE,America/Detroit
+49270,41.86973,-83.68326,Petersburg,MI,Michigan,TRUE,,5716,49.2,26115,Monroe,"{""26115"": ""100""}",Monroe,26115,FALSE,FALSE,America/Detroit
+49271,41.83693,-84.45552,Pittsford,MI,Michigan,TRUE,,1872,13.1,26059,Hillsdale,"{""26059"": ""100""}",Hillsdale,26059,FALSE,FALSE,America/Detroit
+49272,42.39405,-84.34663,Pleasant Lake,MI,Michigan,TRUE,,2326,79.2,26075,Jackson,"{""26075"": ""100""}",Jackson,26075,FALSE,FALSE,America/Detroit
+49274,41.83849,-84.76278,Reading,MI,Michigan,TRUE,,3365,21.7,26059,Hillsdale,"{""26059"": ""90.3"", ""26023"": ""9.7""}",Hillsdale|Branch,26059|26023,FALSE,FALSE,America/Detroit
+49276,41.79744,-83.78462,Riga,MI,Michigan,TRUE,,851,14.5,26091,Lenawee,"{""26091"": ""66.6"", ""26115"": ""33.4""}",Lenawee|Monroe,26091|26115,FALSE,FALSE,America/Detroit
+49277,42.38734,-84.46528,Rives Junction,MI,Michigan,TRUE,,3290,35.8,26075,Jackson,"{""26075"": ""100""}",Jackson,26075,FALSE,FALSE,America/Detroit
+49279,41.78085,-84.10395,Sand Creek,MI,Michigan,TRUE,,845,12.4,26091,Lenawee,"{""26091"": ""100""}",Lenawee,26091,FALSE,FALSE,America/Detroit
+49282,42.03884,-84.40599,Somerset Center,MI,Michigan,TRUE,,244,32.2,26059,Hillsdale,"{""26059"": ""100""}",Hillsdale,26059,FALSE,FALSE,America/Detroit
+49283,42.20696,-84.55069,Spring Arbor,MI,Michigan,TRUE,,3799,107.9,26075,Jackson,"{""26075"": ""100""}",Jackson,26075,FALSE,FALSE,America/Detroit
+49284,42.38674,-84.69318,Springport,MI,Michigan,TRUE,,2995,21.7,26075,Jackson,"{""26075"": ""66.38"", ""26025"": ""25.53"", ""26045"": ""8.09""}",Jackson|Calhoun|Eaton,26075|26025|26045,FALSE,FALSE,America/Detroit
+49285,42.4706,-84.21008,Stockbridge,MI,Michigan,TRUE,,5740,29.8,26065,Ingham,"{""26065"": ""88.95"", ""26075"": ""5.52"", ""26093"": ""3.97"", ""26161"": ""1.56""}",Ingham|Jackson|Livingston|Washtenaw,26065|26075|26093|26161,FALSE,FALSE,America/Detroit
+49286,42.0136,-83.936,Tecumseh,MI,Michigan,TRUE,,14639,94.7,26091,Lenawee,"{""26091"": ""100""}",Lenawee,26091,FALSE,FALSE,America/Detroit
+49287,42.02108,-84.08139,Tipton,MI,Michigan,TRUE,,2019,27.7,26091,Lenawee,"{""26091"": ""94.66"", ""26161"": ""5.34""}",Lenawee|Washtenaw,26091|26161,FALSE,FALSE,America/Detroit
+49288,41.73466,-84.42999,Waldron,MI,Michigan,TRUE,,1491,15.3,26059,Hillsdale,"{""26059"": ""92.92"", ""26091"": ""7.08""}",Hillsdale|Lenawee,26059|26091,FALSE,FALSE,America/Detroit
+49289,41.76813,-84.1078,Weston,MI,Michigan,TRUE,,127,68.2,26091,Lenawee,"{""26091"": ""100""}",Lenawee,26091,FALSE,FALSE,America/Detroit
+49301,42.97647,-85.47661,Ada,MI,Michigan,TRUE,,20302,138.3,26081,Kent,"{""26081"": ""100""}",Kent,26081,FALSE,FALSE,America/Detroit
+49302,42.82286,-85.3986,Alto,MI,Michigan,TRUE,,8717,69,26081,Kent,"{""26081"": ""100""}",Kent,26081,FALSE,FALSE,America/Detroit
+49303,43.27729,-85.85483,Bailey,MI,Michigan,TRUE,,1019,26.2,26121,Muskegon,"{""26121"": ""95.57"", ""26123"": ""4.43""}",Muskegon|Newaygo,26121|26123,FALSE,FALSE,America/Detroit
+49304,43.91391,-85.87,Baldwin,MI,Michigan,TRUE,,3922,11.7,26085,Lake,"{""26085"": ""100""}",Lake,26085,FALSE,FALSE,America/Detroit
+49305,43.75075,-85.1497,Barryton,MI,Michigan,TRUE,,2134,17.9,26107,Mecosta,"{""26107"": ""96.38"", ""26073"": ""3.62""}",Mecosta|Isabella,26107|26073,FALSE,FALSE,America/Detroit
+49306,43.07325,-85.56775,Belmont,MI,Michigan,TRUE,,10650,207.6,26081,Kent,"{""26081"": ""100""}",Kent,26081,FALSE,FALSE,America/Detroit
+49307,43.69892,-85.48912,Big Rapids,MI,Michigan,TRUE,,20590,58.4,26107,Mecosta,"{""26107"": ""97.01"", ""26123"": ""2.99""}",Mecosta|Newaygo,26107|26123,FALSE,FALSE,America/Detroit
+49309,43.7595,-85.88093,Bitely,MI,Michigan,TRUE,,1509,4.7,26123,Newaygo,"{""26123"": ""96.8"", ""26085"": ""3.2""}",Newaygo|Lake,26123|26085,FALSE,FALSE,America/Detroit
+49310,43.51564,-85.05652,Blanchard,MI,Michigan,TRUE,,3284,14.2,26073,Isabella,"{""26073"": ""63.93"", ""26107"": ""33.39"", ""26117"": ""2.69""}",Isabella|Mecosta|Montcalm,26073|26107|26117,FALSE,FALSE,America/Detroit
+49312,43.68821,-85.80547,Brohman,MI,Michigan,TRUE,,293,3.9,26123,Newaygo,"{""26123"": ""100""}",Newaygo,26123,FALSE,FALSE,America/Detroit
+49315,42.80013,-85.73622,Byron Center,MI,Michigan,TRUE,,23283,167.9,26081,Kent,"{""26081"": ""94.1"", ""26139"": ""4.01"", ""26005"": ""1.88""}",Kent|Ottawa|Allegan,26081|26139|26005,FALSE,FALSE,America/Detroit
+49316,42.79679,-85.55403,Caledonia,MI,Michigan,TRUE,,23391,158.7,26081,Kent,"{""26081"": ""87.71"", ""26005"": ""9.35"", ""26015"": ""2.94""}",Kent|Allegan|Barry,26081|26005|26015,FALSE,FALSE,America/Detroit
+49318,43.22347,-85.82912,Casnovia,MI,Michigan,TRUE,,1515,32.9,26121,Muskegon,"{""26121"": ""67.81"", ""26139"": ""17.95"", ""26081"": ""14.23""}",Muskegon|Ottawa|Kent,26121|26139|26081,FALSE,FALSE,America/Detroit
+49319,43.22712,-85.52638,Cedar Springs,MI,Michigan,TRUE,,16705,74.1,26081,Kent,"{""26081"": ""100""}",Kent,26081,FALSE,FALSE,America/Detroit
+49320,43.75358,-85.27547,Chippewa Lake,MI,Michigan,TRUE,,22,23.7,26107,Mecosta,"{""26107"": ""100""}",Mecosta,26107,FALSE,FALSE,America/Detroit
+49321,43.07427,-85.68089,Comstock Park,MI,Michigan,TRUE,,17160,256.5,26081,Kent,"{""26081"": ""100""}",Kent,26081,FALSE,FALSE,America/Detroit
+49322,43.35674,-85.35115,Coral,MI,Michigan,TRUE,,1532,23.1,26117,Montcalm,"{""26117"": ""100""}",Montcalm,26117,FALSE,FALSE,America/Detroit
+49323,42.72534,-85.78723,Dorr,MI,Michigan,TRUE,,10296,81,26005,Allegan,"{""26005"": ""100""}",Allegan,26005,FALSE,FALSE,America/Detroit
+49325,42.76052,-85.29815,Freeport,MI,Michigan,TRUE,,2050,28.4,26015,Barry,"{""26015"": ""78.37"", ""26081"": ""12"", ""26067"": ""9.64""}",Barry|Kent|Ionia,26015|26081|26067,FALSE,FALSE,America/Detroit
+49326,43.24982,-85.3206,Gowen,MI,Michigan,TRUE,,4308,69.8,26081,Kent,"{""26081"": ""72.55"", ""26117"": ""27.45""}",Kent|Montcalm,26081|26117,FALSE,FALSE,America/Detroit
+49327,43.33539,-85.84617,Grant,MI,Michigan,TRUE,,8472,35.3,26123,Newaygo,"{""26123"": ""99.46"", ""26081"": ""0.54""}",Newaygo|Kent,26123|26081,FALSE,FALSE,America/Detroit
+49328,42.63167,-85.7592,Hopkins,MI,Michigan,TRUE,,4288,29.3,26005,Allegan,"{""26005"": ""100""}",Allegan,26005,FALSE,FALSE,America/Detroit
+49329,43.40631,-85.48347,Howard City,MI,Michigan,TRUE,,8664,41,26117,Montcalm,"{""26117"": ""84.94"", ""26123"": ""15.06""}",Montcalm|Newaygo,26117|26123,FALSE,FALSE,America/Detroit
+49330,43.24504,-85.73739,Kent City,MI,Michigan,TRUE,,5724,49.9,26081,Kent,"{""26081"": ""92.06"", ""26123"": ""5.57"", ""26139"": ""1.69"", ""26121"": ""0.68""}",Kent|Newaygo|Ottawa|Muskegon,26081|26123|26139|26121,FALSE,FALSE,America/Detroit
+49331,42.95145,-85.35216,Lowell,MI,Michigan,TRUE,,18028,76.9,26081,Kent,"{""26081"": ""86.92"", ""26067"": ""13.08""}",Kent|Ionia,26081|26067,FALSE,FALSE,America/Detroit
+49332,43.62439,-85.24589,Mecosta,MI,Michigan,TRUE,,3251,27.8,26107,Mecosta,"{""26107"": ""100""}",Mecosta,26107,FALSE,FALSE,America/Detroit
+49333,42.69563,-85.46103,Middleville,MI,Michigan,TRUE,,11639,56.5,26015,Barry,"{""26015"": ""98.11"", ""26081"": ""1.84"", ""26005"": ""0.04""}",Barry|Kent|Allegan,26015|26081|26005,FALSE,FALSE,America/Detroit
+49335,42.73858,-85.66841,Moline,MI,Michigan,TRUE,,224,91.2,26005,Allegan,"{""26005"": ""100""}",Allegan,26005,FALSE,FALSE,America/Detroit
+49336,43.50869,-85.43177,Morley,MI,Michigan,TRUE,,4170,20.6,26107,Mecosta,"{""26107"": ""94.69"", ""26117"": ""5.26"", ""26123"": ""0.05""}",Mecosta|Montcalm|Newaygo,26107|26117|26123,FALSE,FALSE,America/Detroit
+49337,43.43535,-85.7136,Newaygo,MI,Michigan,TRUE,,12017,41.2,26123,Newaygo,"{""26123"": ""97.1"", ""26117"": ""1.89"", ""26107"": ""1.02""}",Newaygo|Montcalm|Mecosta,26123|26117|26107,FALSE,FALSE,America/Detroit
+49338,43.75952,-85.60856,Paris,MI,Michigan,TRUE,,1750,12.8,26107,Mecosta,"{""26107"": ""68.4"", ""26123"": ""30.4"", ""26133"": ""1.19""}",Mecosta|Newaygo|Osceola,26107|26123|26133,FALSE,FALSE,America/Detroit
+49339,43.33242,-85.49033,Pierson,MI,Michigan,TRUE,,2160,28.5,26117,Montcalm,"{""26117"": ""100""}",Montcalm,26117,FALSE,FALSE,America/Detroit
+49340,43.62151,-85.11395,Remus,MI,Michigan,TRUE,,2786,12.4,26107,Mecosta,"{""26107"": ""73.04"", ""26073"": ""26.96""}",Mecosta|Isabella,26107|26073,FALSE,FALSE,America/Detroit
+49341,43.1243,-85.49188,Rockford,MI,Michigan,TRUE,,37505,173.9,26081,Kent,"{""26081"": ""100""}",Kent,26081,FALSE,FALSE,America/Detroit
+49342,43.69241,-85.32222,Rodney,MI,Michigan,TRUE,,1816,15.6,26107,Mecosta,"{""26107"": ""100""}",Mecosta,26107,FALSE,FALSE,America/Detroit
+49343,43.29642,-85.53553,Sand Lake,MI,Michigan,TRUE,,5551,40.5,26081,Kent,"{""26081"": ""56.39"", ""26123"": ""31.92"", ""26117"": ""11.7""}",Kent|Newaygo|Montcalm,26081|26123|26117,FALSE,FALSE,America/Detroit
+49344,42.59299,-85.59134,Shelbyville,MI,Michigan,TRUE,,3266,39.1,26005,Allegan,"{""26005"": ""59"", ""26015"": ""41""}",Allegan|Barry,26005|26015,FALSE,FALSE,America/Detroit
+49345,43.15398,-85.70374,Sparta,MI,Michigan,TRUE,,15123,109.9,26081,Kent,"{""26081"": ""100""}",Kent,26081,FALSE,FALSE,America/Detroit
+49346,43.58572,-85.42186,Stanwood,MI,Michigan,TRUE,,5326,31.9,26107,Mecosta,"{""26107"": ""99.82"", ""26123"": ""0.18""}",Mecosta|Newaygo,26107|26123,FALSE,FALSE,America/Detroit
+49347,43.31473,-85.34851,Trufant,MI,Michigan,TRUE,,1188,24.7,26117,Montcalm,"{""26117"": ""97.77"", ""26081"": ""2.23""}",Montcalm|Kent,26117|26081,FALSE,FALSE,America/Detroit
+49348,42.68571,-85.61467,Wayland,MI,Michigan,TRUE,,12501,72.6,26005,Allegan,"{""26005"": ""81.44"", ""26015"": ""16.87"", ""26081"": ""1.7""}",Allegan|Barry|Kent,26005|26015|26081,FALSE,FALSE,America/Detroit
+49349,43.58204,-85.7429,White Cloud,MI,Michigan,TRUE,,7871,15.8,26123,Newaygo,"{""26123"": ""100""}",Newaygo,26123,FALSE,FALSE,America/Detroit
+49401,42.97619,-85.94147,Allendale,MI,Michigan,TRUE,,24900,374.4,26139,Ottawa,"{""26139"": ""100""}",Ottawa,26139,FALSE,FALSE,America/Detroit
+49402,43.93322,-86.03456,Branch,MI,Michigan,TRUE,,1269,4,26105,Mason,"{""26105"": ""64.06"", ""26085"": ""29.71"", ""26127"": ""6.23""}",Mason|Lake|Oceana,26105|26085|26127,FALSE,FALSE,America/Detroit
+49403,43.13495,-85.8519,Conklin,MI,Michigan,TRUE,,2747,22.5,26139,Ottawa,"{""26139"": ""94.38"", ""26121"": ""4.04"", ""26081"": ""1.58""}",Ottawa|Muskegon|Kent,26139|26121|26081,FALSE,FALSE,America/Detroit
+49404,43.06584,-85.95067,Coopersville,MI,Michigan,TRUE,,8553,53.1,26139,Ottawa,"{""26139"": ""98.31"", ""26121"": ""1.69""}",Ottawa|Muskegon,26139|26121,FALSE,FALSE,America/Detroit
+49405,43.91432,-86.19148,Custer,MI,Michigan,TRUE,,1583,8.9,26105,Mason,"{""26105"": ""100""}",Mason,26105,FALSE,FALSE,America/Detroit
+49406,42.64221,-86.20249,Douglas,MI,Michigan,TRUE,,710,146.5,26005,Allegan,"{""26005"": ""100""}",Allegan,26005,FALSE,FALSE,America/Detroit
+49408,42.57039,-86.11456,Fennville,MI,Michigan,TRUE,,9726,35.6,26005,Allegan,"{""26005"": ""100""}",Allegan,26005,FALSE,FALSE,America/Detroit
+49410,44.03194,-86.12977,Fountain,MI,Michigan,TRUE,,1925,17.2,26105,Mason,"{""26105"": ""100""}",Mason,26105,FALSE,FALSE,America/Detroit
+49411,44.1066,-86.25056,Free Soil,MI,Michigan,TRUE,,1451,6.5,26105,Mason,"{""26105"": ""100""}",Mason,26105,FALSE,FALSE,America/Detroit
+49412,43.4686,-85.94815,Fremont,MI,Michigan,TRUE,,11419,40.9,26123,Newaygo,"{""26123"": ""98.17"", ""26127"": ""1.17"", ""26121"": ""0.66""}",Newaygo|Oceana|Muskegon,26123|26127|26121,FALSE,FALSE,America/Detroit
+49415,43.15111,-86.11799,Fruitport,MI,Michigan,TRUE,,6905,90.6,26121,Muskegon,"{""26121"": ""91.02"", ""26139"": ""8.98""}",Muskegon|Ottawa,26121|26139,FALSE,FALSE,America/Detroit
+49417,43.01589,-86.14361,Grand Haven,MI,Michigan,TRUE,,31496,261.8,26139,Ottawa,"{""26139"": ""100""}",Ottawa,26139,FALSE,FALSE,America/Detroit
+49418,42.87799,-85.77136,Grandville,MI,Michigan,TRUE,,28521,582.5,26081,Kent,"{""26081"": ""84.27"", ""26139"": ""15.73""}",Kent|Ottawa,26081|26139,FALSE,FALSE,America/Detroit
+49419,42.6789,-85.981,Hamilton,MI,Michigan,TRUE,,8612,46.1,26005,Allegan,"{""26005"": ""100""}",Allegan,26005,FALSE,FALSE,America/Detroit
+49420,43.71823,-86.28308,Hart,MI,Michigan,TRUE,,6308,20.6,26127,Oceana,"{""26127"": ""100""}",Oceana,26127,FALSE,FALSE,America/Detroit
+49421,43.60245,-86.06114,Hesperia,MI,Michigan,TRUE,,5906,17,26127,Oceana,"{""26127"": ""65.18"", ""26123"": ""34.82""}",Oceana|Newaygo,26127|26123,FALSE,FALSE,America/Detroit
+49423,42.74045,-86.08942,Holland,MI,Michigan,TRUE,,45040,224.1,26139,Ottawa,"{""26139"": ""65.47"", ""26005"": ""34.53""}",Ottawa|Allegan,26139|26005,FALSE,FALSE,America/Detroit
+49424,42.84476,-86.12522,Holland,MI,Michigan,TRUE,,48799,328.2,26139,Ottawa,"{""26139"": ""100""}",Ottawa,26139,FALSE,FALSE,America/Detroit
+49425,43.43849,-86.09886,Holton,MI,Michigan,TRUE,,3823,23.2,26121,Muskegon,"{""26121"": ""79.84"", ""26127"": ""13.47"", ""26123"": ""6.69""}",Muskegon|Oceana|Newaygo,26121|26127|26123,FALSE,FALSE,America/Detroit
+49426,42.86322,-85.88836,Hudsonville,MI,Michigan,TRUE,,37601,232.1,26139,Ottawa,"{""26139"": ""99.92"", ""26005"": ""0.08""}",Ottawa|Allegan,26139|26005,FALSE,FALSE,America/Detroit
+49428,42.92001,-85.83769,Jenison,MI,Michigan,TRUE,,27445,642.7,26139,Ottawa,"{""26139"": ""100""}",Ottawa,26139,FALSE,FALSE,America/Detroit
+49431,43.98218,-86.40018,Ludington,MI,Michigan,TRUE,,17274,64.2,26105,Mason,"{""26105"": ""100""}",Mason,26105,FALSE,FALSE,America/Detroit
+49434,42.76916,-86.20766,Macatawa,MI,Michigan,TRUE,,6,40.5,26139,Ottawa,"{""26139"": ""75"", ""26005"": ""25""}",Ottawa|Allegan,26139|26005,FALSE,FALSE,America/Detroit
+49435,43.02697,-85.84073,Marne,MI,Michigan,TRUE,,3929,69.2,26139,Ottawa,"{""26139"": ""100""}",Ottawa,26139,FALSE,FALSE,America/Detroit
+49436,43.67846,-86.46312,Mears,MI,Michigan,TRUE,,1584,19.6,26127,Oceana,"{""26127"": ""100""}",Oceana,26127,FALSE,FALSE,America/Detroit
+49437,43.45945,-86.38286,Montague,MI,Michigan,TRUE,,6852,40.2,26121,Muskegon,"{""26121"": ""81.35"", ""26127"": ""18.65""}",Muskegon|Oceana,26121|26127,FALSE,FALSE,America/Detroit
+49440,43.23855,-86.25385,Muskegon,MI,Michigan,TRUE,,811,522,26121,Muskegon,"{""26121"": ""100""}",Muskegon,26121,FALSE,FALSE,America/Detroit
+49441,43.18555,-86.27255,Muskegon,MI,Michigan,TRUE,,35365,628.2,26121,Muskegon,"{""26121"": ""100""}",Muskegon,26121,FALSE,FALSE,America/Detroit
+49442,43.24203,-86.12904,Muskegon,MI,Michigan,TRUE,,41580,368.7,26121,Muskegon,"{""26121"": ""100""}",Muskegon,26121,FALSE,FALSE,America/Detroit
+49444,43.17906,-86.19887,Muskegon,MI,Michigan,TRUE,,29684,482.3,26121,Muskegon,"{""26121"": ""100""}",Muskegon,26121,FALSE,FALSE,America/Detroit
+49445,43.29648,-86.27539,Muskegon,MI,Michigan,TRUE,,21670,136.7,26121,Muskegon,"{""26121"": ""100""}",Muskegon,26121,FALSE,FALSE,America/Detroit
+49446,43.55469,-86.38688,New Era,MI,Michigan,TRUE,,2463,29.4,26127,Oceana,"{""26127"": ""100""}",Oceana,26127,FALSE,FALSE,America/Detroit
+49448,43.09071,-86.07328,Nunica,MI,Michigan,TRUE,,4100,47.6,26139,Ottawa,"{""26139"": ""89.94"", ""26121"": ""10.06""}",Ottawa|Muskegon,26139|26121,FALSE,FALSE,America/Detroit
+49449,43.79871,-86.3746,Pentwater,MI,Michigan,TRUE,,2661,24.6,26127,Oceana,"{""26127"": ""78.5"", ""26105"": ""21.5""}",Oceana|Mason,26127|26105,FALSE,FALSE,America/Detroit
+49450,42.48437,-86.08277,Pullman,MI,Michigan,TRUE,,3314,43.4,26005,Allegan,"{""26005"": ""100""}",Allegan,26005,FALSE,FALSE,America/Detroit
+49451,43.21197,-85.96945,Ravenna,MI,Michigan,TRUE,,6025,28,26121,Muskegon,"{""26121"": ""96.64"", ""26139"": ""3.36""}",Muskegon|Ottawa,26121|26139,FALSE,FALSE,America/Detroit
+49452,43.51202,-86.25363,Rothbury,MI,Michigan,TRUE,,2102,17.7,26127,Oceana,"{""26127"": ""100""}",Oceana,26127,FALSE,FALSE,America/Detroit
+49453,42.66315,-86.17241,Saugatuck,MI,Michigan,TRUE,,2400,85.4,26005,Allegan,"{""26005"": ""100""}",Allegan,26005,FALSE,FALSE,America/Detroit
+49454,43.95136,-86.28808,Scottville,MI,Michigan,TRUE,,4796,25.3,26105,Mason,"{""26105"": ""100""}",Mason,26105,FALSE,FALSE,America/Detroit
+49455,43.60957,-86.3663,Shelby,MI,Michigan,TRUE,,4831,22.4,26127,Oceana,"{""26127"": ""100""}",Oceana,26127,FALSE,FALSE,America/Detroit
+49456,43.08947,-86.19426,Spring Lake,MI,Michigan,TRUE,,19480,302.3,26139,Ottawa,"{""26139"": ""94.16"", ""26121"": ""5.84""}",Ottawa|Muskegon,26139|26121,FALSE,FALSE,America/Detroit
+49457,43.35365,-86.14828,Twin Lake,MI,Michigan,TRUE,,10137,50.6,26121,Muskegon,"{""26121"": ""99.33"", ""26123"": ""0.67""}",Muskegon|Newaygo,26121|26123,FALSE,FALSE,America/Detroit
+49458,43.92618,-86.09675,Walhalla,MI,Michigan,TRUE,,80,4.3,26105,Mason,"{""26105"": ""100""}",Mason,26105,FALSE,FALSE,America/Detroit
+49459,43.74097,-86.11271,Walkerville,MI,Michigan,TRUE,,1515,7.7,26127,Oceana,"{""26127"": ""90.3"", ""26123"": ""9.7""}",Oceana|Newaygo,26127|26123,FALSE,FALSE,America/Detroit
+49460,42.93866,-86.13498,West Olive,MI,Michigan,TRUE,,8932,63.1,26139,Ottawa,"{""26139"": ""100""}",Ottawa,26139,FALSE,FALSE,America/Detroit
+49461,43.3826,-86.32258,Whitehall,MI,Michigan,TRUE,,9174,81.3,26121,Muskegon,"{""26121"": ""100""}",Muskegon,26121,FALSE,FALSE,America/Detroit
+49464,42.84713,-85.98617,Zeeland,MI,Michigan,TRUE,,29220,149.9,26139,Ottawa,"{""26139"": ""98.64"", ""26005"": ""1.36""}",Ottawa|Allegan,26139|26005,FALSE,FALSE,America/Detroit
+49503,42.96252,-85.65928,Grand Rapids,MI,Michigan,TRUE,,37250,2003.1,26081,Kent,"{""26081"": ""100""}",Kent,26081,FALSE,FALSE,America/Detroit
+49504,42.98041,-85.70941,Grand Rapids,MI,Michigan,TRUE,,39633,1386.7,26081,Kent,"{""26081"": ""100""}",Kent,26081,FALSE,FALSE,America/Detroit
+49505,42.99835,-85.63693,Grand Rapids,MI,Michigan,TRUE,,32372,1404.3,26081,Kent,"{""26081"": ""100""}",Kent,26081,FALSE,FALSE,America/Detroit
+49506,42.9451,-85.614,Grand Rapids,MI,Michigan,TRUE,,34528,1830,26081,Kent,"{""26081"": ""100""}",Kent,26081,FALSE,FALSE,America/Detroit
+49507,42.93068,-85.65513,Grand Rapids,MI,Michigan,TRUE,,39323,2751.3,26081,Kent,"{""26081"": ""100""}",Kent,26081,FALSE,FALSE,America/Detroit
+49508,42.87352,-85.62526,Grand Rapids,MI,Michigan,TRUE,,39571,1266.5,26081,Kent,"{""26081"": ""100""}",Kent,26081,FALSE,FALSE,America/Detroit
+49509,42.89755,-85.69297,Wyoming,MI,Michigan,TRUE,,28323,1507.9,26081,Kent,"{""26081"": ""100""}",Kent,26081,FALSE,FALSE,America/Detroit
+49512,42.8814,-85.54673,Grand Rapids,MI,Michigan,TRUE,,18170,310.2,26081,Kent,"{""26081"": ""100""}",Kent,26081,FALSE,FALSE,America/Detroit
+49519,42.89792,-85.71863,Wyoming,MI,Michigan,TRUE,,28836,1397.1,26081,Kent,"{""26081"": ""100""}",Kent,26081,FALSE,FALSE,America/Detroit
+49525,43.02115,-85.5917,Grand Rapids,MI,Michigan,TRUE,,30019,493.3,26081,Kent,"{""26081"": ""100""}",Kent,26081,FALSE,FALSE,America/Detroit
+49534,42.97092,-85.78825,Grand Rapids,MI,Michigan,TRUE,,21952,242.4,26081,Kent,"{""26081"": ""77.18"", ""26139"": ""22.82""}",Kent|Ottawa,26081|26139,FALSE,FALSE,America/Detroit
+49544,43.04596,-85.74191,Grand Rapids,MI,Michigan,TRUE,,10341,192,26081,Kent,"{""26081"": ""99.43"", ""26139"": ""0.57""}",Kent|Ottawa,26081|26139,FALSE,FALSE,America/Detroit
+49546,42.92759,-85.53745,Grand Rapids,MI,Michigan,TRUE,,34111,729.3,26081,Kent,"{""26081"": ""100""}",Kent,26081,FALSE,FALSE,America/Detroit
+49548,42.86966,-85.66276,Grand Rapids,MI,Michigan,TRUE,,33613,1227,26081,Kent,"{""26081"": ""100""}",Kent,26081,FALSE,FALSE,America/Detroit
+49601,44.24978,-85.50741,Cadillac,MI,Michigan,TRUE,,21816,40.8,26165,Wexford,"{""26165"": ""98.33"", ""26113"": ""1.67""}",Wexford|Missaukee,26165|26113,FALSE,FALSE,America/Detroit
+49611,44.97368,-84.97443,Alba,MI,Michigan,TRUE,,285,70,26009,Antrim,"{""26009"": ""100""}",Antrim,26009,FALSE,FALSE,America/Detroit
+49612,44.87135,-85.24242,Alden,MI,Michigan,TRUE,,1332,21.8,26009,Antrim,"{""26009"": ""71.01"", ""26079"": ""28.99""}",Antrim|Kalkaska,26009|26079,FALSE,FALSE,America/Detroit
+49613,44.50271,-86.20548,Arcadia,MI,Michigan,TRUE,,677,11.1,26101,Manistee,"{""26101"": ""80"", ""26019"": ""20""}",Manistee|Benzie,26101|26019,FALSE,FALSE,America/Detroit
+49614,44.43874,-86.11643,Bear Lake,MI,Michigan,TRUE,,2942,13.5,26101,Manistee,"{""26101"": ""100""}",Manistee,26101,FALSE,FALSE,America/Detroit
+49615,44.97086,-85.2064,Bellaire,MI,Michigan,TRUE,,3925,21.7,26009,Antrim,"{""26009"": ""100""}",Antrim,26009,FALSE,FALSE,America/Detroit
+49616,44.57439,-86.08099,Benzonia,MI,Michigan,TRUE,,2186,22.8,26019,Benzie,"{""26019"": ""100""}",Benzie,26019,FALSE,FALSE,America/Detroit
+49617,44.64409,-86.03259,Beulah,MI,Michigan,TRUE,,3047,26.1,26019,Benzie,"{""26019"": ""100""}",Benzie,26019,FALSE,FALSE,America/Detroit
+49618,44.29285,-85.60237,Boon,MI,Michigan,TRUE,,773,9.6,26165,Wexford,"{""26165"": ""100""}",Wexford,26165,FALSE,FALSE,America/Detroit
+49619,44.30263,-85.98189,Brethren,MI,Michigan,TRUE,,1031,6.3,26101,Manistee,"{""26101"": ""100""}",Manistee,26101,FALSE,FALSE,America/Detroit
+49620,44.52136,-85.69383,Buckley,MI,Michigan,TRUE,,2533,18.7,26165,Wexford,"{""26165"": ""62.66"", ""26055"": ""37.34""}",Wexford|Grand Traverse,26165|26055,FALSE,FALSE,America/Detroit
+49621,44.8634,-85.77556,Cedar,MI,Michigan,TRUE,,3908,25.7,26089,Leelanau,"{""26089"": ""100""}",Leelanau,26089,FALSE,FALSE,America/Detroit
+49622,45.07736,-85.26139,Central Lake,MI,Michigan,TRUE,,2475,21.3,26009,Antrim,"{""26009"": ""100""}",Antrim,26009,FALSE,FALSE,America/Detroit
+49623,43.9048,-85.6835,Chase,MI,Michigan,TRUE,,1226,8.3,26085,Lake,"{""26085"": ""100""}",Lake,26085,FALSE,FALSE,America/Detroit
+49625,44.4323,-85.87975,Copemish,MI,Michigan,TRUE,,1113,5.1,26101,Manistee,"{""26101"": ""95.58"", ""26165"": ""4.42""}",Manistee|Wexford,26101|26165,FALSE,FALSE,America/Detroit
+49626,44.23777,-86.29323,Eastlake,MI,Michigan,TRUE,,364,101.1,26101,Manistee,"{""26101"": ""100""}",Manistee,26101,FALSE,FALSE,America/Detroit
+49627,45.09603,-85.34991,Eastport,MI,Michigan,TRUE,,219,50.7,26009,Antrim,"{""26009"": ""100""}",Antrim,26009,FALSE,FALSE,America/Detroit
+49628,44.62085,-86.23105,Elberta,MI,Michigan,TRUE,,165,85.2,26019,Benzie,"{""26019"": ""100""}",Benzie,26019,FALSE,FALSE,America/Detroit
+49629,44.91081,-85.39302,Elk Rapids,MI,Michigan,TRUE,,2045,196.6,26009,Antrim,"{""26009"": ""100""}",Antrim,26009,FALSE,FALSE,America/Detroit
+49630,44.81378,-85.99273,Empire,MI,Michigan,TRUE,,1474,12.6,26089,Leelanau,"{""26089"": ""97.76"", ""26019"": ""2.24""}",Leelanau|Benzie,26089|26019,FALSE,FALSE,America/Detroit
+49631,43.91413,-85.26182,Evart,MI,Michigan,TRUE,,6226,16.2,26133,Osceola,"{""26133"": ""88.75"", ""26107"": ""11.25""}",Osceola|Mecosta,26133|26107,FALSE,FALSE,America/Detroit
+49632,44.23892,-84.96935,Falmouth,MI,Michigan,TRUE,,1051,4.8,26113,Missaukee,"{""26113"": ""100""}",Missaukee,26113,FALSE,FALSE,America/Detroit
+49633,44.55957,-85.20286,Fife Lake,MI,Michigan,TRUE,,3713,8.7,26079,Kalkaska,"{""26079"": ""64.87"", ""26055"": ""31.62"", ""26165"": ""2.89"", ""26113"": ""0.62""}",Kalkaska|Grand Traverse|Wexford|Missaukee,26079|26055|26165|26113,FALSE,FALSE,America/Detroit
+49634,44.21485,-86.29031,Filer City,MI,Michigan,TRUE,,57,147.5,26101,Manistee,"{""26101"": ""100""}",Manistee,26101,FALSE,FALSE,America/Detroit
+49635,44.61996,-86.18479,Frankfort,MI,Michigan,TRUE,,3450,33.1,26019,Benzie,"{""26019"": ""100""}",Benzie,26019,FALSE,FALSE,America/Detroit
+49636,44.87721,-85.99598,Glen Arbor,MI,Michigan,TRUE,,427,13.8,26089,Leelanau,"{""26089"": ""100""}",Leelanau,26089,FALSE,FALSE,America/Detroit
+49637,44.6264,-85.7059,Grawn,MI,Michigan,TRUE,,3411,52.7,26055,Grand Traverse,"{""26055"": ""100""}",Grand Traverse,26055,FALSE,FALSE,America/Detroit
+49638,44.29045,-85.75115,Harrietta,MI,Michigan,TRUE,,849,4.8,26165,Wexford,"{""26165"": ""91.5"", ""26101"": ""8.5""}",Wexford|Manistee,26165|26101,FALSE,FALSE,America/Detroit
+49639,43.84591,-85.39842,Hersey,MI,Michigan,TRUE,,2253,14.5,26133,Osceola,"{""26133"": ""77.28"", ""26107"": ""22.72""}",Osceola|Mecosta,26133|26107,FALSE,FALSE,America/Detroit
+49640,44.716,-86.03671,Honor,MI,Michigan,TRUE,,1610,10.4,26019,Benzie,"{""26019"": ""100""}",Benzie,26019,FALSE,FALSE,America/Detroit
+49642,43.86676,-85.76056,Idlewild,MI,Michigan,TRUE,,771,16.4,26085,Lake,"{""26085"": ""100""}",Lake,26085,FALSE,FALSE,America/Detroit
+49643,44.63959,-85.83375,Interlochen,MI,Michigan,TRUE,,6956,47.8,26055,Grand Traverse,"{""26055"": ""67.94"", ""26019"": ""32.06""}",Grand Traverse|Benzie,26055|26019,FALSE,FALSE,America/Detroit
+49644,44.10623,-85.92203,Irons,MI,Michigan,TRUE,,2152,7.2,26085,Lake,"{""26085"": ""94.05"", ""26101"": ""5.85"", ""26105"": ""0.1""}",Lake|Manistee|Mason,26085|26101|26105,FALSE,FALSE,America/Detroit
+49645,44.36961,-86.02592,Kaleva,MI,Michigan,TRUE,,1608,15.5,26101,Manistee,"{""26101"": ""100""}",Manistee,26101,FALSE,FALSE,America/Detroit
+49646,44.72786,-85.05866,Kalkaska,MI,Michigan,TRUE,,8252,14.4,26079,Kalkaska,"{""26079"": ""100""}",Kalkaska,26079,FALSE,FALSE,America/Detroit
+49648,44.98464,-85.34315,Kewadin,MI,Michigan,TRUE,,2240,32.5,26009,Antrim,"{""26009"": ""100""}",Antrim,26009,FALSE,FALSE,America/Detroit
+49649,44.56775,-85.53483,Kingsley,MI,Michigan,TRUE,,7101,26.4,26055,Grand Traverse,"{""26055"": ""97.88"", ""26165"": ""2.12""}",Grand Traverse|Wexford,26055|26165,FALSE,FALSE,America/Detroit
+49650,44.73314,-85.87878,Lake Ann,MI,Michigan,TRUE,,3295,51.7,26019,Benzie,"{""26019"": ""100""}",Benzie,26019,FALSE,FALSE,America/Detroit
+49651,44.39399,-85.11292,Lake City,MI,Michigan,TRUE,,7838,13.5,26113,Missaukee,"{""26113"": ""100""}",Missaukee,26113,FALSE,FALSE,America/Detroit
+49653,44.97548,-85.73205,Lake Leelanau,MI,Michigan,TRUE,,1969,27.3,26089,Leelanau,"{""26089"": ""100""}",Leelanau,26089,FALSE,FALSE,America/Detroit
+49654,45.07933,-85.98983,Leland,MI,Michigan,TRUE,,424,4.7,26089,Leelanau,"{""26089"": ""100""}",Leelanau,26089,FALSE,FALSE,America/Detroit
+49655,44.02602,-85.44344,Leroy,MI,Michigan,TRUE,,3538,15.2,26133,Osceola,"{""26133"": ""94.52"", ""26085"": ""5.48""}",Osceola|Lake,26133|26085,FALSE,FALSE,America/Detroit
+49656,44.06554,-85.69763,Luther,MI,Michigan,TRUE,,1667,5.1,26085,Lake,"{""26085"": ""100""}",Lake,26085,FALSE,FALSE,America/Detroit
+49657,44.21434,-85.17354,McBain,MI,Michigan,TRUE,,3704,14.8,26113,Missaukee,"{""26113"": ""100""}",Missaukee,26113,FALSE,FALSE,America/Detroit
+49659,44.89941,-85.02408,Mancelona,MI,Michigan,TRUE,,6809,15.9,26009,Antrim,"{""26009"": ""78.64"", ""26079"": ""21.36""}",Antrim|Kalkaska,26009|26079,FALSE,FALSE,America/Detroit
+49660,44.22586,-86.20635,Manistee,MI,Michigan,TRUE,,14202,29.4,26101,Manistee,"{""26101"": ""95.92"", ""26105"": ""4.08""}",Manistee|Mason,26101|26105,FALSE,FALSE,America/Detroit
+49663,44.42993,-85.38848,Manton,MI,Michigan,TRUE,,6205,14.1,26165,Wexford,"{""26165"": ""79.79"", ""26113"": ""20.21""}",Wexford|Missaukee,26165|26113,FALSE,FALSE,America/Detroit
+49664,44.87029,-85.89005,Maple City,MI,Michigan,TRUE,,1848,12.3,26089,Leelanau,"{""26089"": ""100""}",Leelanau,26089,FALSE,FALSE,America/Detroit
+49665,44.09683,-85.12696,Marion,MI,Michigan,TRUE,,4150,10.2,26133,Osceola,"{""26133"": ""81.83"", ""26035"": ""12.26"", ""26113"": ""5.91""}",Osceola|Clare|Missaukee,26133|26035|26113,FALSE,FALSE,America/Detroit
+49666,44.62204,-85.55408,Mayfield,MI,Michigan,TRUE,,245,37.4,26055,Grand Traverse,"{""26055"": ""100""}",Grand Traverse,26055,FALSE,FALSE,America/Detroit
+49667,44.36653,-84.91323,Merritt,MI,Michigan,TRUE,,514,2.5,26113,Missaukee,"{""26113"": ""100""}",Missaukee,26113,FALSE,FALSE,America/Detroit
+49668,44.40582,-85.7044,Mesick,MI,Michigan,TRUE,,3404,12.4,26165,Wexford,"{""26165"": ""99.61"", ""26101"": ""0.39""}",Wexford|Manistee,26165|26101,FALSE,FALSE,America/Detroit
+49670,45.16042,-85.65145,Northport,MI,Michigan,TRUE,,1963,16.4,26089,Leelanau,"{""26089"": ""100""}",Leelanau,26089,FALSE,FALSE,America/Detroit
+49674,45.05225,-85.59331,Omena,MI,Michigan,TRUE,,53,12.7,26089,Leelanau,"{""26089"": ""100""}",Leelanau,26089,FALSE,FALSE,America/Detroit
+49675,44.37615,-86.21656,Onekama,MI,Michigan,TRUE,,993,31.8,26101,Manistee,"{""26101"": ""100""}",Manistee,26101,FALSE,FALSE,America/Detroit
+49676,44.83306,-85.2892,Rapid City,MI,Michigan,TRUE,,3686,33,26079,Kalkaska,"{""26079"": ""67.27"", ""26009"": ""32.73""}",Kalkaska|Antrim,26079|26009,FALSE,FALSE,America/Detroit
+49677,43.89683,-85.54827,Reed City,MI,Michigan,TRUE,,7155,20.9,26133,Osceola,"{""26133"": ""81.86"", ""26085"": ""14.49"", ""26123"": ""3.65""}",Osceola|Lake|Newaygo,26133|26085|26123,FALSE,FALSE,America/Detroit
+49679,43.87765,-85.14647,Sears,MI,Michigan,TRUE,,1291,9.1,26133,Osceola,"{""26133"": ""86.76"", ""26107"": ""13.24""}",Osceola|Mecosta,26133|26107,FALSE,FALSE,America/Detroit
+49680,44.64121,-85.25244,South Boardman,MI,Michigan,TRUE,,1927,14.3,26079,Kalkaska,"{""26079"": ""99.9"", ""26055"": ""0.1""}",Kalkaska|Grand Traverse,26079|26055,FALSE,FALSE,America/Detroit
+49682,44.97877,-85.65001,Suttons Bay,MI,Michigan,TRUE,,4068,42.7,26089,Leelanau,"{""26089"": ""100""}",Leelanau,26089,FALSE,FALSE,America/Detroit
+49683,44.53935,-85.9306,Thompsonville,MI,Michigan,TRUE,,2135,9.6,26019,Benzie,"{""26019"": ""60.29"", ""26101"": ""34.19"", ""26055"": ""5.52""}",Benzie|Manistee|Grand Traverse,26019|26101|26055,FALSE,FALSE,America/Detroit
+49684,44.75802,-85.70845,Traverse City,MI,Michigan,TRUE,,40681,155.9,26055,Grand Traverse,"{""26055"": ""83.97"", ""26089"": ""15.07"", ""26019"": ""0.95""}",Grand Traverse|Leelanau|Benzie,26055|26089|26019,FALSE,FALSE,America/Detroit
+49686,44.73572,-85.50303,Traverse City,MI,Michigan,TRUE,,33459,107.4,26055,Grand Traverse,"{""26055"": ""100""}",Grand Traverse,26055,FALSE,FALSE,America/Detroit
+49688,44.12052,-85.44678,Tustin,MI,Michigan,TRUE,,2503,10,26133,Osceola,"{""26133"": ""93.16"", ""26085"": ""5.73"", ""26165"": ""1.11""}",Osceola|Lake|Wexford,26133|26085|26165,FALSE,FALSE,America/Detroit
+49689,44.21424,-85.90753,Wellston,MI,Michigan,TRUE,,1437,7.1,26101,Manistee,"{""26101"": ""90.64"", ""26165"": ""9.36""}",Manistee|Wexford,26101|26165,FALSE,FALSE,America/Detroit
+49690,44.78224,-85.39565,Williamsburg,MI,Michigan,TRUE,,7036,35.4,26055,Grand Traverse,"{""26055"": ""88.56"", ""26009"": ""6"", ""26079"": ""5.44""}",Grand Traverse|Antrim|Kalkaska,26055|26009|26079,FALSE,FALSE,America/Detroit
+49701,45.75566,-84.72915,Mackinaw City,MI,Michigan,TRUE,,977,30,26047,Emmet,"{""26047"": ""58.69"", ""26031"": ""41.31""}",Emmet|Cheboygan,26047|26031,FALSE,FALSE,America/Detroit
+49705,45.35578,-84.46131,Afton,MI,Michigan,TRUE,,889,4.5,26031,Cheboygan,"{""26031"": ""100""}",Cheboygan,26031,FALSE,FALSE,America/Detroit
+49706,45.4403,-84.78045,Alanson,MI,Michigan,TRUE,,4300,26.6,26047,Emmet,"{""26047"": ""82.01"", ""26031"": ""17.99""}",Emmet|Cheboygan,26047|26031,FALSE,FALSE,America/Detroit
+49707,45.0916,-83.49648,Alpena,MI,Michigan,TRUE,,21771,38.9,26007,Alpena,"{""26007"": ""97.54"", ""26141"": ""2.46""}",Alpena|Presque Isle,26007|26141,FALSE,FALSE,America/Detroit
+49709,45.01522,-84.15842,Atlanta,MI,Michigan,TRUE,,3549,6,26119,Montmorency,"{""26119"": ""100""}",Montmorency,26119,FALSE,FALSE,America/Detroit
+49710,46.28343,-84.18837,Barbeau,MI,Michigan,TRUE,,383,4.1,26033,Chippewa,"{""26033"": ""100""}",Chippewa,26033,FALSE,FALSE,America/Detroit
+49712,45.21009,-85.00996,Boyne City,MI,Michigan,TRUE,,8026,43.2,26029,Charlevoix,"{""26029"": ""98.37"", ""26009"": ""1.63""}",Charlevoix|Antrim,26029|26009,FALSE,FALSE,America/Detroit
+49713,45.21434,-84.85253,Boyne Falls,MI,Michigan,TRUE,,2099,8.2,26029,Charlevoix,"{""26029"": ""95.06"", ""26047"": ""4.4"", ""26009"": ""0.54""}",Charlevoix|Emmet|Antrim,26029|26047|26009,FALSE,FALSE,America/Detroit
+49715,46.3875,-84.70636,Brimley,MI,Michigan,TRUE,,3499,7.4,26033,Chippewa,"{""26033"": ""100""}",Chippewa,26033,FALSE,FALSE,America/Detroit
+49716,45.51117,-84.74935,Brutus,MI,Michigan,TRUE,,1012,16.2,26047,Emmet,"{""26047"": ""70.84"", ""26031"": ""29.16""}",Emmet|Cheboygan,26047|26031,FALSE,FALSE,America/Detroit
+49717,45.439,-84.69817,Burt Lake,MI,Michigan,TRUE,,111,46.8,26031,Cheboygan,"{""26031"": ""100""}",Cheboygan,26031,FALSE,FALSE,America/Detroit
+49718,45.7204,-84.8317,Carp Lake,MI,Michigan,TRUE,,632,4.9,26047,Emmet,"{""26047"": ""91.3"", ""26031"": ""8.7""}",Emmet|Cheboygan,26047|26031,FALSE,FALSE,America/Detroit
+49719,46.0093,-84.32334,Cedarville,MI,Michigan,TRUE,,1176,7.8,26097,Mackinac,"{""26097"": ""100""}",Mackinac,26097,FALSE,FALSE,America/Detroit
+49720,45.27545,-85.23947,Charlevoix,MI,Michigan,TRUE,,8766,35.4,26029,Charlevoix,"{""26029"": ""97.17"", ""26009"": ""2.83""}",Charlevoix|Antrim,26029|26009,FALSE,FALSE,America/Detroit
+49721,45.57899,-84.45895,Cheboygan,MI,Michigan,TRUE,,14164,21.1,26031,Cheboygan,"{""26031"": ""100""}",Cheboygan,26031,FALSE,FALSE,America/Detroit
+49722,45.42349,-84.86324,Conway,MI,Michigan,TRUE,,306,178,26047,Emmet,"{""26047"": ""100""}",Emmet,26047,FALSE,FALSE,America/Detroit
+49724,46.32697,-84.38785,Dafter,MI,Michigan,TRUE,,1135,7.9,26033,Chippewa,"{""26033"": ""100""}",Chippewa,26033,FALSE,FALSE,America/Detroit
+49725,45.99858,-84.0289,De Tour Village,MI,Michigan,TRUE,,680,5.5,26033,Chippewa,"{""26033"": ""100""}",Chippewa,26033,FALSE,FALSE,America/Detroit
+49726,46.0016,-83.66243,Drummond Island,MI,Michigan,TRUE,,1051,3.2,26033,Chippewa,"{""26033"": ""100""}",Chippewa,26033,FALSE,FALSE,America/Detroit
+49727,45.13063,-85.10348,East Jordan,MI,Michigan,TRUE,,7312,21.9,26029,Charlevoix,"{""26029"": ""76.74"", ""26009"": ""23.26""}",Charlevoix|Antrim,26029|26009,FALSE,FALSE,America/Detroit
+49728,46.39445,-85.01704,Eckerman,MI,Michigan,TRUE,,274,0.6,26033,Chippewa,"{""26033"": ""100""}",Chippewa,26033,FALSE,FALSE,America/Detroit
+49729,45.16162,-85.28369,Ellsworth,MI,Michigan,TRUE,,1573,16.1,26009,Antrim,"{""26009"": ""88.66"", ""26029"": ""11.34""}",Antrim|Charlevoix,26009|26029,FALSE,FALSE,America/Detroit
+49730,45.046,-84.87388,Elmira,MI,Michigan,TRUE,,2234,9.2,26009,Antrim,"{""26009"": ""55.74"", ""26137"": ""24.51"", ""26029"": ""19.75""}",Antrim|Otsego|Charlevoix,26009|26137|26029,FALSE,FALSE,America/Detroit
+49733,44.80858,-84.70122,Frederic,MI,Michigan,TRUE,,2078,6.3,26039,Crawford,"{""26039"": ""76.28"", ""26137"": ""23.72""}",Crawford|Otsego,26039|26137,FALSE,FALSE,America/Detroit
+49735,44.99526,-84.67103,Gaylord,MI,Michigan,TRUE,,19744,30.4,26137,Otsego,"{""26137"": ""100""}",Otsego,26137,FALSE,FALSE,America/Detroit
+49736,46.07216,-84.14056,Goetzville,MI,Michigan,TRUE,,475,2.3,26033,Chippewa,"{""26033"": ""100""}",Chippewa,26033,FALSE,FALSE,America/Detroit
+49738,44.69373,-84.60635,Grayling,MI,Michigan,TRUE,,9854,13,26039,Crawford,"{""26039"": ""97.76"", ""26079"": ""2.04"", ""26137"": ""0.2""}",Crawford|Kalkaska|Otsego,26039|26079|26137,FALSE,FALSE,America/Detroit
+49740,45.52448,-85.00071,Harbor Springs,MI,Michigan,TRUE,,7046,22,26047,Emmet,"{""26047"": ""100""}",Emmet,26047,FALSE,FALSE,America/Detroit
+49743,45.27349,-83.89646,Hawks,MI,Michigan,TRUE,,766,3.3,26141,Presque Isle,"{""26141"": ""100""}",Presque Isle,26141,FALSE,FALSE,America/Detroit
+49744,45.00018,-83.66623,Herron,MI,Michigan,TRUE,,740,8.1,26007,Alpena,"{""26007"": ""100""}",Alpena,26007,FALSE,FALSE,America/Detroit
+49745,46.05191,-84.53123,Hessel,MI,Michigan,TRUE,,973,4.8,26097,Mackinac,"{""26097"": ""100""}",Mackinac,26097,FALSE,FALSE,America/Detroit
+49746,45.06388,-83.95317,Hillman,MI,Michigan,TRUE,,3316,6,26119,Montmorency,"{""26119"": ""89.72"", ""26007"": ""10.28""}",Montmorency|Alpena,26119|26007,FALSE,FALSE,America/Detroit
+49747,44.85112,-83.64207,Hubbard Lake,MI,Michigan,TRUE,,1953,7.8,26007,Alpena,"{""26007"": ""61.32"", ""26001"": ""38.68""}",Alpena|Alcona,26007|26001,FALSE,FALSE,America/Detroit
+49748,46.37799,-85.19108,Hulbert,MI,Michigan,TRUE,,171,0.6,26033,Chippewa,"{""26033"": ""98.82"", ""26095"": ""1.18""}",Chippewa|Luce,26033|26095,FALSE,FALSE,America/Detroit
+49749,45.41967,-84.57446,Indian River,MI,Michigan,TRUE,,3958,21,26031,Cheboygan,"{""26031"": ""100""}",Cheboygan,26031,FALSE,FALSE,America/Detroit
+49751,44.99838,-84.41512,Johannesburg,MI,Michigan,TRUE,,2021,5.1,26137,Otsego,"{""26137"": ""87.49"", ""26119"": ""12.51""}",Otsego|Montmorency,26137|26119,FALSE,FALSE,America/Detroit
+49752,46.28287,-84.46843,Kinross,MI,Michigan,TRUE,,912,13.7,26033,Chippewa,"{""26033"": ""100""}",Chippewa,26033,FALSE,FALSE,America/Detroit
+49753,45.01889,-83.77221,Lachine,MI,Michigan,TRUE,,2075,4.7,26007,Alpena,"{""26007"": ""100""}",Alpena,26007,FALSE,FALSE,America/Detroit
+49755,45.63581,-84.80027,Levering,MI,Michigan,TRUE,,1978,7.7,26047,Emmet,"{""26047"": ""81.13"", ""26031"": ""18.87""}",Emmet|Cheboygan,26047|26031,FALSE,FALSE,America/Detroit
+49756,44.82343,-84.28073,Lewiston,MI,Michigan,TRUE,,3599,8.5,26119,Montmorency,"{""26119"": ""65.57"", ""26135"": ""32.54"", ""26137"": ""1.58"", ""26039"": ""0.31""}",Montmorency|Oscoda|Otsego|Crawford,26119|26135|26137|26039,FALSE,FALSE,America/Detroit
+49757,45.85933,-84.62533,Mackinac Island,MI,Michigan,TRUE,,1072,95.1,26097,Mackinac,"{""26097"": ""100""}",Mackinac,26097,FALSE,FALSE,America/Detroit
+49759,45.41794,-84.09842,Millersburg,MI,Michigan,TRUE,,1520,3.9,26141,Presque Isle,"{""26141"": ""100""}",Presque Isle,26141,FALSE,FALSE,America/Detroit
+49760,46.05368,-84.89498,Moran,MI,Michigan,TRUE,,647,1.7,26097,Mackinac,"{""26097"": ""100""}",Mackinac,26097,FALSE,FALSE,America/Detroit
+49762,46.13871,-85.26754,Naubinway,MI,Michigan,TRUE,,615,1.1,26097,Mackinac,"{""26097"": ""100""}",Mackinac,26097,FALSE,FALSE,America/Detroit
+49764,45.42431,-84.82766,Oden,MI,Michigan,TRUE,,363,2355.1,26047,Emmet,"{""26047"": ""100""}",Emmet,26047,FALSE,FALSE,America/Detroit
+49765,45.32844,-84.24545,Onaway,MI,Michigan,TRUE,,3771,5.8,26141,Presque Isle,"{""26141"": ""62.83"", ""26031"": ""37.17""}",Presque Isle|Cheboygan,26141|26031,FALSE,FALSE,America/Detroit
+49766,44.90578,-83.44709,Ossineke,MI,Michigan,TRUE,,2304,20.1,26007,Alpena,"{""26007"": ""100""}",Alpena,26007,FALSE,FALSE,America/Detroit
+49768,46.64427,-85.13305,Paradise,MI,Michigan,TRUE,,448,1.1,26033,Chippewa,"{""26033"": ""100""}",Chippewa,26033,FALSE,FALSE,America/Detroit
+49769,45.56748,-84.85911,Pellston,MI,Michigan,TRUE,,1671,12.1,26047,Emmet,"{""26047"": ""92.15"", ""26031"": ""7.85""}",Emmet|Cheboygan,26047|26031,FALSE,FALSE,America/Detroit
+49770,45.34405,-84.88842,Petoskey,MI,Michigan,TRUE,,17045,60,26047,Emmet,"{""26047"": ""98.34"", ""26029"": ""1.66""}",Emmet|Charlevoix,26047|26029,FALSE,FALSE,America/Detroit
+49774,46.15693,-84.34679,Pickford,MI,Michigan,TRUE,,1772,4.2,26033,Chippewa,"{""26033"": ""80.28"", ""26097"": ""19.72""}",Chippewa|Mackinac,26033|26097,FALSE,FALSE,America/Detroit
+49775,45.76941,-84.46333,Pointe Aux Pins,MI,Michigan,TRUE,,76,0.8,26097,Mackinac,"{""26097"": ""100""}",Mackinac,26097,FALSE,FALSE,America/Detroit
+49776,45.24542,-83.69068,Posen,MI,Michigan,TRUE,,1747,5.5,26141,Presque Isle,"{""26141"": ""78.28"", ""26007"": ""21.72""}",Presque Isle|Alpena,26141|26007,FALSE,FALSE,America/Detroit
+49777,45.2924,-83.51533,Presque Isle,MI,Michigan,TRUE,,1735,10.5,26141,Presque Isle,"{""26141"": ""100""}",Presque Isle,26141,FALSE,FALSE,America/Detroit
+49779,45.40153,-83.876,Rogers City,MI,Michigan,TRUE,,4448,14.2,26141,Presque Isle,"{""26141"": ""100""}",Presque Isle,26141,FALSE,FALSE,America/Detroit
+49780,46.2121,-84.72555,Rudyard,MI,Michigan,TRUE,,1882,2.4,26033,Chippewa,"{""26033"": ""95.53"", ""26097"": ""4.47""}",Chippewa|Mackinac,26033|26097,FALSE,FALSE,America/Detroit
+49781,45.95424,-84.78404,Saint Ignace,MI,Michigan,TRUE,,3587,17.6,26097,Mackinac,"{""26097"": ""100""}",Mackinac,26097,FALSE,FALSE,America/Detroit
+49782,45.68297,-85.54832,Beaver Island,MI,Michigan,TRUE,,577,3.1,26029,Charlevoix,"{""26029"": ""100""}",Charlevoix,26029,FALSE,FALSE,America/Detroit
+49783,46.41474,-84.28349,Sault Sainte Marie,MI,Michigan,TRUE,,19270,49.3,26033,Chippewa,"{""26033"": ""100""}",Chippewa,26033,FALSE,FALSE,America/Detroit
+49788,46.264,-84.46748,Kincheloe,MI,Michigan,TRUE,,5998,298.8,26033,Chippewa,"{""26033"": ""100""}",Chippewa,26033,FALSE,FALSE,America/Detroit
+49791,45.48686,-84.59583,Topinabee,MI,Michigan,TRUE,,375,134.4,26031,Cheboygan,"{""26031"": ""100""}",Cheboygan,26031,FALSE,FALSE,America/Detroit
+49793,46.2092,-85.06095,Trout Lake,MI,Michigan,TRUE,,186,1.2,26033,Chippewa,"{""26033"": ""98.76"", ""26097"": ""1.24""}",Chippewa|Mackinac,26033|26097,FALSE,FALSE,America/Detroit
+49795,45.15877,-84.57657,Vanderbilt,MI,Michigan,TRUE,,1937,5.7,26137,Otsego,"{""26137"": ""82.98"", ""26031"": ""9.01"", ""26029"": ""8.01""}",Otsego|Cheboygan|Charlevoix,26137|26031|26029,FALSE,FALSE,America/Detroit
+49796,45.26286,-84.94535,Walloon Lake,MI,Michigan,TRUE,,283,53.9,26029,Charlevoix,"{""26029"": ""100""}",Charlevoix,26029,FALSE,FALSE,America/Detroit
+49799,45.26109,-84.58194,Wolverine,MI,Michigan,TRUE,,2240,7.8,26031,Cheboygan,"{""26031"": ""100""}",Cheboygan,26031,FALSE,FALSE,America/Detroit
+49801,45.96733,-87.98216,Iron Mountain,MI,Michigan,TRUE,,11306,29,26043,Dickinson,"{""26043"": ""100""}",Dickinson,26043,FALSE,FALSE,America/Menominee
+49802,45.80058,-88.07727,Kingsford,MI,Michigan,TRUE,,5981,291.5,26043,Dickinson,"{""26043"": ""100""}",Dickinson,26043,FALSE,FALSE,America/Menominee
+49805,47.35563,-88.36961,Allouez,MI,Michigan,TRUE,,359,4.6,26083,Keweenaw,"{""26083"": ""97.02"", ""26061"": ""2.98""}",Keweenaw|Houghton,26083|26061,FALSE,FALSE,America/Detroit
+49806,46.44251,-86.89667,Au Train,MI,Michigan,TRUE,,496,4.2,26003,Alger,"{""26003"": ""100""}",Alger,26003,FALSE,FALSE,America/Detroit
+49807,45.78476,-87.37235,Bark River,MI,Michigan,TRUE,,3581,6.6,26041,Delta,"{""26041"": ""79.59"", ""26109"": ""14.01"", ""26043"": ""6.4""}",Delta|Menominee|Dickinson,26041|26109|26043,FALSE,FALSE,America/Menominee
+49808,46.8126,-87.88242,Big Bay,MI,Michigan,TRUE,,223,0.5,26103,Marquette,"{""26103"": ""100""}",Marquette,26103,FALSE,FALSE,America/Detroit
+49812,45.59335,-87.49817,Carney,MI,Michigan,TRUE,,877,4.7,26109,Menominee,"{""26109"": ""100""}",Menominee,26109,FALSE,FALSE,America/Menominee
+49814,46.56817,-87.91206,Champion,MI,Michigan,TRUE,,1360,2.3,26103,Marquette,"{""26103"": ""100""}",Marquette,26103,FALSE,FALSE,America/Detroit
+49815,46.18673,-87.96492,Channing,MI,Michigan,TRUE,,281,0.9,26043,Dickinson,"{""26043"": ""100""}",Dickinson,26043,FALSE,FALSE,America/Menominee
+49816,46.28458,-86.89419,Chatham,MI,Michigan,TRUE,,749,5.2,26003,Alger,"{""26003"": ""100""}",Alger,26003,FALSE,FALSE,America/Detroit
+49817,45.96723,-86.4632,Cooks,MI,Michigan,TRUE,,575,2.4,26153,Schoolcraft,"{""26153"": ""87.48"", ""26041"": ""12.52""}",Schoolcraft|Delta,26153|26041,FALSE,FALSE,America/Detroit
+49818,45.97522,-87.3461,Cornell,MI,Michigan,TRUE,,1003,2.2,26041,Delta,"{""26041"": ""86.44"", ""26103"": ""13.56""}",Delta|Marquette,26041|26103,FALSE,FALSE,America/Detroit
+49819,46.09393,-87.47656,Arnold,MI,Michigan,TRUE,,27,0.8,26103,Marquette,"{""26103"": ""100""}",Marquette,26103,FALSE,FALSE,America/Detroit
+49820,46.20385,-85.69056,Curtis,MI,Michigan,TRUE,,294,5.6,26097,Mackinac,"{""26097"": ""100""}",Mackinac,26097,FALSE,FALSE,America/Detroit
+49821,45.53014,-87.63265,Daggett,MI,Michigan,TRUE,,1217,3.3,26109,Menominee,"{""26109"": ""100""}",Menominee,26109,FALSE,FALSE,America/Menominee
+49822,46.44231,-87.03984,Deerton,MI,Michigan,TRUE,,178,1.1,26003,Alger,"{""26003"": ""96.82"", ""26103"": ""3.18""}",Alger|Marquette,26003|26103,FALSE,FALSE,America/Detroit
+49825,46.34505,-86.98526,Eben Junction,MI,Michigan,TRUE,,211,3.6,26003,Alger,"{""26003"": ""100""}",Alger,26003,FALSE,FALSE,America/Detroit
+49826,46.34071,-87.03928,Rumely,MI,Michigan,TRUE,,271,7.3,26003,Alger,"{""26003"": ""100""}",Alger,26003,FALSE,FALSE,America/Detroit
+49827,46.16915,-85.55772,Engadine,MI,Michigan,TRUE,,1021,3.8,26097,Mackinac,"{""26097"": ""100""}",Mackinac,26097,FALSE,FALSE,America/Detroit
+49829,45.76353,-87.15961,Escanaba,MI,Michigan,TRUE,,16869,100,26041,Delta,"{""26041"": ""100""}",Delta,26041,FALSE,FALSE,America/Detroit
+49831,46.06707,-87.72935,Felch,MI,Michigan,TRUE,,824,2.7,26043,Dickinson,"{""26043"": ""92.18"", ""26103"": ""7.82""}",Dickinson|Marquette,26043|26103,FALSE,FALSE,America/Menominee
+49833,46.29185,-87.32754,Little Lake,MI,Michigan,TRUE,,178,8.5,26103,Marquette,"{""26103"": ""100""}",Marquette,26103,FALSE,FALSE,America/Detroit
+49834,45.94378,-87.75838,Foster City,MI,Michigan,TRUE,,221,2.4,26043,Dickinson,"{""26043"": ""100""}",Dickinson,26043,FALSE,FALSE,America/Menominee
+49835,45.73335,-86.58289,Garden,MI,Michigan,TRUE,,917,3.8,26041,Delta,"{""26041"": ""100""}",Delta,26041,FALSE,FALSE,America/Detroit
+49836,46.19793,-85.88414,Germfask,MI,Michigan,TRUE,,855,3.3,26153,Schoolcraft,"{""26153"": ""56.72"", ""26097"": ""43.28""}",Schoolcraft|Mackinac,26153|26097,FALSE,FALSE,America/Detroit
+49837,45.87446,-87.09707,Gladstone,MI,Michigan,TRUE,,9349,52.4,26041,Delta,"{""26041"": ""100""}",Delta,26041,FALSE,FALSE,America/Detroit
+49838,46.06199,-85.74746,Gould City,MI,Michigan,TRUE,,453,1.3,26097,Mackinac,"{""26097"": ""100""}",Mackinac,26097,FALSE,FALSE,America/Detroit
+49839,46.60785,-86.09856,Grand Marais,MI,Michigan,TRUE,,395,1.1,26003,Alger,"{""26003"": ""100""}",Alger,26003,FALSE,FALSE,America/Detroit
+49840,46.08795,-86.01775,Gulliver,MI,Michigan,TRUE,,603,1.3,26153,Schoolcraft,"{""26153"": ""100""}",Schoolcraft,26153,FALSE,FALSE,America/Detroit
+49841,46.27424,-87.47057,Gwinn,MI,Michigan,TRUE,,7276,14.6,26103,Marquette,"{""26103"": ""100""}",Marquette,26103,FALSE,FALSE,America/Detroit
+49847,45.7054,-87.63187,Hermansville,MI,Michigan,TRUE,,1058,6.9,26109,Menominee,"{""26109"": ""100""}",Menominee,26109,FALSE,FALSE,America/Menominee
+49848,45.37829,-87.63642,Ingalls,MI,Michigan,TRUE,,71,6.4,26109,Menominee,"{""26109"": ""100""}",Menominee,26109,FALSE,FALSE,America/Menominee
+49849,46.43127,-87.75311,Ishpeming,MI,Michigan,TRUE,,12412,16.8,26103,Marquette,"{""26103"": ""100""}",Marquette,26103,FALSE,FALSE,America/Detroit
+49852,45.78392,-87.81806,Loretto,MI,Michigan,TRUE,,105,171,26043,Dickinson,"{""26043"": ""100""}",Dickinson,26043,FALSE,FALSE,America/Menominee
+49853,46.35941,-85.74505,McMillan,MI,Michigan,TRUE,,1141,2.6,26095,Luce,"{""26095"": ""95.46"", ""26097"": ""4.54""}",Luce|Mackinac,26095|26097,FALSE,FALSE,America/Detroit
+49854,46.12581,-86.33788,Manistique,MI,Michigan,TRUE,,6271,4.7,26153,Schoolcraft,"{""26153"": ""99.21"", ""26041"": ""0.79""}",Schoolcraft|Delta,26153|26041,FALSE,FALSE,America/Detroit
+49855,46.57442,-87.46659,Marquette,MI,Michigan,TRUE,,33006,63.5,26103,Marquette,"{""26103"": ""99.93"", ""26003"": ""0.07""}",Marquette|Alger,26103|26003,FALSE,FALSE,America/Detroit
+49858,45.21945,-87.58409,Menominee,MI,Michigan,TRUE,,11647,52.4,26109,Menominee,"{""26109"": ""100""}",Menominee,26109,FALSE,FALSE,America/Menominee
+49861,46.56862,-88.16938,Michigamme,MI,Michigan,TRUE,,518,1,26103,Marquette,"{""26103"": ""52.92"", ""26013"": ""47.08""}",Marquette|Baraga,26103|26013,FALSE,FALSE,America/Detroit
+49862,46.37771,-86.70846,Munising,MI,Michigan,TRUE,,5163,12.1,26003,Alger,"{""26003"": ""100""}",Alger,26003,FALSE,FALSE,America/Detroit
+49863,45.61329,-87.55149,Nadeau,MI,Michigan,TRUE,,146,103.6,26109,Menominee,"{""26109"": ""100""}",Menominee,26109,FALSE,FALSE,America/Menominee
+49864,45.87145,-86.67261,Nahma,MI,Michigan,TRUE,,78,6.4,26041,Delta,"{""26041"": ""100""}",Delta,26041,FALSE,FALSE,America/Detroit
+49866,46.52135,-87.57875,Negaunee,MI,Michigan,TRUE,,8134,21.6,26103,Marquette,"{""26103"": ""100""}",Marquette,26103,FALSE,FALSE,America/Detroit
+49868,46.49368,-85.50573,Newberry,MI,Michigan,TRUE,,5293,2.9,26095,Luce,"{""26095"": ""100""}",Luce,26095,FALSE,FALSE,America/Detroit
+49870,45.86816,-87.90541,Norway,MI,Michigan,TRUE,,3301,23.2,26043,Dickinson,"{""26043"": ""100""}",Dickinson,26043,FALSE,FALSE,America/Menominee
+49871,46.42415,-87.53865,Palmer,MI,Michigan,TRUE,,558,16.5,26103,Marquette,"{""26103"": ""100""}",Marquette,26103,FALSE,FALSE,America/Detroit
+49872,46.02103,-87.08436,Perkins,MI,Michigan,TRUE,,166,3.4,26041,Delta,"{""26041"": ""100""}",Delta,26041,FALSE,FALSE,America/Detroit
+49873,45.87947,-87.53794,Perronville,MI,Michigan,TRUE,,93,0.2,26109,Menominee,"{""26109"": ""96.67"", ""26043"": ""3.33""}",Menominee|Dickinson,26109|26043,FALSE,FALSE,America/Menominee
+49874,45.70195,-87.50304,Powers,MI,Michigan,TRUE,,1011,9.9,26109,Menominee,"{""26109"": ""100""}",Menominee,26109,FALSE,FALSE,America/Menominee
+49876,45.80265,-87.98215,Quinnesec,MI,Michigan,TRUE,,1198,133.7,26043,Dickinson,"{""26043"": ""100""}",Dickinson,26043,FALSE,FALSE,America/Menominee
+49877,46.14909,-87.7089,Ralph,MI,Michigan,TRUE,,17,0.1,26043,Dickinson,"{""26043"": ""100""}",Dickinson,26043,FALSE,FALSE,America/Menominee
+49878,45.95738,-86.85514,Rapid River,MI,Michigan,TRUE,,3344,2.8,26041,Delta,"{""26041"": ""98.69"", ""26003"": ""1.31""}",Delta|Alger,26041|26003,FALSE,FALSE,America/Detroit
+49879,46.36208,-88.0317,Republic,MI,Michigan,TRUE,,975,2.7,26103,Marquette,"{""26103"": ""98.75"", ""26071"": ""1.25""}",Marquette|Iron,26103|26071,FALSE,FALSE,America/Detroit
+49880,46.11278,-87.22182,Rock,MI,Michigan,TRUE,,1013,1.8,26041,Delta,"{""26041"": ""72.68"", ""26103"": ""27.32""}",Delta|Marquette,26041|26103,FALSE,FALSE,America/Detroit
+49881,46.07835,-88.03349,Sagola,MI,Michigan,TRUE,,305,2.5,26043,Dickinson,"{""26043"": ""100""}",Dickinson,26043,FALSE,FALSE,America/Menominee
+49883,46.43518,-86.01333,Seney,MI,Michigan,TRUE,,118,0.2,26153,Schoolcraft,"{""26153"": ""83.44"", ""26003"": ""16.56""}",Schoolcraft|Alger,26153|26003,FALSE,FALSE,America/Detroit
+49884,46.42305,-86.33948,Shingleton,MI,Michigan,TRUE,,367,0.5,26003,Alger,"{""26003"": ""99.28"", ""26153"": ""0.72""}",Alger|Schoolcraft,26003|26153,FALSE,FALSE,America/Detroit
+49885,46.33662,-87.20744,Skandia,MI,Michigan,TRUE,,1871,4.9,26103,Marquette,"{""26103"": ""94.25"", ""26003"": ""5.75""}",Marquette|Alger,26103|26003,FALSE,FALSE,America/Detroit
+49886,45.73911,-87.52696,Spalding,MI,Michigan,TRUE,,553,13.7,26109,Menominee,"{""26109"": ""100""}",Menominee,26109,FALSE,FALSE,America/Menominee
+49887,45.43422,-87.56487,Stephenson,MI,Michigan,TRUE,,2594,4.7,26109,Menominee,"{""26109"": ""100""}",Menominee,26109,FALSE,FALSE,America/Menominee
+49891,46.22516,-87.01703,Trenary,MI,Michigan,TRUE,,673,3,26003,Alger,"{""26003"": ""100""}",Alger,26003,FALSE,FALSE,America/Detroit
+49892,45.78927,-87.78646,Vulcan,MI,Michigan,TRUE,,1877,4.4,26043,Dickinson,"{""26043"": ""87.32"", ""26109"": ""12.68""}",Dickinson|Menominee,26043|26109,FALSE,FALSE,America/Menominee
+49893,45.29686,-87.59794,Wallace,MI,Michigan,TRUE,,1399,7.2,26109,Menominee,"{""26109"": ""100""}",Menominee,26109,FALSE,FALSE,America/Menominee
+49894,45.78192,-87.07439,Wells,MI,Michigan,TRUE,,750,346.5,26041,Delta,"{""26041"": ""100""}",Delta,26041,FALSE,FALSE,America/Detroit
+49895,46.16752,-86.66583,Wetmore,MI,Michigan,TRUE,,652,1.2,26003,Alger,"{""26003"": ""69.28"", ""26041"": ""18.17"", ""26153"": ""12.55""}",Alger|Delta|Schoolcraft,26003|26041|26153,FALSE,FALSE,America/Detroit
+49896,45.67439,-87.38991,Wilson,MI,Michigan,TRUE,,1685,11.1,26109,Menominee,"{""26109"": ""100""}",Menominee,26109,FALSE,FALSE,America/Menominee
+49901,47.30785,-88.39524,Ahmeek,MI,Michigan,TRUE,,215,34.6,26083,Keweenaw,"{""26083"": ""100""}",Keweenaw,26083,FALSE,FALSE,America/Detroit
+49902,46.04303,-88.37986,Alpha,MI,Michigan,TRUE,,175,214.3,26071,Iron,"{""26071"": ""100""}",Iron,26071,FALSE,FALSE,America/Menominee
+49903,46.32813,-88.42991,Amasa,MI,Michigan,TRUE,,79,0.2,26071,Iron,"{""26071"": ""100""}",Iron,26071,FALSE,FALSE,America/Menominee
+49905,47.12377,-88.71648,Atlantic Mine,MI,Michigan,TRUE,,1986,12.9,26061,Houghton,"{""26061"": ""100""}",Houghton,26061,FALSE,FALSE,America/Detroit
+49908,46.76547,-88.5679,Baraga,MI,Michigan,TRUE,,3376,12.6,26013,Baraga,"{""26013"": ""100""}",Baraga,26013,FALSE,FALSE,America/Detroit
+49910,46.59851,-89.61275,Bergland,MI,Michigan,TRUE,,252,0.8,26131,Ontonagon,"{""26131"": ""100""}",Ontonagon,26131,FALSE,FALSE,America/Detroit
+49911,46.48999,-90.04988,Bessemer,MI,Michigan,TRUE,,2746,25.6,26053,Gogebic,"{""26053"": ""100""}",Gogebic,26053,FALSE,FALSE,America/Menominee
+49912,46.49436,-89.2028,Bruce Crossing,MI,Michigan,TRUE,,937,1.7,26131,Ontonagon,"{""26131"": ""100""}",Ontonagon,26131,FALSE,FALSE,America/Detroit
+49913,47.24374,-88.45654,Calumet,MI,Michigan,TRUE,,6516,35.9,26061,Houghton,"{""26061"": ""97.7"", ""26083"": ""2.3""}",Houghton|Keweenaw,26061|26083,FALSE,FALSE,America/Detroit
+49915,46.06511,-88.62197,Caspian,MI,Michigan,TRUE,,319,136.7,26071,Iron,"{""26071"": ""100""}",Iron,26071,FALSE,FALSE,America/Menominee
+49916,46.98011,-88.59177,Chassell,MI,Michigan,TRUE,,3014,10.9,26061,Houghton,"{""26061"": ""100""}",Houghton,26061,FALSE,FALSE,America/Detroit
+49917,47.28139,-88.35909,Copper City,MI,Michigan,TRUE,,197,44.3,26061,Houghton,"{""26061"": ""100""}",Houghton,26061,FALSE,FALSE,America/Detroit
+49918,47.43409,-87.83571,Copper Harbor,MI,Michigan,TRUE,,102,0.8,26083,Keweenaw,"{""26083"": ""100""}",Keweenaw,26083,FALSE,FALSE,America/Detroit
+49919,46.51861,-88.45585,Covington,MI,Michigan,TRUE,,179,0.6,26013,Baraga,"{""26013"": ""100""}",Baraga,26013,FALSE,FALSE,America/Detroit
+49920,46.15512,-88.29236,Crystal Falls,MI,Michigan,TRUE,,4144,3.8,26071,Iron,"{""26071"": ""100""}",Iron,26071,FALSE,FALSE,America/Menominee
+49921,47.09251,-88.58227,Dodgeville,MI,Michigan,TRUE,,389,366.7,26061,Houghton,"{""26061"": ""100""}",Houghton,26061,FALSE,FALSE,America/Detroit
+49922,47.10391,-88.48497,Dollar Bay,MI,Michigan,TRUE,,652,42.9,26061,Houghton,"{""26061"": ""100""}",Houghton,26061,FALSE,FALSE,America/Detroit
+49925,46.5448,-89.37248,Ewen,MI,Michigan,TRUE,,510,1.6,26131,Ontonagon,"{""26131"": ""100""}",Ontonagon,26131,FALSE,FALSE,America/Detroit
+49927,46.04518,-88.56439,Gaastra,MI,Michigan,TRUE,,475,10.5,26071,Iron,"{""26071"": ""100""}",Iron,26071,FALSE,FALSE,America/Menominee
+49929,46.79434,-89.10725,Greenland,MI,Michigan,TRUE,,230,5,26131,Ontonagon,"{""26131"": ""100""}",Ontonagon,26131,FALSE,FALSE,America/Detroit
+49930,47.16247,-88.53997,Hancock,MI,Michigan,TRUE,,7258,57.3,26061,Houghton,"{""26061"": ""100""}",Houghton,26061,FALSE,FALSE,America/Detroit
+49931,47.1305,-88.60379,Houghton,MI,Michigan,TRUE,,9600,131.1,26061,Houghton,"{""26061"": ""100""}",Houghton,26061,FALSE,FALSE,America/Detroit
+49934,47.17083,-88.43781,Hubbell,MI,Michigan,TRUE,,886,154.8,26061,Houghton,"{""26061"": ""100""}",Houghton,26061,FALSE,FALSE,America/Detroit
+49935,46.19924,-88.74481,Iron River,MI,Michigan,TRUE,,5896,4.8,26071,Iron,"{""26071"": ""100""}",Iron,26071,FALSE,FALSE,America/Menominee
+49938,46.53458,-90.11674,Ironwood,MI,Michigan,TRUE,,7483,12.1,26053,Gogebic,"{""26053"": ""100""}",Gogebic,26053,FALSE,FALSE,America/Menominee
+49942,47.27452,-88.4071,Kearsarge,MI,Michigan,TRUE,,368,139.4,26061,Houghton,"{""26061"": ""100""}",Houghton,26061,FALSE,FALSE,America/Detroit
+49945,47.18093,-88.29842,Lake Linden,MI,Michigan,TRUE,,2537,5.9,26061,Houghton,"{""26061"": ""97.1"", ""26083"": ""2.9""}",Houghton|Keweenaw,26061|26083,FALSE,FALSE,America/Detroit
+49946,46.70629,-88.3165,Lanse,MI,Michigan,TRUE,,3859,5.5,26013,Baraga,"{""26013"": ""100""}",Baraga,26013,FALSE,FALSE,America/Detroit
+49947,46.38709,-89.59717,Marenisco,MI,Michigan,TRUE,,1338,1.6,26053,Gogebic,"{""26053"": ""95.16"", ""26131"": ""4.84""}",Gogebic|Ontonagon,26053|26131,FALSE,FALSE,America/Menominee
+49948,46.72151,-89.01733,Mass City,MI,Michigan,TRUE,,593,1.7,26131,Ontonagon,"{""26131"": ""100""}",Ontonagon,26131,FALSE,FALSE,America/Detroit
+49950,47.38063,-88.11995,Mohawk,MI,Michigan,TRUE,,1206,2.6,26083,Keweenaw,"{""26083"": ""100""}",Keweenaw,26083,FALSE,FALSE,America/Detroit
+49952,46.69708,-88.78883,Nisula,MI,Michigan,TRUE,,111,0.7,26061,Houghton,"{""26061"": ""98.6"", ""26131"": ""1.4""}",Houghton|Ontonagon,26061|26131,FALSE,FALSE,America/Detroit
+49953,46.80404,-89.37181,Ontonagon,MI,Michigan,TRUE,,2329,2.1,26131,Ontonagon,"{""26131"": ""100""}",Ontonagon,26131,FALSE,FALSE,America/Detroit
+49955,47.00441,-88.70782,Painesdale,MI,Michigan,TRUE,,389,13.2,26061,Houghton,"{""26061"": ""100""}",Houghton,26061,FALSE,FALSE,America/Detroit
+49958,46.82582,-88.67424,Pelkie,MI,Michigan,TRUE,,740,2.4,26061,Houghton,"{""26061"": ""61.18"", ""26013"": ""38.82""}",Houghton|Baraga,26061|26013,FALSE,FALSE,America/Detroit
+49959,46.47064,-89.99838,Ramsay,MI,Michigan,TRUE,,342,186.4,26053,Gogebic,"{""26053"": ""100""}",Gogebic,26053,FALSE,FALSE,America/Menominee
+49960,46.71123,-89.25647,Rockland,MI,Michigan,TRUE,,160,1.5,26131,Ontonagon,"{""26131"": ""100""}",Ontonagon,26131,FALSE,FALSE,America/Detroit
+49961,46.52257,-88.72205,Sidnaw,MI,Michigan,TRUE,,109,0.7,26061,Houghton,"{""26061"": ""100""}",Houghton,26061,FALSE,FALSE,America/Detroit
+49962,46.83131,-88.15186,Skanee,MI,Michigan,TRUE,,237,0.9,26013,Baraga,"{""26013"": ""100""}",Baraga,26013,FALSE,FALSE,America/Detroit
+49963,47.05329,-88.66482,South Range,MI,Michigan,TRUE,,1000,32.2,26061,Houghton,"{""26061"": ""100""}",Houghton,26061,FALSE,FALSE,America/Detroit
+49965,46.95053,-88.85511,Toivola,MI,Michigan,TRUE,,690,1.3,26061,Houghton,"{""26061"": ""88.64"", ""26131"": ""11.36""}",Houghton|Ontonagon,26061|26131,FALSE,FALSE,America/Detroit
+49967,46.49554,-88.93683,Trout Creek,MI,Michigan,TRUE,,458,0.5,26131,Ontonagon,"{""26131"": ""66.46"", ""26061"": ""26.63"", ""26071"": ""6.91""}",Ontonagon|Houghton|Iron,26131|26061|26071,FALSE,FALSE,America/Detroit
+49968,46.49227,-89.893,Wakefield,MI,Michigan,TRUE,,1942,3,26053,Gogebic,"{""26053"": ""100""}",Gogebic,26053,FALSE,FALSE,America/Menominee
+49969,46.2463,-89.22106,Watersmeet,MI,Michigan,TRUE,,1259,1.9,26053,Gogebic,"{""26053"": ""100""}",Gogebic,26053,FALSE,FALSE,America/Menominee
+49970,46.5412,-88.60494,Watton,MI,Michigan,TRUE,,292,1.1,26013,Baraga,"{""26013"": ""100""}",Baraga,26013,FALSE,FALSE,America/Detroit
+49971,46.67711,-89.70132,White Pine,MI,Michigan,TRUE,,478,2,26131,Ontonagon,"{""26131"": ""100""}",Ontonagon,26131,FALSE,FALSE,America/Detroit

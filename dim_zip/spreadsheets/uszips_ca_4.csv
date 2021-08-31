@@ -1,0 +1,177 @@
+Column1,Column2,zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone
+538,31%,92518,33.88869,-117.27768,March Air Reserve Base,CA,California,TRUE,,1021,33.2,6065,Riverside,"{""06065"": ""100""}",Riverside,6065,FALSE,FALSE,America/Los_Angeles
+539,31%,92530,33.65051,-117.3751,Lake Elsinore,CA,California,TRUE,,58184,416.9,6065,Riverside,"{""06065"": ""99.97"", ""06059"": ""0.03""}",Riverside|Orange,06065|06059,FALSE,FALSE,America/Los_Angeles
+540,31%,92532,33.69279,-117.30327,Lake Elsinore,CA,California,TRUE,,25923,554.5,6065,Riverside,"{""06065"": ""100""}",Riverside,6065,FALSE,FALSE,America/Los_Angeles
+541,31%,92536,33.49288,-116.83491,Aguanga,CA,California,TRUE,,3076,9.5,6065,Riverside,"{""06065"": ""100""}",Riverside,6065,FALSE,FALSE,America/Los_Angeles
+542,31%,92539,33.5135,-116.64385,Anza,CA,California,TRUE,,4557,13.4,6065,Riverside,"{""06065"": ""100""}",Riverside,6065,FALSE,FALSE,America/Los_Angeles
+543,31%,92543,33.69821,-116.97686,Hemet,CA,California,TRUE,,38314,839.4,6065,Riverside,"{""06065"": ""100""}",Riverside,6065,FALSE,FALSE,America/Los_Angeles
+544,31%,92544,33.64626,-116.88199,Hemet,CA,California,TRUE,,49923,142,6065,Riverside,"{""06065"": ""100""}",Riverside,6065,FALSE,FALSE,America/Los_Angeles
+545,31%,92545,33.72967,-117.03417,Hemet,CA,California,TRUE,,41879,501.2,6065,Riverside,"{""06065"": ""100""}",Riverside,6065,FALSE,FALSE,America/Los_Angeles
+546,31%,92548,33.75866,-117.10946,Homeland,CA,California,TRUE,,7859,308.7,6065,Riverside,"{""06065"": ""100""}",Riverside,6065,FALSE,FALSE,America/Los_Angeles
+547,31%,92549,33.77046,-116.7441,Idyllwild,CA,California,TRUE,,2517,35.4,6065,Riverside,"{""06065"": ""100""}",Riverside,6065,FALSE,FALSE,America/Los_Angeles
+548,31%,92551,33.88145,-117.22614,Moreno Valley,CA,California,TRUE,,34011,2242.8,6065,Riverside,"{""06065"": ""100""}",Riverside,6065,FALSE,FALSE,America/Los_Angeles
+549,31%,92553,33.92338,-117.24486,Moreno Valley,CA,California,TRUE,,76102,2899.5,6065,Riverside,"{""06065"": ""100""}",Riverside,6065,FALSE,FALSE,America/Los_Angeles
+550,31%,92555,33.90109,-117.1184,Moreno Valley,CA,California,TRUE,,44452,212.7,6065,Riverside,"{""06065"": ""100""}",Riverside,6065,FALSE,FALSE,America/Los_Angeles
+551,31%,92557,33.9703,-117.25966,Moreno Valley,CA,California,TRUE,,53406,1097.6,6065,Riverside,"{""06065"": ""100""}",Riverside,6065,FALSE,FALSE,America/Los_Angeles
+552,31%,92561,33.64095,-116.61995,Mountain Center,CA,California,TRUE,,1462,3.6,6065,Riverside,"{""06065"": ""100""}",Riverside,6065,FALSE,FALSE,America/Los_Angeles
+553,31%,92562,33.55113,-117.34387,Murrieta,CA,California,TRUE,,64286,226.9,6065,Riverside,"{""06065"": ""100""}",Riverside,6065,FALSE,FALSE,America/Los_Angeles
+554,31%,92563,33.57996,-117.14579,Murrieta,CA,California,TRUE,,69469,1326.6,6065,Riverside,"{""06065"": ""100""}",Riverside,6065,FALSE,FALSE,America/Los_Angeles
+555,32%,92567,33.81232,-117.1048,Nuevo,CA,California,TRUE,,10648,139.4,6065,Riverside,"{""06065"": ""100""}",Riverside,6065,FALSE,FALSE,America/Los_Angeles
+556,32%,92570,33.7852,-117.31662,Perris,CA,California,TRUE,,60686,240.8,6065,Riverside,"{""06065"": ""100""}",Riverside,6065,FALSE,FALSE,America/Los_Angeles
+557,32%,92571,33.82427,-117.20462,Perris,CA,California,TRUE,,57622,985.5,6065,Riverside,"{""06065"": ""100""}",Riverside,6065,FALSE,FALSE,America/Los_Angeles
+558,32%,92582,33.80584,-117.01947,San Jacinto,CA,California,TRUE,,17219,359.1,6065,Riverside,"{""06065"": ""100""}",Riverside,6065,FALSE,FALSE,America/Los_Angeles
+559,32%,92583,33.79684,-116.93249,San Jacinto,CA,California,TRUE,,32697,443.3,6065,Riverside,"{""06065"": ""100""}",Riverside,6065,FALSE,FALSE,America/Los_Angeles
+560,32%,92584,33.6616,-117.1755,Menifee,CA,California,TRUE,,54235,702.2,6065,Riverside,"{""06065"": ""100""}",Riverside,6065,FALSE,FALSE,America/Los_Angeles
+561,32%,92585,33.74669,-117.17214,Menifee,CA,California,TRUE,,21907,416.5,6065,Riverside,"{""06065"": ""100""}",Riverside,6065,FALSE,FALSE,America/Los_Angeles
+562,32%,92586,33.70901,-117.19889,Menifee,CA,California,TRUE,,19472,1064.9,6065,Riverside,"{""06065"": ""100""}",Riverside,6065,FALSE,FALSE,America/Los_Angeles
+563,32%,92587,33.69509,-117.25294,Menifee,CA,California,TRUE,,17237,842.2,6065,Riverside,"{""06065"": ""100""}",Riverside,6065,FALSE,FALSE,America/Los_Angeles
+564,32%,92590,33.48466,-117.22262,Temecula,CA,California,TRUE,,5154,37.2,6065,Riverside,"{""06065"": ""100""}",Riverside,6065,FALSE,FALSE,America/Los_Angeles
+565,32%,92591,33.53523,-117.10482,Temecula,CA,California,TRUE,,41609,975.6,6065,Riverside,"{""06065"": ""100""}",Riverside,6065,FALSE,FALSE,America/Los_Angeles
+566,32%,92592,33.5111,-117.03089,Temecula,CA,California,TRUE,,84930,337.3,6065,Riverside,"{""06065"": ""100""}",Riverside,6065,FALSE,FALSE,America/Los_Angeles
+567,32%,92595,33.61787,-117.2593,Wildomar,CA,California,TRUE,,33649,617,6065,Riverside,"{""06065"": ""100""}",Riverside,6065,FALSE,FALSE,America/Los_Angeles
+568,32%,92596,33.64367,-117.07644,Winchester,CA,California,TRUE,,32256,203.4,6065,Riverside,"{""06065"": ""100""}",Riverside,6065,FALSE,FALSE,America/Los_Angeles
+569,32%,92602,33.74582,-117.74867,Irvine,CA,California,TRUE,,23238,860.8,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+570,32%,92603,33.62447,-117.78875,Irvine,CA,California,TRUE,,19558,570,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+571,32%,92604,33.68814,-117.78888,Irvine,CA,California,TRUE,,28990,3322.4,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+572,32%,92606,33.70043,-117.81724,Irvine,CA,California,TRUE,,26171,2089.1,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+573,33%,92610,33.6961,-117.67606,Foothill Ranch,CA,California,TRUE,,16360,642.5,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+574,33%,92612,33.66077,-117.82642,Irvine,CA,California,TRUE,,33234,2113.9,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+575,33%,92614,33.68165,-117.83293,Irvine,CA,California,TRUE,,27187,2367.6,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+576,33%,92617,33.6425,-117.84169,Irvine,CA,California,TRUE,,17197,2762.7,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+577,33%,92618,33.66816,-117.73421,Irvine,CA,California,TRUE,,48997,893.8,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+578,33%,92620,33.7126,-117.75069,Irvine,CA,California,TRUE,,52569,2875.4,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+579,33%,92624,33.45927,-117.66566,Capistrano Beach,CA,California,TRUE,,6372,1771.3,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+580,33%,92625,33.60216,-117.86558,Corona Del Mar,CA,California,TRUE,,12394,1863.1,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+581,33%,92626,33.67893,-117.90842,Costa Mesa,CA,California,TRUE,,50605,2008,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+582,33%,92627,33.64788,-117.92044,Costa Mesa,CA,California,TRUE,,63161,3825.5,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+583,33%,92629,33.47671,-117.70459,Dana Point,CA,California,TRUE,,26877,2063.2,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+584,33%,92630,33.64467,-117.68518,Lake Forest,CA,California,TRUE,,59403,2407.1,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+585,33%,92637,33.61015,-117.73166,Laguna Woods,CA,California,TRUE,,16053,1768.7,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+586,33%,92646,33.66538,-117.96762,Huntington Beach,CA,California,TRUE,,55870,2633.2,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+587,33%,92647,33.72342,-118.00667,Huntington Beach,CA,California,TRUE,,62199,3099.6,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+588,33%,92648,33.68244,-118.01244,Huntington Beach,CA,California,TRUE,,46228,2220.1,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+589,33%,92649,33.72635,-118.05096,Huntington Beach,CA,California,TRUE,,35278,1781.6,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+590,34%,92651,33.55926,-117.77647,Laguna Beach,CA,California,TRUE,,24800,492.1,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+591,34%,92653,33.59159,-117.69847,Laguna Hills,CA,California,TRUE,,30012,1728.6,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+592,34%,92655,33.74514,-117.98493,Midway City,CA,California,TRUE,,8382,5119.2,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+593,34%,92656,33.57622,-117.73039,Aliso Viejo,CA,California,TRUE,,52268,2452.3,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+594,34%,92657,33.59561,-117.83209,Newport Coast,CA,California,TRUE,,9802,512.1,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+595,34%,92660,33.63374,-117.87449,Newport Beach,CA,California,TRUE,,35446,1400.9,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+596,34%,92661,33.60262,-117.90038,Newport Beach,CA,California,TRUE,,3445,2042.4,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+597,34%,92662,33.60547,-117.89204,Newport Beach,CA,California,TRUE,,2519,4670,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+598,34%,92663,33.62365,-117.93046,Newport Beach,CA,California,TRUE,,21951,2561,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+599,34%,92672,33.42989,-117.60933,San Clemente,CA,California,TRUE,,34218,1662,6059,Orange,"{""06059"": ""99.22"", ""06073"": ""0.78""}",Orange|San Diego,06059|06073,FALSE,FALSE,America/Los_Angeles
+600,34%,92673,33.46688,-117.61209,San Clemente,CA,California,TRUE,,30768,1023.3,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+601,34%,92675,33.50209,-117.60457,San Juan Capistrano,CA,California,TRUE,,38803,429.2,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+602,34%,92676,33.75037,-117.63463,Silverado,CA,California,TRUE,,2068,12,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+603,34%,92677,33.52765,-117.7052,Laguna Niguel,CA,California,TRUE,,66314,1533.3,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+604,34%,92678,33.68469,-117.52655,Trabuco Canyon,CA,California,TRUE,,584,15,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+605,34%,92679,33.63389,-117.58962,Trabuco Canyon,CA,California,TRUE,,32657,557.5,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+606,34%,92683,33.75252,-117.99406,Westminster,CA,California,TRUE,,91105,3516.2,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+607,34%,92688,33.62008,-117.61231,Rancho Santa Margarita,CA,California,TRUE,,44832,1587.6,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+608,35%,92691,33.61064,-117.66626,Mission Viejo,CA,California,TRUE,,50839,2229.9,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+609,35%,92692,33.60678,-117.64304,Mission Viejo,CA,California,TRUE,,46800,1834.1,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+610,35%,92694,33.54724,-117.62373,Ladera Ranch,CA,California,TRUE,,29570,1202.5,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+611,35%,92701,33.74819,-117.85844,Santa Ana,CA,California,TRUE,,55058,6504.4,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+612,35%,92703,33.7487,-117.90607,Santa Ana,CA,California,TRUE,,69112,6460.7,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+613,35%,92704,33.72052,-117.90808,Santa Ana,CA,California,TRUE,,88321,4539.9,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+614,35%,92705,33.75566,-117.81639,Santa Ana,CA,California,TRUE,,47298,1580.2,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+615,35%,92706,33.76591,-117.8822,Santa Ana,CA,California,TRUE,,35748,3902.1,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+616,35%,92707,33.70986,-117.87089,Santa Ana,CA,California,TRUE,,60831,4694.9,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+617,35%,92708,33.71052,-117.9512,Fountain Valley,CA,California,TRUE,,56953,2403.4,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+618,35%,92780,33.73402,-117.81916,Tustin,CA,California,TRUE,,59499,3284.9,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+619,35%,92782,33.7397,-117.78471,Tustin,CA,California,TRUE,,23084,2651,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+620,35%,92801,33.84444,-117.95222,Anaheim,CA,California,TRUE,,66594,4096.7,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+621,35%,92802,33.80828,-117.92367,Anaheim,CA,California,TRUE,,42016,3567.2,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+622,35%,92804,33.81826,-117.97506,Anaheim,CA,California,TRUE,,89915,4952.7,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+623,35%,92805,33.83038,-117.90578,Anaheim,CA,California,TRUE,,74478,4553.6,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+624,35%,92806,33.83856,-117.87071,Anaheim,CA,California,TRUE,,39442,1964,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+625,35%,92807,33.84969,-117.78924,Anaheim,CA,California,TRUE,,35687,1242.1,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+626,36%,92808,33.85647,-117.74013,Anaheim,CA,California,TRUE,,20483,1551.5,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+627,36%,92821,33.92738,-117.8852,Brea,CA,California,TRUE,,37712,1378.9,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+628,36%,92823,33.92942,-117.80683,Brea,CA,California,TRUE,,4872,173.3,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+629,36%,92831,33.87973,-117.89635,Fullerton,CA,California,TRUE,,37359,2414,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+630,36%,92832,33.86859,-117.92897,Fullerton,CA,California,TRUE,,25837,3557.1,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+631,36%,92833,33.87927,-117.96172,Fullerton,CA,California,TRUE,,52435,2764.8,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+632,36%,92835,33.90187,-117.91735,Fullerton,CA,California,TRUE,,23528,1508.3,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+633,36%,92840,33.78586,-117.93226,Garden Grove,CA,California,TRUE,,54735,4061.5,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+634,36%,92841,33.78689,-117.98195,Garden Grove,CA,California,TRUE,,33754,2910.2,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+635,36%,92843,33.76403,-117.93141,Garden Grove,CA,California,TRUE,,46873,4649.5,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+636,36%,92844,33.76543,-117.96945,Garden Grove,CA,California,TRUE,,23189,4217.5,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+637,36%,92845,33.78308,-118.02625,Garden Grove,CA,California,TRUE,,16273,2886.6,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+638,36%,92860,33.92467,-117.55166,Norco,CA,California,TRUE,,26849,740.6,6065,Riverside,"{""06065"": ""100""}",Riverside,6065,FALSE,FALSE,America/Los_Angeles
+639,36%,92861,33.81773,-117.81012,Villa Park,CA,California,TRUE,,5822,1069.5,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+640,36%,92865,33.82887,-117.84905,Orange,CA,California,TRUE,,20664,2094.9,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+641,36%,92866,33.78463,-117.84471,Orange,CA,California,TRUE,,15574,3112.7,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+642,36%,92867,33.81575,-117.82213,Orange,CA,California,TRUE,,44655,2168.5,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+643,37%,92868,33.78813,-117.87629,Orange,CA,California,TRUE,,27072,3134.4,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+644,37%,92869,33.796,-117.78665,Orange,CA,California,TRUE,,36846,1536.7,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+645,37%,92870,33.88079,-117.85518,Placentia,CA,California,TRUE,,53600,3053.6,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+646,37%,92879,33.87976,-117.53548,Corona,CA,California,TRUE,,47872,1841,6065,Riverside,"{""06065"": ""100""}",Riverside,6065,FALSE,FALSE,America/Los_Angeles
+647,37%,92880,33.92078,-117.6097,Corona,CA,California,TRUE,,69656,1082.1,6065,Riverside,"{""06065"": ""99.94"", ""06071"": ""0.06""}",Riverside|San Bernardino,06065|06071,FALSE,FALSE,America/Los_Angeles
+648,37%,92881,33.82399,-117.51996,Corona,CA,California,TRUE,,33531,468.3,6065,Riverside,"{""06065"": ""100""}",Riverside,6065,FALSE,FALSE,America/Los_Angeles
+649,37%,92882,33.84194,-117.60424,Corona,CA,California,TRUE,,73250,1099,6065,Riverside,"{""06065"": ""100""}",Riverside,6065,FALSE,FALSE,America/Los_Angeles
+650,37%,92883,33.75413,-117.47393,Corona,CA,California,TRUE,,35933,249.1,6065,Riverside,"{""06065"": ""100""}",Riverside,6065,FALSE,FALSE,America/Los_Angeles
+651,37%,92886,33.89646,-117.79716,Yorba Linda,CA,California,TRUE,,50784,1330.7,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+652,37%,92887,33.88471,-117.73124,Yorba Linda,CA,California,TRUE,,20012,809.3,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+653,37%,93001,34.19219,-119.50794,Ventura,CA,California,TRUE,,32396,61,6111,Ventura,"{""06111"": ""99.98"", ""06083"": ""0.02""}",Ventura|Santa Barbara,06111|06083,FALSE,FALSE,America/Los_Angeles
+654,37%,93003,34.2846,-119.22222,Ventura,CA,California,TRUE,,51629,968.7,6111,Ventura,"{""06111"": ""100""}",Ventura,6111,FALSE,FALSE,America/Los_Angeles
+655,37%,93004,34.27886,-119.16549,Ventura,CA,California,TRUE,,31525,1727.8,6111,Ventura,"{""06111"": ""100""}",Ventura,6111,FALSE,FALSE,America/Los_Angeles
+656,37%,93010,34.22983,-119.07464,Camarillo,CA,California,TRUE,,46063,803.6,6111,Ventura,"{""06111"": ""100""}",Ventura,6111,FALSE,FALSE,America/Los_Angeles
+657,37%,93012,34.20328,-118.99795,Camarillo,CA,California,TRUE,,36052,265.5,6111,Ventura,"{""06111"": ""100""}",Ventura,6111,FALSE,FALSE,America/Los_Angeles
+658,37%,93013,34.44012,-119.49416,Carpinteria,CA,California,TRUE,,16652,112.9,6083,Santa Barbara,"{""06083"": ""99.46"", ""06111"": ""0.54""}",Santa Barbara|Ventura,06083|06111,FALSE,FALSE,America/Los_Angeles
+659,37%,93015,34.40574,-118.89657,Fillmore,CA,California,TRUE,,17989,90.7,6111,Ventura,"{""06111"": ""100""}",Ventura,6111,FALSE,FALSE,America/Los_Angeles
+660,37%,93021,34.30349,-118.8842,Moorpark,CA,California,TRUE,,38581,315.2,6111,Ventura,"{""06111"": ""100""}",Ventura,6111,FALSE,FALSE,America/Los_Angeles
+661,38%,93022,34.40734,-119.30566,Oak View,CA,California,TRUE,,7179,599.8,6111,Ventura,"{""06111"": ""100""}",Ventura,6111,FALSE,FALSE,America/Los_Angeles
+662,38%,93023,34.52392,-119.2744,Ojai,CA,California,TRUE,,19895,28.5,6111,Ventura,"{""06111"": ""100""}",Ventura,6111,FALSE,FALSE,America/Los_Angeles
+663,38%,93030,34.2053,-119.17482,Oxnard,CA,California,TRUE,,58422,1608.8,6111,Ventura,"{""06111"": ""100""}",Ventura,6111,FALSE,FALSE,America/Los_Angeles
+664,38%,93033,34.15212,-119.12648,Oxnard,CA,California,TRUE,,84701,1115.6,6111,Ventura,"{""06111"": ""100""}",Ventura,6111,FALSE,FALSE,America/Los_Angeles
+665,38%,93035,34.18358,-119.22179,Oxnard,CA,California,TRUE,,29354,2795.2,6111,Ventura,"{""06111"": ""100""}",Ventura,6111,FALSE,FALSE,America/Los_Angeles
+666,38%,93036,34.23562,-119.1804,Oxnard,CA,California,TRUE,,48162,1192.1,6111,Ventura,"{""06111"": ""100""}",Ventura,6111,FALSE,FALSE,America/Los_Angeles
+667,38%,93040,34.48181,-118.79237,Piru,CA,California,TRUE,,1827,10,6111,Ventura,"{""06111"": ""100""}",Ventura,6111,FALSE,FALSE,America/Los_Angeles
+668,38%,93041,34.13103,-119.14669,Port Hueneme,CA,California,TRUE,,24208,841.9,6111,Ventura,"{""06111"": ""100""}",Ventura,6111,FALSE,FALSE,America/Los_Angeles
+669,38%,93042,33.2479,-119.5067,Point Mugu Nawc,CA,California,TRUE,,118,2,6111,Ventura,"{""06111"": ""100""}",Ventura,6111,FALSE,FALSE,America/Los_Angeles
+670,38%,93043,34.17084,-119.20239,Port Hueneme Cbc Base,CA,California,TRUE,,144,115.4,6111,Ventura,"{""06111"": ""100""}",Ventura,6111,FALSE,FALSE,America/Los_Angeles
+671,38%,93060,34.40168,-119.09935,Santa Paula,CA,California,TRUE,,33773,109.7,6111,Ventura,"{""06111"": ""100""}",Ventura,6111,FALSE,FALSE,America/Los_Angeles
+672,38%,93063,34.3046,-118.68443,Simi Valley,CA,California,TRUE,,56458,661.3,6111,Ventura,"{""06111"": ""100""}",Ventura,6111,FALSE,FALSE,America/Los_Angeles
+673,38%,93064,34.24755,-118.70095,Brandeis,CA,California,TRUE,,0,0,6111,Ventura,"{""06111"": ""100""}",Ventura,6111,FALSE,FALSE,America/Los_Angeles
+674,38%,93065,34.26022,-118.77436,Simi Valley,CA,California,TRUE,,71832,875.9,6111,Ventura,"{""06111"": ""100""}",Ventura,6111,FALSE,FALSE,America/Los_Angeles
+675,38%,93066,34.28856,-119.0295,Somis,CA,California,TRUE,,3220,29.9,6111,Ventura,"{""06111"": ""100""}",Ventura,6111,FALSE,FALSE,America/Los_Angeles
+676,38%,93067,34.42182,-119.59312,Summerland,CA,California,TRUE,,410,268.6,6083,Santa Barbara,"{""06083"": ""100""}",Santa Barbara,6083,FALSE,FALSE,America/Los_Angeles
+677,38%,93101,34.41898,-119.70923,Santa Barbara,CA,California,TRUE,,31371,3531.4,6083,Santa Barbara,"{""06083"": ""100""}",Santa Barbara,6083,FALSE,FALSE,America/Los_Angeles
+678,39%,93103,34.438,-119.68057,Santa Barbara,CA,California,TRUE,,20538,1513.6,6083,Santa Barbara,"{""06083"": ""100""}",Santa Barbara,6083,FALSE,FALSE,America/Los_Angeles
+679,39%,93105,34.53229,-119.79968,Santa Barbara,CA,California,TRUE,,28545,113.5,6083,Santa Barbara,"{""06083"": ""100""}",Santa Barbara,6083,FALSE,FALSE,America/Los_Angeles
+680,39%,93108,34.44816,-119.62043,Santa Barbara,CA,California,TRUE,,10401,189.4,6083,Santa Barbara,"{""06083"": ""100""}",Santa Barbara,6083,FALSE,FALSE,America/Los_Angeles
+681,39%,93109,34.40649,-119.72656,Santa Barbara,CA,California,TRUE,,10771,1228.6,6083,Santa Barbara,"{""06083"": ""100""}",Santa Barbara,6083,FALSE,FALSE,America/Los_Angeles
+682,39%,93110,34.44804,-119.76248,Santa Barbara,CA,California,TRUE,,16849,616.9,6083,Santa Barbara,"{""06083"": ""100""}",Santa Barbara,6083,FALSE,FALSE,America/Los_Angeles
+683,39%,93111,34.44987,-119.80353,Santa Barbara,CA,California,TRUE,,17329,825.5,6083,Santa Barbara,"{""06083"": ""100""}",Santa Barbara,6083,FALSE,FALSE,America/Los_Angeles
+684,39%,93117,34.49127,-120.08221,Goleta,CA,California,TRUE,,58546,132.9,6083,Santa Barbara,"{""06083"": ""100""}",Santa Barbara,6083,FALSE,FALSE,America/Los_Angeles
+685,39%,93201,35.85875,-119.48758,Alpaugh,CA,California,TRUE,,1580,7.9,6107,Tulare,"{""06107"": ""99.63"", ""06031"": ""0.37""}",Tulare|Kings,06107|06031,FALSE,FALSE,America/Los_Angeles
+686,39%,93202,36.31335,-119.70853,Armona,CA,California,TRUE,,4273,2127.3,6031,Kings,"{""06031"": ""100""}",Kings,6031,FALSE,FALSE,America/Los_Angeles
+687,39%,93203,35.1119,-118.83079,Arvin,CA,California,TRUE,,22662,40.7,6029,Kern,"{""06029"": ""100""}",Kern,6029,FALSE,FALSE,America/Los_Angeles
+688,39%,93204,35.92646,-120.08639,Avenal,CA,California,TRUE,,12961,83.9,6031,Kings,"{""06031"": ""100""}",Kings,6031,FALSE,FALSE,America/Los_Angeles
+689,39%,93205,35.52026,-118.42508,Bodfish,CA,California,TRUE,,2030,13.6,6029,Kern,"{""06029"": ""100""}",Kern,6029,FALSE,FALSE,America/Los_Angeles
+690,39%,93206,35.44108,-119.47436,Buttonwillow,CA,California,TRUE,,1704,4.4,6029,Kern,"{""06029"": ""100""}",Kern,6029,FALSE,FALSE,America/Los_Angeles
+691,39%,93207,35.88985,-118.63056,California Hot Springs,CA,California,TRUE,,256,1.7,6107,Tulare,"{""06107"": ""100""}",Tulare,6107,FALSE,FALSE,America/Los_Angeles
+692,39%,93208,36.05663,-118.56848,Camp Nelson,CA,California,TRUE,,106,0.7,6107,Tulare,"{""06107"": ""100""}",Tulare,6107,FALSE,FALSE,America/Los_Angeles
+693,39%,93210,36.19943,-120.4231,Coalinga,CA,California,TRUE,,18336,9.2,6019,Fresno,"{""06019"": ""99.67"", ""06053"": ""0.29"", ""06069"": ""0.04""}",Fresno|Monterey|San Benito,06019|06053|06069,FALSE,FALSE,America/Los_Angeles
+694,39%,93212,36.04207,-119.5277,Corcoran,CA,California,TRUE,,23357,85,6031,Kings,"{""06031"": ""99.41"", ""06107"": ""0.59""}",Kings|Tulare,06031|06107,FALSE,FALSE,America/Los_Angeles
+695,39%,93215,35.77636,-119.1979,Delano,CA,California,TRUE,,54958,149.6,6029,Kern,"{""06029"": ""98.77"", ""06107"": ""1.23""}",Kern|Tulare,06029|06107,FALSE,FALSE,America/Los_Angeles
+696,40%,93218,35.8609,-119.03612,Ducor,CA,California,TRUE,,871,5.2,6107,Tulare,"{""06107"": ""100""}",Tulare,6107,FALSE,FALSE,America/Los_Angeles
+697,40%,93219,35.87439,-119.28097,Earlimart,CA,California,TRUE,,10285,40.8,6107,Tulare,"{""06107"": ""100""}",Tulare,6107,FALSE,FALSE,America/Los_Angeles
+698,40%,93220,35.3969,-118.75688,Edison,CA,California,TRUE,,65,1,6029,Kern,"{""06029"": ""100""}",Kern,6029,FALSE,FALSE,America/Los_Angeles
+699,40%,93221,36.29501,-119.02605,Exeter,CA,California,TRUE,,14129,41.4,6107,Tulare,"{""06107"": ""100""}",Tulare,6107,FALSE,FALSE,America/Los_Angeles
+700,40%,93222,34.84483,-119.1997,Pine Mountain Club,CA,California,TRUE,,1583,21.3,6029,Kern,"{""06029"": ""100""}",Kern,6029,FALSE,FALSE,America/Los_Angeles
+701,40%,93223,36.30456,-119.205,Farmersville,CA,California,TRUE,,10716,1673,6107,Tulare,"{""06107"": ""100""}",Tulare,6107,FALSE,FALSE,America/Los_Angeles
+702,40%,93224,35.22818,-119.56929,Fellows,CA,California,TRUE,,471,8.1,6029,Kern,"{""06029"": ""100""}",Kern,6029,FALSE,FALSE,America/Los_Angeles
+703,40%,93225,34.7747,-119.01985,Frazier Park,CA,California,TRUE,,4782,10.4,6029,Kern,"{""06029"": ""93.4"", ""06111"": ""6.6""}",Kern|Ventura,06029|06111,FALSE,FALSE,America/Los_Angeles
+704,40%,93226,35.73667,-118.72873,Glennville,CA,California,TRUE,,121,0.5,6029,Kern,"{""06029"": ""100""}",Kern,6029,FALSE,FALSE,America/Los_Angeles
+705,40%,93230,36.28802,-119.62301,Hanford,CA,California,TRUE,,67605,99.4,6031,Kings,"{""06031"": ""100""}",Kings,6031,FALSE,FALSE,America/Los_Angeles
+706,40%,93234,36.19126,-120.09009,Huron,CA,California,TRUE,,7355,35.4,6019,Fresno,"{""06019"": ""100""}",Fresno,6019,FALSE,FALSE,America/Los_Angeles
+707,40%,93235,36.38984,-119.2199,Ivanhoe,CA,California,TRUE,,4215,564.8,6107,Tulare,"{""06107"": ""100""}",Tulare,6107,FALSE,FALSE,America/Los_Angeles
+708,40%,93238,35.80228,-118.44215,Kernville,CA,California,TRUE,,673,2.1,6029,Kern,"{""06029"": ""99.66"", ""06107"": ""0.34""}",Kern|Tulare,06029|06107,FALSE,FALSE,America/Los_Angeles
+709,40%,93239,35.97542,-119.94606,Kettleman City,CA,California,TRUE,,1246,7.5,6031,Kings,"{""06031"": ""100""}",Kings,6031,FALSE,FALSE,America/Los_Angeles
+710,40%,93240,35.61359,-118.44267,Lake Isabella,CA,California,TRUE,,6327,32.7,6029,Kern,"{""06029"": ""100""}",Kern,6029,FALSE,FALSE,America/Los_Angeles
+711,40%,93241,35.25578,-118.91285,Lamont,CA,California,TRUE,,16397,1534.7,6029,Kern,"{""06029"": ""100""}",Kern,6029,FALSE,FALSE,America/Los_Angeles
+712,40%,93242,36.44207,-119.7277,Laton,CA,California,TRUE,,3474,32.6,6019,Fresno,"{""06019"": ""91.7"", ""06031"": ""8.3""}",Fresno|Kings,06019|06031,FALSE,FALSE,America/Los_Angeles
+713,40%,93243,34.77686,-118.80142,Lebec,CA,California,TRUE,,1532,3.9,6029,Kern,"{""06029"": ""92.17"", ""06037"": ""7.83""}",Kern|Los Angeles,06029|06037,FALSE,FALSE,America/Los_Angeles

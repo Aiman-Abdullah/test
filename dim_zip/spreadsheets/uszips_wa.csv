@@ -1,0 +1,597 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone
+98001,47.30998,-122.2652,Auburn,WA,Washington,TRUE,,33699,699.3,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98002,47.30836,-122.21638,Auburn,WA,Washington,TRUE,,33468,1797.1,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98003,47.30512,-122.31507,Federal Way,WA,Washington,TRUE,,49533,1644.4,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98004,47.61883,-122.20595,Bellevue,WA,Washington,TRUE,,36202,1985.4,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98005,47.61478,-122.16862,Bellevue,WA,Washington,TRUE,,19223,987.7,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98006,47.55748,-122.15081,Bellevue,WA,Washington,TRUE,,37871,1365.3,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98007,47.61445,-122.14381,Bellevue,WA,Washington,TRUE,,29322,2583,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98008,47.60527,-122.11098,Bellevue,WA,Washington,TRUE,,25719,1797.7,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98010,47.31309,-122.00055,Black Diamond,WA,Washington,TRUE,,5602,143.7,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98011,47.75338,-122.20189,Bothell,WA,Washington,TRUE,,33830,1592.6,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98012,47.84156,-122.19911,Bothell,WA,Washington,TRUE,,67427,1698.7,53061,Snohomish,"{""53061"": ""100""}",Snohomish,53061,FALSE,FALSE,America/Los_Angeles
+98014,47.66122,-121.89445,Carnation,WA,Washington,TRUE,,6773,57.7,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98019,47.73961,-121.84941,Duvall,WA,Washington,TRUE,,11946,60.3,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98020,47.80022,-122.37266,Edmonds,WA,Washington,TRUE,,19447,1449.7,53061,Snohomish,"{""53061"": ""100""}",Snohomish,53061,FALSE,FALSE,America/Los_Angeles
+98021,47.79257,-122.20819,Bothell,WA,Washington,TRUE,,31496,1202.4,53061,Snohomish,"{""53061"": ""100""}",Snohomish,53061,FALSE,FALSE,America/Los_Angeles
+98022,47.15032,-121.65482,Enumclaw,WA,Washington,TRUE,,21217,20.2,53033,King,"{""53033"": ""98.3"", ""53053"": ""1.7""}",King|Pierce,53033|53053,FALSE,FALSE,America/Los_Angeles
+98023,47.3088,-122.36269,Federal Way,WA,Washington,TRUE,,50201,1876,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98024,47.57493,-121.90112,Fall City,WA,Washington,TRUE,,6890,111.2,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98026,47.83559,-122.33164,Edmonds,WA,Washington,TRUE,,37995,1571.8,53061,Snohomish,"{""53061"": ""100""}",Snohomish,53061,FALSE,FALSE,America/Los_Angeles
+98027,47.50138,-121.99933,Issaquah,WA,Washington,TRUE,,30989,214.4,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98028,47.75423,-122.24753,Kenmore,WA,Washington,TRUE,,22738,1557.7,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98029,47.55847,-122.00546,Issaquah,WA,Washington,TRUE,,29250,1261.5,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98030,47.36821,-122.19736,Kent,WA,Washington,TRUE,,38681,2094.8,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98031,47.40491,-122.19562,Kent,WA,Washington,TRUE,,37850,1947.4,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98032,47.39234,-122.25872,Kent,WA,Washington,TRUE,,39074,901.4,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98033,47.67612,-122.19233,Kirkland,WA,Washington,TRUE,,39939,1674.3,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98034,47.71577,-122.2158,Kirkland,WA,Washington,TRUE,,43471,1853,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98036,47.81111,-122.2816,Lynnwood,WA,Washington,TRUE,,40723,1624.7,53061,Snohomish,"{""53061"": ""100""}",Snohomish,53061,FALSE,FALSE,America/Los_Angeles
+98037,47.8392,-122.28549,Lynnwood,WA,Washington,TRUE,,30485,2043.5,53061,Snohomish,"{""53061"": ""100""}",Snohomish,53061,FALSE,FALSE,America/Los_Angeles
+98038,47.41741,-121.95374,Maple Valley,WA,Washington,TRUE,,35904,208.5,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98039,47.63305,-122.23961,Medina,WA,Washington,TRUE,,3267,873.9,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98040,47.56612,-122.23198,Mercer Island,WA,Washington,TRUE,,25675,1553.1,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98042,47.36623,-122.11717,Kent,WA,Washington,TRUE,,48572,659.5,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98043,47.792,-122.30743,Mountlake Terrace,WA,Washington,TRUE,,21210,2005,53061,Snohomish,"{""53061"": ""100""}",Snohomish,53061,FALSE,FALSE,America/Los_Angeles
+98045,47.39158,-121.63471,North Bend,WA,Washington,TRUE,,15339,17.6,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98047,47.26208,-122.24756,Pacific,WA,Washington,TRUE,,7124,1139.1,53033,King,"{""53033"": ""98.34"", ""53053"": ""1.66""}",King|Pierce,53033|53053,FALSE,FALSE,America/Los_Angeles
+98050,47.54399,-121.94041,Preston,WA,Washington,TRUE,,432,50.4,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98051,47.34072,-121.88739,Ravensdale,WA,Washington,TRUE,,4451,33.6,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98052,47.68125,-122.12025,Redmond,WA,Washington,TRUE,,70245,1348.3,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98053,47.66565,-122.01946,Redmond,WA,Washington,TRUE,,21993,299.4,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98055,47.44695,-122.20142,Renton,WA,Washington,TRUE,,24332,1960.6,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98056,47.51287,-122.18959,Renton,WA,Washington,TRUE,,35722,1832.1,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98057,47.47142,-122.22029,Renton,WA,Washington,TRUE,,12822,811.1,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98058,47.44181,-122.12439,Renton,WA,Washington,TRUE,,43740,892.5,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98059,47.50223,-122.12101,Renton,WA,Washington,TRUE,,38959,752.8,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98065,47.58459,-121.79164,Snoqualmie,WA,Washington,TRUE,,15958,83.2,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98068,47.44072,-121.34967,Snoqualmie Pass,WA,Washington,TRUE,,444,0.6,53037,Kittitas,"{""53037"": ""80.4"", ""53033"": ""19.6""}",Kittitas|King,53037|53033,FALSE,FALSE,America/Los_Angeles
+98070,47.41219,-122.4726,Vashon,WA,Washington,TRUE,,10291,107.6,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98072,47.76117,-122.13215,Woodinville,WA,Washington,TRUE,,23939,509.9,53033,King,"{""53033"": ""86.67"", ""53061"": ""13.33""}",King|Snohomish,53033|53061,FALSE,FALSE,America/Los_Angeles
+98074,47.62263,-122.04314,Sammamish,WA,Washington,TRUE,,28775,1041.4,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98075,47.58654,-122.03847,Sammamish,WA,Washington,TRUE,,23996,977.4,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98077,47.75293,-122.05826,Woodinville,WA,Washington,TRUE,,13452,299.7,53033,King,"{""53033"": ""93.18"", ""53061"": ""6.82""}",King|Snohomish,53033|53061,FALSE,FALSE,America/Los_Angeles
+98087,47.863,-122.26643,Lynnwood,WA,Washington,TRUE,,41083,2849.3,53061,Snohomish,"{""53061"": ""100""}",Snohomish,53061,FALSE,FALSE,America/Los_Angeles
+98092,47.28763,-122.12871,Auburn,WA,Washington,TRUE,,47824,415.2,53033,King,"{""53033"": ""82.57"", ""53053"": ""17.43""}",King|Pierce,53033|53053,FALSE,FALSE,America/Los_Angeles
+98101,47.6113,-122.33465,Seattle,WA,Washington,TRUE,,13492,10033.1,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98102,47.63642,-122.32218,Seattle,WA,Washington,TRUE,,26023,7776.1,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98103,47.67332,-122.34254,Seattle,WA,Washington,TRUE,,53163,4416.9,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98104,47.60169,-122.32849,Seattle,WA,Washington,TRUE,,14522,7245.8,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98105,47.66068,-122.28403,Seattle,WA,Washington,TRUE,,50434,4717.7,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98106,47.54349,-122.35435,Seattle,WA,Washington,TRUE,,25940,1819,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98107,47.66762,-122.3781,Seattle,WA,Washington,TRUE,,27534,4838.8,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98108,47.54131,-122.31292,Seattle,WA,Washington,TRUE,,23639,1219,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98109,47.63159,-122.34417,Seattle,WA,Washington,TRUE,,30384,5883.2,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98110,47.64469,-122.54353,Bainbridge Island,WA,Washington,TRUE,,24486,342.4,53035,Kitsap,"{""53035"": ""100""}",Kitsap,53035,FALSE,FALSE,America/Los_Angeles
+98112,47.63392,-122.28893,Seattle,WA,Washington,TRUE,,25474,3112.2,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98115,47.685,-122.28216,Seattle,WA,Washington,TRUE,,54109,3172.3,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98116,47.57397,-122.39507,Seattle,WA,Washington,TRUE,,27338,3568.7,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98117,47.6882,-122.38148,Seattle,WA,Washington,TRUE,,35645,3570.9,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98118,47.54245,-122.2688,Seattle,WA,Washington,TRUE,,49181,3037.8,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98119,47.63995,-122.37005,Seattle,WA,Washington,TRUE,,26322,4169.6,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98121,47.61541,-122.34669,Seattle,WA,Washington,TRUE,,19494,16952,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98122,47.61151,-122.29184,Seattle,WA,Washington,TRUE,,39305,6558.8,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98125,47.71641,-122.29812,Seattle,WA,Washington,TRUE,,42981,3075.3,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98126,47.54768,-122.37442,Seattle,WA,Washington,TRUE,,23646,2981.6,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98133,47.73988,-122.34425,Seattle,WA,Washington,TRUE,,48650,2649.4,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98134,47.57783,-122.33743,Seattle,WA,Washington,TRUE,,833,95.3,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98136,47.53676,-122.38986,Seattle,WA,Washington,TRUE,,16997,2854.7,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98144,47.58596,-122.29237,Seattle,WA,Washington,TRUE,,32439,3685.3,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98146,47.50009,-122.35751,Seattle,WA,Washington,TRUE,,27780,2302.4,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98148,47.44375,-122.32508,Seattle,WA,Washington,TRUE,,12149,1522.9,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98154,47.60641,-122.33372,Seattle,WA,Washington,TRUE,,0,0,53033,King,"{""53033"": ""0""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98155,47.75601,-122.30034,Seattle,WA,Washington,TRUE,,35041,1791,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98158,47.45015,-122.30798,Seattle,WA,Washington,TRUE,,0,0,53033,King,"{""53033"": ""0""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98164,47.60596,-122.33203,Seattle,WA,Washington,TRUE,,177,19312.6,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98166,47.45281,-122.3501,Seattle,WA,Washington,TRUE,,21452,1464.6,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98168,47.48887,-122.30122,Seattle,WA,Washington,TRUE,,33401,1450.2,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98174,47.60457,-122.33536,Seattle,WA,Washington,TRUE,,0,0,53033,King,"{""53033"": ""0""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98177,47.74226,-122.37079,Seattle,WA,Washington,TRUE,,20676,1409.1,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98178,47.49929,-122.24706,Seattle,WA,Washington,TRUE,,27335,2178.2,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98188,47.44822,-122.27317,Seattle,WA,Washington,TRUE,,25175,1290.8,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98195,47.64925,-122.30919,Seattle,WA,Washington,TRUE,,48,264.9,53033,King,"{""53033"": ""0""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98198,47.3946,-122.31122,Seattle,WA,Washington,TRUE,,37966,1901.3,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98199,47.65137,-122.40272,Seattle,WA,Washington,TRUE,,22720,2094.4,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98201,47.99339,-122.21327,Everett,WA,Washington,TRUE,,29792,1538.8,53061,Snohomish,"{""53061"": ""100""}",Snohomish,53061,FALSE,FALSE,America/Los_Angeles
+98203,47.94354,-122.23329,Everett,WA,Washington,TRUE,,36065,1299.3,53061,Snohomish,"{""53061"": ""100""}",Snohomish,53061,FALSE,FALSE,America/Los_Angeles
+98204,47.90132,-122.26088,Everett,WA,Washington,TRUE,,42364,2037.4,53061,Snohomish,"{""53061"": ""100""}",Snohomish,53061,FALSE,FALSE,America/Los_Angeles
+98207,47.98799,-122.22302,Everett,WA,Washington,TRUE,,1684,2973.1,53061,Snohomish,"{""53061"": ""100""}",Snohomish,53061,FALSE,FALSE,America/Los_Angeles
+98208,47.90187,-122.1865,Everett,WA,Washington,TRUE,,58162,1388.7,53061,Snohomish,"{""53061"": ""100""}",Snohomish,53061,FALSE,FALSE,America/Los_Angeles
+98220,48.68497,-122.19692,Acme,WA,Washington,TRUE,,779,14.7,53073,Whatcom,"{""53073"": ""100""}",Whatcom,53073,FALSE,FALSE,America/Los_Angeles
+98221,48.50321,-122.65492,Anacortes,WA,Washington,TRUE,,21699,157.9,53057,Skagit,"{""53057"": ""99.53"", ""53055"": ""0.47""}",Skagit|San Juan,53057|53055,FALSE,FALSE,America/Los_Angeles
+98222,48.56085,-122.80263,Blakely Island,WA,Washington,TRUE,,84,4.9,53055,San Juan,"{""53055"": ""100""}",San Juan,53055,FALSE,FALSE,America/Los_Angeles
+98223,48.21048,-121.95172,Arlington,WA,Washington,TRUE,,44110,53.3,53061,Snohomish,"{""53061"": ""100""}",Snohomish,53061,FALSE,FALSE,America/Los_Angeles
+98224,47.66382,-121.51302,Baring,WA,Washington,TRUE,,214,0.4,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98225,48.75302,-122.50144,Bellingham,WA,Washington,TRUE,,51697,1580.4,53073,Whatcom,"{""53073"": ""100""}",Whatcom,53073,FALSE,FALSE,America/Los_Angeles
+98226,48.80061,-122.42744,Bellingham,WA,Washington,TRUE,,43892,158,53073,Whatcom,"{""53073"": ""100""}",Whatcom,53073,FALSE,FALSE,America/Los_Angeles
+98229,48.6955,-122.41046,Bellingham,WA,Washington,TRUE,,32801,258.1,53073,Whatcom,"{""53073"": ""99.01"", ""53057"": ""0.99""}",Whatcom|Skagit,53073|53057,FALSE,FALSE,America/Los_Angeles
+98230,48.95408,-122.71066,Blaine,WA,Washington,TRUE,,17604,155.6,53073,Whatcom,"{""53073"": ""100""}",Whatcom,53073,FALSE,FALSE,America/Los_Angeles
+98232,48.56535,-122.41566,Bow,WA,Washington,TRUE,,4395,31.7,53057,Skagit,"{""53057"": ""100""}",Skagit,53057,FALSE,FALSE,America/Los_Angeles
+98233,48.50393,-122.35082,Burlington,WA,Washington,TRUE,,16379,186.7,53057,Skagit,"{""53057"": ""100""}",Skagit,53057,FALSE,FALSE,America/Los_Angeles
+98235,48.46475,-122.23332,Clearlake,WA,Washington,TRUE,,73,919.3,53057,Skagit,"{""53057"": ""100""}",Skagit,53057,FALSE,FALSE,America/Los_Angeles
+98236,47.95814,-122.40474,Clinton,WA,Washington,TRUE,,6002,101.2,53029,Island,"{""53029"": ""100""}",Island,53029,FALSE,FALSE,America/Los_Angeles
+98237,48.59328,-121.68519,Concrete,WA,Washington,TRUE,,4410,5.3,53057,Skagit,"{""53057"": ""99.98"", ""53073"": ""0.02""}",Skagit|Whatcom,53057|53073,FALSE,FALSE,America/Los_Angeles
+98238,48.33523,-122.34459,Conway,WA,Washington,TRUE,,0,0,53057,Skagit,"{""53057"": ""100""}",Skagit,53057,FALSE,FALSE,America/Los_Angeles
+98239,48.1916,-122.66083,Coupeville,WA,Washington,TRUE,,7215,95.2,53029,Island,"{""53029"": ""100""}",Island,53029,FALSE,FALSE,America/Los_Angeles
+98240,48.9473,-122.62133,Custer,WA,Washington,TRUE,,3145,58.7,53073,Whatcom,"{""53073"": ""100""}",Whatcom,53073,FALSE,FALSE,America/Los_Angeles
+98241,48.2237,-121.32766,Darrington,WA,Washington,TRUE,,1920,1.8,53061,Snohomish,"{""53061"": ""85.06"", ""53057"": ""14.94""}",Snohomish|Skagit,53061|53057,FALSE,FALSE,America/Los_Angeles
+98243,48.62096,-123.00505,Deer Harbor,WA,Washington,TRUE,,589,44.3,53055,San Juan,"{""53055"": ""100""}",San Juan,53055,FALSE,FALSE,America/Los_Angeles
+98244,48.80005,-121.9544,Deming,WA,Washington,TRUE,,2725,2.2,53073,Whatcom,"{""53073"": ""100""}",Whatcom,53073,FALSE,FALSE,America/Los_Angeles
+98245,48.66637,-122.91025,Eastsound,WA,Washington,TRUE,,3826,46.2,53055,San Juan,"{""53055"": ""100""}",San Juan,53055,FALSE,FALSE,America/Los_Angeles
+98247,48.908,-122.32248,Everson,WA,Washington,TRUE,,9792,59.3,53073,Whatcom,"{""53073"": ""100""}",Whatcom,53073,FALSE,FALSE,America/Los_Angeles
+98248,48.8659,-122.62,Ferndale,WA,Washington,TRUE,,25391,138.4,53073,Whatcom,"{""53073"": ""100""}",Whatcom,53073,FALSE,FALSE,America/Los_Angeles
+98249,48.01818,-122.5391,Freeland,WA,Washington,TRUE,,4399,106.5,53029,Island,"{""53029"": ""100""}",Island,53029,FALSE,FALSE,America/Los_Angeles
+98250,48.55815,-123.0915,Friday Harbor,WA,Washington,TRUE,,8107,50.4,53055,San Juan,"{""53055"": ""100""}",San Juan,53055,FALSE,FALSE,America/Los_Angeles
+98251,47.90263,-121.54536,Gold Bar,WA,Washington,TRUE,,4108,10.4,53061,Snohomish,"{""53061"": ""100""}",Snohomish,53061,FALSE,FALSE,America/Los_Angeles
+98252,48.07309,-121.68949,Granite Falls,WA,Washington,TRUE,,9697,14,53061,Snohomish,"{""53061"": ""100""}",Snohomish,53061,FALSE,FALSE,America/Los_Angeles
+98253,48.08535,-122.57687,Greenbank,WA,Washington,TRUE,,1794,55.9,53029,Island,"{""53029"": ""100""}",Island,53029,FALSE,FALSE,America/Los_Angeles
+98255,48.52207,-121.98931,Hamilton,WA,Washington,TRUE,,164,122.8,53057,Skagit,"{""53057"": ""100""}",Skagit,53057,FALSE,FALSE,America/Los_Angeles
+98256,47.82999,-121.43037,Index,WA,Washington,TRUE,,348,1.6,53061,Snohomish,"{""53061"": ""100""}",Snohomish,53061,FALSE,FALSE,America/Los_Angeles
+98257,48.41605,-122.5095,La Conner,WA,Washington,TRUE,,4207,88.5,53057,Skagit,"{""53057"": ""100""}",Skagit,53057,FALSE,FALSE,America/Los_Angeles
+98258,48.0424,-122.06897,Lake Stevens,WA,Washington,TRUE,,33205,444.3,53061,Snohomish,"{""53061"": ""100""}",Snohomish,53061,FALSE,FALSE,America/Los_Angeles
+98260,48.03069,-122.45086,Langley,WA,Washington,TRUE,,5685,83,53029,Island,"{""53029"": ""100""}",Island,53029,FALSE,FALSE,America/Los_Angeles
+98261,48.48381,-122.88303,Lopez Island,WA,Washington,TRUE,,2796,36.2,53055,San Juan,"{""53055"": ""100""}",San Juan,53055,FALSE,FALSE,America/Los_Angeles
+98262,48.69276,-122.6638,Lummi Island,WA,Washington,TRUE,,903,37.7,53073,Whatcom,"{""53073"": ""100""}",Whatcom,53073,FALSE,FALSE,America/Los_Angeles
+98263,48.52196,-122.06694,Lyman,WA,Washington,TRUE,,83,197.1,53057,Skagit,"{""53057"": ""100""}",Skagit,53057,FALSE,FALSE,America/Los_Angeles
+98264,48.95016,-122.46036,Lynden,WA,Washington,TRUE,,20890,141.5,53073,Whatcom,"{""53073"": ""100""}",Whatcom,53073,FALSE,FALSE,America/Los_Angeles
+98266,48.9533,-122.12832,Maple Falls,WA,Washington,TRUE,,4167,67.2,53073,Whatcom,"{""53073"": ""100""}",Whatcom,53073,FALSE,FALSE,America/Los_Angeles
+98267,48.44342,-121.31629,Marblemount,WA,Washington,TRUE,,334,0.4,53057,Skagit,"{""53057"": ""100""}",Skagit,53057,FALSE,FALSE,America/Los_Angeles
+98270,48.0596,-122.14454,Marysville,WA,Washington,TRUE,,51293,1383.7,53061,Snohomish,"{""53061"": ""100""}",Snohomish,53061,FALSE,FALSE,America/Los_Angeles
+98271,48.09415,-122.2345,Marysville,WA,Washington,TRUE,,29130,241.4,53061,Snohomish,"{""53061"": ""100""}",Snohomish,53061,FALSE,FALSE,America/Los_Angeles
+98272,47.84931,-121.88521,Monroe,WA,Washington,TRUE,,30051,106.2,53061,Snohomish,"{""53061"": ""100""}",Snohomish,53061,FALSE,FALSE,America/Los_Angeles
+98273,48.40393,-122.36933,Mount Vernon,WA,Washington,TRUE,,31085,142.7,53057,Skagit,"{""53057"": ""100""}",Skagit,53057,FALSE,FALSE,America/Los_Angeles
+98274,48.35934,-122.14555,Mount Vernon,WA,Washington,TRUE,,17768,48.6,53057,Skagit,"{""53057"": ""100""}",Skagit,53057,FALSE,FALSE,America/Los_Angeles
+98275,47.9133,-122.29926,Mukilteo,WA,Washington,TRUE,,21336,1092.2,53061,Snohomish,"{""53061"": ""100""}",Snohomish,53061,FALSE,FALSE,America/Los_Angeles
+98276,48.92698,-122.32597,Nooksack,WA,Washington,TRUE,,727,1413.2,53073,Whatcom,"{""53073"": ""100""}",Whatcom,53073,FALSE,FALSE,America/Los_Angeles
+98277,48.31624,-122.63163,Oak Harbor,WA,Washington,TRUE,,38553,263.5,53029,Island,"{""53029"": ""100""}",Island,53029,FALSE,FALSE,America/Los_Angeles
+98278,48.34128,-122.66293,Oak Harbor,WA,Washington,TRUE,,2176,159.6,53029,Island,"{""53029"": ""100""}",Island,53029,FALSE,FALSE,America/Los_Angeles
+98279,48.64471,-122.8083,Olga,WA,Washington,TRUE,,614,16.9,53055,San Juan,"{""53055"": ""100""}",San Juan,53055,FALSE,FALSE,America/Los_Angeles
+98280,48.60694,-122.90963,Orcas,WA,Washington,TRUE,,438,23.7,53055,San Juan,"{""53055"": ""100""}",San Juan,53055,FALSE,FALSE,America/Los_Angeles
+98281,48.98817,-123.05767,Point Roberts,WA,Washington,TRUE,,1116,88.2,53073,Whatcom,"{""53073"": ""100""}",Whatcom,53073,FALSE,FALSE,America/Los_Angeles
+98282,48.18657,-122.47075,Camano Island,WA,Washington,TRUE,,17042,165.5,53029,Island,"{""53029"": ""100""}",Island,53029,FALSE,FALSE,America/Los_Angeles
+98283,48.80273,-121.25818,Rockport,WA,Washington,TRUE,,342,0.2,53057,Skagit,"{""53057"": ""81.8"", ""53073"": ""18.2""}",Skagit|Whatcom,53057|53073,FALSE,FALSE,America/Los_Angeles
+98284,48.55307,-122.12046,Sedro Woolley,WA,Washington,TRUE,,27106,37.1,53057,Skagit,"{""53057"": ""91.29"", ""53073"": ""8.71""}",Skagit|Whatcom,53057|53073,FALSE,FALSE,America/Los_Angeles
+98286,48.57262,-122.95712,Shaw Island,WA,Washington,TRUE,,158,7.9,53055,San Juan,"{""53055"": ""100""}",San Juan,53055,FALSE,FALSE,America/Los_Angeles
+98288,47.666,-121.27535,Skykomish,WA,Washington,TRUE,,231,0.4,53033,King,"{""53033"": ""100""}",King,53033,FALSE,FALSE,America/Los_Angeles
+98290,47.95104,-121.98023,Snohomish,WA,Washington,TRUE,,36399,118.7,53061,Snohomish,"{""53061"": ""100""}",Snohomish,53061,FALSE,FALSE,America/Los_Angeles
+98292,48.2234,-122.3073,Stanwood,WA,Washington,TRUE,,22246,115.2,53061,Snohomish,"{""53061"": ""99.7"", ""53057"": ""0.3""}",Snohomish|Skagit,53061|53057,FALSE,FALSE,America/Los_Angeles
+98294,47.87617,-121.74479,Sultan,WA,Washington,TRUE,,7147,46.1,53061,Snohomish,"{""53061"": ""100""}",Snohomish,53061,FALSE,FALSE,America/Los_Angeles
+98295,48.97181,-122.22851,Sumas,WA,Washington,TRUE,,2540,34,53073,Whatcom,"{""53073"": ""100""}",Whatcom,53073,FALSE,FALSE,America/Los_Angeles
+98296,47.84067,-122.10169,Snohomish,WA,Washington,TRUE,,30702,348.2,53061,Snohomish,"{""53061"": ""100""}",Snohomish,53061,FALSE,FALSE,America/Los_Angeles
+98297,48.7005,-123.02834,Waldron,WA,Washington,TRUE,,48,4.1,53055,San Juan,"{""53055"": ""100""}",San Juan,53055,FALSE,FALSE,America/Los_Angeles
+98303,47.15783,-122.70387,Anderson Island,WA,Washington,TRUE,,1181,57.5,53053,Pierce,"{""53053"": ""100""}",Pierce,53053,FALSE,FALSE,America/Los_Angeles
+98304,46.86803,-121.75183,Ashford,WA,Washington,TRUE,,1070,1.2,53053,Pierce,"{""53053"": ""75.63"", ""53041"": ""24.37""}",Pierce|Lewis,53053|53041,FALSE,FALSE,America/Los_Angeles
+98305,48.06029,-124.43012,Beaver,WA,Washington,TRUE,,343,1.1,53009,Clallam,"{""53009"": ""100""}",Clallam,53009,FALSE,FALSE,America/Los_Angeles
+98310,47.59269,-122.623,Bremerton,WA,Washington,TRUE,,20575,1332.8,53035,Kitsap,"{""53035"": ""100""}",Kitsap,53035,FALSE,FALSE,America/Los_Angeles
+98311,47.63019,-122.63698,Bremerton,WA,Washington,TRUE,,27946,994.1,53035,Kitsap,"{""53035"": ""100""}",Kitsap,53035,FALSE,FALSE,America/Los_Angeles
+98312,47.57326,-122.76008,Bremerton,WA,Washington,TRUE,,31086,195.1,53035,Kitsap,"{""53035"": ""100""}",Kitsap,53035,FALSE,FALSE,America/Los_Angeles
+98314,47.55595,-122.6387,Bremerton,WA,Washington,TRUE,,2975,1951,53035,Kitsap,"{""53035"": ""100""}",Kitsap,53035,FALSE,FALSE,America/Los_Angeles
+98315,47.72288,-122.71457,Silverdale,WA,Washington,TRUE,,6506,226.1,53035,Kitsap,"{""53035"": ""100""}",Kitsap,53035,FALSE,FALSE,America/Los_Angeles
+98320,47.72075,-122.99145,Brinnon,WA,Washington,TRUE,,1273,5,53031,Jefferson,"{""53031"": ""100""}",Jefferson,53031,FALSE,FALSE,America/Los_Angeles
+98321,47.15287,-122.06432,Buckley,WA,Washington,TRUE,,15801,169.8,53053,Pierce,"{""53053"": ""100""}",Pierce,53053,FALSE,FALSE,America/Los_Angeles
+98323,47.04063,-121.88815,Carbonado,WA,Washington,TRUE,,770,1.2,53053,Pierce,"{""53053"": ""100""}",Pierce,53053,FALSE,FALSE,America/Los_Angeles
+98325,47.96585,-122.77839,Chimacum,WA,Washington,TRUE,,1472,18.9,53031,Jefferson,"{""53031"": ""100""}",Jefferson,53031,FALSE,FALSE,America/Los_Angeles
+98326,48.16779,-124.38897,Clallam Bay,WA,Washington,TRUE,,807,1.1,53009,Clallam,"{""53009"": ""100""}",Clallam,53009,FALSE,FALSE,America/Los_Angeles
+98327,47.10126,-122.66074,Dupont,WA,Washington,TRUE,,9435,532.2,53053,Pierce,"{""53053"": ""100""}",Pierce,53053,FALSE,FALSE,America/Los_Angeles
+98328,46.86578,-122.17373,Eatonville,WA,Washington,TRUE,,10767,19.6,53053,Pierce,"{""53053"": ""100""}",Pierce,53053,FALSE,FALSE,America/Los_Angeles
+98329,47.37783,-122.72546,Gig Harbor,WA,Washington,TRUE,,11493,172.4,53053,Pierce,"{""53053"": ""98.64"", ""53035"": ""1.36""}",Pierce|Kitsap,53053|53035,FALSE,FALSE,America/Los_Angeles
+98330,46.77244,-122.16879,Elbe,WA,Washington,TRUE,,102,6,53053,Pierce,"{""53053"": ""100""}",Pierce,53053,FALSE,FALSE,America/Los_Angeles
+98331,47.78437,-124.1851,Forks,WA,Washington,TRUE,,6482,3.2,53009,Clallam,"{""53009"": ""85.93"", ""53031"": ""14.07""}",Clallam|Jefferson,53009|53031,FALSE,FALSE,America/Los_Angeles
+98332,47.365,-122.59887,Gig Harbor,WA,Washington,TRUE,,18655,346.2,53053,Pierce,"{""53053"": ""100""}",Pierce,53053,FALSE,FALSE,America/Los_Angeles
+98333,47.24771,-122.62561,Fox Island,WA,Washington,TRUE,,3918,291.3,53053,Pierce,"{""53053"": ""100""}",Pierce,53053,FALSE,FALSE,America/Los_Angeles
+98335,47.29895,-122.61892,Gig Harbor,WA,Washington,TRUE,,25631,449,53053,Pierce,"{""53053"": ""100""}",Pierce,53053,FALSE,FALSE,America/Los_Angeles
+98336,46.56449,-122.11248,Glenoma,WA,Washington,TRUE,,727,4.1,53041,Lewis,"{""53041"": ""100""}",Lewis,53041,FALSE,FALSE,America/Los_Angeles
+98337,47.56861,-122.63088,Bremerton,WA,Washington,TRUE,,7168,2673.3,53035,Kitsap,"{""53035"": ""100""}",Kitsap,53035,FALSE,FALSE,America/Los_Angeles
+98338,47.02047,-122.28328,Graham,WA,Washington,TRUE,,28783,206.5,53053,Pierce,"{""53053"": ""100""}",Pierce,53053,FALSE,FALSE,America/Los_Angeles
+98339,48.01877,-122.74952,Port Hadlock,WA,Washington,TRUE,,3072,206.2,53031,Jefferson,"{""53031"": ""100""}",Jefferson,53031,FALSE,FALSE,America/Los_Angeles
+98340,47.9023,-122.56348,Hansville,WA,Washington,TRUE,,2879,127.9,53035,Kitsap,"{""53035"": ""100""}",Kitsap,53035,FALSE,FALSE,America/Los_Angeles
+98342,47.75387,-122.51789,Indianola,WA,Washington,TRUE,,1323,212.9,53035,Kitsap,"{""53035"": ""100""}",Kitsap,53035,FALSE,FALSE,America/Los_Angeles
+98345,47.69921,-122.62354,Keyport,WA,Washington,TRUE,,430,328.8,53035,Kitsap,"{""53035"": ""100""}",Kitsap,53035,FALSE,FALSE,America/Los_Angeles
+98346,47.8185,-122.53234,Kingston,WA,Washington,TRUE,,9964,139.6,53035,Kitsap,"{""53035"": ""100""}",Kitsap,53035,FALSE,FALSE,America/Los_Angeles
+98349,47.26622,-122.77272,Lakebay,WA,Washington,TRUE,,4588,83.2,53053,Pierce,"{""53053"": ""100""}",Pierce,53053,FALSE,FALSE,America/Los_Angeles
+98350,47.90532,-124.61399,La Push,WA,Washington,TRUE,,406,49.5,53009,Clallam,"{""53009"": ""100""}",Clallam,53009,FALSE,FALSE,America/Los_Angeles
+98351,47.20301,-122.7687,Longbranch,WA,Washington,TRUE,,1335,60.3,53053,Pierce,"{""53053"": ""100""}",Pierce,53053,FALSE,FALSE,America/Los_Angeles
+98353,47.53885,-122.49294,Manchester,WA,Washington,TRUE,,18,8.7,53035,Kitsap,"{""53035"": ""100""}",Kitsap,53035,FALSE,FALSE,America/Los_Angeles
+98354,47.25027,-122.31469,Milton,WA,Washington,TRUE,,7221,1162.2,53053,Pierce,"{""53053"": ""88.16"", ""53033"": ""11.84""}",Pierce|King,53053|53033,FALSE,FALSE,America/Los_Angeles
+98355,46.68689,-122.05559,Mineral,WA,Washington,TRUE,,842,1.7,53041,Lewis,"{""53041"": ""100""}",Lewis,53041,FALSE,FALSE,America/Los_Angeles
+98356,46.56342,-122.29219,Morton,WA,Washington,TRUE,,2010,7.8,53041,Lewis,"{""53041"": ""100""}",Lewis,53041,FALSE,FALSE,America/Los_Angeles
+98357,48.33199,-124.62847,Neah Bay,WA,Washington,TRUE,,1560,14.2,53009,Clallam,"{""53009"": ""100""}",Clallam,53009,FALSE,FALSE,America/Los_Angeles
+98358,48.0557,-122.70761,Nordland,WA,Washington,TRUE,,831,30,53031,Jefferson,"{""53031"": ""100""}",Jefferson,53031,FALSE,FALSE,America/Los_Angeles
+98359,47.43045,-122.57661,Olalla,WA,Washington,TRUE,,5044,139.3,53035,Kitsap,"{""53035"": ""100""}",Kitsap,53035,FALSE,FALSE,America/Los_Angeles
+98360,47.03026,-122.15928,Orting,WA,Washington,TRUE,,13726,76.3,53053,Pierce,"{""53053"": ""100""}",Pierce,53053,FALSE,FALSE,America/Los_Angeles
+98361,46.5888,-121.59131,Packwood,WA,Washington,TRUE,,796,0.7,53041,Lewis,"{""53041"": ""100""}",Lewis,53041,FALSE,FALSE,America/Los_Angeles
+98362,47.98419,-123.3616,Port Angeles,WA,Washington,TRUE,,24027,42.4,53009,Clallam,"{""53009"": ""100""}",Clallam,53009,FALSE,FALSE,America/Los_Angeles
+98363,48.01057,-123.87548,Port Angeles,WA,Washington,TRUE,,14197,8.7,53009,Clallam,"{""53009"": ""100""}",Clallam,53009,FALSE,FALSE,America/Los_Angeles
+98364,47.84697,-122.58839,Port Gamble,WA,Washington,TRUE,,88,112.2,53035,Kitsap,"{""53035"": ""100""}",Kitsap,53035,FALSE,FALSE,America/Los_Angeles
+98365,47.89513,-122.70283,Port Ludlow,WA,Washington,TRUE,,5029,52.3,53031,Jefferson,"{""53031"": ""100""}",Jefferson,53031,FALSE,FALSE,America/Los_Angeles
+98366,47.53716,-122.58649,Port Orchard,WA,Washington,TRUE,,34908,581.8,53035,Kitsap,"{""53035"": ""100""}",Kitsap,53035,FALSE,FALSE,America/Los_Angeles
+98367,47.46508,-122.68313,Port Orchard,WA,Washington,TRUE,,29826,142.9,53035,Kitsap,"{""53035"": ""100""}",Kitsap,53035,FALSE,FALSE,America/Los_Angeles
+98368,48.04272,-122.84534,Port Townsend,WA,Washington,TRUE,,15868,115.4,53031,Jefferson,"{""53031"": ""100""}",Jefferson,53031,FALSE,FALSE,America/Los_Angeles
+98370,47.75101,-122.6229,Poulsbo,WA,Washington,TRUE,,31278,213.4,53035,Kitsap,"{""53035"": ""100""}",Kitsap,53035,FALSE,FALSE,America/Los_Angeles
+98371,47.19956,-122.32219,Puyallup,WA,Washington,TRUE,,21866,732.6,53053,Pierce,"{""53053"": ""100""}",Pierce,53053,FALSE,FALSE,America/Los_Angeles
+98372,47.20602,-122.26691,Puyallup,WA,Washington,TRUE,,26422,748.1,53053,Pierce,"{""53053"": ""100""}",Pierce,53053,FALSE,FALSE,America/Los_Angeles
+98373,47.1476,-122.32519,Puyallup,WA,Washington,TRUE,,26344,1081,53053,Pierce,"{""53053"": ""100""}",Pierce,53053,FALSE,FALSE,America/Los_Angeles
+98374,47.12994,-122.26196,Puyallup,WA,Washington,TRUE,,41613,1013.1,53053,Pierce,"{""53053"": ""100""}",Pierce,53053,FALSE,FALSE,America/Los_Angeles
+98375,47.10367,-122.32346,Puyallup,WA,Washington,TRUE,,31955,1269.6,53053,Pierce,"{""53053"": ""100""}",Pierce,53053,FALSE,FALSE,America/Los_Angeles
+98376,47.8512,-122.86207,Quilcene,WA,Washington,TRUE,,2053,6.8,53031,Jefferson,"{""53031"": ""100""}",Jefferson,53031,FALSE,FALSE,America/Los_Angeles
+98377,46.52518,-121.89481,Randle,WA,Washington,TRUE,,1785,3.2,53041,Lewis,"{""53041"": ""100""}",Lewis,53041,FALSE,FALSE,America/Los_Angeles
+98380,47.57555,-122.90221,Seabeck,WA,Washington,TRUE,,4049,37.3,53035,Kitsap,"{""53035"": ""100""}",Kitsap,53035,FALSE,FALSE,America/Los_Angeles
+98381,48.27373,-124.47476,Sekiu,WA,Washington,TRUE,,315,1.8,53009,Clallam,"{""53009"": ""100""}",Clallam,53009,FALSE,FALSE,America/Los_Angeles
+98382,48.02747,-123.07863,Sequim,WA,Washington,TRUE,,28942,65.1,53009,Clallam,"{""53009"": ""98.44"", ""53031"": ""1.56""}",Clallam|Jefferson,53009|53031,FALSE,FALSE,America/Los_Angeles
+98383,47.66207,-122.71793,Silverdale,WA,Washington,TRUE,,21941,471.4,53035,Kitsap,"{""53035"": ""100""}",Kitsap,53035,FALSE,FALSE,America/Los_Angeles
+98385,47.13755,-122.09186,South Prairie,WA,Washington,TRUE,,400,328.8,53053,Pierce,"{""53053"": ""100""}",Pierce,53053,FALSE,FALSE,America/Los_Angeles
+98387,47.05699,-122.39543,Spanaway,WA,Washington,TRUE,,49386,672.5,53053,Pierce,"{""53053"": ""100""}",Pierce,53053,FALSE,FALSE,America/Los_Angeles
+98388,47.19891,-122.66275,Steilacoom,WA,Washington,TRUE,,6627,289.4,53053,Pierce,"{""53053"": ""100""}",Pierce,53053,FALSE,FALSE,America/Los_Angeles
+98390,47.20999,-122.22801,Sumner,WA,Washington,TRUE,,10935,435.5,53053,Pierce,"{""53053"": ""100""}",Pierce,53053,FALSE,FALSE,America/Los_Angeles
+98391,47.17717,-122.17228,Bonney Lake,WA,Washington,TRUE,,52070,521.6,53053,Pierce,"{""53053"": ""100""}",Pierce,53053,FALSE,FALSE,America/Los_Angeles
+98392,47.73296,-122.5629,Suquamish,WA,Washington,TRUE,,3181,747.5,53035,Kitsap,"{""53035"": ""100""}",Kitsap,53035,FALSE,FALSE,America/Los_Angeles
+98394,47.3191,-122.77665,Vaughn,WA,Washington,TRUE,,1467,101.4,53053,Pierce,"{""53053"": ""100""}",Pierce,53053,FALSE,FALSE,America/Los_Angeles
+98396,47.09851,-122.00986,Wilkeson,WA,Washington,TRUE,,761,21.4,53053,Pierce,"{""53053"": ""100""}",Pierce,53053,FALSE,FALSE,America/Los_Angeles
+98402,47.24859,-122.4387,Tacoma,WA,Washington,TRUE,,6208,2545.6,53053,Pierce,"{""53053"": ""100""}",Pierce,53053,FALSE,FALSE,America/Los_Angeles
+98403,47.26595,-122.4585,Tacoma,WA,Washington,TRUE,,8130,2860.3,53053,Pierce,"{""53053"": ""100""}",Pierce,53053,FALSE,FALSE,America/Los_Angeles
+98404,47.20975,-122.41008,Tacoma,WA,Washington,TRUE,,36243,1840,53053,Pierce,"{""53053"": ""100""}",Pierce,53053,FALSE,FALSE,America/Los_Angeles
+98405,47.2458,-122.47201,Tacoma,WA,Washington,TRUE,,23626,2208.6,53053,Pierce,"{""53053"": ""100""}",Pierce,53053,FALSE,FALSE,America/Los_Angeles
+98406,47.26211,-122.50898,Tacoma,WA,Washington,TRUE,,23354,2112.5,53053,Pierce,"{""53053"": ""100""}",Pierce,53053,FALSE,FALSE,America/Los_Angeles
+98407,47.28861,-122.51131,Tacoma,WA,Washington,TRUE,,21439,1475.5,53053,Pierce,"{""53053"": ""100""}",Pierce,53053,FALSE,FALSE,America/Los_Angeles
+98408,47.19802,-122.44647,Tacoma,WA,Washington,TRUE,,21101,2400.5,53053,Pierce,"{""53053"": ""100""}",Pierce,53053,FALSE,FALSE,America/Los_Angeles
+98409,47.21115,-122.48203,Tacoma,WA,Washington,TRUE,,25903,1407.5,53053,Pierce,"{""53053"": ""100""}",Pierce,53053,FALSE,FALSE,America/Los_Angeles
+98416,47.26258,-122.48128,Tacoma,WA,Washington,TRUE,,962,3565.5,53053,Pierce,"{""53053"": ""100""}",Pierce,53053,FALSE,FALSE,America/Los_Angeles
+98418,47.22323,-122.44647,Tacoma,WA,Washington,TRUE,,9333,2140.8,53053,Pierce,"{""53053"": ""100""}",Pierce,53053,FALSE,FALSE,America/Los_Angeles
+98421,47.25917,-122.39953,Tacoma,WA,Washington,TRUE,,1557,89.6,53053,Pierce,"{""53053"": ""100""}",Pierce,53053,FALSE,FALSE,America/Los_Angeles
+98422,47.28962,-122.39171,Tacoma,WA,Washington,TRUE,,21490,1244.8,53053,Pierce,"{""53053"": ""100""}",Pierce,53053,FALSE,FALSE,America/Los_Angeles
+98424,47.23435,-122.35193,Fife,WA,Washington,TRUE,,11542,706.8,53053,Pierce,"{""53053"": ""100""}",Pierce,53053,FALSE,FALSE,America/Los_Angeles
+98430,47.11732,-122.56915,Camp Murray,WA,Washington,TRUE,,0,0,53053,Pierce,"{""53053"": ""100""}",Pierce,53053,FALSE,FALSE,America/Los_Angeles
+98433,47.1113,-122.58723,Tacoma,WA,Washington,TRUE,,19698,386.5,53053,Pierce,"{""53053"": ""100""}",Pierce,53053,FALSE,FALSE,America/Los_Angeles
+98438,47.13163,-122.49706,Mcchord Afb,WA,Washington,TRUE,,584,267,53053,Pierce,"{""53053"": ""100""}",Pierce,53053,FALSE,FALSE,America/Los_Angeles
+98439,47.12388,-122.50169,Lakewood,WA,Washington,TRUE,,5488,242.7,53053,Pierce,"{""53053"": ""100""}",Pierce,53053,FALSE,FALSE,America/Los_Angeles
+98443,47.20462,-122.37412,Tacoma,WA,Washington,TRUE,,5571,420.9,53053,Pierce,"{""53053"": ""100""}",Pierce,53053,FALSE,FALSE,America/Los_Angeles
+98444,47.15285,-122.44899,Tacoma,WA,Washington,TRUE,,34456,1978,53053,Pierce,"{""53053"": ""100""}",Pierce,53053,FALSE,FALSE,America/Los_Angeles
+98445,47.13981,-122.40989,Tacoma,WA,Washington,TRUE,,32066,1186.5,53053,Pierce,"{""53053"": ""100""}",Pierce,53053,FALSE,FALSE,America/Los_Angeles
+98446,47.1297,-122.37423,Tacoma,WA,Washington,TRUE,,11394,400.3,53053,Pierce,"{""53053"": ""100""}",Pierce,53053,FALSE,FALSE,America/Los_Angeles
+98447,47.14429,-122.44348,Tacoma,WA,Washington,TRUE,,732,4888.1,53053,Pierce,"{""53053"": ""100""}",Pierce,53053,FALSE,FALSE,America/Los_Angeles
+98465,47.24823,-122.52906,Tacoma,WA,Washington,TRUE,,6973,1619.5,53053,Pierce,"{""53053"": ""100""}",Pierce,53053,FALSE,FALSE,America/Los_Angeles
+98466,47.22778,-122.53573,Tacoma,WA,Washington,TRUE,,29164,1900.3,53053,Pierce,"{""53053"": ""100""}",Pierce,53053,FALSE,FALSE,America/Los_Angeles
+98467,47.20405,-122.54641,University Place,WA,Washington,TRUE,,15460,1310.4,53053,Pierce,"{""53053"": ""100""}",Pierce,53053,FALSE,FALSE,America/Los_Angeles
+98498,47.16231,-122.55452,Lakewood,WA,Washington,TRUE,,28754,1319.9,53053,Pierce,"{""53053"": ""100""}",Pierce,53053,FALSE,FALSE,America/Los_Angeles
+98499,47.16671,-122.507,Lakewood,WA,Washington,TRUE,,31522,1317.6,53053,Pierce,"{""53053"": ""100""}",Pierce,53053,FALSE,FALSE,America/Los_Angeles
+98501,46.97906,-122.87092,Olympia,WA,Washington,TRUE,,42874,480.6,53067,Thurston,"{""53067"": ""100""}",Thurston,53067,FALSE,FALSE,America/Los_Angeles
+98502,47.09052,-123.01239,Olympia,WA,Washington,TRUE,,35018,248.7,53067,Thurston,"{""53067"": ""100""}",Thurston,53067,FALSE,FALSE,America/Los_Angeles
+98503,47.02578,-122.79819,Lacey,WA,Washington,TRUE,,40452,1383.1,53067,Thurston,"{""53067"": ""100""}",Thurston,53067,FALSE,FALSE,America/Los_Angeles
+98506,47.10283,-122.87324,Olympia,WA,Washington,TRUE,,17060,294.3,53067,Thurston,"{""53067"": ""100""}",Thurston,53067,FALSE,FALSE,America/Los_Angeles
+98512,46.95651,-123.04842,Olympia,WA,Washington,TRUE,,30383,77.9,53067,Thurston,"{""53067"": ""100""}",Thurston,53067,FALSE,FALSE,America/Los_Angeles
+98513,46.98328,-122.73472,Olympia,WA,Washington,TRUE,,35757,233.6,53067,Thurston,"{""53067"": ""100""}",Thurston,53067,FALSE,FALSE,America/Los_Angeles
+98516,47.09657,-122.7836,Olympia,WA,Washington,TRUE,,25766,347.3,53067,Thurston,"{""53067"": ""100""}",Thurston,53067,FALSE,FALSE,America/Los_Angeles
+98520,47.04349,-123.80637,Aberdeen,WA,Washington,TRUE,,24286,39.3,53027,Grays Harbor,"{""53027"": ""100""}",Grays Harbor,53027,FALSE,FALSE,America/Los_Angeles
+98524,47.35771,-122.86367,Allyn,WA,Washington,TRUE,,4481,121,53045,Mason,"{""53045"": ""100""}",Mason,53045,FALSE,FALSE,America/Los_Angeles
+98526,47.46144,-123.97576,Amanda Park,WA,Washington,TRUE,,208,0.9,53027,Grays Harbor,"{""53027"": ""100""}",Grays Harbor,53027,FALSE,FALSE,America/Los_Angeles
+98527,46.58626,-123.89747,Bay Center,WA,Washington,TRUE,,285,11,53049,Pacific,"{""53049"": ""100""}",Pacific,53049,FALSE,FALSE,America/Los_Angeles
+98528,47.44215,-122.89179,Belfair,WA,Washington,TRUE,,11477,60.7,53045,Mason,"{""53045"": ""99.68"", ""53035"": ""0.32""}",Mason|Kitsap,53045|53035,FALSE,FALSE,America/Los_Angeles
+98530,46.78803,-122.82345,Bucoda,WA,Washington,TRUE,,668,51.7,53067,Thurston,"{""53067"": ""100""}",Thurston,53067,FALSE,FALSE,America/Los_Angeles
+98531,46.73496,-122.92102,Centralia,WA,Washington,TRUE,,26031,73.5,53041,Lewis,"{""53041"": ""91.79"", ""53067"": ""8.21""}",Lewis|Thurston,53041|53067,FALSE,FALSE,America/Los_Angeles
+98532,46.63122,-123.04085,Chehalis,WA,Washington,TRUE,,24084,28.8,53041,Lewis,"{""53041"": ""100""}",Lewis,53041,FALSE,FALSE,America/Los_Angeles
+98533,46.67121,-122.43414,Cinebar,WA,Washington,TRUE,,369,1.2,53041,Lewis,"{""53041"": ""100""}",Lewis,53041,FALSE,FALSE,America/Los_Angeles
+98535,47.1066,-124.1339,Copalis Beach,WA,Washington,TRUE,,757,28.6,53027,Grays Harbor,"{""53027"": ""100""}",Grays Harbor,53027,FALSE,FALSE,America/Los_Angeles
+98536,47.20063,-124.09948,Copalis Crossing,WA,Washington,TRUE,,76,0.5,53027,Grays Harbor,"{""53027"": ""100""}",Grays Harbor,53027,FALSE,FALSE,America/Los_Angeles
+98537,46.83011,-123.60261,Cosmopolis,WA,Washington,TRUE,,2150,4.3,53027,Grays Harbor,"{""53027"": ""96.15"", ""53049"": ""3.85""}",Grays Harbor|Pacific,53027|53049,FALSE,FALSE,America/Los_Angeles
+98538,46.47758,-123.15272,Curtis,WA,Washington,TRUE,,373,1.4,53041,Lewis,"{""53041"": ""100""}",Lewis,53041,FALSE,FALSE,America/Los_Angeles
+98541,47.06045,-123.39138,Elma,WA,Washington,TRUE,,10422,19,53027,Grays Harbor,"{""53027"": ""86.28"", ""53045"": ""13.72""}",Grays Harbor|Mason,53027|53045,FALSE,FALSE,America/Los_Angeles
+98542,46.52462,-122.71866,Ethel,WA,Washington,TRUE,,615,17.5,53041,Lewis,"{""53041"": ""100""}",Lewis,53041,FALSE,FALSE,America/Los_Angeles
+98544,46.7389,-123.02662,Galvin,WA,Washington,TRUE,,63,242.1,53041,Lewis,"{""53041"": ""100""}",Lewis,53041,FALSE,FALSE,America/Los_Angeles
+98546,47.31681,-122.93542,Grapeview,WA,Washington,TRUE,,3272,47.7,53045,Mason,"{""53045"": ""100""}",Mason,53045,FALSE,FALSE,America/Los_Angeles
+98547,46.78634,-124.01991,Grayland,WA,Washington,TRUE,,1486,9.4,53027,Grays Harbor,"{""53027"": ""61"", ""53049"": ""39""}",Grays Harbor|Pacific,53027|53049,FALSE,FALSE,America/Los_Angeles
+98548,47.43003,-123.33218,Hoodsport,WA,Washington,TRUE,,2158,6.1,53045,Mason,"{""53045"": ""100""}",Mason,53045,FALSE,FALSE,America/Los_Angeles
+98550,47.10384,-123.9367,Hoquiam,WA,Washington,TRUE,,11324,20.4,53027,Grays Harbor,"{""53027"": ""100""}",Grays Harbor,53027,FALSE,FALSE,America/Los_Angeles
+98552,47.30465,-123.91924,Humptulips,WA,Washington,TRUE,,480,2,53027,Grays Harbor,"{""53027"": ""100""}",Grays Harbor,53027,FALSE,FALSE,America/Los_Angeles
+98555,47.53579,-123.06229,Lilliwaup,WA,Washington,TRUE,,319,6,53045,Mason,"{""53045"": ""100""}",Mason,53045,FALSE,FALSE,America/Los_Angeles
+98557,47.04402,-123.26797,Mccleary,WA,Washington,TRUE,,3304,35.4,53027,Grays Harbor,"{""53027"": ""98.02"", ""53045"": ""1.98""}",Grays Harbor|Mason,53027|53045,FALSE,FALSE,America/Los_Angeles
+98558,46.93397,-122.55659,Mckenna,WA,Washington,TRUE,,337,1029.5,53053,Pierce,"{""53053"": ""100""}",Pierce,53053,FALSE,FALSE,America/Los_Angeles
+98559,46.95859,-123.32725,Malone,WA,Washington,TRUE,,0,0,53027,Grays Harbor,"{""53027"": ""100""}",Grays Harbor,53027,FALSE,FALSE,America/Los_Angeles
+98560,47.30752,-123.41887,Matlock,WA,Washington,TRUE,,115,0.8,53045,Mason,"{""53045"": ""100""}",Mason,53045,FALSE,FALSE,America/Los_Angeles
+98562,47.23855,-124.20362,Moclips,WA,Washington,TRUE,,47,18.5,53027,Grays Harbor,"{""53027"": ""100""}",Grays Harbor,53027,FALSE,FALSE,America/Los_Angeles
+98563,47.20859,-123.60306,Montesano,WA,Washington,TRUE,,7893,8.3,53027,Grays Harbor,"{""53027"": ""100""}",Grays Harbor,53027,FALSE,FALSE,America/Los_Angeles
+98564,46.45637,-122.43293,Mossyrock,WA,Washington,TRUE,,2198,6.1,53041,Lewis,"{""53041"": ""100""}",Lewis,53041,FALSE,FALSE,America/Los_Angeles
+98565,46.57832,-122.90197,Napavine,WA,Washington,TRUE,,934,580.6,53041,Lewis,"{""53041"": ""100""}",Lewis,53041,FALSE,FALSE,America/Los_Angeles
+98568,46.85486,-123.31387,Oakville,WA,Washington,TRUE,,2461,6.3,53027,Grays Harbor,"{""53027"": ""98.17"", ""53041"": ""1.83""}",Grays Harbor|Lewis,53027|53041,FALSE,FALSE,America/Los_Angeles
+98569,47.00632,-124.15122,Ocean Shores,WA,Washington,TRUE,,6309,166.3,53027,Grays Harbor,"{""53027"": ""100""}",Grays Harbor,53027,FALSE,FALSE,America/Los_Angeles
+98570,46.63827,-122.63651,Onalaska,WA,Washington,TRUE,,4175,13.6,53041,Lewis,"{""53041"": ""100""}",Lewis,53041,FALSE,FALSE,America/Los_Angeles
+98571,47.19446,-124.17242,Pacific Beach,WA,Washington,TRUE,,278,12.3,53027,Grays Harbor,"{""53027"": ""100""}",Grays Harbor,53027,FALSE,FALSE,America/Los_Angeles
+98572,46.5512,-123.32437,Pe Ell,WA,Washington,TRUE,,720,8,53041,Lewis,"{""53041"": ""100""}",Lewis,53041,FALSE,FALSE,America/Los_Angeles
+98575,47.41778,-123.79553,Quinault,WA,Washington,TRUE,,139,0.5,53027,Grays Harbor,"{""53027"": ""100""}",Grays Harbor,53027,FALSE,FALSE,America/Los_Angeles
+98576,46.83741,-122.63546,Rainier,WA,Washington,TRUE,,5068,27.7,53067,Thurston,"{""53067"": ""100""}",Thurston,53067,FALSE,FALSE,America/Los_Angeles
+98577,46.64218,-123.60769,Raymond,WA,Washington,TRUE,,7325,7.4,53049,Pacific,"{""53049"": ""100""}",Pacific,53049,FALSE,FALSE,America/Los_Angeles
+98579,46.79802,-123.11937,Rochester,WA,Washington,TRUE,,13589,57.9,53067,Thurston,"{""53067"": ""96.89"", ""53041"": ""3.11""}",Thurston|Lewis,53067|53041,FALSE,FALSE,America/Los_Angeles
+98580,46.99631,-122.51612,Roy,WA,Washington,TRUE,,11437,31.4,53053,Pierce,"{""53053"": ""100""}",Pierce,53053,FALSE,FALSE,America/Los_Angeles
+98581,46.35777,-123.06723,Ryderwood,WA,Washington,TRUE,,525,6.9,53015,Cowlitz,"{""53015"": ""100""}",Cowlitz,53015,FALSE,FALSE,America/Los_Angeles
+98582,46.5215,-122.62382,Salkum,WA,Washington,TRUE,,172,9.4,53041,Lewis,"{""53041"": ""100""}",Lewis,53041,FALSE,FALSE,America/Los_Angeles
+98583,47.00116,-123.48746,Satsop,WA,Washington,TRUE,,149,525.3,53027,Grays Harbor,"{""53027"": ""100""}",Grays Harbor,53027,FALSE,FALSE,America/Los_Angeles
+98584,47.24236,-123.15513,Shelton,WA,Washington,TRUE,,37278,42.2,53045,Mason,"{""53045"": ""100""}",Mason,53045,FALSE,FALSE,America/Los_Angeles
+98585,46.55493,-122.49572,Silver Creek,WA,Washington,TRUE,,832,14.5,53041,Lewis,"{""53041"": ""100""}",Lewis,53041,FALSE,FALSE,America/Los_Angeles
+98586,46.54489,-123.81369,South Bend,WA,Washington,TRUE,,1569,4.5,53049,Pacific,"{""53049"": ""100""}",Pacific,53049,FALSE,FALSE,America/Los_Angeles
+98587,47.30875,-124.21419,Taholah,WA,Washington,TRUE,,747,10.1,53027,Grays Harbor,"{""53027"": ""100""}",Grays Harbor,53027,FALSE,FALSE,America/Los_Angeles
+98588,47.44458,-123.0233,Tahuya,WA,Washington,TRUE,,1583,12.5,53045,Mason,"{""53045"": ""100""}",Mason,53045,FALSE,FALSE,America/Los_Angeles
+98589,46.83933,-122.81146,Tenino,WA,Washington,TRUE,,7654,32.1,53067,Thurston,"{""53067"": ""100""}",Thurston,53067,FALSE,FALSE,America/Los_Angeles
+98590,46.71866,-124.00252,Tokeland,WA,Washington,TRUE,,305,38.1,53049,Pacific,"{""53049"": ""100""}",Pacific,53049,FALSE,FALSE,America/Los_Angeles
+98591,46.44269,-122.74286,Toledo,WA,Washington,TRUE,,3376,11.3,53041,Lewis,"{""53041"": ""100""}",Lewis,53041,FALSE,FALSE,America/Los_Angeles
+98592,47.32587,-123.08021,Union,WA,Washington,TRUE,,1839,40.3,53045,Mason,"{""53045"": ""100""}",Mason,53045,FALSE,FALSE,America/Los_Angeles
+98593,46.40794,-123.0055,Vader,WA,Washington,TRUE,,1260,36.3,53041,Lewis,"{""53041"": ""100""}",Lewis,53041,FALSE,FALSE,America/Los_Angeles
+98595,46.88232,-124.10849,Westport,WA,Washington,TRUE,,2508,177.4,53027,Grays Harbor,"{""53027"": ""100""}",Grays Harbor,53027,FALSE,FALSE,America/Los_Angeles
+98596,46.4957,-122.95323,Winlock,WA,Washington,TRUE,,7813,33.8,53041,Lewis,"{""53041"": ""100""}",Lewis,53041,FALSE,FALSE,America/Los_Angeles
+98597,46.85138,-122.49229,Yelm,WA,Washington,TRUE,,23996,83,53067,Thurston,"{""53067"": ""100""}",Thurston,53067,FALSE,FALSE,America/Los_Angeles
+98601,45.95632,-122.36119,Amboy,WA,Washington,TRUE,,3702,21,53011,Clark,"{""53011"": ""95.61"", ""53015"": ""4.39""}",Clark|Cowlitz,53011|53015,FALSE,FALSE,America/Los_Angeles
+98602,45.86716,-121.26554,Appleton,WA,Washington,TRUE,,185,1.3,53039,Klickitat,"{""53039"": ""100""}",Klickitat,53039,FALSE,FALSE,America/Los_Angeles
+98603,46.0408,-122.42018,Ariel,WA,Washington,TRUE,,1167,3.9,53015,Cowlitz,"{""53015"": ""100""}",Cowlitz,53015,FALSE,FALSE,America/Los_Angeles
+98604,45.80019,-122.50522,Battle Ground,WA,Washington,TRUE,,37225,198.5,53011,Clark,"{""53011"": ""100""}",Clark,53011,FALSE,FALSE,America/Los_Angeles
+98605,45.77509,-121.6328,Bingen,WA,Washington,TRUE,,1140,10.2,53039,Klickitat,"{""53039"": ""62.53"", ""53059"": ""37.47""}",Klickitat|Skamania,53039|53059,FALSE,FALSE,America/Los_Angeles
+98606,45.72973,-122.45637,Brush Prairie,WA,Washington,TRUE,,9004,92.9,53011,Clark,"{""53011"": ""100""}",Clark,53011,FALSE,FALSE,America/Los_Angeles
+98607,45.64338,-122.38206,Camas,WA,Washington,TRUE,,32232,265.1,53011,Clark,"{""53011"": ""100""}",Clark,53011,FALSE,FALSE,America/Los_Angeles
+98610,45.86735,-122.0707,Carson,WA,Washington,TRUE,,3349,3.5,53059,Skamania,"{""53059"": ""100""}",Skamania,53059,FALSE,FALSE,America/Los_Angeles
+98611,46.30812,-122.89524,Castle Rock,WA,Washington,TRUE,,9421,29.1,53015,Cowlitz,"{""53015"": ""100""}",Cowlitz,53015,FALSE,FALSE,America/Los_Angeles
+98612,46.21778,-123.32552,Cathlamet,WA,Washington,TRUE,,2981,15.2,53069,Wahkiakum,"{""53069"": ""100""}",Wahkiakum,53069,FALSE,FALSE,America/Los_Angeles
+98613,45.73673,-120.96569,Centerville,WA,Washington,TRUE,,402,1.7,53039,Klickitat,"{""53039"": ""100""}",Klickitat,53039,FALSE,FALSE,America/Los_Angeles
+98614,46.29717,-123.90149,Chinook,WA,Washington,TRUE,,164,2.2,53049,Pacific,"{""53049"": ""100""}",Pacific,53049,FALSE,FALSE,America/Los_Angeles
+98616,46.197,-122.14157,Cougar,WA,Washington,TRUE,,113,0.2,53015,Cowlitz,"{""53015"": ""74.67"", ""53059"": ""25.33""}",Cowlitz|Skamania,53015|53059,FALSE,FALSE,America/Los_Angeles
+98617,45.64391,-121.15643,Dallesport,WA,Washington,TRUE,,1415,49.2,53039,Klickitat,"{""53039"": ""100""}",Klickitat,53039,FALSE,FALSE,America/Los_Angeles
+98619,45.97502,-121.27212,Glenwood,WA,Washington,TRUE,,539,1.4,53039,Klickitat,"{""53039"": ""100""}",Klickitat,53039,FALSE,FALSE,America/Los_Angeles
+98620,45.87202,-120.77468,Goldendale,WA,Washington,TRUE,,7669,6.1,53039,Klickitat,"{""53039"": ""100""}",Klickitat,53039,FALSE,FALSE,America/Los_Angeles
+98621,46.37784,-123.54961,Grays River,WA,Washington,TRUE,,269,2.5,53069,Wahkiakum,"{""53069"": ""96.74"", ""53049"": ""3.26""}",Wahkiakum|Pacific,53069|53049,FALSE,FALSE,America/Los_Angeles
+98624,46.36954,-123.9714,Ilwaco,WA,Washington,TRUE,,1633,18.6,53049,Pacific,"{""53049"": ""100""}",Pacific,53049,FALSE,FALSE,America/Los_Angeles
+98625,46.04237,-122.72783,Kalama,WA,Washington,TRUE,,6716,32.2,53015,Cowlitz,"{""53015"": ""100""}",Cowlitz,53015,FALSE,FALSE,America/Los_Angeles
+98626,46.15464,-122.78638,Kelso,WA,Washington,TRUE,,24643,69.7,53015,Cowlitz,"{""53015"": ""100""}",Cowlitz,53015,FALSE,FALSE,America/Los_Angeles
+98628,45.85926,-121.09064,Klickitat,WA,Washington,TRUE,,263,11.5,53039,Klickitat,"{""53039"": ""100""}",Klickitat,53039,FALSE,FALSE,America/Los_Angeles
+98629,45.88169,-122.61413,La Center,WA,Washington,TRUE,,9154,91.4,53011,Clark,"{""53011"": ""100""}",Clark,53011,FALSE,FALSE,America/Los_Angeles
+98631,46.38858,-124.03692,Long Beach,WA,Washington,TRUE,,3256,77.9,53049,Pacific,"{""53049"": ""100""}",Pacific,53049,FALSE,FALSE,America/Los_Angeles
+98632,46.21684,-123.06852,Longview,WA,Washington,TRUE,,51504,153.3,53015,Cowlitz,"{""53015"": ""99.92"", ""53069"": ""0.08""}",Cowlitz|Wahkiakum,53015|53069,FALSE,FALSE,America/Los_Angeles
+98635,45.74258,-121.20388,Lyle,WA,Washington,TRUE,,1621,4.9,53039,Klickitat,"{""53039"": ""100""}",Klickitat,53039,FALSE,FALSE,America/Los_Angeles
+98638,46.38956,-123.74334,Naselle,WA,Washington,TRUE,,1371,3.1,53049,Pacific,"{""53049"": ""86.62"", ""53069"": ""13.38""}",Pacific|Wahkiakum,53049|53069,FALSE,FALSE,America/Los_Angeles
+98639,45.66284,-121.98949,North Bonneville,WA,Washington,TRUE,,977,29.5,53059,Skamania,"{""53059"": ""100""}",Skamania,53059,FALSE,FALSE,America/Los_Angeles
+98640,46.54758,-124.04613,Ocean Park,WA,Washington,TRUE,,4576,86.2,53049,Pacific,"{""53049"": ""100""}",Pacific,53049,FALSE,FALSE,America/Los_Angeles
+98641,46.54638,-124.02992,Oysterville,WA,Washington,TRUE,,23,215.9,53049,Pacific,"{""53049"": ""100""}",Pacific,53049,FALSE,FALSE,America/Los_Angeles
+98642,45.80248,-122.70178,Ridgefield,WA,Washington,TRUE,,19957,135.2,53011,Clark,"{""53011"": ""100""}",Clark,53011,FALSE,FALSE,America/Los_Angeles
+98643,46.30135,-123.61472,Rosburg,WA,Washington,TRUE,,464,4.9,53069,Wahkiakum,"{""53069"": ""100""}",Wahkiakum,53069,FALSE,FALSE,America/Los_Angeles
+98644,46.32964,-124.05628,Seaview,WA,Washington,TRUE,,495,271.5,53049,Pacific,"{""53049"": ""100""}",Pacific,53049,FALSE,FALSE,America/Los_Angeles
+98645,46.32644,-122.78197,Silverlake,WA,Washington,TRUE,,1490,38.7,53015,Cowlitz,"{""53015"": ""100""}",Cowlitz,53015,FALSE,FALSE,America/Los_Angeles
+98647,46.31842,-123.43538,Skamokawa,WA,Washington,TRUE,,308,1.9,53069,Wahkiakum,"{""53069"": ""100""}",Wahkiakum,53069,FALSE,FALSE,America/Los_Angeles
+98648,45.70807,-121.95486,Stevenson,WA,Washington,TRUE,,3243,10.2,53059,Skamania,"{""53059"": ""100""}",Skamania,53059,FALSE,FALSE,America/Los_Angeles
+98649,46.31417,-122.53538,Toutle,WA,Washington,TRUE,,941,1.8,53015,Cowlitz,"{""53015"": ""100""}",Cowlitz,53015,FALSE,FALSE,America/Los_Angeles
+98650,45.97293,-121.52874,Trout Lake,WA,Washington,TRUE,,946,4.4,53039,Klickitat,"{""53039"": ""100""}",Klickitat,53039,FALSE,FALSE,America/Los_Angeles
+98651,45.74276,-121.584,Underwood,WA,Washington,TRUE,,800,17.3,53059,Skamania,"{""53059"": ""100""}",Skamania,53059,FALSE,FALSE,America/Los_Angeles
+98660,45.68772,-122.73187,Vancouver,WA,Washington,TRUE,,12588,325.8,53011,Clark,"{""53011"": ""100""}",Clark,53011,FALSE,FALSE,America/Los_Angeles
+98661,45.63918,-122.62575,Vancouver,WA,Washington,TRUE,,48063,1747.1,53011,Clark,"{""53011"": ""100""}",Clark,53011,FALSE,FALSE,America/Los_Angeles
+98662,45.68851,-122.57784,Vancouver,WA,Washington,TRUE,,33152,994.5,53011,Clark,"{""53011"": ""100""}",Clark,53011,FALSE,FALSE,America/Los_Angeles
+98663,45.65399,-122.66253,Vancouver,WA,Washington,TRUE,,14430,1294.6,53011,Clark,"{""53011"": ""100""}",Clark,53011,FALSE,FALSE,America/Los_Angeles
+98664,45.61981,-122.57752,Vancouver,WA,Washington,TRUE,,23421,1718.4,53011,Clark,"{""53011"": ""100""}",Clark,53011,FALSE,FALSE,America/Los_Angeles
+98665,45.67974,-122.65942,Vancouver,WA,Washington,TRUE,,26518,1266.9,53011,Clark,"{""53011"": ""100""}",Clark,53011,FALSE,FALSE,America/Los_Angeles
+98670,45.85885,-121.14091,Wahkiacus,WA,Washington,TRUE,,39,0.6,53039,Klickitat,"{""53039"": ""100""}",Klickitat,53039,FALSE,FALSE,America/Los_Angeles
+98671,45.61329,-122.2422,Washougal,WA,Washington,TRUE,,23058,103.1,53011,Clark,"{""53011"": ""87.26"", ""53059"": ""12.74""}",Clark|Skamania,53011|53059,FALSE,FALSE,America/Los_Angeles
+98672,45.81843,-121.46297,White Salmon,WA,Washington,TRUE,,6874,18.3,53039,Klickitat,"{""53039"": ""98.23"", ""53059"": ""1.77""}",Klickitat|Skamania,53039|53059,FALSE,FALSE,America/Los_Angeles
+98673,45.65212,-121.03609,Wishram,WA,Washington,TRUE,,578,17.2,53039,Klickitat,"{""53039"": ""100""}",Klickitat,53039,FALSE,FALSE,America/Los_Angeles
+98674,45.94333,-122.66499,Woodland,WA,Washington,TRUE,,12919,60.1,53015,Cowlitz,"{""53015"": ""78.52"", ""53011"": ""21.48""}",Cowlitz|Clark,53015|53011,FALSE,FALSE,America/Los_Angeles
+98675,45.827,-122.34442,Yacolt,WA,Washington,TRUE,,7159,23.4,53011,Clark,"{""53011"": ""100""}",Clark,53011,FALSE,FALSE,America/Los_Angeles
+98682,45.67317,-122.48174,Vancouver,WA,Washington,TRUE,,60887,779.8,53011,Clark,"{""53011"": ""100""}",Clark,53011,FALSE,FALSE,America/Los_Angeles
+98683,45.60301,-122.51024,Vancouver,WA,Washington,TRUE,,33219,1767.6,53011,Clark,"{""53011"": ""100""}",Clark,53011,FALSE,FALSE,America/Los_Angeles
+98684,45.63073,-122.51644,Vancouver,WA,Washington,TRUE,,29396,1627.7,53011,Clark,"{""53011"": ""100""}",Clark,53011,FALSE,FALSE,America/Los_Angeles
+98685,45.71621,-122.68991,Vancouver,WA,Washington,TRUE,,29792,1182.2,53011,Clark,"{""53011"": ""100""}",Clark,53011,FALSE,FALSE,America/Los_Angeles
+98686,45.72415,-122.62335,Vancouver,WA,Washington,TRUE,,20504,688.1,53011,Clark,"{""53011"": ""100""}",Clark,53011,FALSE,FALSE,America/Los_Angeles
+98801,47.42334,-120.33781,Wenatchee,WA,Washington,TRUE,,43366,103.1,53007,Chelan,"{""53007"": ""100""}",Chelan,53007,FALSE,FALSE,America/Los_Angeles
+98802,47.49059,-120.16774,East Wenatchee,WA,Washington,TRUE,,31422,67.6,53017,Douglas,"{""53017"": ""100""}",Douglas,53017,FALSE,FALSE,America/Los_Angeles
+98811,47.71386,-120.37618,Ardenvoir,WA,Washington,TRUE,,207,15.4,53007,Chelan,"{""53007"": ""100""}",Chelan,53007,FALSE,FALSE,America/Los_Angeles
+98812,48.1445,-119.75284,Brewster,WA,Washington,TRUE,,5153,7.5,53047,Okanogan,"{""53047"": ""87.51"", ""53017"": ""12.49""}",Okanogan|Douglas,53047|53017,FALSE,FALSE,America/Los_Angeles
+98813,48.01416,-119.60655,Bridgeport,WA,Washington,TRUE,,2836,9.3,53017,Douglas,"{""53017"": ""95.59"", ""53047"": ""4.41""}",Douglas|Okanogan,53017|53047,FALSE,FALSE,America/Los_Angeles
+98814,48.20686,-120.15826,Carlton,WA,Washington,TRUE,,814,2.1,53047,Okanogan,"{""53047"": ""100""}",Okanogan,53047,FALSE,FALSE,America/Los_Angeles
+98815,47.48374,-120.47431,Cashmere,WA,Washington,TRUE,,7622,24.8,53007,Chelan,"{""53007"": ""100""}",Chelan,53007,FALSE,FALSE,America/Los_Angeles
+98816,47.99847,-120.32949,Chelan,WA,Washington,TRUE,,6007,5.8,53007,Chelan,"{""53007"": ""99.72"", ""53017"": ""0.28""}",Chelan|Douglas,53007|53017,FALSE,FALSE,America/Los_Angeles
+98817,47.79153,-119.99527,Chelan Falls,WA,Washington,TRUE,,177,69.6,53007,Chelan,"{""53007"": ""100""}",Chelan,53007,FALSE,FALSE,America/Los_Angeles
+98819,48.61684,-119.81462,Conconully,WA,Washington,TRUE,,183,0.6,53047,Okanogan,"{""53047"": ""100""}",Okanogan,53047,FALSE,FALSE,America/Los_Angeles
+98821,47.55177,-120.55942,Dryden,WA,Washington,TRUE,,306,64.2,53007,Chelan,"{""53007"": ""100""}",Chelan,53007,FALSE,FALSE,America/Los_Angeles
+98822,47.86643,-120.47563,Entiat,WA,Washington,TRUE,,1848,1.6,53007,Chelan,"{""53007"": ""100""}",Chelan,53007,FALSE,FALSE,America/Los_Angeles
+98823,47.32197,-119.63358,Ephrata,WA,Washington,TRUE,,11304,14.6,53025,Grant,"{""53025"": ""99.54"", ""53017"": ""0.46""}",Grant|Douglas,53025|53017,FALSE,FALSE,America/Los_Angeles
+98824,47.07784,-119.85868,George,WA,Washington,TRUE,,467,473.2,53025,Grant,"{""53025"": ""100""}",Grant,53025,FALSE,FALSE,America/Los_Angeles
+98826,47.7875,-120.85453,Leavenworth,WA,Washington,TRUE,,7520,2.9,53007,Chelan,"{""53007"": ""100""}",Chelan,53007,FALSE,FALSE,America/Los_Angeles
+98827,48.86486,-119.76696,Loomis,WA,Washington,TRUE,,568,0.7,53047,Okanogan,"{""53047"": ""100""}",Okanogan,53047,FALSE,FALSE,America/Los_Angeles
+98828,47.30561,-120.17619,Malaga,WA,Washington,TRUE,,2473,16.8,53007,Chelan,"{""53007"": ""99.63"", ""53037"": ""0.37""}",Chelan|Kittitas,53007|53037,FALSE,FALSE,America/Los_Angeles
+98829,48.31242,-119.80894,Malott,WA,Washington,TRUE,,616,3.5,53047,Okanogan,"{""53047"": ""100""}",Okanogan,53047,FALSE,FALSE,America/Los_Angeles
+98830,47.89518,-119.51453,Mansfield,WA,Washington,TRUE,,572,0.5,53017,Douglas,"{""53017"": ""100""}",Douglas,53017,FALSE,FALSE,America/Los_Angeles
+98831,47.9346,-120.1301,Manson,WA,Washington,TRUE,,3193,26.3,53007,Chelan,"{""53007"": ""100""}",Chelan,53007,FALSE,FALSE,America/Los_Angeles
+98832,47.37195,-119.01776,Marlin,WA,Washington,TRUE,,206,0.4,53025,Grant,"{""53025"": ""91.88"", ""53043"": ""8.13""}",Grant|Lincoln,53025|53043,FALSE,FALSE,America/Los_Angeles
+98833,48.68821,-120.61132,Mazama,WA,Washington,TRUE,,139,0.3,53047,Okanogan,"{""53047"": ""100""}",Okanogan,53047,FALSE,FALSE,America/Los_Angeles
+98834,48.11708,-120.08911,Methow,WA,Washington,TRUE,,199,1,53047,Okanogan,"{""53047"": ""100""}",Okanogan,53047,FALSE,FALSE,America/Los_Angeles
+98836,47.47526,-120.42756,Monitor,WA,Washington,TRUE,,1051,53.1,53007,Chelan,"{""53007"": ""100""}",Chelan,53007,FALSE,FALSE,America/Los_Angeles
+98837,47.14978,-119.30455,Moses Lake,WA,Washington,TRUE,,44136,35.3,53025,Grant,"{""53025"": ""100""}",Grant,53025,FALSE,FALSE,America/Los_Angeles
+98840,48.31467,-119.56659,Okanogan,WA,Washington,TRUE,,4862,4.5,53047,Okanogan,"{""53047"": ""100""}",Okanogan,53047,FALSE,FALSE,America/Los_Angeles
+98841,48.35883,-119.26948,Omak,WA,Washington,TRUE,,9289,9.4,53047,Okanogan,"{""53047"": ""100""}",Okanogan,53047,FALSE,FALSE,America/Los_Angeles
+98843,47.75201,-120.05985,Orondo,WA,Washington,TRUE,,1840,10.8,53017,Douglas,"{""53017"": ""100""}",Douglas,53017,FALSE,FALSE,America/Los_Angeles
+98844,48.91594,-119.2444,Oroville,WA,Washington,TRUE,,4252,5,53047,Okanogan,"{""53047"": ""100""}",Okanogan,53047,FALSE,FALSE,America/Los_Angeles
+98845,47.41839,-119.92731,Palisades,WA,Washington,TRUE,,345,1.9,53017,Douglas,"{""53017"": ""100""}",Douglas,53017,FALSE,FALSE,America/Los_Angeles
+98846,48.03405,-119.97863,Pateros,WA,Washington,TRUE,,1255,5.4,53047,Okanogan,"{""53047"": ""100""}",Okanogan,53047,FALSE,FALSE,America/Los_Angeles
+98847,47.44055,-120.64667,Peshastin,WA,Washington,TRUE,,2446,5.8,53007,Chelan,"{""53007"": ""100""}",Chelan,53007,FALSE,FALSE,America/Los_Angeles
+98848,47.17238,-119.8433,Quincy,WA,Washington,TRUE,,12299,10.6,53025,Grant,"{""53025"": ""99.56"", ""53017"": ""0.44""}",Grant|Douglas,53025|53017,FALSE,FALSE,America/Los_Angeles
+98849,48.53819,-119.40391,Riverside,WA,Washington,TRUE,,1318,3.3,53047,Okanogan,"{""53047"": ""100""}",Okanogan,53047,FALSE,FALSE,America/Los_Angeles
+98850,47.30764,-120.07758,Rock Island,WA,Washington,TRUE,,1661,28.2,53017,Douglas,"{""53017"": ""100""}",Douglas,53017,FALSE,FALSE,America/Los_Angeles
+98851,47.42069,-119.42514,Soap Lake,WA,Washington,TRUE,,4874,11.8,53025,Grant,"{""53025"": ""100""}",Grant,53025,FALSE,FALSE,America/Los_Angeles
+98852,48.25281,-120.55118,Stehekin,WA,Washington,TRUE,,15,0,53007,Chelan,"{""53007"": ""100""}",Chelan,53007,FALSE,FALSE,America/Los_Angeles
+98853,47.46201,-119.26036,Stratford,WA,Washington,TRUE,,14,0.7,53025,Grant,"{""53025"": ""100""}",Grant,53025,FALSE,FALSE,America/Los_Angeles
+98855,48.67535,-119.27048,Tonasket,WA,Washington,TRUE,,6057,3.6,53047,Okanogan,"{""53047"": ""100""}",Okanogan,53047,FALSE,FALSE,America/Los_Angeles
+98856,48.37294,-120.25319,Twisp,WA,Washington,TRUE,,2561,2.2,53047,Okanogan,"{""53047"": ""100""}",Okanogan,53047,FALSE,FALSE,America/Los_Angeles
+98857,46.98565,-119.05068,Warden,WA,Washington,TRUE,,3595,8.5,53025,Grant,"{""53025"": ""96.33"", ""53001"": ""3.67""}",Grant|Adams,53025|53001,FALSE,FALSE,America/Los_Angeles
+98858,47.64655,-119.90883,Waterville,WA,Washington,TRUE,,1938,1.9,53017,Douglas,"{""53017"": ""100""}",Douglas,53017,FALSE,FALSE,America/Los_Angeles
+98859,48.80241,-118.91408,Wauconda,WA,Washington,TRUE,,174,0.5,53047,Okanogan,"{""53047"": ""100""}",Okanogan,53047,FALSE,FALSE,America/Los_Angeles
+98860,47.46881,-119.16396,Wilson Creek,WA,Washington,TRUE,,235,1.2,53025,Grant,"{""53025"": ""100""}",Grant,53025,FALSE,FALSE,America/Los_Angeles
+98862,48.58164,-120.28825,Winthrop,WA,Washington,TRUE,,2461,2.1,53047,Okanogan,"{""53047"": ""100"", ""53073"": ""0""}",Okanogan|Whatcom,53047|53073,FALSE,FALSE,America/Los_Angeles
+98901,46.69319,-120.41528,Yakima,WA,Washington,TRUE,,32358,107.1,53077,Yakima,"{""53077"": ""99.8"", ""53037"": ""0.2""}",Yakima|Kittitas,53077|53037,FALSE,FALSE,America/Los_Angeles
+98902,46.59668,-120.53375,Yakima,WA,Washington,TRUE,,46130,1971.9,53077,Yakima,"{""53077"": ""100""}",Yakima,53077,FALSE,FALSE,America/Los_Angeles
+98903,46.53886,-121.02662,Yakima,WA,Washington,TRUE,,14086,18.8,53077,Yakima,"{""53077"": ""100""}",Yakima,53077,FALSE,FALSE,America/Los_Angeles
+98908,46.61658,-120.70952,Yakima,WA,Washington,TRUE,,36965,144.4,53077,Yakima,"{""53077"": ""100""}",Yakima,53077,FALSE,FALSE,America/Los_Angeles
+98921,46.43107,-120.31878,Buena,WA,Washington,TRUE,,127,390.2,53077,Yakima,"{""53077"": ""100""}",Yakima,53077,FALSE,FALSE,America/Los_Angeles
+98922,47.26931,-120.88143,Cle Elum,WA,Washington,TRUE,,6607,5.7,53037,Kittitas,"{""53037"": ""100""}",Kittitas,53037,FALSE,FALSE,America/Los_Angeles
+98923,46.66635,-120.71772,Cowiche,WA,Washington,TRUE,,1215,77.6,53077,Yakima,"{""53077"": ""100""}",Yakima,53077,FALSE,FALSE,America/Los_Angeles
+98925,47.25806,-121.28081,Easton,WA,Washington,TRUE,,532,1.6,53037,Kittitas,"{""53037"": ""100""}",Kittitas,53037,FALSE,FALSE,America/Los_Angeles
+98926,47.01293,-120.46296,Ellensburg,WA,Washington,TRUE,,34725,23.2,53037,Kittitas,"{""53037"": ""100""}",Kittitas,53037,FALSE,FALSE,America/Los_Angeles
+98930,46.27048,-119.89355,Grandview,WA,Washington,TRUE,,15627,126.9,53077,Yakima,"{""53077"": ""94.15"", ""53005"": ""5.85""}",Yakima|Benton,53077|53005,FALSE,FALSE,America/Los_Angeles
+98932,46.33242,-120.16117,Granger,WA,Washington,TRUE,,5442,62.3,53077,Yakima,"{""53077"": ""100""}",Yakima,53077,FALSE,FALSE,America/Los_Angeles
+98933,46.40223,-120.63124,Harrah,WA,Washington,TRUE,,1051,16.8,53077,Yakima,"{""53077"": ""100""}",Yakima,53077,FALSE,FALSE,America/Los_Angeles
+98934,46.98179,-120.41493,Kittitas,WA,Washington,TRUE,,1166,530.4,53037,Kittitas,"{""53037"": ""100""}",Kittitas,53037,FALSE,FALSE,America/Los_Angeles
+98935,46.1314,-120.08637,Mabton,WA,Washington,TRUE,,4035,5.8,53077,Yakima,"{""53077"": ""100""}",Yakima,53077,FALSE,FALSE,America/Los_Angeles
+98936,46.53598,-120.14407,Moxee,WA,Washington,TRUE,,6752,18.4,53077,Yakima,"{""53077"": ""100""}",Yakima,53077,FALSE,FALSE,America/Los_Angeles
+98937,46.808,-121.16104,Naches,WA,Washington,TRUE,,4031,2,53077,Yakima,"{""53077"": ""100"", ""53037"": ""0""}",Yakima|Kittitas,53077|53037,FALSE,FALSE,America/Los_Angeles
+98938,46.38829,-120.09413,Outlook,WA,Washington,TRUE,,2777,29,53077,Yakima,"{""53077"": ""100""}",Yakima,53077,FALSE,FALSE,America/Los_Angeles
+98939,46.49687,-120.46581,Parker,WA,Washington,TRUE,,91,123.2,53077,Yakima,"{""53077"": ""100""}",Yakima,53077,FALSE,FALSE,America/Los_Angeles
+98940,47.40476,-121.07325,Ronald,WA,Washington,TRUE,,241,0.9,53037,Kittitas,"{""53037"": ""100""}",Kittitas,53037,FALSE,FALSE,America/Los_Angeles
+98941,47.22328,-120.98209,Roslyn,WA,Washington,TRUE,,539,42.8,53037,Kittitas,"{""53037"": ""100""}",Kittitas,53037,FALSE,FALSE,America/Los_Angeles
+98942,46.80184,-120.67505,Selah,WA,Washington,TRUE,,17425,35.7,53077,Yakima,"{""53077"": ""100""}",Yakima,53077,FALSE,FALSE,America/Los_Angeles
+98943,47.18562,-120.95846,South Cle Elum,WA,Washington,TRUE,,1015,456.3,53037,Kittitas,"{""53037"": ""100""}",Kittitas,53037,FALSE,FALSE,America/Los_Angeles
+98944,46.49322,-119.64732,Sunnyside,WA,Washington,TRUE,,23586,15.8,53077,Yakima,"{""53077"": ""99.8"", ""53005"": ""0.2""}",Yakima|Benton,53077|53005,FALSE,FALSE,America/Los_Angeles
+98946,47.07912,-120.72166,Thorp,WA,Washington,TRUE,,563,11.9,53037,Kittitas,"{""53037"": ""100""}",Kittitas,53037,FALSE,FALSE,America/Los_Angeles
+98947,46.68755,-120.80146,Tieton,WA,Washington,TRUE,,3672,34.4,53077,Yakima,"{""53077"": ""100""}",Yakima,53077,FALSE,FALSE,America/Los_Angeles
+98948,46.28525,-120.32839,Toppenish,WA,Washington,TRUE,,13251,23.5,53077,Yakima,"{""53077"": ""100""}",Yakima,53077,FALSE,FALSE,America/Los_Angeles
+98950,46.89747,-119.99058,Vantage,WA,Washington,TRUE,,57,0.9,53037,Kittitas,"{""53037"": ""100""}",Kittitas,53037,FALSE,FALSE,America/Los_Angeles
+98951,46.45977,-120.51617,Wapato,WA,Washington,TRUE,,12721,32.7,53077,Yakima,"{""53077"": ""100""}",Yakima,53077,FALSE,FALSE,America/Los_Angeles
+98952,46.35435,-120.76141,White Swan,WA,Washington,TRUE,,2234,4.2,53077,Yakima,"{""53077"": ""100""}",Yakima,53077,FALSE,FALSE,America/Los_Angeles
+98953,46.44227,-120.22679,Zillah,WA,Washington,TRUE,,7082,43.4,53077,Yakima,"{""53077"": ""100""}",Yakima,53077,FALSE,FALSE,America/Los_Angeles
+99001,47.63652,-117.58632,Airway Heights,WA,Washington,TRUE,,7062,383.9,53063,Spokane,"{""53063"": ""100""}",Spokane,53063,FALSE,FALSE,America/Los_Angeles
+99003,47.91839,-117.28467,Chattaroy,WA,Washington,TRUE,,4410,24.3,53063,Spokane,"{""53063"": ""100""}",Spokane,53063,FALSE,FALSE,America/Los_Angeles
+99004,47.41112,-117.63773,Cheney,WA,Washington,TRUE,,20764,23.9,53063,Spokane,"{""53063"": ""99.94"", ""53075"": ""0.06""}",Spokane|Whitman,53063|53075,FALSE,FALSE,America/Los_Angeles
+99005,47.84425,-117.36623,Colbert,WA,Washington,TRUE,,8948,87.1,53063,Spokane,"{""53063"": ""100""}",Spokane,53063,FALSE,FALSE,America/Los_Angeles
+99006,47.98298,-117.50225,Deer Park,WA,Washington,TRUE,,12818,26.9,53063,Spokane,"{""53063"": ""84.09"", ""53065"": ""15.15"", ""53051"": ""0.76""}",Spokane|Stevens|Pend Oreille,53063|53065|53051,FALSE,FALSE,America/Los_Angeles
+99008,47.50805,-117.92447,Edwall,WA,Washington,TRUE,,1105,3.3,53043,Lincoln,"{""53043"": ""55.69"", ""53063"": ""44.31""}",Lincoln|Spokane,53043|53063,FALSE,FALSE,America/Los_Angeles
+99009,48.01865,-117.2544,Elk,WA,Washington,TRUE,,4091,19.7,53063,Spokane,"{""53063"": ""79.48"", ""53051"": ""20.52""}",Spokane|Pend Oreille,53063|53051,FALSE,FALSE,America/Los_Angeles
+99011,47.61883,-117.64812,Fairchild Air Force Base,WA,Washington,TRUE,,3336,196.8,53063,Spokane,"{""53063"": ""100""}",Spokane,53063,FALSE,FALSE,America/Los_Angeles
+99012,47.38209,-117.19286,Fairfield,WA,Washington,TRUE,,890,3.6,53063,Spokane,"{""53063"": ""100""}",Spokane,53063,FALSE,FALSE,America/Los_Angeles
+99013,47.89239,-117.83445,Ford,WA,Washington,TRUE,,1815,6.9,53065,Stevens,"{""53065"": ""82.75"", ""53043"": ""10.2"", ""53063"": ""7.06""}",Stevens|Lincoln|Spokane,53065|53043|53063,FALSE,FALSE,America/Los_Angeles
+99016,47.62116,-117.14626,Greenacres,WA,Washington,TRUE,,15804,242.1,53063,Spokane,"{""53063"": ""100""}",Spokane,53063,FALSE,FALSE,America/Los_Angeles
+99017,47.18881,-117.8756,Lamont,WA,Washington,TRUE,,126,0.6,53075,Whitman,"{""53075"": ""100""}",Whitman,53075,FALSE,FALSE,America/Los_Angeles
+99018,47.28979,-117.15487,Latah,WA,Washington,TRUE,,230,2.5,53063,Spokane,"{""53063"": ""100""}",Spokane,53063,FALSE,FALSE,America/Los_Angeles
+99019,47.64281,-117.07648,Liberty Lake,WA,Washington,TRUE,,12208,215.2,53063,Spokane,"{""53063"": ""100""}",Spokane,53063,FALSE,FALSE,America/Los_Angeles
+99020,47.56242,-117.49663,Marshall,WA,Washington,TRUE,,0,0,53063,Spokane,"{""53063"": ""100""}",Spokane,53063,FALSE,FALSE,America/Los_Angeles
+99021,47.84824,-117.18953,Mead,WA,Washington,TRUE,,10019,46,53063,Spokane,"{""53063"": ""100""}",Spokane,53063,FALSE,FALSE,America/Los_Angeles
+99022,47.60157,-117.71132,Medical Lake,WA,Washington,TRUE,,8810,49.3,53063,Spokane,"{""53063"": ""100""}",Spokane,53063,FALSE,FALSE,America/Los_Angeles
+99023,47.56109,-117.17176,Mica,WA,Washington,TRUE,,715,20.2,53063,Spokane,"{""53063"": ""100""}",Spokane,53063,FALSE,FALSE,America/Los_Angeles
+99025,47.78991,-117.08596,Newman Lake,WA,Washington,TRUE,,5431,47.1,53063,Spokane,"{""53063"": ""100""}",Spokane,53063,FALSE,FALSE,America/Los_Angeles
+99026,47.81146,-117.62775,Nine Mile Falls,WA,Washington,TRUE,,8521,46.4,53065,Stevens,"{""53065"": ""63.8"", ""53063"": ""36.2""}",Stevens|Spokane,53065|53063,FALSE,FALSE,America/Los_Angeles
+99027,47.71042,-117.12622,Otis Orchards,WA,Washington,TRUE,,6378,163.2,53063,Spokane,"{""53063"": ""100""}",Spokane,53063,FALSE,FALSE,America/Los_Angeles
+99029,47.69765,-117.82934,Reardan,WA,Washington,TRUE,,928,3,53043,Lincoln,"{""53043"": ""75.1"", ""53063"": ""24.9""}",Lincoln|Spokane,53043|53063,FALSE,FALSE,America/Los_Angeles
+99030,47.4841,-117.11023,Rockford,WA,Washington,TRUE,,976,4.8,53063,Spokane,"{""53063"": ""100""}",Spokane,53063,FALSE,FALSE,America/Los_Angeles
+99031,47.42351,-117.36247,Spangle,WA,Washington,TRUE,,1405,7.6,53063,Spokane,"{""53063"": ""100""}",Spokane,53063,FALSE,FALSE,America/Los_Angeles
+99032,47.31739,-118.02805,Sprague,WA,Washington,TRUE,,768,1.4,53043,Lincoln,"{""53043"": ""97.68"", ""53001"": ""2.32""}",Lincoln|Adams,53043|53001,FALSE,FALSE,America/Los_Angeles
+99033,47.23237,-117.09927,Tekoa,WA,Washington,TRUE,,828,8.5,53075,Whitman,"{""53075"": ""98.77"", ""53063"": ""1.23""}",Whitman|Spokane,53075|53063,FALSE,FALSE,America/Los_Angeles
+99034,47.88562,-117.74864,Tumtum,WA,Washington,TRUE,,34,0.8,53065,Stevens,"{""53065"": ""100""}",Stevens,53065,FALSE,FALSE,America/Los_Angeles
+99036,47.52532,-117.27588,Valleyford,WA,Washington,TRUE,,1689,16,53063,Spokane,"{""53063"": ""100""}",Spokane,53063,FALSE,FALSE,America/Los_Angeles
+99037,47.6364,-117.19718,Veradale,WA,Washington,TRUE,,14628,873.4,53063,Spokane,"{""53063"": ""100""}",Spokane,53063,FALSE,FALSE,America/Los_Angeles
+99039,47.34466,-117.2656,Waverly,WA,Washington,TRUE,,72,6.2,53063,Spokane,"{""53063"": ""100""}",Spokane,53063,FALSE,FALSE,America/Los_Angeles
+99040,47.90086,-118.00526,Wellpinit,WA,Washington,TRUE,,719,2.7,53065,Stevens,"{""53065"": ""100""}",Stevens,53065,FALSE,FALSE,America/Los_Angeles
+99101,48.32729,-117.92514,Addy,WA,Washington,TRUE,,1418,5,53065,Stevens,"{""53065"": ""100""}",Stevens,53065,FALSE,FALSE,America/Los_Angeles
+99102,46.79212,-117.2501,Albion,WA,Washington,TRUE,,528,879.7,53075,Whitman,"{""53075"": ""100""}",Whitman,53075,FALSE,FALSE,America/Los_Angeles
+99103,47.73715,-118.93697,Almira,WA,Washington,TRUE,,523,0.9,53043,Lincoln,"{""53043"": ""92.56"", ""53025"": ""7.44""}",Lincoln|Grant,53043|53025,FALSE,FALSE,America/Los_Angeles
+99105,46.9034,-118.10477,Benge,WA,Washington,TRUE,,37,0.1,53001,Adams,"{""53001"": ""100""}",Adams,53001,FALSE,FALSE,America/Los_Angeles
+99109,48.28532,-117.70135,Chewelah,WA,Washington,TRUE,,5103,7,53065,Stevens,"{""53065"": ""100""}",Stevens,53065,FALSE,FALSE,America/Los_Angeles
+99110,48.01215,-117.57636,Clayton,WA,Washington,TRUE,,1839,18.9,53065,Stevens,"{""53065"": ""90.1"", ""53063"": ""9.9""}",Stevens|Spokane,53065|53063,FALSE,FALSE,America/Los_Angeles
+99111,46.85372,-117.42452,Colfax,WA,Washington,TRUE,,4234,5.7,53075,Whitman,"{""53075"": ""100""}",Whitman,53075,FALSE,FALSE,America/Los_Angeles
+99113,46.59412,-117.19146,Colton,WA,Washington,TRUE,,739,3,53075,Whitman,"{""53075"": ""100""}",Whitman,53075,FALSE,FALSE,America/Los_Angeles
+99114,48.65406,-117.7396,Colville,WA,Washington,TRUE,,12876,6.8,53065,Stevens,"{""53065"": ""100""}",Stevens,53065,FALSE,FALSE,America/Los_Angeles
+99115,47.64718,-119.42387,Coulee City,WA,Washington,TRUE,,1060,1,53025,Grant,"{""53025"": ""86.26"", ""53017"": ""13.74""}",Grant|Douglas,53025|53017,FALSE,FALSE,America/Los_Angeles
+99116,48.01601,-118.92858,Coulee Dam,WA,Washington,TRUE,,1521,12.5,53047,Okanogan,"{""53047"": ""87"", ""53017"": ""13"", ""53025"": ""0""}",Okanogan|Douglas|Grant,53047|53017|53025,FALSE,FALSE,America/Los_Angeles
+99117,47.72402,-118.5208,Creston,WA,Washington,TRUE,,461,1,53043,Lincoln,"{""53043"": ""100""}",Lincoln,53043,FALSE,FALSE,America/Los_Angeles
+99118,48.89659,-118.639,Curlew,WA,Washington,TRUE,,718,1.4,53019,Ferry,"{""53019"": ""100""}",Ferry,53019,FALSE,FALSE,America/Los_Angeles
+99119,48.5039,-117.28854,Cusick,WA,Washington,TRUE,,1218,1.2,53051,Pend Oreille,"{""53051"": ""100""}",Pend Oreille,53051,FALSE,FALSE,America/Los_Angeles
+99121,48.94794,-118.46514,Danville,WA,Washington,TRUE,,217,1.5,53019,Ferry,"{""53019"": ""100""}",Ferry,53019,FALSE,FALSE,America/Los_Angeles
+99122,47.67761,-118.20799,Davenport,WA,Washington,TRUE,,4122,2.8,53043,Lincoln,"{""53043"": ""99.31"", ""53065"": ""0.69""}",Lincoln|Stevens,53043|53065,FALSE,FALSE,America/Los_Angeles
+99123,47.84593,-119.14289,Electric City,WA,Washington,TRUE,,918,8.1,53025,Grant,"{""53025"": ""100""}",Grant,53025,FALSE,FALSE,America/Los_Angeles
+99124,47.9999,-118.95282,Elmer City,WA,Washington,TRUE,,271,546.9,53047,Okanogan,"{""53047"": ""100""}",Okanogan,53047,FALSE,FALSE,America/Los_Angeles
+99125,46.94299,-117.77858,Endicott,WA,Washington,TRUE,,608,1,53075,Whitman,"{""53075"": ""100""}",Whitman,53075,FALSE,FALSE,America/Los_Angeles
+99126,48.73963,-117.97196,Evans,WA,Washington,TRUE,,1347,10,53065,Stevens,"{""53065"": ""100""}",Stevens,53065,FALSE,FALSE,America/Los_Angeles
+99128,47.09934,-117.07292,Farmington,WA,Washington,TRUE,,337,1.5,53075,Whitman,"{""53075"": ""86.6"", ""16057"": ""13.4""}",Whitman|Latah,53075|16057,FALSE,FALSE,America/Los_Angeles
+99129,48.00522,-118.1927,Fruitland,WA,Washington,TRUE,,746,1.9,53065,Stevens,"{""53065"": ""100""}",Stevens,53065,FALSE,FALSE,America/Los_Angeles
+99130,46.99731,-117.18411,Garfield,WA,Washington,TRUE,,928,4.6,53075,Whitman,"{""53075"": ""100""}",Whitman,53075,FALSE,FALSE,America/Los_Angeles
+99131,48.27909,-118.12317,Gifford,WA,Washington,TRUE,,176,2.6,53065,Stevens,"{""53065"": ""100""}",Stevens,53065,FALSE,FALSE,America/Los_Angeles
+99133,48.01489,-119.07685,Grand Coulee,WA,Washington,TRUE,,1756,4.6,53025,Grant,"{""53025"": ""77.43"", ""53043"": ""16.08"", ""53017"": ""6.5""}",Grant|Lincoln|Douglas,53025|53043|53017,FALSE,FALSE,America/Los_Angeles
+99134,47.4301,-118.31124,Harrington,WA,Washington,TRUE,,542,1,53043,Lincoln,"{""53043"": ""100""}",Lincoln,53043,FALSE,FALSE,America/Los_Angeles
+99135,47.66121,-119.09739,Hartline,WA,Washington,TRUE,,301,0.7,53025,Grant,"{""53025"": ""100""}",Grant,53025,FALSE,FALSE,America/Los_Angeles
+99136,46.67473,-117.95542,Hay,WA,Washington,TRUE,,17,0.3,53075,Whitman,"{""53075"": ""100""}",Whitman,53075,FALSE,FALSE,America/Los_Angeles
+99137,48.16826,-118.09022,Hunters,WA,Washington,TRUE,,327,1.6,53065,Stevens,"{""53065"": ""100""}",Stevens,53065,FALSE,FALSE,America/Los_Angeles
+99138,48.22236,-118.37874,Inchelium,WA,Washington,TRUE,,1135,0.8,53019,Ferry,"{""53019"": ""100""}",Ferry,53019,FALSE,FALSE,America/Los_Angeles
+99139,48.7346,-117.40668,Ione,WA,Washington,TRUE,,1301,2.5,53051,Pend Oreille,"{""53051"": ""100""}",Pend Oreille,53051,FALSE,FALSE,America/Los_Angeles
+99140,48.11156,-118.67673,Keller,WA,Washington,TRUE,,432,0.4,53019,Ferry,"{""53019"": ""100""}",Ferry,53019,FALSE,FALSE,America/Los_Angeles
+99141,48.73768,-118.14451,Kettle Falls,WA,Washington,TRUE,,5396,3.9,53065,Stevens,"{""53065"": ""80.46"", ""53019"": ""19.54""}",Stevens|Ferry,53065|53019,FALSE,FALSE,America/Los_Angeles
+99143,46.73947,-117.85625,Lacrosse,WA,Washington,TRUE,,691,0.9,53075,Whitman,"{""53075"": ""100""}",Whitman,53075,FALSE,FALSE,America/Los_Angeles
+99144,47.3777,-118.50423,Lamona,WA,Washington,TRUE,,18,0.2,53043,Lincoln,"{""53043"": ""100""}",Lincoln,53043,FALSE,FALSE,America/Los_Angeles
+99146,48.9576,-118.29754,Laurier,WA,Washington,TRUE,,24,0.2,53019,Ferry,"{""53019"": ""100""}",Ferry,53019,FALSE,FALSE,America/Los_Angeles
+99147,47.8395,-118.44258,Lincoln,WA,Washington,TRUE,,123,5.8,53043,Lincoln,"{""53043"": ""100""}",Lincoln,53043,FALSE,FALSE,America/Los_Angeles
+99148,48.10251,-117.59825,Loon Lake,WA,Washington,TRUE,,1928,12.9,53065,Stevens,"{""53065"": ""100""}",Stevens,53065,FALSE,FALSE,America/Los_Angeles
+99149,47.21719,-117.46406,Malden,WA,Washington,TRUE,,299,44.4,53075,Whitman,"{""53075"": ""100""}",Whitman,53075,FALSE,FALSE,America/Los_Angeles
+99150,48.79435,-118.58291,Malo,WA,Washington,TRUE,,362,2.5,53019,Ferry,"{""53019"": ""100""}",Ferry,53019,FALSE,FALSE,America/Los_Angeles
+99151,48.66449,-118.06362,Marcus,WA,Washington,TRUE,,102,325.1,53065,Stevens,"{""53065"": ""100""}",Stevens,53065,FALSE,FALSE,America/Los_Angeles
+99152,48.84959,-117.39626,Metaline,WA,Washington,TRUE,,105,8.7,53051,Pend Oreille,"{""53051"": ""100""}",Pend Oreille,53051,FALSE,FALSE,America/Los_Angeles
+99153,48.8515,-117.2127,Metaline Falls,WA,Washington,TRUE,,392,0.4,53051,Pend Oreille,"{""53051"": ""100""}",Pend Oreille,53051,FALSE,FALSE,America/Los_Angeles
+99154,47.38973,-118.36596,Mohler,WA,Washington,TRUE,,31,0.6,53043,Lincoln,"{""53043"": ""100""}",Lincoln,53043,FALSE,FALSE,America/Los_Angeles
+99155,48.25567,-118.95348,Nespelem,WA,Washington,TRUE,,1007,1.3,53047,Okanogan,"{""53047"": ""98.74"", ""53019"": ""1.26""}",Okanogan|Ferry,53047|53019,FALSE,FALSE,America/Los_Angeles
+99156,48.1848,-117.19075,Newport,WA,Washington,TRUE,,8608,10.2,53051,Pend Oreille,"{""53051"": ""98.5"", ""53063"": ""1.5""}",Pend Oreille|Spokane,53051|53063,FALSE,FALSE,America/Los_Angeles
+99157,48.92469,-117.81576,Northport,WA,Washington,TRUE,,736,3.9,53065,Stevens,"{""53065"": ""100""}",Stevens,53065,FALSE,FALSE,America/Los_Angeles
+99158,47.13032,-117.24738,Oakesdale,WA,Washington,TRUE,,606,2.6,53075,Whitman,"{""53075"": ""100""}",Whitman,53075,FALSE,FALSE,America/Los_Angeles
+99159,47.32943,-118.74247,Odessa,WA,Washington,TRUE,,1524,1.2,53043,Lincoln,"{""53043"": ""87.42"", ""53001"": ""12.58""}",Lincoln|Adams,53043|53001,FALSE,FALSE,America/Los_Angeles
+99160,48.83875,-118.3063,Orient,WA,Washington,TRUE,,112,0.5,53019,Ferry,"{""53019"": ""100""}",Ferry,53019,FALSE,FALSE,America/Los_Angeles
+99161,46.8982,-117.13047,Palouse,WA,Washington,TRUE,,1391,7.2,53075,Whitman,"{""53075"": ""100""}",Whitman,53075,FALSE,FALSE,America/Los_Angeles
+99163,46.72893,-117.21485,Pullman,WA,Washington,TRUE,,35134,65.6,53075,Whitman,"{""53075"": ""100""}",Whitman,53075,FALSE,FALSE,America/Los_Angeles
+99164,46.73104,-117.1522,Pullman,WA,Washington,TRUE,,0,0,53075,Whitman,"{""53075"": ""0""}",Whitman,53075,FALSE,FALSE,America/Los_Angeles
+99166,48.5717,-118.64454,Republic,WA,Washington,TRUE,,3137,2.1,53019,Ferry,"{""53019"": ""98.23"", ""53047"": ""1.77""}",Ferry|Okanogan,53019|53047,FALSE,FALSE,America/Los_Angeles
+99167,48.41723,-118.11899,Rice,WA,Washington,TRUE,,527,3.3,53065,Stevens,"{""53065"": ""100""}",Stevens,53065,FALSE,FALSE,America/Los_Angeles
+99169,47.112,-118.35868,Ritzville,WA,Washington,TRUE,,2501,1.4,53001,Adams,"{""53001"": ""98.5"", ""53043"": ""1.5""}",Adams|Lincoln,53001|53043,FALSE,FALSE,America/Los_Angeles
+99170,47.24762,-117.4022,Rosalia,WA,Washington,TRUE,,993,2.1,53075,Whitman,"{""53075"": ""79.1"", ""53063"": ""20.9""}",Whitman|Spokane,53075|53063,FALSE,FALSE,America/Los_Angeles
+99171,47.10444,-117.65624,Saint John,WA,Washington,TRUE,,1160,1.7,53075,Whitman,"{""53075"": ""100""}",Whitman,53075,FALSE,FALSE,America/Los_Angeles
+99173,48.03696,-117.86312,Springdale,WA,Washington,TRUE,,1673,4.9,53065,Stevens,"{""53065"": ""100""}",Stevens,53065,FALSE,FALSE,America/Los_Angeles
+99174,47.01064,-117.3588,Steptoe,WA,Washington,TRUE,,56,160.9,53075,Whitman,"{""53075"": ""100""}",Whitman,53075,FALSE,FALSE,America/Los_Angeles
+99176,47.08093,-117.42387,Thornton,WA,Washington,TRUE,,150,1.5,53075,Whitman,"{""53075"": ""100""}",Whitman,53075,FALSE,FALSE,America/Los_Angeles
+99179,46.49006,-117.11898,Uniontown,WA,Washington,TRUE,,548,3,53075,Whitman,"{""53075"": ""100""}",Whitman,53075,FALSE,FALSE,America/Los_Angeles
+99180,48.29579,-117.3285,Usk,WA,Washington,TRUE,,1301,4.9,53051,Pend Oreille,"{""53051"": ""100""}",Pend Oreille,53051,FALSE,FALSE,America/Los_Angeles
+99181,48.14329,-117.76926,Valley,WA,Washington,TRUE,,1738,6.8,53065,Stevens,"{""53065"": ""100""}",Stevens,53065,FALSE,FALSE,America/Los_Angeles
+99185,47.74592,-118.71951,Wilbur,WA,Washington,TRUE,,1252,1.8,53043,Lincoln,"{""53043"": ""100""}",Lincoln,53043,FALSE,FALSE,America/Los_Angeles
+99201,47.66272,-117.43614,Spokane,WA,Washington,TRUE,,12886,1657.7,53063,Spokane,"{""53063"": ""100""}",Spokane,53063,FALSE,FALSE,America/Los_Angeles
+99202,47.65743,-117.37908,Spokane,WA,Washington,TRUE,,20909,1314.5,53063,Spokane,"{""53063"": ""100""}",Spokane,53063,FALSE,FALSE,America/Los_Angeles
+99203,47.6291,-117.40327,Spokane,WA,Washington,TRUE,,21174,1747,53063,Spokane,"{""53063"": ""100""}",Spokane,53063,FALSE,FALSE,America/Los_Angeles
+99204,47.64564,-117.42712,Spokane,WA,Washington,TRUE,,6542,2240.4,53063,Spokane,"{""53063"": ""100""}",Spokane,53063,FALSE,FALSE,America/Los_Angeles
+99205,47.69665,-117.44622,Spokane,WA,Washington,TRUE,,43617,1881.6,53063,Spokane,"{""53063"": ""100""}",Spokane,53063,FALSE,FALSE,America/Los_Angeles
+99206,47.62899,-117.25487,Spokane,WA,Washington,TRUE,,38792,639.9,53063,Spokane,"{""53063"": ""100""}",Spokane,53063,FALSE,FALSE,America/Los_Angeles
+99207,47.68889,-117.38782,Spokane,WA,Washington,TRUE,,30411,2155.6,53063,Spokane,"{""53063"": ""100""}",Spokane,53063,FALSE,FALSE,America/Los_Angeles
+99208,47.77989,-117.46275,Spokane,WA,Washington,TRUE,,54917,431.9,53063,Spokane,"{""53063"": ""100""}",Spokane,53063,FALSE,FALSE,America/Los_Angeles
+99212,47.66523,-117.30916,Spokane,WA,Washington,TRUE,,20409,649.2,53063,Spokane,"{""53063"": ""100""}",Spokane,53063,FALSE,FALSE,America/Los_Angeles
+99216,47.67999,-117.20944,Spokane,WA,Washington,TRUE,,25296,731.4,53063,Spokane,"{""53063"": ""100""}",Spokane,53063,FALSE,FALSE,America/Los_Angeles
+99217,47.73991,-117.2568,Spokane,WA,Washington,TRUE,,17544,132.8,53063,Spokane,"{""53063"": ""100""}",Spokane,53063,FALSE,FALSE,America/Los_Angeles
+99218,47.75954,-117.40845,Spokane,WA,Washington,TRUE,,16885,889.9,53063,Spokane,"{""53063"": ""100""}",Spokane,53063,FALSE,FALSE,America/Los_Angeles
+99223,47.59132,-117.34474,Spokane,WA,Washington,TRUE,,32213,434.4,53063,Spokane,"{""53063"": ""100""}",Spokane,53063,FALSE,FALSE,America/Los_Angeles
+99224,47.64881,-117.53682,Spokane,WA,Washington,TRUE,,21695,71.5,53063,Spokane,"{""53063"": ""100""}",Spokane,53063,FALSE,FALSE,America/Los_Angeles
+99301,46.38449,-118.94392,Pasco,WA,Washington,TRUE,,79819,66.3,53021,Franklin,"{""53021"": ""100""}",Franklin,53021,FALSE,FALSE,America/Los_Angeles
+99320,46.26522,-119.48767,Benton City,WA,Washington,TRUE,,9947,27.7,53005,Benton,"{""53005"": ""100""}",Benton,53005,FALSE,FALSE,America/Los_Angeles
+99321,46.87464,-119.89279,Beverly,WA,Washington,TRUE,,586,6.1,53025,Grant,"{""53025"": ""100""}",Grant,53025,FALSE,FALSE,America/Los_Angeles
+99322,45.94405,-120.18078,Bickleton,WA,Washington,TRUE,,242,0.4,53039,Klickitat,"{""53039"": ""100""}",Klickitat,53039,FALSE,FALSE,America/Los_Angeles
+99323,46.19237,-118.84285,Burbank,WA,Washington,TRUE,,3904,12,53071,Walla Walla,"{""53071"": ""100""}",Walla Walla,53071,FALSE,FALSE,America/Los_Angeles
+99324,46.04264,-118.38662,College Place,WA,Washington,TRUE,,9737,1230.9,53071,Walla Walla,"{""53071"": ""100""}",Walla Walla,53071,FALSE,FALSE,America/Los_Angeles
+99326,46.64977,-118.8522,Connell,WA,Washington,TRUE,,6394,9,53021,Franklin,"{""53021"": ""99.54"", ""53001"": ""0.46""}",Franklin|Adams,53021|53001,FALSE,FALSE,America/Los_Angeles
+99328,46.25661,-117.86548,Dayton,WA,Washington,TRUE,,3715,2.2,53013,Columbia,"{""53013"": ""100""}",Columbia,53013,FALSE,FALSE,America/Los_Angeles
+99329,46.15636,-118.14531,Dixie,WA,Washington,TRUE,,135,28.5,53071,Walla Walla,"{""53071"": ""100""}",Walla Walla,53071,FALSE,FALSE,America/Los_Angeles
+99330,46.48982,-119.04317,Eltopia,WA,Washington,TRUE,,1073,5.4,53021,Franklin,"{""53021"": ""100""}",Franklin,53021,FALSE,FALSE,America/Los_Angeles
+99333,46.69266,-118.15021,Hooper,WA,Washington,TRUE,,40,0.2,53075,Whitman,"{""53075"": ""68"", ""53001"": ""32""}",Whitman|Adams,53075|53001,FALSE,FALSE,America/Los_Angeles
+99335,46.65368,-118.47453,Kahlotus,WA,Washington,TRUE,,292,0.7,53021,Franklin,"{""53021"": ""100""}",Franklin,53021,FALSE,FALSE,America/Los_Angeles
+99336,46.21378,-119.17886,Kennewick,WA,Washington,TRUE,,51980,1505.3,53005,Benton,"{""53005"": ""100""}",Benton,53005,FALSE,FALSE,America/Los_Angeles
+99337,46.07461,-119.08614,Kennewick,WA,Washington,TRUE,,32411,79.6,53005,Benton,"{""53005"": ""100""}",Benton,53005,FALSE,FALSE,America/Los_Angeles
+99338,46.14795,-119.27355,Kennewick,WA,Washington,TRUE,,16553,96.2,53005,Benton,"{""53005"": ""100""}",Benton,53005,FALSE,FALSE,America/Los_Angeles
+99341,46.91289,-118.65311,Lind,WA,Washington,TRUE,,787,0.8,53001,Adams,"{""53001"": ""100""}",Adams,53001,FALSE,FALSE,America/Los_Angeles
+99343,46.59183,-119.17937,Mesa,WA,Washington,TRUE,,3623,8.5,53021,Franklin,"{""53021"": ""100""}",Franklin,53021,FALSE,FALSE,America/Los_Angeles
+99344,46.81646,-119.17787,Othello,WA,Washington,TRUE,,17718,15.1,53001,Adams,"{""53001"": ""87.27"", ""53025"": ""8.3"", ""53021"": ""4.44""}",Adams|Grant|Franklin,53001|53025|53021,FALSE,FALSE,America/Los_Angeles
+99345,45.95266,-119.68965,Paterson,WA,Washington,TRUE,,133,0.3,53005,Benton,"{""53005"": ""100""}",Benton,53005,FALSE,FALSE,America/Los_Angeles
+99346,45.99829,-119.30493,Plymouth,WA,Washington,TRUE,,548,1.7,53005,Benton,"{""53005"": ""100""}",Benton,53005,FALSE,FALSE,America/Los_Angeles
+99347,46.4278,-117.56644,Pomeroy,WA,Washington,TRUE,,2241,1.1,53023,Garfield,"{""53023"": ""95.64"", ""53013"": ""3.58"", ""53075"": ""0.78""}",Garfield|Columbia|Whitman,53023|53013|53075,FALSE,FALSE,America/Los_Angeles
+99348,46.38968,-118.45178,Prescott,WA,Washington,TRUE,,1402,1,53071,Walla Walla,"{""53071"": ""98.75"", ""53013"": ""1.25""}",Walla Walla|Columbia,53071|53013,FALSE,FALSE,America/Los_Angeles
+99349,46.73155,-119.70123,Mattawa,WA,Washington,TRUE,,9251,13.3,53025,Grant,"{""53025"": ""100""}",Grant,53025,FALSE,FALSE,America/Los_Angeles
+99350,46.18027,-119.70516,Prosser,WA,Washington,TRUE,,13488,9.1,53005,Benton,"{""53005"": ""97.83"", ""53039"": ""1.43"", ""53077"": ""0.73""}",Benton|Klickitat|Yakima,53005|53039|53077,FALSE,FALSE,America/Los_Angeles
+99352,46.25225,-119.28785,Richland,WA,Washington,TRUE,,31918,584.7,53005,Benton,"{""53005"": ""100""}",Benton,53005,FALSE,FALSE,America/Los_Angeles
+99353,46.3167,-119.37926,West Richland,WA,Washington,TRUE,,16150,238.2,53005,Benton,"{""53005"": ""100""}",Benton,53005,FALSE,FALSE,America/Los_Angeles
+99354,46.32566,-119.3067,Richland,WA,Washington,TRUE,,23742,452.1,53005,Benton,"{""53005"": ""100""}",Benton,53005,FALSE,FALSE,America/Los_Angeles
+99356,45.82125,-120.31507,Roosevelt,WA,Washington,TRUE,,167,0.3,53039,Klickitat,"{""53039"": ""100""}",Klickitat,53039,FALSE,FALSE,America/Los_Angeles
+99357,46.89138,-119.66058,Royal City,WA,Washington,TRUE,,4183,7,53025,Grant,"{""53025"": ""100""}",Grant,53025,FALSE,FALSE,America/Los_Angeles
+99359,46.52731,-118.11115,Starbuck,WA,Washington,TRUE,,141,0.7,53013,Columbia,"{""53013"": ""98.73"", ""53021"": ""1.27""}",Columbia|Franklin,53013|53021,FALSE,FALSE,America/Los_Angeles
+99360,46.09016,-118.66296,Touchet,WA,Washington,TRUE,,1585,3.9,53071,Walla Walla,"{""53071"": ""100""}",Walla Walla,53071,FALSE,FALSE,America/Los_Angeles
+99361,46.23673,-118.1439,Waitsburg,WA,Washington,TRUE,,1854,3.2,53071,Walla Walla,"{""53071"": ""95.27"", ""53013"": ""4.73""}",Walla Walla|Columbia,53071|53013,FALSE,FALSE,America/Los_Angeles
+99362,46.08931,-118.30738,Walla Walla,WA,Washington,TRUE,,41515,50,53071,Walla Walla,"{""53071"": ""99.89"", ""41059"": ""0.11""}",Walla Walla|Umatilla,53071|41059,FALSE,FALSE,America/Los_Angeles
+99363,46.06652,-118.88846,Wallula,WA,Washington,TRUE,,350,3,53071,Walla Walla,"{""53071"": ""100""}",Walla Walla,53071,FALSE,FALSE,America/Los_Angeles
+99371,46.80678,-118.31679,Washtucna,WA,Washington,TRUE,,325,0.6,53001,Adams,"{""53001"": ""98.71"", ""53021"": ""1.29""}",Adams|Franklin,53001|53021,FALSE,FALSE,America/Los_Angeles
+99401,46.08744,-117.25143,Anatone,WA,Washington,TRUE,,642,1.1,53003,Asotin,"{""53003"": ""100""}",Asotin,53003,FALSE,FALSE,America/Los_Angeles
+99402,46.19394,-117.14736,Asotin,WA,Washington,TRUE,,1325,1.8,53003,Asotin,"{""53003"": ""100""}",Asotin,53003,FALSE,FALSE,America/Los_Angeles
+99403,46.37243,-117.25273,Clarkston,WA,Washington,TRUE,,20489,51.8,53003,Asotin,"{""53003"": ""99.63"", ""53023"": ""0.37""}",Asotin|Garfield,53003|53023,FALSE,FALSE,America/Los_Angeles

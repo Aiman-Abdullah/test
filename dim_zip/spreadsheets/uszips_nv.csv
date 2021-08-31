@@ -1,0 +1,176 @@
+,,zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone
+1,1%,89001,37.27386,-115.39051,Alamo,NV,Nevada,TRUE,,1363,0.3,32017,Lincoln,"{""32017"": ""99.84"", ""32023"": ""0.16""}",Lincoln|Nye,32017|32023,FALSE,FALSE,America/Los_Angeles
+2,1%,89002,35.99857,-114.96171,Henderson,NV,Nevada,TRUE,,35881,1556.7,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+3,2%,89003,36.95743,-116.7262,Beatty,NV,Nevada,TRUE,,820,1,32023,Nye,"{""32023"": ""100""}",Nye,32023,FALSE,FALSE,America/Los_Angeles
+4,2%,89004,36.08529,-115.47079,Blue Diamond,NV,Nevada,TRUE,,326,2.9,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+5,3%,89005,35.98675,-114.82466,Boulder City,NV,Nevada,TRUE,,15840,49.8,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+6,3%,89007,36.63481,-114.18809,Bunkerville,NV,Nevada,TRUE,,1479,1.7,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+7,4%,89008,37.27637,-114.54633,Caliente,NV,Nevada,TRUE,,1009,0.2,32017,Lincoln,"{""32017"": ""100""}",Lincoln,32017,FALSE,FALSE,America/Los_Angeles
+8,5%,89010,37.77764,-118.08391,Dyer,NV,Nevada,TRUE,,514,0.5,32009,Esmeralda,"{""32009"": ""88.67"", ""06051"": ""7.47"", ""32021"": ""3.86""}",Esmeralda|Mono|Mineral,32009|06051|32021,FALSE,FALSE,America/Los_Angeles
+9,5%,89011,36.0828,-114.96848,Henderson,NV,Nevada,TRUE,,28229,660.3,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+10,6%,89012,36.01194,-115.04397,Henderson,NV,Nevada,TRUE,,36512,1305.4,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+11,6%,89013,37.3979,-117.403,Goldfield,NV,Nevada,TRUE,,305,0.1,32009,Esmeralda,"{""32009"": ""100""}",Esmeralda,32009,FALSE,FALSE,America/Los_Angeles
+12,7%,89014,36.06172,-115.05811,Henderson,NV,Nevada,TRUE,,39430,2009.5,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+13,7%,89015,36.03921,-114.92817,Henderson,NV,Nevada,TRUE,,42387,436.8,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+14,8%,89017,37.73096,-115.24786,Hiko,NV,Nevada,TRUE,,83,0.1,32017,Lincoln,"{""32017"": ""100""}",Lincoln,32017,FALSE,FALSE,America/Los_Angeles
+15,9%,89018,36.54161,-115.66863,Indian Springs,NV,Nevada,TRUE,,4847,33.3,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+16,9%,89019,35.76621,-115.73453,Jean,NV,Nevada,TRUE,,2158,1.7,32003,Clark,"{""32003"": ""97.42"", ""06071"": ""2.58"", ""06027"": ""0""}",Clark|San Bernardino|Inyo,32003|06071|06027,FALSE,FALSE,America/Los_Angeles
+17,10%,89020,36.53671,-116.4348,Amargosa Valley,NV,Nevada,TRUE,,1435,1.6,32023,Nye,"{""32023"": ""100""}",Nye,32023,FALSE,FALSE,America/Los_Angeles
+18,10%,89021,36.63094,-114.46701,Logandale,NV,Nevada,TRUE,,3534,33.4,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+19,11%,89022,38.541,-117.02063,Manhattan,NV,Nevada,TRUE,,0,0,32023,Nye,"{""32023"": ""100""}",Nye,32023,FALSE,FALSE,America/Los_Angeles
+20,11%,89025,36.61511,-114.9107,Moapa,NV,Nevada,TRUE,,1203,0.7,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+21,12%,89026,35.75522,-115.28964,Jean,NV,Nevada,TRUE,,0,0,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+22,13%,89027,36.81122,-114.12363,Mesquite,NV,Nevada,TRUE,,18446,241.5,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+23,13%,89029,35.12559,-114.68628,Laughlin,NV,Nevada,TRUE,,8167,33.5,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+24,14%,89030,36.2115,-115.12414,North Las Vegas,NV,Nevada,TRUE,,50417,2076.4,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+25,14%,89031,36.25893,-115.17175,North Las Vegas,NV,Nevada,TRUE,,67750,2753.1,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+26,15%,89032,36.22321,-115.17272,North Las Vegas,NV,Nevada,TRUE,,44200,1660.5,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+27,15%,89039,35.28794,-114.8799,Cal Nev Ari,NV,Nevada,TRUE,,149,0.7,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+28,16%,89040,36.35808,-114.5386,Overton,NV,Nevada,TRUE,,3886,2.9,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+29,17%,89042,37.74396,-114.32223,Panaca,NV,Nevada,TRUE,,1247,3.4,32017,Lincoln,"{""32017"": ""100""}",Lincoln,32017,FALSE,FALSE,America/Los_Angeles
+30,17%,89043,38.25741,-114.47219,Pioche,NV,Nevada,TRUE,,1478,0.3,32017,Lincoln,"{""32017"": ""100""}",Lincoln,32017,FALSE,FALSE,America/Los_Angeles
+31,18%,89044,35.90247,-115.17885,Henderson,NV,Nevada,TRUE,,22558,277.9,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+32,18%,89045,38.87842,-116.95211,Round Mountain,NV,Nevada,TRUE,,1951,0.6,32023,Nye,"{""32023"": ""100""}",Nye,32023,FALSE,FALSE,America/Los_Angeles
+33,19%,89046,35.51337,-114.88657,Searchlight,NV,Nevada,TRUE,,357,0.2,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+34,19%,89047,37.7659,-117.64791,Silverpeak,NV,Nevada,TRUE,,142,10.1,32009,Esmeralda,"{""32009"": ""100""}",Esmeralda,32009,FALSE,FALSE,America/Los_Angeles
+35,20%,89048,36.16602,-116.00381,Pahrump,NV,Nevada,TRUE,,21784,109.8,32023,Nye,"{""32023"": ""100""}",Nye,32023,FALSE,FALSE,America/Los_Angeles
+36,21%,89049,38.36445,-116.26157,Tonopah,NV,Nevada,TRUE,,2286,0.5,32023,Nye,"{""32023"": ""99.19"", ""32009"": ""0.81""}",Nye|Esmeralda,32023|32009,FALSE,FALSE,America/Los_Angeles
+37,21%,89052,35.9551,-115.05673,Henderson,NV,Nevada,TRUE,,55096,409.4,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+38,22%,89054,35.92722,-115.20828,Sloan,NV,Nevada,TRUE,,57,4.4,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+39,22%,89060,36.39425,-116.06352,Pahrump,NV,Nevada,TRUE,,9473,7.9,32023,Nye,"{""32023"": ""99.71"", ""06027"": ""0.29""}",Nye|Inyo,32023|06027,FALSE,FALSE,America/Los_Angeles
+40,23%,89061,36.08762,-115.89658,Pahrump,NV,Nevada,TRUE,,6160,32.7,32023,Nye,"{""32023"": ""99.03"", ""06027"": ""0.97""}",Nye|Inyo,32023|06027,FALSE,FALSE,America/Los_Angeles
+41,23%,89074,36.03659,-115.08087,Henderson,NV,Nevada,TRUE,,50353,2166.7,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+42,24%,89081,36.25833,-115.10677,North Las Vegas,NV,Nevada,TRUE,,37480,1943.6,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+43,25%,89084,36.2969,-115.17408,North Las Vegas,NV,Nevada,TRUE,,27773,979.1,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+44,25%,89085,36.30958,-115.19819,North Las Vegas,NV,Nevada,TRUE,,4156,3148.4,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+45,26%,89086,36.29227,-115.10844,North Las Vegas,NV,Nevada,TRUE,,6404,365.4,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+46,26%,89101,36.17251,-115.12228,Las Vegas,NV,Nevada,TRUE,,42592,3074.4,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+47,27%,89102,36.14535,-115.18684,Las Vegas,NV,Nevada,TRUE,,39449,2840.9,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+48,27%,89103,36.11179,-115.21172,Las Vegas,NV,Nevada,TRUE,,53732,3096.2,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+49,28%,89104,36.15136,-115.10856,Las Vegas,NV,Nevada,TRUE,,39443,2686,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+50,29%,89106,36.1817,-115.16325,Las Vegas,NV,Nevada,TRUE,,26480,1931.6,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+51,29%,89107,36.17066,-115.21028,Las Vegas,NV,Nevada,TRUE,,38936,2750.6,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+52,30%,89108,36.20531,-115.22367,Las Vegas,NV,Nevada,TRUE,,73991,3185.4,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+53,30%,89109,36.12535,-115.16372,Las Vegas,NV,Nevada,TRUE,,7859,681.4,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+54,31%,89110,36.17138,-115.04771,Las Vegas,NV,Nevada,TRUE,,71489,2485.5,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+55,31%,89113,36.06123,-115.2635,Las Vegas,NV,Nevada,TRUE,,32308,1119.2,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+56,32%,89115,36.25367,-115.041,Las Vegas,NV,Nevada,TRUE,,63084,975,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+57,33%,89117,36.14257,-115.28003,Las Vegas,NV,Nevada,TRUE,,54590,2308.8,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+58,33%,89118,36.07725,-115.21396,Las Vegas,NV,Nevada,TRUE,,21826,796.5,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+59,34%,89119,36.08476,-115.14614,Las Vegas,NV,Nevada,TRUE,,52378,1564.2,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+60,34%,89120,36.08132,-115.09546,Las Vegas,NV,Nevada,TRUE,,24813,1375.3,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+61,35%,89121,36.12152,-115.09127,Las Vegas,NV,Nevada,TRUE,,63190,2646.7,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+62,35%,89122,36.10639,-115.04028,Las Vegas,NV,Nevada,TRUE,,49600,2115.9,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+63,36%,89123,36.03525,-115.14874,Las Vegas,NV,Nevada,TRUE,,60679,2198.8,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+64,37%,89124,36.42582,-115.48089,Las Vegas,NV,Nevada,TRUE,,1362,0.4,32003,Clark,"{""32003"": ""98.3"", ""32023"": ""1.7""}",Clark|Nye,32003|32023,FALSE,FALSE,America/Los_Angeles
+65,37%,89128,36.19682,-115.26436,Las Vegas,NV,Nevada,TRUE,,35666,2294.9,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+66,38%,89129,36.23331,-115.29016,Las Vegas,NV,Nevada,TRUE,,57116,2203.9,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+67,38%,89130,36.25405,-115.22708,Las Vegas,NV,Nevada,TRUE,,34697,1750.8,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+68,39%,89131,36.30619,-115.24268,Las Vegas,NV,Nevada,TRUE,,50564,1217.6,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+69,39%,89134,36.20274,-115.30777,Las Vegas,NV,Nevada,TRUE,,24363,1419.8,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+70,40%,89135,36.10099,-115.37588,Las Vegas,NV,Nevada,TRUE,,28192,238.7,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+71,41%,89138,36.16665,-115.36122,Las Vegas,NV,Nevada,TRUE,,17952,1647.4,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+72,41%,89139,36.03449,-115.21164,Las Vegas,NV,Nevada,TRUE,,40612,1478,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+73,42%,89141,35.98838,-115.20704,Las Vegas,NV,Nevada,TRUE,,35169,1271.9,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+74,42%,89142,36.1479,-115.03637,Las Vegas,NV,Nevada,TRUE,,34671,2811.5,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+75,43%,89143,36.32231,-115.29318,Las Vegas,NV,Nevada,TRUE,,13265,1497,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+76,43%,89144,36.1789,-115.32074,Las Vegas,NV,Nevada,TRUE,,19881,1955.3,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+77,44%,89145,36.1677,-115.27787,Las Vegas,NV,Nevada,TRUE,,25071,2107.7,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+78,45%,89146,36.14325,-115.22693,Las Vegas,NV,Nevada,TRUE,,18695,1504.7,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+79,45%,89147,36.1128,-115.28016,Las Vegas,NV,Nevada,TRUE,,55865,2911.2,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+80,46%,89148,36.0588,-115.31039,Las Vegas,NV,Nevada,TRUE,,55553,1740.8,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+81,46%,89149,36.27223,-115.29254,Las Vegas,NV,Nevada,TRUE,,39613,1273.3,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+82,47%,89156,36.16345,-114.98822,Las Vegas,NV,Nevada,TRUE,,29764,353.8,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+83,47%,89161,36.00035,-115.36387,Las Vegas,NV,Nevada,TRUE,,136,2.7,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+84,48%,89166,36.38065,-115.50689,Las Vegas,NV,Nevada,TRUE,,25245,50.5,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+85,49%,89169,36.12415,-115.14128,Las Vegas,NV,Nevada,TRUE,,21822,2482.9,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+86,49%,89178,35.99768,-115.28607,Las Vegas,NV,Nevada,TRUE,,40808,824.6,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+87,50%,89179,35.8946,-115.33187,Las Vegas,NV,Nevada,TRUE,,7449,24.2,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+88,50%,89183,35.99588,-115.15762,Las Vegas,NV,Nevada,TRUE,,42480,2340.1,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+89,51%,89191,36.23961,-115.02563,Nellis Afb,NV,Nevada,TRUE,,581,33.2,32003,Clark,"{""32003"": ""100""}",Clark,32003,FALSE,FALSE,America/Los_Angeles
+90,51%,89301,39.54452,-114.77305,Ely,NV,Nevada,TRUE,,8141,1.6,32033,White Pine,"{""32033"": ""100""}",White Pine,32033,FALSE,FALSE,America/Los_Angeles
+91,52%,89310,39.41354,-117.16463,Austin,NV,Nevada,TRUE,,292,0,32015,Lander,"{""32015"": ""76.18"", ""32023"": ""23.82""}",Lander|Nye,32015|32023,FALSE,FALSE,America/Los_Angeles
+92,53%,89311,38.98711,-114.19431,Baker,NV,Nevada,TRUE,,124,0.2,32033,White Pine,"{""32033"": ""100""}",White Pine,32033,FALSE,FALSE,America/Los_Angeles
+93,53%,89314,38.85481,-115.76709,Duckwater,NV,Nevada,TRUE,,313,0.7,32023,Nye,"{""32023"": ""100""}",Nye,32023,FALSE,FALSE,America/Los_Angeles
+94,54%,89316,39.63087,-116.17716,Eureka,NV,Nevada,TRUE,,1218,0.3,32011,Eureka,"{""32011"": ""96.59"", ""32033"": ""2.91"", ""32023"": ""0.5""}",Eureka|White Pine|Nye,32011|32033|32023,FALSE,FALSE,America/Los_Angeles
+95,54%,89317,38.65835,-115.09913,Lund,NV,Nevada,TRUE,,268,1.1,32033,White Pine,"{""32033"": ""96.02"", ""32023"": ""3.98""}",White Pine|Nye,32033|32023,FALSE,FALSE,America/Los_Angeles
+96,55%,89318,39.43856,-114.80356,McGill,NV,Nevada,TRUE,,990,13.6,32033,White Pine,"{""32033"": ""100""}",White Pine,32033,FALSE,FALSE,America/Los_Angeles
+97,55%,89319,39.29631,-114.97601,Ruth,NV,Nevada,TRUE,,132,4.8,32033,White Pine,"{""32033"": ""100""}",White Pine,32033,FALSE,FALSE,America/Los_Angeles
+98,56%,89402,39.22549,-120.00295,Crystal Bay,NV,Nevada,TRUE,,16,59.4,32031,Washoe,"{""32031"": ""100""}",Washoe,32031,FALSE,FALSE,America/Los_Angeles
+99,57%,89403,39.19832,-119.47024,Dayton,NV,Nevada,TRUE,,15531,29.7,32019,Lyon,"{""32019"": ""95.19"", ""32029"": ""4.81""}",Lyon|Storey,32019|32029,FALSE,FALSE,America/Los_Angeles
+100,57%,89404,41.88683,-118.70584,Denio,NV,Nevada,TRUE,,0,0,32013,Humboldt,"{""32013"": ""100""}",Humboldt,32013,FALSE,FALSE,America/Los_Angeles
+101,58%,89405,40.48051,-119.42448,Empire,NV,Nevada,TRUE,,134,0.1,32031,Washoe,"{""32031"": ""99.58"", ""32027"": ""0.42""}",Washoe|Pershing,32031|32027,FALSE,FALSE,America/Los_Angeles
+102,58%,89406,39.52221,-118.31663,Fallon,NV,Nevada,TRUE,,24213,6,32001,Churchill,"{""32001"": ""99.99"", ""32019"": ""0.01""}",Churchill|Lyon,32001|32019,FALSE,FALSE,America/Los_Angeles
+103,59%,89408,39.5641,-119.17158,Fernley,NV,Nevada,TRUE,,20439,53.2,32019,Lyon,"{""32019"": ""99.45"", ""32001"": ""0.55""}",Lyon|Churchill,32019|32001,FALSE,FALSE,America/Los_Angeles
+104,59%,89409,38.78468,-118.10324,Gabbs,NV,Nevada,TRUE,,109,0.1,32023,Nye,"{""32023"": ""98.59"", ""32021"": ""1.41""}",Nye|Mineral,32023|32021,FALSE,FALSE,America/Los_Angeles
+105,60%,89410,38.87028,-119.61147,Gardnerville,NV,Nevada,TRUE,,11191,24.8,32005,Douglas,"{""32005"": ""100""}",Douglas,32005,FALSE,FALSE,America/Los_Angeles
+106,61%,89411,39.01902,-119.85021,Genoa,NV,Nevada,TRUE,,643,10.9,32005,Douglas,"{""32005"": ""100""}",Douglas,32005,FALSE,FALSE,America/Los_Angeles
+107,61%,89412,41.10776,-119.69948,Gerlach,NV,Nevada,TRUE,,114,0,32031,Washoe,"{""32031"": ""97.22"", ""32013"": ""2.78""}",Washoe|Humboldt,32031|32013,FALSE,FALSE,America/Los_Angeles
+108,62%,89413,39.07389,-119.92096,Glenbrook,NV,Nevada,TRUE,,725,17.7,32005,Douglas,"{""32005"": ""100""}",Douglas,32005,FALSE,FALSE,America/Los_Angeles
+109,62%,89414,41.04623,-117.17819,Golconda,NV,Nevada,TRUE,,154,0.1,32013,Humboldt,"{""32013"": ""86.82"", ""32007"": ""13.18""}",Humboldt|Elko,32013|32007,FALSE,FALSE,America/Los_Angeles
+110,63%,89415,38.48546,-118.6415,Hawthorne,NV,Nevada,TRUE,,3043,3.9,32021,Mineral,"{""32021"": ""100""}",Mineral,32021,FALSE,FALSE,America/Los_Angeles
+111,63%,89418,40.54841,-118.03436,Imlay,NV,Nevada,TRUE,,306,0.4,32027,Pershing,"{""32027"": ""100""}",Pershing,32027,FALSE,FALSE,America/Los_Angeles
+112,64%,89419,40.2717,-118.179,Lovelock,NV,Nevada,TRUE,,5549,4.6,32027,Pershing,"{""32027"": ""100""}",Pershing,32027,FALSE,FALSE,America/Los_Angeles
+113,65%,89420,38.54458,-118.22671,Luning,NV,Nevada,TRUE,,55,0.7,32021,Mineral,"{""32021"": ""100""}",Mineral,32021,FALSE,FALSE,America/Los_Angeles
+114,65%,89421,42.05134,-117.90083,McDermitt,NV,Nevada,TRUE,,496,0.2,32013,Humboldt,"{""32013"": ""85.33"", ""41045"": ""14.67""}",Humboldt|Malheur,32013|41045,FALSE,FALSE,America/Los_Angeles
+115,66%,89422,38.17367,-118.41484,Mina,NV,Nevada,TRUE,,182,0.2,32021,Mineral,"{""32021"": ""100""}",Mineral,32021,FALSE,FALSE,America/Los_Angeles
+116,66%,89423,39.01761,-119.74877,Minden,NV,Nevada,TRUE,,10283,57.3,32005,Douglas,"{""32005"": ""100""}",Douglas,32005,FALSE,FALSE,America/Los_Angeles
+117,67%,89424,39.851,-119.32368,Nixon,NV,Nevada,TRUE,,209,0.3,32031,Washoe,"{""32031"": ""100""}",Washoe,32031,FALSE,FALSE,America/Los_Angeles
+118,67%,89425,41.66538,-117.90827,Orovada,NV,Nevada,TRUE,,312,0.2,32013,Humboldt,"{""32013"": ""100""}",Humboldt,32013,FALSE,FALSE,America/Los_Angeles
+119,68%,89426,41.48814,-117.43099,Paradise Valley,NV,Nevada,TRUE,,174,0.2,32013,Humboldt,"{""32013"": ""100""}",Humboldt,32013,FALSE,FALSE,America/Los_Angeles
+120,69%,89427,38.92055,-118.70037,Schurz,NV,Nevada,TRUE,,1162,1.8,32021,Mineral,"{""32021"": ""100""}",Mineral,32021,FALSE,FALSE,America/Los_Angeles
+121,69%,89428,39.26102,-119.63457,Silver City,NV,Nevada,TRUE,,158,49.7,32019,Lyon,"{""32019"": ""100""}",Lyon,32019,FALSE,FALSE,America/Los_Angeles
+122,70%,89429,39.36397,-119.30531,Silver Springs,NV,Nevada,TRUE,,7715,17.7,32019,Lyon,"{""32019"": ""100""}",Lyon,32019,FALSE,FALSE,America/Los_Angeles
+123,70%,89430,38.7751,-119.30508,Smith,NV,Nevada,TRUE,,308,3,32019,Lyon,"{""32019"": ""100""}",Lyon,32019,FALSE,FALSE,America/Los_Angeles
+124,71%,89431,39.54046,-119.7495,Sparks,NV,Nevada,TRUE,,39042,1557.1,32031,Washoe,"{""32031"": ""100""}",Washoe,32031,FALSE,FALSE,America/Los_Angeles
+125,71%,89433,39.60898,-119.77665,Sun Valley,NV,Nevada,TRUE,,21875,543.8,32031,Washoe,"{""32031"": ""100""}",Washoe,32031,FALSE,FALSE,America/Los_Angeles
+126,72%,89434,39.53209,-119.64042,Sparks,NV,Nevada,TRUE,,25575,330.3,32031,Washoe,"{""32031"": ""95.62"", ""32029"": ""4.38""}",Washoe|Storey,32031|32029,FALSE,FALSE,America/Los_Angeles
+127,73%,89436,39.60434,-119.68778,Sparks,NV,Nevada,TRUE,,43826,414.6,32031,Washoe,"{""32031"": ""100""}",Washoe,32031,FALSE,FALSE,America/Los_Angeles
+128,73%,89438,40.77331,-117.1078,Valmy,NV,Nevada,TRUE,,91,0.8,32013,Humboldt,"{""32013"": ""100""}",Humboldt,32013,FALSE,FALSE,America/Los_Angeles
+129,74%,89439,39.52955,-120.00394,Verdi,NV,Nevada,TRUE,,1284,34,32031,Washoe,"{""32031"": ""94.35"", ""06091"": ""5.65""}",Washoe|Sierra,32031|06091,FALSE,FALSE,America/Los_Angeles
+130,74%,89440,39.29648,-119.65873,Virginia City,NV,Nevada,TRUE,,864,23.1,32029,Storey,"{""32029"": ""100""}",Storey,32029,FALSE,FALSE,America/Los_Angeles
+131,75%,89441,39.67635,-119.6758,Sparks,NV,Nevada,TRUE,,12435,115.7,32031,Washoe,"{""32031"": ""100""}",Washoe,32031,FALSE,FALSE,America/Los_Angeles
+132,75%,89442,39.65978,-119.42121,Wadsworth,NV,Nevada,TRUE,,1076,2.6,32031,Washoe,"{""32031"": ""99.11"", ""32029"": ""0.89""}",Washoe|Storey,32031|32029,FALSE,FALSE,America/Los_Angeles
+133,76%,89444,38.70709,-119.37194,Wellington,NV,Nevada,TRUE,,2949,3.8,32005,Douglas,"{""32005"": ""56.4"", ""32019"": ""43.6""}",Douglas|Lyon,32005|32019,FALSE,FALSE,America/Los_Angeles
+134,77%,89445,41.16908,-118.27422,Winnemucca,NV,Nevada,TRUE,,16387,1.6,32013,Humboldt,"{""32013"": ""92.47"", ""32027"": ""7.53""}",Humboldt|Pershing,32013|32027,FALSE,FALSE,America/Los_Angeles
+135,77%,89446,41.21713,-117.87034,Winnemucca,NV,Nevada,TRUE,,0,0,32013,Humboldt,"{""32013"": ""100""}",Humboldt,32013,FALSE,FALSE,America/Los_Angeles
+136,78%,89447,38.8122,-119.13121,Yerington,NV,Nevada,TRUE,,7834,4,32019,Lyon,"{""32019"": ""100""}",Lyon,32019,FALSE,FALSE,America/Los_Angeles
+137,78%,89448,39.00784,-119.92412,Zephyr Cove,NV,Nevada,TRUE,,1712,53.8,32005,Douglas,"{""32005"": ""100""}",Douglas,32005,FALSE,FALSE,America/Los_Angeles
+138,79%,89449,38.96431,-119.90684,Stateline,NV,Nevada,TRUE,,3094,119.1,32005,Douglas,"{""32005"": ""100""}",Douglas,32005,FALSE,FALSE,America/Los_Angeles
+139,79%,89450,39.24043,-119.93903,Incline Village,NV,Nevada,TRUE,,60,816.7,32031,Washoe,"{""32031"": ""100""}",Washoe,32031,FALSE,FALSE,America/Los_Angeles
+140,80%,89451,39.24152,-119.93386,Incline Village,NV,Nevada,TRUE,,8777,133.9,32031,Washoe,"{""32031"": ""100""}",Washoe,32031,FALSE,FALSE,America/Los_Angeles
+141,81%,89460,38.90108,-119.79057,Gardnerville,NV,Nevada,TRUE,,13570,96.7,32005,Douglas,"{""32005"": ""100""}",Douglas,32005,FALSE,FALSE,America/Los_Angeles
+142,81%,89501,39.52566,-119.81303,Reno,NV,Nevada,TRUE,,3961,2413.3,32031,Washoe,"{""32031"": ""100""}",Washoe,32031,FALSE,FALSE,America/Los_Angeles
+143,82%,89502,39.49206,-119.74507,Reno,NV,Nevada,TRUE,,45294,787.8,32031,Washoe,"{""32031"": ""100""}",Washoe,32031,FALSE,FALSE,America/Los_Angeles
+144,82%,89503,39.54076,-119.83983,Reno,NV,Nevada,TRUE,,28867,1717.3,32031,Washoe,"{""32031"": ""100""}",Washoe,32031,FALSE,FALSE,America/Los_Angeles
+145,83%,89506,39.70138,-119.82276,Reno,NV,Nevada,TRUE,,43566,178,32031,Washoe,"{""32031"": ""100""}",Washoe,32031,FALSE,FALSE,America/Los_Angeles
+146,83%,89508,39.79286,-119.91954,Reno,NV,Nevada,TRUE,,13206,31.9,32031,Washoe,"{""32031"": ""100""}",Washoe,32031,FALSE,FALSE,America/Los_Angeles
+147,84%,89509,39.49663,-119.82726,Reno,NV,Nevada,TRUE,,35793,1543.6,32031,Washoe,"{""32031"": ""100""}",Washoe,32031,FALSE,FALSE,America/Los_Angeles
+148,85%,89510,40.05586,-119.66305,Reno,NV,Nevada,TRUE,,1454,0.5,32031,Washoe,"{""32031"": ""100""}",Washoe,32031,FALSE,FALSE,America/Los_Angeles
+149,85%,89511,39.3953,-119.89494,Reno,NV,Nevada,TRUE,,26443,68.5,32031,Washoe,"{""32031"": ""100""}",Washoe,32031,FALSE,FALSE,America/Los_Angeles
+150,86%,89512,39.55284,-119.80072,Reno,NV,Nevada,TRUE,,26222,1605.1,32031,Washoe,"{""32031"": ""100""}",Washoe,32031,FALSE,FALSE,America/Los_Angeles
+151,86%,89519,39.48135,-119.85904,Reno,NV,Nevada,TRUE,,8766,434.5,32031,Washoe,"{""32031"": ""100""}",Washoe,32031,FALSE,FALSE,America/Los_Angeles
+152,87%,89521,39.38099,-119.68598,Reno,NV,Nevada,TRUE,,33381,168,32031,Washoe,"{""32031"": ""95.1"", ""32029"": ""4.9""}",Washoe|Storey,32031|32029,FALSE,FALSE,America/Los_Angeles
+153,87%,89523,39.524,-119.91376,Reno,NV,Nevada,TRUE,,34363,704.1,32031,Washoe,"{""32031"": ""100""}",Washoe,32031,FALSE,FALSE,America/Los_Angeles
+154,88%,89701,39.13966,-119.71837,Carson City,NV,Nevada,TRUE,,27193,315.3,32510,Carson City,"{""32510"": ""100""}",Carson City,32510,FALSE,FALSE,America/Los_Angeles
+155,89%,89702,39.15921,-119.73599,Carson City,NV,Nevada,TRUE,,0,0,32510,Carson City,"{""32510"": ""0""}",Carson City,32510,FALSE,FALSE,America/Los_Angeles
+156,89%,89703,39.1639,-119.81277,Carson City,NV,Nevada,TRUE,,9955,151.5,32510,Carson City,"{""32510"": ""100""}",Carson City,32510,FALSE,FALSE,America/Los_Angeles
+157,90%,89704,39.26682,-119.8174,Washoe Valley,NV,Nevada,TRUE,,3828,19.3,32031,Washoe,"{""32031"": ""100""}",Washoe,32031,FALSE,FALSE,America/Los_Angeles
+158,90%,89705,39.11057,-119.86226,Carson City,NV,Nevada,TRUE,,5307,47.5,32005,Douglas,"{""32005"": ""99.09"", ""32510"": ""0.91""}",Douglas|Carson City,32005|32510,FALSE,FALSE,America/Los_Angeles
+159,91%,89706,39.21975,-119.70611,Carson City,NV,Nevada,TRUE,,19318,235.3,32510,Carson City,"{""32510"": ""91.7"", ""32019"": ""8.3""}",Carson City|Lyon,32510|32019,FALSE,FALSE,America/Los_Angeles
+160,91%,89801,41.24905,-115.7589,Elko,NV,Nevada,TRUE,,26669,5.9,32007,Elko,"{""32007"": ""100""}",Elko,32007,FALSE,FALSE,America/Los_Angeles
+161,92%,89815,40.6171,-115.59563,Spring Creek,NV,Nevada,TRUE,,14177,8.7,32007,Elko,"{""32007"": ""100""}",Elko,32007,FALSE,FALSE,America/Los_Angeles
+162,93%,89820,40.42657,-116.97366,Battle Mountain,NV,Nevada,TRUE,,5436,1,32015,Lander,"{""32015"": ""99.96"", ""32011"": ""0.04""}",Lander|Eureka,32015|32011,FALSE,FALSE,America/Los_Angeles
+163,93%,89821,40.49241,-116.46224,Crescent Valley,NV,Nevada,TRUE,,462,0.5,32011,Eureka,"{""32011"": ""100""}",Eureka,32011,FALSE,FALSE,America/Los_Angeles
+164,94%,89822,40.53131,-116.19417,Carlin,NV,Nevada,TRUE,,2160,1.4,32007,Elko,"{""32007"": ""94.31"", ""32011"": ""5.69""}",Elko|Eureka,32007|32011,FALSE,FALSE,America/Los_Angeles
+165,94%,89823,41.00476,-115.27447,Deeth,NV,Nevada,TRUE,,124,0.1,32007,Elko,"{""32007"": ""100""}",Elko,32007,FALSE,FALSE,America/Los_Angeles
+166,95%,89825,41.88816,-114.72328,Jackpot,NV,Nevada,TRUE,,1289,11.8,32007,Elko,"{""32007"": ""100""}",Elko,32007,FALSE,FALSE,America/Los_Angeles
+167,95%,89826,41.8873,-115.38128,Jarbidge,NV,Nevada,TRUE,,0,0,32007,Elko,"{""32007"": ""100""}",Elko,32007,FALSE,FALSE,America/Los_Angeles
+168,96%,89828,40.75053,-115.36309,Lamoille,NV,Nevada,TRUE,,363,1.1,32007,Elko,"{""32007"": ""100""}",Elko,32007,FALSE,FALSE,America/Los_Angeles
+169,97%,89830,41.27533,-114.28821,Montello,NV,Nevada,TRUE,,208,0.1,32007,Elko,"{""32007"": ""100""}",Elko,32007,FALSE,FALSE,America/Los_Angeles
+170,97%,89831,41.73253,-116.11224,Mountain City,NV,Nevada,TRUE,,11,0,32007,Elko,"{""32007"": ""100""}",Elko,32007,FALSE,FALSE,America/Los_Angeles
+171,98%,89832,41.98653,-116.16574,Owyhee,NV,Nevada,TRUE,,1312,3.8,32007,Elko,"{""32007"": ""72.7"", ""16073"": ""27.3""}",Elko|Owyhee,32007|16073,FALSE,FALSE,America/Los_Angeles
+172,98%,89833,40.47107,-115.31693,Ruby Valley,NV,Nevada,TRUE,,137,0.1,32007,Elko,"{""32007"": ""100""}",Elko,32007,FALSE,FALSE,America/Los_Angeles
+173,99%,89834,41.37383,-116.2641,Tuscarora,NV,Nevada,TRUE,,152,0.1,32007,Elko,"{""32007"": ""100""}",Elko,32007,FALSE,FALSE,America/Los_Angeles
+174,99%,89835,41.1147,-114.85451,Wells,NV,Nevada,TRUE,,1626,0.2,32007,Elko,"{""32007"": ""100""}",Elko,32007,FALSE,FALSE,America/Los_Angeles
+175,100%,89883,40.72545,-114.24179,West Wendover,NV,Nevada,TRUE,,4381,5.6,32007,Elko,"{""32007"": ""100""}",Elko,32007,FALSE,FALSE,America/Los_Angeles

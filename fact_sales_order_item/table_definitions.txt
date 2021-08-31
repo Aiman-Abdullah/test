@@ -1,0 +1,148 @@
+---------------------------------------------------------------------------------
+/* Creating Stage Tables */
+---------------------------------------------------------------------------------
+
+/* Create table jcwf_stage_sales_order_item */
+--DROP TABLE jcwf_stage_sales_order_item;
+CREATE TABLE jcwf_stage_sales_order_item (
+
+  sales_order_item_product_category TEXT    NULL
+, sales_order_item_warehouse TEXT    NULL
+, sales_order_item_site TEXT    NULL 
+, sales_order_item_status TEXT    NULL
+, sales_order_item_product TEXT    NULL
+, sales_order_item_terms TEXT    NULL
+, sales_order_item_order_item TEXT    NULL 
+, sales_order_item_po TEXT    NULL
+, sales_order_item_customer_id TEXT    NULL
+, sales_order_item_customer_name TEXT    NULL 
+, sales_order_item_sidemark TEXT    NULL 
+, sales_order_item_entered TEXT    NULL 
+, sales_order_item_credit_ok TEXT    NULL 
+, sales_order_item_printed TEXT    NULL 
+, sales_order_item_labels TEXT    NULL 
+, sales_order_item_packed TEXT    NULL 
+, sales_order_item_shipped_date TEXT    NULL 
+, sales_order_item_required TEXT    NULL 
+, sales_order_item_canceled TEXT    NULL 
+, sales_order_item_model TEXT    NULL
+, sales_order_item_color_style TEXT    NULL
+, sales_order_item_width TEXT    NULL 
+, sales_order_item_height TEXT    NULL 
+, sales_order_item_ordered TEXT    NULL 
+, sales_order_item_shipped_quantity TEXT    NULL 
+, sales_order_item_net_sale TEXT    NULL 
+, sales_order_item_cost_of_good_sold TEXT    NULL 
+
+);
+
+
+
+SELECT * FROM jcwf_stage_sales_order_item;
+
+---------------------------------------------------------------------------------
+/* Creating Transform Tables */
+---------------------------------------------------------------------------------
+
+/* Create table jcwf_tran_sales_order_item*/
+--DROP TABLE jcwf_tran_sales_order_item;
+
+CREATE TABLE jcwf_tran_sales_order_item (
+
+  sales_order_item_product_category TEXT    NULL
+, sales_order_item_warehouse TEXT    NULL
+, sales_order_item_site TEXT    NULL 
+, sales_order_item_status TEXT    NULL
+, sales_order_item_product TEXT    NULL
+, sales_order_item_product_foreign_key INT
+, sales_order_item_terms TEXT    NULL
+, sales_order_item_order_item TEXT    NULL 
+, sales_order_item_po TEXT    NULL
+, sales_order_item_customer_id TEXT    NULL
+, sales_order_item_customer_id_foreign_key INT
+, sales_order_item_customer_name TEXT    NULL 
+, sales_order_item_sidemark TEXT    NULL 
+, sales_order_item_entered TEXT    NULL 
+, sales_order_item_credit_ok TEXT    NULL 
+, sales_order_item_printed TEXT    NULL 
+, sales_order_item_labels TEXT    NULL 
+, sales_order_item_packed TEXT    NULL 
+, sales_order_item_shipped_date TEXT    NULL 
+, sales_order_item_required TEXT    NULL 
+, sales_order_item_canceled TEXT    NULL 
+, sales_order_item_model TEXT    NULL
+, sales_order_item_color_style TEXT    NULL
+, sales_order_item_color_foreign_key INT
+, sales_order_item_width TEXT    NULL 
+, sales_order_item_height TEXT    NULL 
+, sales_order_item_ordered TEXT    NULL 
+, sales_order_item_shipped_quantity TEXT    NULL 
+, sales_order_item_net_sale TEXT    NULL 
+, sales_order_item_cost_of_good_sold TEXT    NULL 
+
+,  row_is_current  VARCHAR(1)   
+,  row_start_date  TIMESTAMP   
+,  row_end_date  TIMESTAMP 
+,  row_change_reason  VARCHAR(200)   
+,  CONSTRAINT Unique_jcwf_tran_sales_order_item_id UNIQUE (sales_order_item_order_item)
+);
+
+
+SELECT * FROM jcwf_tran_sales_order_item;
+
+---------------------------------------------------------------------------------
+/* Creating Data Warehouse Fact Tables */
+---------------------------------------------------------------------------------
+
+/* Create table jcwf_fact_sales_order_item */
+--DROP TABLE jcwf_fact_sales_order_item;
+
+CREATE TABLE jcwf_fact_sales_order_item (
+  sales_order_item_key  SERIAL NOT  NULL
+
+, sales_order_item_product_category TEXT    NULL
+, sales_order_item_warehouse TEXT    NULL
+, sales_order_item_site TEXT    NULL 
+, sales_order_item_status TEXT    NULL
+, sales_order_item_product_foreign_key INT
+, sales_order_item_terms TEXT    NULL
+, sales_order_item_order_item TEXT    NULL 
+, sales_order_item_po TEXT    NULL
+, sales_order_item_customer_id_foreign_key INT
+, sales_order_item_sidemark TEXT    NULL 
+, sales_order_item_entered TEXT    NULL 
+, sales_order_item_credit_ok TEXT    NULL 
+, sales_order_item_printed TEXT    NULL 
+, sales_order_item_labels TEXT    NULL 
+, sales_order_item_packed TEXT    NULL 
+, sales_order_item_shipped_date TEXT    NULL 
+, sales_order_item_required TEXT    NULL 
+, sales_order_item_canceled TEXT    NULL 
+, sales_order_item_model TEXT    NULL
+, sales_order_item_color_foreign_key INT
+, sales_order_item_width TEXT    NULL 
+, sales_order_item_height TEXT    NULL 
+, sales_order_item_ordered TEXT    NULL 
+, sales_order_item_shipped_quantity TEXT    NULL 
+, sales_order_item_net_sale TEXT    NULL 
+, sales_order_item_cost_of_good_sold TEXT    NULL 
+
+,  row_is_current  VARCHAR(1)  NULL
+,  row_start_date  TIMESTAMP  NULL
+,  row_end_date  TIMESTAMP  NULL
+,  row_change_reason  VARCHAR(200)  NULL
+,  import_version VARCHAR(200)  NULL
+,  import_batch VARCHAR(200)  NULL
+,  import_user VARCHAR(200)  NULL
+,  CONSTRAINT pk_jcwf_fact_sales_order_item PRIMARY KEY (sales_order_item_key)
+,  CONSTRAINT Unique_fact_sales_order_item UNIQUE (sales_order_item_order_item)
+,  CONSTRAINT fk_jcwf_dim_product
+      FOREIGN KEY (sales_order_item_product_foreign_key)
+         REFERENCES jcwf_dim_product(product_key)
+
+);
+
+
+SELECT * FROM jcwf_stage_sales_order_item;
+SELECT * FROM jcwf_tran_sales_order_item;
+SELECT * FROM jcwf_fact_sales_order_item;

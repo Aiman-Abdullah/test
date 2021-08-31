@@ -1,0 +1,25 @@
+---------------------------------------------------------------------------------
+/* Creating Data Warehouse Dimension Tables */
+
+/* Create table jcwf_dim_audit */
+--DROP TABLE jcwf_dim_audit;
+
+CREATE TABLE jcwf_dim_audit (
+   audit_id  SERIAL  NOT NULL
+,  audit_table_name TEXT NOT NULL 
+,  audit_code TEXT NOT NULL 
+,  audit_batch_id SERIAL NOT NULL
+,  audit_number_of_records_imported INT NOT NULL
+,  importVersion VARCHAR(200) NOT NULL
+,  importUser VARCHAR(200) NOT NULL
+,  RowIsCurrent  VARCHAR(1) NOT NULL
+,  RowStartDate  TIMESTAMP NOT NULL
+,  RowEndDate  TIMESTAMP NOT NULL
+,  RowChangeReason  VARCHAR(200) NOT NULL
+,  CONSTRAINT pk_DimAudit PRIMARY KEY (audit_id)
+-- ,  CONSTRAINT Unique_ProductID UNIQUE (audit_id)
+);
+
+
+SELECT * FROM jcwf_dim_audit;
+

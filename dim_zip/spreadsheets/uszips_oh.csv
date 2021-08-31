@@ -1,0 +1,1196 @@
+,zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone
+1,43001,40.08865,-82.61366,Alexandria,OH,Ohio,TRUE,,2570,37.4,39089,Licking,"{""39089"": ""100""}",Licking,39089,FALSE,FALSE,America/New_York
+2,43002,40.06333,-83.1739,Amlin,OH,Ohio,TRUE,,4303,1659.6,39049,Franklin,"{""39049"": ""100""}",Franklin,39049,FALSE,FALSE,America/New_York
+3,43003,40.41034,-82.97538,Ashley,OH,Ohio,TRUE,,2922,33.3,39041,Delaware,"{""39041"": ""74.7"", ""39117"": ""25.3""}",Delaware|Morrow,39041|39117,FALSE,FALSE,America/New_York
+4,43004,40.01581,-82.80012,Blacklick,OH,Ohio,TRUE,,27227,812.5,39049,Franklin,"{""39049"": ""100""}",Franklin,39049,FALSE,FALSE,America/New_York
+5,43005,40.28618,-82.27706,Bladensburg,OH,Ohio,TRUE,,177,82.1,39083,Knox,"{""39083"": ""100""}",Knox,39083,FALSE,FALSE,America/New_York
+6,43006,40.45874,-82.14575,Brinkhaven,OH,Ohio,TRUE,,537,8.7,39075,Holmes,"{""39075"": ""44.65"", ""39031"": ""31.39"", ""39083"": ""23.97""}",Holmes|Coshocton|Knox,39075|39031|39083,FALSE,FALSE,America/New_York
+7,43008,39.93381,-82.48137,Buckeye Lake,OH,Ohio,TRUE,,2640,684,39089,Licking,"{""39089"": ""100""}",Licking,39089,FALSE,FALSE,America/New_York
+8,43009,40.17253,-83.64152,Cable,OH,Ohio,TRUE,,2614,29.3,39021,Champaign,"{""39021"": ""100""}",Champaign,39021,FALSE,FALSE,America/New_York
+9,43010,39.99965,-83.62186,Catawba,OH,Ohio,TRUE,,242,404.9,39023,Clark,"{""39023"": ""100""}",Clark,39023,FALSE,FALSE,America/New_York
+10,43011,40.31046,-82.68616,Centerburg,OH,Ohio,TRUE,,8018,37.5,39083,Knox,"{""39083"": ""68.36"", ""39117"": ""13.43"", ""39089"": ""9.73"", ""39041"": ""8.48""}",Knox|Morrow|Licking|Delaware,39083|39117|39089|39041,FALSE,FALSE,America/New_York
+11,43013,40.2322,-82.68766,Croton,OH,Ohio,TRUE,,778,15.6,39089,Licking,"{""39089"": ""100""}",Licking,39089,FALSE,FALSE,America/New_York
+12,43014,40.47131,-82.2564,Danville,OH,Ohio,TRUE,,3733,21.9,39083,Knox,"{""39083"": ""100""}",Knox,39083,FALSE,FALSE,America/New_York
+13,43015,40.2968,-83.06065,Delaware,OH,Ohio,TRUE,,56596,174.9,39041,Delaware,"{""39041"": ""99.85"", ""39159"": ""0.15""}",Delaware|Union,39041|39159,FALSE,FALSE,America/New_York
+14,43016,40.09861,-83.15376,Dublin,OH,Ohio,TRUE,,36886,786.2,39049,Franklin,"{""39049"": ""92.2"", ""39159"": ""7.15"", ""39041"": ""0.65""}",Franklin|Union|Delaware,39049|39159|39041,FALSE,FALSE,America/New_York
+15,43017,40.11682,-83.1301,Dublin,OH,Ohio,TRUE,,41612,952.7,39049,Franklin,"{""39049"": ""82.42"", ""39041"": ""15.81"", ""39159"": ""1.76""}",Franklin|Delaware|Union,39049|39041|39159,FALSE,FALSE,America/New_York
+16,43019,40.49344,-82.57643,Fredericktown,OH,Ohio,TRUE,,8786,32.1,39083,Knox,"{""39083"": ""78.61"", ""39117"": ""20.47"", ""39139"": ""0.92""}",Knox|Morrow|Richland,39083|39117|39139,FALSE,FALSE,America/New_York
+17,43021,40.20095,-82.88428,Galena,OH,Ohio,TRUE,,12708,137.7,39041,Delaware,"{""39041"": ""100""}",Delaware,39041,FALSE,FALSE,America/New_York
+18,43022,40.33833,-82.33968,Gambier,OH,Ohio,TRUE,,4353,40.6,39083,Knox,"{""39083"": ""100""}",Knox,39083,FALSE,FALSE,America/New_York
+19,43023,40.07526,-82.53181,Granville,OH,Ohio,TRUE,,14326,106.7,39089,Licking,"{""39089"": ""100""}",Licking,39089,FALSE,FALSE,America/New_York
+20,43025,39.96634,-82.51676,Hebron,OH,Ohio,TRUE,,5092,56.2,39089,Licking,"{""39089"": ""100""}",Licking,39089,FALSE,FALSE,America/New_York
+21,43026,40.02276,-83.1855,Hilliard,OH,Ohio,TRUE,,63047,694.1,39049,Franklin,"{""39049"": ""99.97"", ""39097"": ""0.03""}",Franklin|Madison,39049|39097,FALSE,FALSE,America/New_York
+22,43028,40.40033,-82.29352,Howard,OH,Ohio,TRUE,,8204,59.2,39083,Knox,"{""39083"": ""100""}",Knox,39083,FALSE,FALSE,America/New_York
+23,43029,40.09509,-83.45856,Irwin,OH,Ohio,TRUE,,420,6.9,39097,Madison,"{""39097"": ""72.74"", ""39159"": ""27.26""}",Madison|Union,39097|39159,FALSE,FALSE,America/New_York
+24,43030,39.9615,-82.41584,Jacksontown,OH,Ohio,TRUE,,108,453.9,39089,Licking,"{""39089"": ""100""}",Licking,39089,FALSE,FALSE,America/New_York
+25,43031,40.16102,-82.66624,Johnstown,OH,Ohio,TRUE,,13737,59.6,39089,Licking,"{""39089"": ""96.9"", ""39041"": ""3.1""}",Licking|Delaware,39089|39041,FALSE,FALSE,America/New_York
+26,43032,40.32822,-82.95917,Kilbourne,OH,Ohio,TRUE,,19,150.2,39041,Delaware,"{""39041"": ""100""}",Delaware,39041,FALSE,FALSE,America/New_York
+27,43033,39.96093,-82.60006,Kirkersville,OH,Ohio,TRUE,,300,260.3,39089,Licking,"{""39089"": ""100""}",Licking,39089,FALSE,FALSE,America/New_York
+28,43035,40.18911,-82.99512,Lewis Center,OH,Ohio,TRUE,,27500,542.2,39041,Delaware,"{""39041"": ""100""}",Delaware,39041,FALSE,FALSE,America/New_York
+29,43036,40.35232,-83.26215,Magnetic Springs,OH,Ohio,TRUE,,329,595.3,39159,Union,"{""39159"": ""100""}",Union,39159,FALSE,FALSE,America/New_York
+30,43037,40.27801,-82.3258,Martinsburg,OH,Ohio,TRUE,,271,22.6,39083,Knox,"{""39083"": ""100""}",Knox,39083,FALSE,FALSE,America/New_York
+31,43040,40.26095,-83.35954,Marysville,OH,Ohio,TRUE,,35087,81,39159,Union,"{""39159"": ""99.81"", ""39041"": ""0.19""}",Union|Delaware,39159|39041,FALSE,FALSE,America/New_York
+32,43044,40.05024,-83.56425,Mechanicsburg,OH,Ohio,TRUE,,4930,24.2,39021,Champaign,"{""39021"": ""84.84"", ""39023"": ""12.79"", ""39097"": ""2.37""}",Champaign|Clark|Madison,39021|39023|39097,FALSE,FALSE,America/New_York
+33,43045,40.16987,-83.4486,Milford Center,OH,Ohio,TRUE,,2342,23.9,39159,Union,"{""39159"": ""98.98"", ""39021"": ""1.02""}",Union|Champaign,39159|39021,FALSE,FALSE,America/New_York
+34,43046,39.89864,-82.54118,Millersport,OH,Ohio,TRUE,,3684,56,39045,Fairfield,"{""39045"": ""89.28"", ""39089"": ""10.72""}",Fairfield|Licking,39045|39089,FALSE,FALSE,America/New_York
+35,43050,40.37231,-82.49559,Mount Vernon,OH,Ohio,TRUE,,29264,72.5,39083,Knox,"{""39083"": ""99.61"", ""39117"": ""0.39""}",Knox|Morrow,39083|39117,FALSE,FALSE,America/New_York
+36,43054,40.08085,-82.80342,New Albany,OH,Ohio,TRUE,,27441,529,39049,Franklin,"{""39049"": ""100""}",Franklin,39049,FALSE,FALSE,America/New_York
+37,43055,40.11783,-82.37652,Newark,OH,Ohio,TRUE,,62666,214.4,39089,Licking,"{""39089"": ""100""}",Licking,39089,FALSE,FALSE,America/New_York
+38,43056,40.01136,-82.33505,Heath,OH,Ohio,TRUE,,18753,84.3,39089,Licking,"{""39089"": ""100""}",Licking,39089,FALSE,FALSE,America/New_York
+39,43060,40.21996,-83.57248,North Lewisburg,OH,Ohio,TRUE,,2810,42.3,39021,Champaign,"{""39021"": ""88.06"", ""39091"": ""9.56"", ""39159"": ""2.38""}",Champaign|Logan|Union,39021|39091|39159,FALSE,FALSE,America/New_York
+40,43061,40.28661,-83.20324,Ostrander,OH,Ohio,TRUE,,4603,39.3,39041,Delaware,"{""39041"": ""82.35"", ""39159"": ""17.65""}",Delaware|Union,39041|39159,FALSE,FALSE,America/New_York
+41,43062,40.00752,-82.68279,Pataskala,OH,Ohio,TRUE,,29241,143.2,39089,Licking,"{""39089"": ""99.35"", ""39045"": ""0.65""}",Licking|Fairfield,39089|39045,FALSE,FALSE,America/New_York
+42,43064,40.09804,-83.28777,Plain City,OH,Ohio,TRUE,,13727,51.5,39097,Madison,"{""39097"": ""55.23"", ""39159"": ""44.7"", ""39049"": ""0.07""}",Madison|Union|Franklin,39097|39159|39049,FALSE,FALSE,America/New_York
+43,43065,40.17762,-83.09366,Powell,OH,Ohio,TRUE,,43034,575.5,39041,Delaware,"{""39041"": ""81.8"", ""39049"": ""18.2""}",Delaware|Franklin,39041|39049,FALSE,FALSE,America/New_York
+44,43066,40.3977,-83.16451,Radnor,OH,Ohio,TRUE,,1202,12.1,39041,Delaware,"{""39041"": ""100""}",Delaware,39041,FALSE,FALSE,America/New_York
+45,43067,40.34577,-83.47083,Raymond,OH,Ohio,TRUE,,1209,14.9,39159,Union,"{""39159"": ""100""}",Union,39159,FALSE,FALSE,America/New_York
+46,43068,39.95635,-82.78506,Reynoldsburg,OH,Ohio,TRUE,,54804,1093.6,39049,Franklin,"{""39049"": ""64.36"", ""39089"": ""22.12"", ""39045"": ""13.52""}",Franklin|Licking|Fairfield,39049|39089|39045,FALSE,FALSE,America/New_York
+47,43070,40.21577,-83.95792,Rosewood,OH,Ohio,TRUE,,177,447.6,39021,Champaign,"{""39021"": ""100""}",Champaign,39021,FALSE,FALSE,America/New_York
+48,43071,40.18424,-82.35821,Saint Louisville,OH,Ohio,TRUE,,2070,23.5,39089,Licking,"{""39089"": ""100""}",Licking,39089,FALSE,FALSE,America/New_York
+49,43072,40.11638,-83.95628,Saint Paris,OH,Ohio,TRUE,,5704,29.9,39021,Champaign,"{""39021"": ""100""}",Champaign,39021,FALSE,FALSE,America/New_York
+50,43074,40.27834,-82.84958,Sunbury,OH,Ohio,TRUE,,13980,62.3,39041,Delaware,"{""39041"": ""98.93"", ""39089"": ""1.07""}",Delaware|Licking,39041|39089,FALSE,FALSE,America/New_York
+51,43076,39.89645,-82.39754,Thornville,OH,Ohio,TRUE,,8664,46.7,39127,Perry,"{""39127"": ""50.03"", ""39089"": ""29.09"", ""39045"": ""20.88""}",Perry|Licking|Fairfield,39127|39089|39045,FALSE,FALSE,America/New_York
+52,43077,40.13664,-83.34074,Unionville Center,OH,Ohio,TRUE,,243,490.6,39159,Union,"{""39159"": ""100""}",Union,39159,FALSE,FALSE,America/New_York
+53,43078,40.11282,-83.7764,Urbana,OH,Ohio,TRUE,,20347,51.6,39021,Champaign,"{""39021"": ""99.75"", ""39023"": ""0.25""}",Champaign|Clark,39021|39023,FALSE,FALSE,America/New_York
+54,43080,40.24273,-82.42906,Utica,OH,Ohio,TRUE,,5316,27.8,39089,Licking,"{""39089"": ""73.74"", ""39083"": ""26.26""}",Licking|Knox,39089|39083,FALSE,FALSE,America/New_York
+55,43081,40.11064,-82.89134,Westerville,OH,Ohio,TRUE,,63604,995.4,39049,Franklin,"{""39049"": ""100""}",Franklin,39049,FALSE,FALSE,America/New_York
+56,43082,40.15243,-82.88199,Westerville,OH,Ohio,TRUE,,33961,592.8,39041,Delaware,"{""39041"": ""100""}",Delaware,39041,FALSE,FALSE,America/New_York
+57,43084,40.15683,-83.54083,Woodstock,OH,Ohio,TRUE,,748,13.4,39021,Champaign,"{""39021"": ""98.45"", ""39159"": ""1.55""}",Champaign|Union,39021|39159,FALSE,FALSE,America/New_York
+58,43085,40.09986,-83.01569,Columbus,OH,Ohio,TRUE,,26155,1370.7,39049,Franklin,"{""39049"": ""100""}",Franklin,39049,FALSE,FALSE,America/New_York
+59,43101,39.46464,-82.74563,Adelphi,OH,Ohio,TRUE,,329,464.7,39141,Ross,"{""39141"": ""100""}",Ross,39141,FALSE,FALSE,America/New_York
+60,43102,39.63957,-82.763,Amanda,OH,Ohio,TRUE,,4480,29.1,39045,Fairfield,"{""39045"": ""92.22"", ""39073"": ""5.34"", ""39129"": ""2.44""}",Fairfield|Hocking|Pickaway,39045|39073|39129,FALSE,FALSE,America/New_York
+61,43103,39.7257,-82.93543,Ashville,OH,Ohio,TRUE,,11218,51.9,39129,Pickaway,"{""39129"": ""100""}",Pickaway,39129,FALSE,FALSE,America/New_York
+62,43105,39.86357,-82.61664,Baltimore,OH,Ohio,TRUE,,7895,53.2,39045,Fairfield,"{""39045"": ""100""}",Fairfield,39045,FALSE,FALSE,America/New_York
+63,43106,39.64231,-83.42115,Bloomingburg,OH,Ohio,TRUE,,1550,15.1,39047,Fayette,"{""39047"": ""100""}",Fayette,39047,FALSE,FALSE,America/New_York
+64,43107,39.69084,-82.40959,Bremen,OH,Ohio,TRUE,,3323,42.8,39045,Fairfield,"{""39045"": ""95.31"", ""39073"": ""2.73"", ""39127"": ""1.97""}",Fairfield|Hocking|Perry,39045|39073|39127,FALSE,FALSE,America/New_York
+65,43109,39.91257,-82.8337,Brice,OH,Ohio,TRUE,,77,190,39049,Franklin,"{""39049"": ""100""}",Franklin,39049,FALSE,FALSE,America/New_York
+66,43110,39.82635,-82.79947,Canal Winchester,OH,Ohio,TRUE,,39220,301.5,39049,Franklin,"{""39049"": ""78.17"", ""39045"": ""21.71"", ""39129"": ""0.12""}",Franklin|Fairfield|Pickaway,39049|39045|39129,FALSE,FALSE,America/New_York
+67,43111,39.50207,-82.24238,Carbon Hill,OH,Ohio,TRUE,,291,279.4,39073,Hocking,"{""39073"": ""100""}",Hocking,39073,FALSE,FALSE,America/New_York
+68,43112,39.79671,-82.70358,Carroll,OH,Ohio,TRUE,,5357,59.3,39045,Fairfield,"{""39045"": ""100""}",Fairfield,39045,FALSE,FALSE,America/New_York
+69,43113,39.59091,-82.96316,Circleville,OH,Ohio,TRUE,,24526,57.6,39129,Pickaway,"{""39129"": ""99.59"", ""39045"": ""0.41""}",Pickaway|Fairfield,39129|39045,FALSE,FALSE,America/New_York
+70,43115,39.49147,-83.16271,Clarksburg,OH,Ohio,TRUE,,1587,12.8,39141,Ross,"{""39141"": ""88.72"", ""39129"": ""11.28""}",Ross|Pickaway,39141|39129,FALSE,FALSE,America/New_York
+71,43116,39.77156,-83.06145,Commercial Point,OH,Ohio,TRUE,,1863,765.3,39129,Pickaway,"{""39129"": ""100""}",Pickaway,39129,FALSE,FALSE,America/New_York
+72,43117,39.76879,-83.20612,Derby,OH,Ohio,TRUE,,187,3662.3,39129,Pickaway,"{""39129"": ""100""}",Pickaway,39129,FALSE,FALSE,America/New_York
+73,43119,39.93574,-83.20074,Galloway,OH,Ohio,TRUE,,27568,334.7,39049,Franklin,"{""39049"": ""97.86"", ""39097"": ""2.14""}",Franklin|Madison,39049|39097,FALSE,FALSE,America/New_York
+74,43123,39.86855,-83.11985,Grove City,OH,Ohio,TRUE,,65577,425.2,39049,Franklin,"{""39049"": ""100""}",Franklin,39049,FALSE,FALSE,America/New_York
+75,43125,39.83664,-82.88449,Groveport,OH,Ohio,TRUE,,13350,164.2,39049,Franklin,"{""39049"": ""98.86"", ""39129"": ""1.14""}",Franklin|Pickaway,39049|39129,FALSE,FALSE,America/New_York
+76,43126,39.81391,-83.16648,Harrisburg,OH,Ohio,TRUE,,519,434.8,39049,Franklin,"{""39049"": ""100""}",Franklin,39049,FALSE,FALSE,America/New_York
+77,43127,39.48052,-82.32422,Haydenville,OH,Ohio,TRUE,,302,201.4,39073,Hocking,"{""39073"": ""100""}",Hocking,39073,FALSE,FALSE,America/New_York
+78,43128,39.66406,-83.57754,Jeffersonville,OH,Ohio,TRUE,,2519,20.4,39047,Fayette,"{""39047"": ""100""}",Fayette,39047,FALSE,FALSE,America/New_York
+79,43130,39.69883,-82.6105,Lancaster,OH,Ohio,TRUE,,61565,146.8,39045,Fairfield,"{""39045"": ""100""}",Fairfield,39045,FALSE,FALSE,America/New_York
+80,43135,39.46644,-82.69757,Laurelville,OH,Ohio,TRUE,,3942,16,39073,Hocking,"{""39073"": ""70.44"", ""39129"": ""14.06"", ""39141"": ""13.25"", ""39163"": ""2.25""}",Hocking|Pickaway|Ross|Vinton,39073|39129|39141|39163,FALSE,FALSE,America/New_York
+81,43136,39.80136,-82.81252,Lithopolis,OH,Ohio,TRUE,,864,1201.5,39045,Fairfield,"{""39045"": ""100""}",Fairfield,39045,FALSE,FALSE,America/New_York
+82,43137,39.80819,-82.98549,Lockbourne,OH,Ohio,TRUE,,2387,30.6,39129,Pickaway,"{""39129"": ""57.45"", ""39049"": ""42.55""}",Pickaway|Franklin,39129|39049,FALSE,FALSE,America/New_York
+83,43138,39.52202,-82.41098,Logan,OH,Ohio,TRUE,,17986,39.4,39073,Hocking,"{""39073"": ""97.42"", ""39127"": ""2.26"", ""39163"": ""0.32""}",Hocking|Perry|Vinton,39073|39127|39163,FALSE,FALSE,America/New_York
+84,43140,39.88299,-83.42997,London,OH,Ohio,TRUE,,24467,42.5,39097,Madison,"{""39097"": ""98.28"", ""39049"": ""1.49"", ""39023"": ""0.22""}",Madison|Franklin|Clark,39097|39049|39023,FALSE,FALSE,America/New_York
+85,43142,39.5934,-83.58742,Milledgeville,OH,Ohio,TRUE,,108,593.3,39047,Fayette,"{""39047"": ""100""}",Fayette,39047,FALSE,FALSE,America/New_York
+86,43143,39.71673,-83.29396,Mount Sterling,OH,Ohio,TRUE,,5660,16.4,39097,Madison,"{""39097"": ""61.54"", ""39129"": ""25.9"", ""39047"": ""12.56""}",Madison|Pickaway|Fayette,39097|39129|39047,FALSE,FALSE,America/New_York
+87,43144,39.52851,-82.19212,Murray City,OH,Ohio,TRUE,,361,19.8,39073,Hocking,"{""39073"": ""100""}",Hocking,39073,FALSE,FALSE,America/New_York
+88,43145,39.56536,-83.25846,New Holland,OH,Ohio,TRUE,,2138,15.3,39129,Pickaway,"{""39129"": ""63.66"", ""39047"": ""36.34""}",Pickaway|Fayette,39129|39047,FALSE,FALSE,America/New_York
+89,43146,39.77435,-83.14167,Orient,OH,Ohio,TRUE,,12683,61.3,39129,Pickaway,"{""39129"": ""84.47"", ""39049"": ""15.28"", ""39097"": ""0.25""}",Pickaway|Franklin|Madison,39129|39049|39097,FALSE,FALSE,America/New_York
+90,43147,39.89927,-82.74211,Pickerington,OH,Ohio,TRUE,,41530,550.2,39045,Fairfield,"{""39045"": ""99.53"", ""39089"": ""0.41"", ""39049"": ""0.06""}",Fairfield|Licking|Franklin,39045|39089|39049,FALSE,FALSE,America/New_York
+91,43148,39.81669,-82.4995,Pleasantville,OH,Ohio,TRUE,,2359,36.7,39045,Fairfield,"{""39045"": ""95.41"", ""39127"": ""4.59""}",Fairfield|Perry,39045|39127,FALSE,FALSE,America/New_York
+92,43149,39.53834,-82.57212,Rockbridge,OH,Ohio,TRUE,,2293,16.2,39073,Hocking,"{""39073"": ""100""}",Hocking,39073,FALSE,FALSE,America/New_York
+93,43150,39.77327,-82.40933,Rushville,OH,Ohio,TRUE,,2164,31.5,39045,Fairfield,"{""39045"": ""67.97"", ""39127"": ""32.03""}",Fairfield|Perry,39045|39127,FALSE,FALSE,America/New_York
+94,43151,39.73291,-83.47637,Sedalia,OH,Ohio,TRUE,,382,507.3,39097,Madison,"{""39097"": ""100""}",Madison,39097,FALSE,FALSE,America/New_York
+95,43152,39.39444,-82.61485,South Bloomingville,OH,Ohio,TRUE,,782,6.9,39073,Hocking,"{""39073"": ""91.53"", ""39163"": ""8.47""}",Hocking|Vinton,39073|39163,FALSE,FALSE,America/New_York
+96,43153,39.73971,-83.57006,South Solon,OH,Ohio,TRUE,,842,6.2,39097,Madison,"{""39097"": ""83.32"", ""39023"": ""9.89"", ""39047"": ""5.15"", ""39057"": ""1.65""}",Madison|Clark|Fayette|Greene,39097|39023|39047|39057,FALSE,FALSE,America/New_York
+97,43154,39.60079,-82.82877,Stoutsville,OH,Ohio,TRUE,,3858,60.1,39045,Fairfield,"{""39045"": ""72.79"", ""39129"": ""27.21""}",Fairfield|Pickaway,39045|39129,FALSE,FALSE,America/New_York
+98,43155,39.62612,-82.5249,Sugar Grove,OH,Ohio,TRUE,,2672,34.1,39045,Fairfield,"{""39045"": ""65.75"", ""39073"": ""34.25""}",Fairfield|Hocking,39045|39073,FALSE,FALSE,America/New_York
+99,43156,39.55382,-82.77628,Tarlton,OH,Ohio,TRUE,,177,225.9,39129,Pickaway,"{""39129"": ""100""}",Pickaway,39129,FALSE,FALSE,America/New_York
+100,43157,39.84266,-82.54613,Thurston,OH,Ohio,TRUE,,630,705.3,39045,Fairfield,"{""39045"": ""100""}",Fairfield,39045,FALSE,FALSE,America/New_York
+101,43158,39.44918,-82.35762,Union Furnace,OH,Ohio,TRUE,,346,65.5,39073,Hocking,"{""39073"": ""100""}",Hocking,39073,FALSE,FALSE,America/New_York
+102,43160,39.52651,-83.44268,Washington Court House,OH,Ohio,TRUE,,21802,39.1,39047,Fayette,"{""39047"": ""99.26"", ""39141"": ""0.74""}",Fayette|Ross,39047|39141,FALSE,FALSE,America/New_York
+103,43162,39.94338,-83.30453,West Jefferson,OH,Ohio,TRUE,,7225,59.7,39097,Madison,"{""39097"": ""100""}",Madison,39097,FALSE,FALSE,America/New_York
+104,43164,39.58555,-83.11846,Williamsport,OH,Ohio,TRUE,,2371,16.2,39129,Pickaway,"{""39129"": ""96.64"", ""39141"": ""3.36""}",Pickaway|Ross,39129|39141,FALSE,FALSE,America/New_York
+105,43201,39.99131,-83.00039,Columbus,OH,Ohio,TRUE,,34232,4286,39049,Franklin,"{""39049"": ""100""}",Franklin,39049,FALSE,FALSE,America/New_York
+106,43202,40.02144,-83.01416,Columbus,OH,Ohio,TRUE,,20528,3160.7,39049,Franklin,"{""39049"": ""100""}",Franklin,39049,FALSE,FALSE,America/New_York
+107,43203,39.9731,-82.96898,Columbus,OH,Ohio,TRUE,,8014,2092.9,39049,Franklin,"{""39049"": ""100""}",Franklin,39049,FALSE,FALSE,America/New_York
+108,43204,39.96136,-83.0816,Columbus,OH,Ohio,TRUE,,42796,1837.5,39049,Franklin,"{""39049"": ""100""}",Franklin,39049,FALSE,FALSE,America/New_York
+109,43205,39.95766,-82.96219,Columbus,OH,Ohio,TRUE,,12739,2072.5,39049,Franklin,"{""39049"": ""100""}",Franklin,39049,FALSE,FALSE,America/New_York
+110,43206,39.94222,-82.97372,Columbus,OH,Ohio,TRUE,,22680,2918.5,39049,Franklin,"{""39049"": ""100""}",Franklin,39049,FALSE,FALSE,America/New_York
+111,43207,39.89583,-82.9629,Columbus,OH,Ohio,TRUE,,46717,774.5,39049,Franklin,"{""39049"": ""100""}",Franklin,39049,FALSE,FALSE,America/New_York
+112,43209,39.9539,-82.93011,Columbus,OH,Ohio,TRUE,,28541,1766.5,39049,Franklin,"{""39049"": ""100""}",Franklin,39049,FALSE,FALSE,America/New_York
+113,43210,40.00521,-83.02265,Columbus,OH,Ohio,TRUE,,12470,3088.9,39049,Franklin,"{""39049"": ""100""}",Franklin,39049,FALSE,FALSE,America/New_York
+114,43211,40.01175,-82.97234,Columbus,OH,Ohio,TRUE,,23162,1896.3,39049,Franklin,"{""39049"": ""100""}",Franklin,39049,FALSE,FALSE,America/New_York
+115,43212,39.98705,-83.04167,Columbus,OH,Ohio,TRUE,,21959,2362.2,39049,Franklin,"{""39049"": ""100""}",Franklin,39049,FALSE,FALSE,America/New_York
+116,43213,39.96894,-82.8675,Columbus,OH,Ohio,TRUE,,33130,1418.2,39049,Franklin,"{""39049"": ""100""}",Franklin,39049,FALSE,FALSE,America/New_York
+117,43214,40.05214,-83.01973,Columbus,OH,Ohio,TRUE,,26293,1507,39049,Franklin,"{""39049"": ""100""}",Franklin,39049,FALSE,FALSE,America/New_York
+118,43215,39.96635,-83.01282,Columbus,OH,Ohio,TRUE,,15291,1154.9,39049,Franklin,"{""39049"": ""100""}",Franklin,39049,FALSE,FALSE,America/New_York
+119,43217,39.81677,-82.93188,Columbus,OH,Ohio,TRUE,,2207,206.5,39049,Franklin,"{""39049"": ""100""}",Franklin,39049,FALSE,FALSE,America/New_York
+120,43219,40.0065,-82.92123,Columbus,OH,Ohio,TRUE,,31078,713.1,39049,Franklin,"{""39049"": ""100""}",Franklin,39049,FALSE,FALSE,America/New_York
+121,43220,40.04789,-83.07127,Columbus,OH,Ohio,TRUE,,27412,1556.2,39049,Franklin,"{""39049"": ""100""}",Franklin,39049,FALSE,FALSE,America/New_York
+122,43221,40.02259,-83.07756,Columbus,OH,Ohio,TRUE,,33442,1384.2,39049,Franklin,"{""39049"": ""100""}",Franklin,39049,FALSE,FALSE,America/New_York
+123,43222,39.9612,-83.03526,Columbus,OH,Ohio,TRUE,,4417,1215.6,39049,Franklin,"{""39049"": ""100""}",Franklin,39049,FALSE,FALSE,America/New_York
+124,43223,39.92831,-83.03511,Columbus,OH,Ohio,TRUE,,26754,1024.4,39049,Franklin,"{""39049"": ""100""}",Franklin,39049,FALSE,FALSE,America/New_York
+125,43224,40.04284,-82.96625,Columbus,OH,Ohio,TRUE,,44624,2059.3,39049,Franklin,"{""39049"": ""100""}",Franklin,39049,FALSE,FALSE,America/New_York
+126,43227,39.94485,-82.88937,Columbus,OH,Ohio,TRUE,,24518,2380.2,39049,Franklin,"{""39049"": ""100""}",Franklin,39049,FALSE,FALSE,America/New_York
+127,43228,39.96479,-83.126,Columbus,OH,Ohio,TRUE,,56139,1070.7,39049,Franklin,"{""39049"": ""100""}",Franklin,39049,FALSE,FALSE,America/New_York
+128,43229,40.08586,-82.97601,Columbus,OH,Ohio,TRUE,,54632,2393.3,39049,Franklin,"{""39049"": ""100""}",Franklin,39049,FALSE,FALSE,America/New_York
+129,43230,40.03563,-82.86985,Columbus,OH,Ohio,TRUE,,59111,1090.2,39049,Franklin,"{""39049"": ""100""}",Franklin,39049,FALSE,FALSE,America/New_York
+130,43231,40.07927,-82.93894,Columbus,OH,Ohio,TRUE,,22393,2013.3,39049,Franklin,"{""39049"": ""100""}",Franklin,39049,FALSE,FALSE,America/New_York
+131,43232,39.92216,-82.87022,Columbus,OH,Ohio,TRUE,,47235,1486.6,39049,Franklin,"{""39049"": ""100""}",Franklin,39049,FALSE,FALSE,America/New_York
+132,43235,40.10264,-83.0524,Columbus,OH,Ohio,TRUE,,43356,1240.6,39049,Franklin,"{""39049"": ""100""}",Franklin,39049,FALSE,FALSE,America/New_York
+133,43240,40.14545,-82.98172,Columbus,OH,Ohio,TRUE,,4411,679,39041,Delaware,"{""39041"": ""100""}",Delaware,39041,FALSE,FALSE,America/New_York
+134,43302,40.5997,-83.1296,Marion,OH,Ohio,TRUE,,54650,108.1,39101,Marion,"{""39101"": ""99.66"", ""39033"": ""0.3"", ""39159"": ""0.04""}",Marion|Crawford|Union,39101|39033|39159,FALSE,FALSE,America/New_York
+135,43310,40.53492,-83.78126,Belle Center,OH,Ohio,TRUE,,2811,16.9,39091,Logan,"{""39091"": ""73.13"", ""39065"": ""26.87""}",Logan|Hardin,39091|39065,FALSE,FALSE,America/New_York
+136,43311,40.36589,-83.75618,Bellefontaine,OH,Ohio,TRUE,,18919,71.9,39091,Logan,"{""39091"": ""100""}",Logan,39091,FALSE,FALSE,America/New_York
+137,43314,40.64914,-82.95943,Caledonia,OH,Ohio,TRUE,,3032,21,39101,Marion,"{""39101"": ""90.8"", ""39117"": ""6.65"", ""39033"": ""2.55""}",Marion|Morrow|Crawford,39101|39117|39033,FALSE,FALSE,America/New_York
+138,43315,40.48322,-82.87768,Cardington,OH,Ohio,TRUE,,7668,36.5,39117,Morrow,"{""39117"": ""95.5"", ""39101"": ""4.5""}",Morrow|Marion,39117|39101,FALSE,FALSE,America/New_York
+139,43316,40.95416,-83.3808,Carey,OH,Ohio,TRUE,,5856,31.4,39175,Wyandot,"{""39175"": ""91.52"", ""39147"": ""8.09"", ""39063"": ""0.38""}",Wyandot|Seneca|Hancock,39175|39147|39063,FALSE,FALSE,America/New_York
+140,43317,40.47724,-82.68181,Chesterville,OH,Ohio,TRUE,,180,345.1,39117,Morrow,"{""39117"": ""100""}",Morrow,39117,FALSE,FALSE,America/New_York
+141,43318,40.30922,-83.91275,De Graff,OH,Ohio,TRUE,,3738,21.2,39091,Logan,"{""39091"": ""80.72"", ""39021"": ""19.28""}",Logan|Champaign,39091|39021,FALSE,FALSE,America/New_York
+142,43319,40.30649,-83.57216,East Liberty,OH,Ohio,TRUE,,943,17.4,39091,Logan,"{""39091"": ""99.81"", ""39159"": ""0.19""}",Logan|Union,39091|39159,FALSE,FALSE,America/New_York
+143,43320,40.58855,-82.89804,Edison,OH,Ohio,TRUE,,1302,15.2,39117,Morrow,"{""39117"": ""100""}",Morrow,39117,FALSE,FALSE,America/New_York
+144,43321,40.45733,-82.8298,Fulton,OH,Ohio,TRUE,,302,163.5,39117,Morrow,"{""39117"": ""100""}",Morrow,39117,FALSE,FALSE,America/New_York
+145,43322,40.53226,-83.20788,Green Camp,OH,Ohio,TRUE,,336,399.1,39101,Marion,"{""39101"": ""100""}",Marion,39101,FALSE,FALSE,America/New_York
+146,43323,40.73156,-83.25004,Harpster,OH,Ohio,TRUE,,699,7.3,39175,Wyandot,"{""39175"": ""100""}",Wyandot,39175,FALSE,FALSE,America/New_York
+147,43324,40.44635,-83.8106,Huntsville,OH,Ohio,TRUE,,3007,40.8,39091,Logan,"{""39091"": ""100""}",Logan,39091,FALSE,FALSE,America/New_York
+148,43326,40.63931,-83.61507,Kenton,OH,Ohio,TRUE,,13833,29,39065,Hardin,"{""39065"": ""100""}",Hardin,39065,FALSE,FALSE,America/New_York
+149,43330,40.81377,-83.41937,Kirby,OH,Ohio,TRUE,,96,344,39175,Wyandot,"{""39175"": ""100""}",Wyandot,39175,FALSE,FALSE,America/New_York
+150,43331,40.51767,-83.91905,Lakeview,OH,Ohio,TRUE,,4446,55.3,39091,Logan,"{""39091"": ""95.52"", ""39011"": ""3.95"", ""39065"": ""0.54""}",Logan|Auglaize|Hardin,39091|39011|39065,FALSE,FALSE,America/New_York
+151,43332,40.58671,-83.37789,La Rue,OH,Ohio,TRUE,,1356,8.3,39101,Marion,"{""39101"": ""90.23"", ""39065"": ""7.58"", ""39175"": ""2.2""}",Marion|Hardin|Wyandot,39101|39065|39175,FALSE,FALSE,America/New_York
+152,43333,40.43993,-83.93201,Lewistown,OH,Ohio,TRUE,,935,11.9,39091,Logan,"{""39091"": ""100""}",Logan,39091,FALSE,FALSE,America/New_York
+153,43334,40.40049,-82.80419,Marengo,OH,Ohio,TRUE,,6337,37,39117,Morrow,"{""39117"": ""97.74"", ""39041"": ""2.26""}",Morrow|Delaware,39117|39041,FALSE,FALSE,America/New_York
+154,43336,40.29111,-83.58245,Middleburg,OH,Ohio,TRUE,,0,0,39091,Logan,"{""39091"": ""100""}",Logan,39091,FALSE,FALSE,America/New_York
+155,43337,40.682,-83.24152,Morral,OH,Ohio,TRUE,,1060,11.8,39101,Marion,"{""39101"": ""95.4"", ""39175"": ""4.6""}",Marion|Wyandot,39101|39175,FALSE,FALSE,America/New_York
+156,43338,40.56049,-82.75947,Mount Gilead,OH,Ohio,TRUE,,9938,39.9,39117,Morrow,"{""39117"": ""100""}",Morrow,39117,FALSE,FALSE,America/New_York
+157,43340,40.53922,-83.47897,Mount Victory,OH,Ohio,TRUE,,2101,16.9,39065,Hardin,"{""39065"": ""89.54"", ""39159"": ""10.46""}",Hardin|Union,39065|39159,FALSE,FALSE,America/New_York
+158,43341,40.5964,-83.3153,New Bloomington,OH,Ohio,TRUE,,915,16.8,39101,Marion,"{""39101"": ""100""}",Marion,39101,FALSE,FALSE,America/New_York
+159,43342,40.4756,-83.1836,Prospect,OH,Ohio,TRUE,,2862,25.8,39101,Marion,"{""39101"": ""96.13"", ""39041"": ""2.17"", ""39159"": ""1.7""}",Marion|Delaware|Union,39101|39041|39159,FALSE,FALSE,America/New_York
+160,43343,40.30908,-83.97749,Quincy,OH,Ohio,TRUE,,1085,12.3,39091,Logan,"{""39091"": ""89.5"", ""39021"": ""10.5""}",Logan|Champaign,39091|39021,FALSE,FALSE,America/New_York
+161,43344,40.4331,-83.33969,Richwood,OH,Ohio,TRUE,,6052,24.2,39159,Union,"{""39159"": ""97.73"", ""39041"": ""1.3"", ""39101"": ""0.97""}",Union|Delaware|Marion,39159|39041|39101,FALSE,FALSE,America/New_York
+162,43345,40.51123,-83.58376,Ridgeway,OH,Ohio,TRUE,,847,11.2,39065,Hardin,"{""39065"": ""58.15"", ""39091"": ""41.85""}",Hardin|Logan,39065|39091,FALSE,FALSE,America/New_York
+163,43347,40.47782,-83.65955,Rushsylvania,OH,Ohio,TRUE,,1492,19.6,39091,Logan,"{""39091"": ""95.23"", ""39065"": ""4.77""}",Logan|Hardin,39091|39065,FALSE,FALSE,America/New_York
+164,43348,40.46752,-83.8869,Russells Point,OH,Ohio,TRUE,,1759,319.8,39091,Logan,"{""39091"": ""100""}",Logan,39091,FALSE,FALSE,America/New_York
+165,43351,40.82495,-83.30373,Upper Sandusky,OH,Ohio,TRUE,,10056,25,39175,Wyandot,"{""39175"": ""100""}",Wyandot,39175,FALSE,FALSE,America/New_York
+166,43356,40.45816,-83.04718,Waldo,OH,Ohio,TRUE,,1137,20.5,39101,Marion,"{""39101"": ""84.68"", ""39117"": ""7.98"", ""39041"": ""7.34""}",Marion|Morrow|Delaware,39101|39117|39041,FALSE,FALSE,America/New_York
+167,43357,40.25335,-83.74664,West Liberty,OH,Ohio,TRUE,,3825,21.6,39091,Logan,"{""39091"": ""78.96"", ""39021"": ""21.04""}",Logan|Champaign,39091|39021,FALSE,FALSE,America/New_York
+168,43358,40.41959,-83.53257,West Mansfield,OH,Ohio,TRUE,,2771,17,39091,Logan,"{""39091"": ""53.39"", ""39159"": ""46.61""}",Logan|Union,39091|39159,FALSE,FALSE,America/New_York
+169,43359,40.87347,-83.45487,Wharton,OH,Ohio,TRUE,,742,12,39175,Wyandot,"{""39175"": ""100""}",Wyandot,39175,FALSE,FALSE,America/New_York
+170,43360,40.3311,-83.63126,Zanesfield,OH,Ohio,TRUE,,1617,20.9,39091,Logan,"{""39091"": ""100""}",Logan,39091,FALSE,FALSE,America/New_York
+171,43402,41.40996,-83.6546,Bowling Green,OH,Ohio,TRUE,,32169,111.2,39173,Wood,"{""39173"": ""100""}",Wood,39173,FALSE,FALSE,America/New_York
+172,43403,41.377,-83.63711,Bowling Green,OH,Ohio,TRUE,,5374,10105.3,39173,Wood,"{""39173"": ""100""}",Wood,39173,FALSE,FALSE,America/New_York
+173,43406,41.33618,-83.4363,Bradner,OH,Ohio,TRUE,,1830,36.9,39173,Wood,"{""39173"": ""95.33"", ""39143"": ""4.67""}",Wood|Sandusky,39173|39143,FALSE,FALSE,America/New_York
+174,43407,41.27787,-83.2494,Burgoon,OH,Ohio,TRUE,,605,15.9,39143,Sandusky,"{""39143"": ""100""}",Sandusky,39143,FALSE,FALSE,America/New_York
+175,43408,41.57185,-83.36346,Clay Center,OH,Ohio,TRUE,,294,173.3,39123,Ottawa,"{""39123"": ""100""}",Ottawa,39123,FALSE,FALSE,America/New_York
+176,43410,41.307,-82.95954,Clyde,OH,Ohio,TRUE,,9950,73.5,39143,Sandusky,"{""39143"": ""97.73"", ""39147"": ""2.27""}",Sandusky|Seneca,39143|39147,FALSE,FALSE,America/New_York
+177,43412,41.627,-83.32311,Curtice,OH,Ohio,TRUE,,4162,55.7,39095,Lucas,"{""39095"": ""51.67"", ""39123"": ""48.33""}",Lucas|Ottawa,39095|39123,FALSE,FALSE,America/New_York
+178,43413,41.2415,-83.65251,Cygnet,OH,Ohio,TRUE,,1309,15.7,39173,Wood,"{""39173"": ""100""}",Wood,39173,FALSE,FALSE,America/New_York
+179,43416,41.48353,-83.26937,Elmore,OH,Ohio,TRUE,,3150,44.3,39123,Ottawa,"{""39123"": ""96.06"", ""39143"": ""3.94""}",Ottawa|Sandusky,39123|39143,FALSE,FALSE,America/New_York
+180,43420,41.35774,-83.11204,Fremont,OH,Ohio,TRUE,,29711,85.2,39143,Sandusky,"{""39143"": ""100""}",Sandusky,39143,FALSE,FALSE,America/New_York
+181,43430,41.52466,-83.3701,Genoa,OH,Ohio,TRUE,,4246,64.6,39123,Ottawa,"{""39123"": ""95.55"", ""39173"": ""2.95"", ""39143"": ""1.51""}",Ottawa|Wood|Sandusky,39123|39173|39143,FALSE,FALSE,America/New_York
+182,43431,41.3899,-83.33777,Gibsonburg,OH,Ohio,TRUE,,4724,37.6,39143,Sandusky,"{""39143"": ""100""}",Sandusky,39143,FALSE,FALSE,America/New_York
+183,43432,41.56308,-83.25214,Graytown,OH,Ohio,TRUE,,1309,22.2,39123,Ottawa,"{""39123"": ""100""}",Ottawa,39123,FALSE,FALSE,America/New_York
+184,43433,41.50474,-82.88031,Gypsum,OH,Ohio,TRUE,,72,55.5,39123,Ottawa,"{""39123"": ""100""}",Ottawa,39123,FALSE,FALSE,America/New_York
+185,43434,41.69299,-83.44471,Harbor View,OH,Ohio,TRUE,,59,1083.6,39095,Lucas,"{""39095"": ""100""}",Lucas,39095,FALSE,FALSE,America/New_York
+186,43435,41.32533,-83.31279,Helena,OH,Ohio,TRUE,,1358,14.6,39143,Sandusky,"{""39143"": ""100""}",Sandusky,39143,FALSE,FALSE,America/New_York
+187,43437,41.2537,-83.60238,Jerry City,OH,Ohio,TRUE,,668,256.3,39173,Wood,"{""39173"": ""100""}",Wood,39173,FALSE,FALSE,America/New_York
+188,43438,41.60341,-82.70291,Kelleys Island,OH,Ohio,TRUE,,236,21,39043,Erie,"{""39043"": ""100""}",Erie,39043,FALSE,FALSE,America/New_York
+189,43439,41.51768,-83.04128,Lacarne,OH,Ohio,TRUE,,55,383.9,39123,Ottawa,"{""39123"": ""100""}",Ottawa,39123,FALSE,FALSE,America/New_York
+190,43440,41.52626,-82.78079,Lakeside Marblehead,OH,Ohio,TRUE,,4556,109.9,39123,Ottawa,"{""39123"": ""100""}",Ottawa,39123,FALSE,FALSE,America/New_York
+191,43442,41.42695,-83.21537,Lindsey,OH,Ohio,TRUE,,1083,24.1,39143,Sandusky,"{""39143"": ""100""}",Sandusky,39143,FALSE,FALSE,America/New_York
+192,43443,41.46172,-83.4674,Luckey,OH,Ohio,TRUE,,1806,59.6,39173,Wood,"{""39173"": ""100""}",Wood,39173,FALSE,FALSE,America/New_York
+193,43445,41.58485,-83.29854,Martin,OH,Ohio,TRUE,,1270,26,39123,Ottawa,"{""39123"": ""85.96"", ""39095"": ""14.04""}",Ottawa|Lucas,39123|39095,FALSE,FALSE,America/New_York
+194,43446,41.68475,-82.80853,Middle Bass,OH,Ohio,TRUE,,73,22.4,39123,Ottawa,"{""39123"": ""100""}",Ottawa,39123,FALSE,FALSE,America/New_York
+195,43447,41.56604,-83.43547,Millbury,OH,Ohio,TRUE,,3498,80,39173,Wood,"{""39173"": ""82.26"", ""39123"": ""17.74""}",Wood|Ottawa,39173|39123,FALSE,FALSE,America/New_York
+196,43449,41.53624,-83.14349,Oak Harbor,OH,Ohio,TRUE,,8246,37.6,39123,Ottawa,"{""39123"": ""98.71"", ""39143"": ""1.29""}",Ottawa|Sandusky,39123|39143,FALSE,FALSE,America/New_York
+197,43450,41.4007,-83.49214,Pemberville,OH,Ohio,TRUE,,3673,33.3,39173,Wood,"{""39173"": ""100""}",Wood,39173,FALSE,FALSE,America/New_York
+198,43451,41.31278,-83.6151,Portage,OH,Ohio,TRUE,,1246,19.6,39173,Wood,"{""39173"": ""100""}",Wood,39173,FALSE,FALSE,America/New_York
+199,43452,41.5151,-82.96687,Port Clinton,OH,Ohio,TRUE,,13757,113.2,39123,Ottawa,"{""39123"": ""100""}",Ottawa,39123,FALSE,FALSE,America/New_York
+200,43456,41.66821,-82.8232,Put In Bay,OH,Ohio,TRUE,,399,42.8,39123,Ottawa,"{""39123"": ""100""}",Ottawa,39123,FALSE,FALSE,America/New_York
+201,43457,41.26732,-83.42749,Risingsun,OH,Ohio,TRUE,,1490,31,39173,Wood,"{""39173"": ""73.35"", ""39143"": ""24.38"", ""39147"": ""2.27""}",Wood|Sandusky|Seneca,39173|39143|39147,FALSE,FALSE,America/New_York
+202,43458,41.53105,-83.21258,Rocky Ridge,OH,Ohio,TRUE,,385,149.6,39123,Ottawa,"{""39123"": ""100""}",Ottawa,39123,FALSE,FALSE,America/New_York
+203,43460,41.60286,-83.563,Rossford,OH,Ohio,TRUE,,6471,901.3,39173,Wood,"{""39173"": ""100""}",Wood,39173,FALSE,FALSE,America/New_York
+204,43462,41.28356,-83.71868,Rudolph,OH,Ohio,TRUE,,1112,16.7,39173,Wood,"{""39173"": ""100""}",Wood,39173,FALSE,FALSE,America/New_York
+205,43463,41.50866,-83.50804,Stony Ridge,OH,Ohio,TRUE,,68,3502.4,39173,Wood,"{""39173"": ""100""}",Wood,39173,FALSE,FALSE,America/New_York
+206,43464,41.40348,-82.92993,Vickery,OH,Ohio,TRUE,,1295,15,39143,Sandusky,"{""39143"": ""74.04"", ""39043"": ""25.96""}",Sandusky|Erie,39143|39043,FALSE,FALSE,America/New_York
+207,43465,41.57004,-83.50379,Walbridge,OH,Ohio,TRUE,,5463,191.7,39173,Wood,"{""39173"": ""100""}",Wood,39173,FALSE,FALSE,America/New_York
+208,43466,41.29535,-83.51482,Wayne,OH,Ohio,TRUE,,2110,29.4,39173,Wood,"{""39173"": ""100""}",Wood,39173,FALSE,FALSE,America/New_York
+209,43467,41.24321,-83.48382,West Millgrove,OH,Ohio,TRUE,,111,123.6,39173,Wood,"{""39173"": ""100""}",Wood,39173,FALSE,FALSE,America/New_York
+210,43468,41.59788,-83.34147,Williston,OH,Ohio,TRUE,,402,216,39123,Ottawa,"{""39123"": ""100""}",Ottawa,39123,FALSE,FALSE,America/New_York
+211,43469,41.45946,-83.36322,Woodville,OH,Ohio,TRUE,,3220,53.8,39143,Sandusky,"{""39143"": ""94.76"", ""39123"": ""5.24""}",Sandusky|Ottawa,39143|39123,FALSE,FALSE,America/New_York
+212,43501,41.6725,-84.45726,Alvordton,OH,Ohio,TRUE,,980,15.7,39171,Williams,"{""39171"": ""100""}",Williams,39171,FALSE,FALSE,America/New_York
+213,43502,41.53029,-84.29884,Archbold,OH,Ohio,TRUE,,6532,36.7,39051,Fulton,"{""39051"": ""90.93"", ""39069"": ""8.8"", ""39171"": ""0.27""}",Fulton|Henry|Williams,39051|39069|39171,FALSE,FALSE,America/New_York
+214,43504,41.69585,-83.83676,Berkey,OH,Ohio,TRUE,,1181,29.8,39095,Lucas,"{""39095"": ""100""}",Lucas,39095,FALSE,FALSE,America/New_York
+215,43505,41.52403,-84.73118,Blakeslee,OH,Ohio,TRUE,,88,347.8,39171,Williams,"{""39171"": ""100""}",Williams,39171,FALSE,FALSE,America/New_York
+216,43506,41.46629,-84.55621,Bryan,OH,Ohio,TRUE,,14088,53.5,39171,Williams,"{""39171"": ""96.39"", ""39039"": ""3.61""}",Williams|Defiance,39171|39039,FALSE,FALSE,America/New_York
+217,43511,41.26339,-83.82366,Custar,OH,Ohio,TRUE,,1239,10.5,39173,Wood,"{""39173"": ""92.87"", ""39069"": ""7.13""}",Wood|Henry,39173|39069,FALSE,FALSE,America/New_York
+218,43512,41.30271,-84.35806,Defiance,OH,Ohio,TRUE,,28109,49.6,39039,Defiance,"{""39039"": ""96.31"", ""39125"": ""3.55"", ""39069"": ""0.13""}",Defiance|Paulding|Henry,39039|39125|39069,FALSE,FALSE,America/New_York
+219,43515,41.58534,-84.00775,Delta,OH,Ohio,TRUE,,8254,39,39051,Fulton,"{""39051"": ""100""}",Fulton,39051,FALSE,FALSE,America/New_York
+220,43516,41.2179,-83.91492,Deshler,OH,Ohio,TRUE,,2986,16.4,39069,Henry,"{""39069"": ""88.99"", ""39173"": ""10.3"", ""39063"": ""0.71""}",Henry|Wood|Hancock,39069|39173|39063,FALSE,FALSE,America/New_York
+221,43517,41.44021,-84.72687,Edgerton,OH,Ohio,TRUE,,4012,23.9,39171,Williams,"{""39171"": ""80.56"", ""39039"": ""19.44""}",Williams|Defiance,39171|39039,FALSE,FALSE,America/New_York
+222,43518,41.58918,-84.75397,Edon,OH,Ohio,TRUE,,2657,15,39171,Williams,"{""39171"": ""100""}",Williams,39171,FALSE,FALSE,America/New_York
+223,43519,41.42092,-84.40855,Evansport,OH,Ohio,TRUE,,269,80.8,39039,Defiance,"{""39039"": ""100""}",Defiance,39039,FALSE,FALSE,America/New_York
+224,43521,41.66297,-84.29867,Fayette,OH,Ohio,TRUE,,2832,16.4,39051,Fulton,"{""39051"": ""98.33"", ""39171"": ""1.67""}",Fulton|Williams,39051|39171,FALSE,FALSE,America/New_York
+225,43522,41.41914,-83.84484,Grand Rapids,OH,Ohio,TRUE,,3466,42.3,39173,Wood,"{""39173"": ""53.5"", ""39095"": ""45.45"", ""39069"": ""1.05""}",Wood|Lucas|Henry,39173|39095|39069,FALSE,FALSE,America/New_York
+226,43523,41.33707,-83.98922,Grelton,OH,Ohio,TRUE,,19,5.3,39069,Henry,"{""39069"": ""100""}",Henry,39069,FALSE,FALSE,America/New_York
+227,43524,41.22848,-84.03956,Hamler,OH,Ohio,TRUE,,1179,15.1,39069,Henry,"{""39069"": ""100""}",Henry,39069,FALSE,FALSE,America/New_York
+228,43525,41.46657,-83.70444,Haskins,OH,Ohio,TRUE,,1186,402.7,39173,Wood,"{""39173"": ""100""}",Wood,39173,FALSE,FALSE,America/New_York
+229,43526,41.31447,-84.72798,Hicksville,OH,Ohio,TRUE,,5875,29.2,39039,Defiance,"{""39039"": ""98.52"", ""39125"": ""1.48""}",Defiance|Paulding,39039|39125,FALSE,FALSE,America/New_York
+230,43527,41.25049,-84.16007,Holgate,OH,Ohio,TRUE,,1947,14.3,39069,Henry,"{""39069"": ""93.88"", ""39039"": ""6.12""}",Henry|Defiance,39069|39039,FALSE,FALSE,America/New_York
+231,43528,41.62859,-83.74896,Holland,OH,Ohio,TRUE,,16022,332.7,39095,Lucas,"{""39095"": ""100""}",Lucas,39095,FALSE,FALSE,America/New_York
+232,43529,41.18761,-83.78162,Hoytville,OH,Ohio,TRUE,,306,164.5,39173,Wood,"{""39173"": ""100""}",Wood,39173,FALSE,FALSE,America/New_York
+233,43531,41.63509,-84.49572,Kunkle,OH,Ohio,TRUE,,326,730,39171,Williams,"{""39171"": ""100""}",Williams,39171,FALSE,FALSE,America/New_York
+234,43532,41.45519,-83.97431,Liberty Center,OH,Ohio,TRUE,,4286,35.4,39069,Henry,"{""39069"": ""95.19"", ""39051"": ""3.21"", ""39095"": ""1.59""}",Henry|Fulton|Lucas,39069|39051|39095,FALSE,FALSE,America/New_York
+235,43533,41.69143,-84.08253,Lyons,OH,Ohio,TRUE,,1525,23.5,39051,Fulton,"{""39051"": ""100""}",Fulton,39051,FALSE,FALSE,America/New_York
+236,43534,41.35557,-83.93006,McClure,OH,Ohio,TRUE,,1681,17.6,39069,Henry,"{""39069"": ""100""}",Henry,39069,FALSE,FALSE,America/New_York
+237,43535,41.30731,-84.02206,Malinta,OH,Ohio,TRUE,,673,10.8,39069,Henry,"{""39069"": ""100""}",Henry,39069,FALSE,FALSE,America/New_York
+238,43536,41.30977,-84.63288,Mark Center,OH,Ohio,TRUE,,73,1.8,39039,Defiance,"{""39039"": ""100""}",Defiance,39039,FALSE,FALSE,America/New_York
+239,43537,41.57468,-83.68551,Maumee,OH,Ohio,TRUE,,27145,572.6,39095,Lucas,"{""39095"": ""100""}",Lucas,39095,FALSE,FALSE,America/New_York
+240,43540,41.69563,-83.94129,Metamora,OH,Ohio,TRUE,,1384,28.2,39051,Fulton,"{""39051"": ""100""}",Fulton,39051,FALSE,FALSE,America/New_York
+241,43541,41.30076,-83.82951,Milton Center,OH,Ohio,TRUE,,157,155.7,39173,Wood,"{""39173"": ""100""}",Wood,39173,FALSE,FALSE,America/New_York
+242,43542,41.56675,-83.76508,Monclova,OH,Ohio,TRUE,,3779,100.3,39095,Lucas,"{""39095"": ""100""}",Lucas,39095,FALSE,FALSE,America/New_York
+243,43543,41.60565,-84.63371,Montpelier,OH,Ohio,TRUE,,7697,34,39171,Williams,"{""39171"": ""100""}",Williams,39171,FALSE,FALSE,America/New_York
+244,43545,41.3912,-84.1275,Napoleon,OH,Ohio,TRUE,,13972,40.5,39069,Henry,"{""39069"": ""99.84"", ""39039"": ""0.16""}",Henry|Defiance,39069|39039,FALSE,FALSE,America/New_York
+245,43547,41.49214,-83.87631,Neapolis,OH,Ohio,TRUE,,307,273.6,39095,Lucas,"{""39095"": ""100""}",Lucas,39095,FALSE,FALSE,America/New_York
+246,43548,41.18534,-84.17511,New Bavaria,OH,Ohio,TRUE,,693,11.2,39069,Henry,"{""39069"": ""91.71"", ""39039"": ""6.71"", ""39137"": ""1.57""}",Henry|Defiance|Putnam,39069|39039|39137,FALSE,FALSE,America/New_York
+247,43549,41.37449,-84.51732,Ney,OH,Ohio,TRUE,,1410,18,39039,Defiance,"{""39039"": ""100""}",Defiance,39039,FALSE,FALSE,America/New_York
+248,43551,41.52153,-83.57126,Perrysburg,OH,Ohio,TRUE,,39094,190.8,39173,Wood,"{""39173"": ""100""}",Wood,39173,FALSE,FALSE,America/New_York
+249,43553,41.53122,-84.2288,Pettisville,OH,Ohio,TRUE,,243,573.8,39051,Fulton,"{""39051"": ""100""}",Fulton,39051,FALSE,FALSE,America/New_York
+250,43554,41.66029,-84.55805,Pioneer,OH,Ohio,TRUE,,2326,26.1,39171,Williams,"{""39171"": ""100""}",Williams,39171,FALSE,FALSE,America/New_York
+251,43555,41.43418,-84.25433,Ridgeville Corners,OH,Ohio,TRUE,,147,138.3,39069,Henry,"{""39069"": ""100""}",Henry,39069,FALSE,FALSE,America/New_York
+252,43556,41.30608,-84.56989,Sherwood,OH,Ohio,TRUE,,1736,21,39039,Defiance,"{""39039"": ""100""}",Defiance,39039,FALSE,FALSE,America/New_York
+253,43557,41.48405,-84.39612,Stryker,OH,Ohio,TRUE,,3216,28.1,39171,Williams,"{""39171"": ""95.96"", ""39069"": ""2.42"", ""39051"": ""1.62""}",Williams|Henry|Fulton,39171|39069|39051,FALSE,FALSE,America/New_York
+254,43558,41.59281,-83.87835,Swanton,OH,Ohio,TRUE,,13016,60.5,39051,Fulton,"{""39051"": ""64.82"", ""39095"": ""35.18""}",Fulton|Lucas,39051|39095,FALSE,FALSE,America/New_York
+255,43560,41.70106,-83.73808,Sylvania,OH,Ohio,TRUE,,32238,595.8,39095,Lucas,"{""39095"": ""100""}",Lucas,39095,FALSE,FALSE,America/New_York
+256,43565,41.41999,-83.74015,Tontogany,OH,Ohio,TRUE,,457,972.4,39173,Wood,"{""39173"": ""100""}",Wood,39173,FALSE,FALSE,America/New_York
+257,43566,41.49591,-83.75864,Waterville,OH,Ohio,TRUE,,7776,152.3,39095,Lucas,"{""39095"": ""100""}",Lucas,39095,FALSE,FALSE,America/New_York
+258,43567,41.57568,-84.15406,Wauseon,OH,Ohio,TRUE,,13173,45,39051,Fulton,"{""39051"": ""99.8"", ""39069"": ""0.2""}",Fulton|Henry,39051|39069,FALSE,FALSE,America/New_York
+259,43569,41.35144,-83.78829,Weston,OH,Ohio,TRUE,,2849,31.7,39173,Wood,"{""39173"": ""100""}",Wood,39173,FALSE,FALSE,America/New_York
+260,43570,41.58705,-84.44005,West Unity,OH,Ohio,TRUE,,3194,26.4,39171,Williams,"{""39171"": ""96.72"", ""39051"": ""3.28""}",Williams|Fulton,39171|39051,FALSE,FALSE,America/New_York
+261,43571,41.51583,-83.81977,Whitehouse,OH,Ohio,TRUE,,7312,132,39095,Lucas,"{""39095"": ""100""}",Lucas,39095,FALSE,FALSE,America/New_York
+262,43604,41.65203,-83.53993,Toledo,OH,Ohio,TRUE,,9067,1240.9,39095,Lucas,"{""39095"": ""100""}",Lucas,39095,FALSE,FALSE,America/New_York
+263,43605,41.64825,-83.50669,Toledo,OH,Ohio,TRUE,,25610,1401,39095,Lucas,"{""39095"": ""99.36"", ""39173"": ""0.64""}",Lucas|Wood,39095|39173,FALSE,FALSE,America/New_York
+264,43606,41.67177,-83.61084,Toledo,OH,Ohio,TRUE,,24979,1478.9,39095,Lucas,"{""39095"": ""100""}",Lucas,39095,FALSE,FALSE,America/New_York
+265,43607,41.64754,-83.60624,Toledo,OH,Ohio,TRUE,,20854,1118.1,39095,Lucas,"{""39095"": ""100""}",Lucas,39095,FALSE,FALSE,America/New_York
+266,43608,41.67987,-83.52854,Toledo,OH,Ohio,TRUE,,14608,1557.7,39095,Lucas,"{""39095"": ""100""}",Lucas,39095,FALSE,FALSE,America/New_York
+267,43609,41.62709,-83.58047,Toledo,OH,Ohio,TRUE,,21601,1631.2,39095,Lucas,"{""39095"": ""100""}",Lucas,39095,FALSE,FALSE,America/New_York
+268,43610,41.67802,-83.56138,Toledo,OH,Ohio,TRUE,,4465,1365.9,39095,Lucas,"{""39095"": ""100""}",Lucas,39095,FALSE,FALSE,America/New_York
+269,43611,41.70313,-83.49138,Toledo,OH,Ohio,TRUE,,18241,1015.5,39095,Lucas,"{""39095"": ""100""}",Lucas,39095,FALSE,FALSE,America/New_York
+270,43612,41.70948,-83.54864,Toledo,OH,Ohio,TRUE,,29302,978.1,39095,Lucas,"{""39095"": ""100""}",Lucas,39095,FALSE,FALSE,America/New_York
+271,43613,41.70629,-83.60372,Toledo,OH,Ohio,TRUE,,33170,2087.6,39095,Lucas,"{""39095"": ""100""}",Lucas,39095,FALSE,FALSE,America/New_York
+272,43614,41.60318,-83.62887,Toledo,OH,Ohio,TRUE,,31100,1325.9,39095,Lucas,"{""39095"": ""100""}",Lucas,39095,FALSE,FALSE,America/New_York
+273,43615,41.65078,-83.67317,Toledo,OH,Ohio,TRUE,,40658,968.6,39095,Lucas,"{""39095"": ""100""}",Lucas,39095,FALSE,FALSE,America/New_York
+274,43616,41.65847,-83.40906,Oregon,OH,Ohio,TRUE,,20542,203.2,39095,Lucas,"{""39095"": ""100""}",Lucas,39095,FALSE,FALSE,America/New_York
+275,43617,41.66465,-83.72823,Toledo,OH,Ohio,TRUE,,7192,507.3,39095,Lucas,"{""39095"": ""100""}",Lucas,39095,FALSE,FALSE,America/New_York
+276,43619,41.60449,-83.47218,Northwood,OH,Ohio,TRUE,,7386,252,39173,Wood,"{""39173"": ""100""}",Wood,39173,FALSE,FALSE,America/New_York
+277,43620,41.66519,-83.55439,Toledo,OH,Ohio,TRUE,,5559,1964.9,39095,Lucas,"{""39095"": ""100""}",Lucas,39095,FALSE,FALSE,America/New_York
+278,43623,41.7041,-83.65147,Toledo,OH,Ohio,TRUE,,19819,1136,39095,Lucas,"{""39095"": ""100""}",Lucas,39095,FALSE,FALSE,America/New_York
+279,43701,39.96008,-81.99398,Zanesville,OH,Ohio,TRUE,,55253,118.2,39119,Muskingum,"{""39119"": ""100""}",Muskingum,39119,FALSE,FALSE,America/New_York
+280,43711,39.84213,-81.57748,Ava,OH,Ohio,TRUE,,110,199.1,39121,Noble,"{""39121"": ""100""}",Noble,39121,FALSE,FALSE,America/New_York
+281,43713,39.98808,-81.17407,Barnesville,OH,Ohio,TRUE,,6764,28.4,39013,Belmont,"{""39013"": ""100""}",Belmont,39013,FALSE,FALSE,America/New_York
+282,43716,39.83676,-81.00996,Beallsville,OH,Ohio,TRUE,,1952,11.1,39111,Monroe,"{""39111"": ""81.04"", ""39013"": ""18.96""}",Monroe|Belmont,39111|39013,FALSE,FALSE,America/New_York
+283,43717,39.78971,-81.55569,Belle Valley,OH,Ohio,TRUE,,155,219.5,39121,Noble,"{""39121"": ""100""}",Noble,39121,FALSE,FALSE,America/New_York
+284,43718,40.00942,-81.0009,Belmont,OH,Ohio,TRUE,,2944,21.3,39013,Belmont,"{""39013"": ""100""}",Belmont,39013,FALSE,FALSE,America/New_York
+285,43719,39.99883,-81.07941,Bethesda,OH,Ohio,TRUE,,2764,28.6,39013,Belmont,"{""39013"": ""100""}",Belmont,39013,FALSE,FALSE,America/New_York
+286,43720,39.79451,-81.87296,Blue Rock,OH,Ohio,TRUE,,1328,11.3,39119,Muskingum,"{""39119"": ""100""}",Muskingum,39119,FALSE,FALSE,America/New_York
+287,43721,39.94887,-82.2599,Brownsville,OH,Ohio,TRUE,,116,117.7,39089,Licking,"{""39089"": ""100""}",Licking,39089,FALSE,FALSE,America/New_York
+288,43722,39.9192,-81.51756,Buffalo,OH,Ohio,TRUE,,341,176.2,39059,Guernsey,"{""39059"": ""100""}",Guernsey,39059,FALSE,FALSE,America/New_York
+289,43723,39.96057,-81.54009,Byesville,OH,Ohio,TRUE,,5202,113.4,39059,Guernsey,"{""39059"": ""100""}",Guernsey,39059,FALSE,FALSE,America/New_York
+290,43724,39.73278,-81.51487,Caldwell,OH,Ohio,TRUE,,9237,23,39121,Noble,"{""39121"": ""99.53"", ""39115"": ""0.47""}",Noble|Morgan,39121|39115,FALSE,FALSE,America/New_York
+291,43725,40.04495,-81.58946,Cambridge,OH,Ohio,TRUE,,20249,58.6,39059,Guernsey,"{""39059"": ""100""}",Guernsey,39059,FALSE,FALSE,America/New_York
+292,43727,39.86818,-81.79394,Chandlersville,OH,Ohio,TRUE,,1258,6.5,39119,Muskingum,"{""39119"": ""100""}",Muskingum,39119,FALSE,FALSE,America/New_York
+293,43728,39.49212,-81.89469,Chesterhill,OH,Ohio,TRUE,,1506,15.6,39115,Morgan,"{""39115"": ""98.96"", ""39009"": ""1.04""}",Morgan|Athens,39115|39009,FALSE,FALSE,America/New_York
+294,43730,39.62433,-82.09725,Corning,OH,Ohio,TRUE,,2063,17.2,39127,Perry,"{""39127"": ""100""}",Perry,39127,FALSE,FALSE,America/New_York
+295,43731,39.72716,-82.06483,Crooksville,OH,Ohio,TRUE,,5437,41.3,39127,Perry,"{""39127"": ""84.25"", ""39115"": ""15.75""}",Perry|Morgan,39127|39115,FALSE,FALSE,America/New_York
+296,43732,39.8457,-81.65279,Cumberland,OH,Ohio,TRUE,,1226,6.4,39059,Guernsey,"{""39059"": ""76.81"", ""39121"": ""19.55"", ""39119"": ""3.64""}",Guernsey|Noble|Muskingum,39059|39121|39119,FALSE,FALSE,America/New_York
+297,43733,39.92734,-81.53821,Derwent,OH,Ohio,TRUE,,17,7.1,39059,Guernsey,"{""39059"": ""100""}",Guernsey,39059,FALSE,FALSE,America/New_York
+298,43734,39.88311,-81.9011,Duncan Falls,OH,Ohio,TRUE,,1694,171.2,39119,Muskingum,"{""39119"": ""100""}",Muskingum,39119,FALSE,FALSE,America/New_York
+299,43735,39.86326,-82.11874,East Fultonham,OH,Ohio,TRUE,,440,113.5,39119,Muskingum,"{""39119"": ""100""}",Muskingum,39119,FALSE,FALSE,America/New_York
+300,43736,40.05897,-81.23642,Fairview,OH,Ohio,TRUE,,54,201.6,39059,Guernsey,"{""39059"": ""100""}",Guernsey,39059,FALSE,FALSE,America/New_York
+301,43738,39.85532,-82.14106,Fultonham,OH,Ohio,TRUE,,200,665.3,39119,Muskingum,"{""39119"": ""100""}",Muskingum,39119,FALSE,FALSE,America/New_York
+302,43739,39.90779,-82.28878,Glenford,OH,Ohio,TRUE,,2345,28.4,39127,Perry,"{""39127"": ""64.05"", ""39089"": ""35.95""}",Perry|Licking,39127|39089,FALSE,FALSE,America/New_York
+303,43740,39.95221,-82.21278,Gratiot,OH,Ohio,TRUE,,229,235.6,39089,Licking,"{""39089"": ""65.63"", ""39119"": ""34.38""}",Licking|Muskingum,39089|39119,FALSE,FALSE,America/New_York
+304,43746,39.97171,-82.17436,Hopewell,OH,Ohio,TRUE,,1494,27.4,39119,Muskingum,"{""39119"": ""91.09"", ""39089"": ""8.91""}",Muskingum|Licking,39119|39089,FALSE,FALSE,America/New_York
+305,43747,39.86251,-81.12164,Jerusalem,OH,Ohio,TRUE,,840,10.3,39111,Monroe,"{""39111"": ""64.54"", ""39013"": ""35.46""}",Monroe|Belmont,39111|39013,FALSE,FALSE,America/New_York
+306,43748,39.70025,-82.30934,Junction City,OH,Ohio,TRUE,,2749,29.7,39127,Perry,"{""39127"": ""100""}",Perry,39127,FALSE,FALSE,America/New_York
+307,43749,40.16529,-81.56944,Kimbolton,OH,Ohio,TRUE,,2142,8.4,39059,Guernsey,"{""39059"": ""93.12"", ""39031"": ""5.47"", ""39157"": ""1.41""}",Guernsey|Coshocton|Tuscarawas,39059|39031|39157,FALSE,FALSE,America/New_York
+308,43750,39.9936,-81.50948,Kipling,OH,Ohio,TRUE,,90,32.1,39059,Guernsey,"{""39059"": ""100""}",Guernsey,39059,FALSE,FALSE,America/New_York
+309,43754,39.75808,-81.23765,Lewisville,OH,Ohio,TRUE,,1358,7,39111,Monroe,"{""39111"": ""100""}",Monroe,39111,FALSE,FALSE,America/New_York
+310,43755,40.05431,-81.43484,Lore City,OH,Ohio,TRUE,,1762,19.2,39059,Guernsey,"{""39059"": ""100""}",Guernsey,39059,FALSE,FALSE,America/New_York
+311,43756,39.69077,-81.79502,Mcconnelsville,OH,Ohio,TRUE,,4669,12.7,39115,Morgan,"{""39115"": ""100""}",Morgan,39115,FALSE,FALSE,America/New_York
+312,43758,39.62287,-81.94431,Malta,OH,Ohio,TRUE,,3098,13.7,39115,Morgan,"{""39115"": ""100""}",Morgan,39115,FALSE,FALSE,America/New_York
+313,43759,40.06479,-81.07431,Morristown,OH,Ohio,TRUE,,47,129.9,39013,Belmont,"{""39013"": ""100""}",Belmont,39013,FALSE,FALSE,America/New_York
+314,43760,39.88935,-82.19922,Mount Perry,OH,Ohio,TRUE,,1611,17.9,39127,Perry,"{""39127"": ""62.86"", ""39119"": ""31.57"", ""39089"": ""5.57""}",Perry|Muskingum|Licking,39127|39119|39089,FALSE,FALSE,America/New_York
+315,43761,39.66793,-82.14685,Moxahala,OH,Ohio,TRUE,,50,31.1,39127,Perry,"{""39127"": ""100""}",Perry,39127,FALSE,FALSE,America/New_York
+316,43762,40.02767,-81.74066,New Concord,OH,Ohio,TRUE,,5769,30.7,39119,Muskingum,"{""39119"": ""83.17"", ""39059"": ""16.83""}",Muskingum|Guernsey,39119|39059,FALSE,FALSE,America/New_York
+317,43764,39.71067,-82.19147,New Lexington,OH,Ohio,TRUE,,8557,54.6,39127,Perry,"{""39127"": ""100""}",Perry,39127,FALSE,FALSE,America/New_York
+318,43766,39.59848,-82.25152,New Straitsville,OH,Ohio,TRUE,,1578,16.3,39127,Perry,"{""39127"": ""88.23"", ""39073"": ""11.77""}",Perry|Hocking,39127|39073,FALSE,FALSE,America/New_York
+319,43767,40.01235,-81.8045,Norwich,OH,Ohio,TRUE,,856,10.3,39119,Muskingum,"{""39119"": ""100""}",Muskingum,39119,FALSE,FALSE,America/New_York
+320,43768,40.03777,-81.44485,Old Washington,OH,Ohio,TRUE,,485,294.7,39059,Guernsey,"{""39059"": ""100""}",Guernsey,39059,FALSE,FALSE,America/New_York
+321,43771,39.83602,-81.9438,Philo,OH,Ohio,TRUE,,2043,31.6,39119,Muskingum,"{""39119"": ""100""}",Muskingum,39119,FALSE,FALSE,America/New_York
+322,43772,39.8817,-81.52433,Pleasant City,OH,Ohio,TRUE,,1867,21.1,39059,Guernsey,"{""39059"": ""66.63"", ""39121"": ""33.37""}",Guernsey|Noble,39059|39121,FALSE,FALSE,America/New_York
+323,43773,39.98833,-81.29618,Quaker City,OH,Ohio,TRUE,,3327,12.2,39059,Guernsey,"{""39059"": ""63.36"", ""39121"": ""33.41"", ""39111"": ""3.23""}",Guernsey|Noble|Monroe,39059|39121|39111,FALSE,FALSE,America/New_York
+324,43777,39.81816,-82.08729,Roseville,OH,Ohio,TRUE,,4803,35,39119,Muskingum,"{""39119"": ""57.59"", ""39127"": ""42.41""}",Muskingum|Perry,39119|39127,FALSE,FALSE,America/New_York
+325,43778,40.00716,-81.37625,Salesville,OH,Ohio,TRUE,,1269,10.8,39059,Guernsey,"{""39059"": ""95.41"", ""39121"": ""4.59""}",Guernsey|Noble,39059|39121,FALSE,FALSE,America/New_York
+326,43779,39.8162,-81.42435,Sarahsville,OH,Ohio,TRUE,,840,9.2,39121,Noble,"{""39121"": ""100""}",Noble,39121,FALSE,FALSE,America/New_York
+327,43780,39.91754,-81.43856,Senecaville,OH,Ohio,TRUE,,1723,18.7,39059,Guernsey,"{""39059"": ""81.29"", ""39121"": ""18.71""}",Guernsey|Noble,39059|39121,FALSE,FALSE,America/New_York
+328,43782,39.61842,-82.21731,Shawnee,OH,Ohio,TRUE,,676,21.2,39127,Perry,"{""39127"": ""100""}",Perry,39127,FALSE,FALSE,America/New_York
+329,43783,39.80421,-82.28408,Somerset,OH,Ohio,TRUE,,5352,34.3,39127,Perry,"{""39127"": ""100""}",Perry,39127,FALSE,FALSE,America/New_York
+330,43786,39.71045,-81.27699,Stafford,OH,Ohio,TRUE,,25,45.3,39111,Monroe,"{""39111"": ""100""}",Monroe,39111,FALSE,FALSE,America/New_York
+331,43787,39.53138,-81.80618,Stockport,OH,Ohio,TRUE,,3274,16.8,39115,Morgan,"{""39115"": ""87.02"", ""39167"": ""12.98""}",Morgan|Washington,39115|39167,FALSE,FALSE,America/New_York
+332,43788,39.80227,-81.33324,Summerfield,OH,Ohio,TRUE,,663,6.6,39121,Noble,"{""39121"": ""75.95"", ""39111"": ""24.05""}",Noble|Monroe,39121|39111,FALSE,FALSE,America/New_York
+333,43793,39.74329,-81.09981,Woodsfield,OH,Ohio,TRUE,,4721,17.6,39111,Monroe,"{""39111"": ""100""}",Monroe,39111,FALSE,FALSE,America/New_York
+334,43802,40.09582,-81.8599,Adamsville,OH,Ohio,TRUE,,1173,12,39119,Muskingum,"{""39119"": ""100""}",Muskingum,39119,FALSE,FALSE,America/New_York
+335,43804,40.45385,-81.73741,Baltic,OH,Ohio,TRUE,,3781,45.9,39075,Holmes,"{""39075"": ""55.21"", ""39157"": ""29.89"", ""39031"": ""14.91""}",Holmes|Tuscarawas|Coshocton,39075|39157|39031,FALSE,FALSE,America/New_York
+336,43805,40.39337,-81.97258,Blissfield,OH,Ohio,TRUE,,77,24.9,39031,Coshocton,"{""39031"": ""100""}",Coshocton,39031,FALSE,FALSE,America/New_York
+337,43811,40.18324,-81.92621,Conesville,OH,Ohio,TRUE,,769,15.8,39031,Coshocton,"{""39031"": ""100""}",Coshocton,39031,FALSE,FALSE,America/New_York
+338,43812,40.27166,-81.88214,Coshocton,OH,Ohio,TRUE,,18751,44.8,39031,Coshocton,"{""39031"": ""99.96"", ""39119"": ""0.04""}",Coshocton|Muskingum,39031|39119,FALSE,FALSE,America/New_York
+339,43821,40.13673,-82.00667,Dresden,OH,Ohio,TRUE,,4444,20.8,39119,Muskingum,"{""39119"": ""82.51"", ""39031"": ""17.49""}",Muskingum|Coshocton,39119|39031,FALSE,FALSE,America/New_York
+340,43822,40.17741,-82.1725,Frazeysburg,OH,Ohio,TRUE,,5316,23.4,39119,Muskingum,"{""39119"": ""58.97"", ""39089"": ""22.05"", ""39031"": ""10.4"", ""39083"": ""8.58""}",Muskingum|Licking|Coshocton|Knox,39119|39089|39031|39083,FALSE,FALSE,America/New_York
+341,43824,40.36278,-81.76149,Fresno,OH,Ohio,TRUE,,4087,20.6,39031,Coshocton,"{""39031"": ""94.19"", ""39157"": ""5.81""}",Coshocton|Tuscarawas,39031|39157,FALSE,FALSE,America/New_York
+342,43830,40.06171,-82.14477,Nashport,OH,Ohio,TRUE,,5855,44.4,39119,Muskingum,"{""39119"": ""87.63"", ""39089"": ""12.37""}",Muskingum|Licking,39119|39089,FALSE,FALSE,America/New_York
+343,43832,40.27482,-81.58244,Newcomerstown,OH,Ohio,TRUE,,7189,27.5,39157,Tuscarawas,"{""39157"": ""83.53"", ""39031"": ""13.75"", ""39059"": ""2.73""}",Tuscarawas|Coshocton|Guernsey,39157|39031|39059,FALSE,FALSE,America/New_York
+344,43836,40.20885,-81.72004,Plainfield,OH,Ohio,TRUE,,106,260.5,39031,Coshocton,"{""39031"": ""100""}",Coshocton,39031,FALSE,FALSE,America/New_York
+345,43837,40.30194,-81.48069,Port Washington,OH,Ohio,TRUE,,1979,14.9,39157,Tuscarawas,"{""39157"": ""94.68"", ""39059"": ""5.32""}",Tuscarawas|Guernsey,39157|39059,FALSE,FALSE,America/New_York
+346,43840,40.4072,-81.60399,Stone Creek,OH,Ohio,TRUE,,1416,17,39157,Tuscarawas,"{""39157"": ""99.04"", ""39031"": ""0.96""}",Tuscarawas|Coshocton,39157|39031,FALSE,FALSE,America/New_York
+347,43842,40.13683,-82.01275,Trinway,OH,Ohio,TRUE,,357,336,39119,Muskingum,"{""39119"": ""100""}",Muskingum,39119,FALSE,FALSE,America/New_York
+348,43843,40.33665,-82.17392,Walhonding,OH,Ohio,TRUE,,1129,10.3,39031,Coshocton,"{""39031"": ""61.53"", ""39083"": ""38.47""}",Coshocton|Knox,39031|39083,FALSE,FALSE,America/New_York
+349,43844,40.33368,-82.05252,Warsaw,OH,Ohio,TRUE,,3527,10.9,39031,Coshocton,"{""39031"": ""100""}",Coshocton,39031,FALSE,FALSE,America/New_York
+350,43845,40.25695,-81.73121,West Lafayette,OH,Ohio,TRUE,,4696,62.3,39031,Coshocton,"{""39031"": ""100""}",Coshocton,39031,FALSE,FALSE,America/New_York
+351,43901,40.22385,-80.86213,Adena,OH,Ohio,TRUE,,1918,23.7,39081,Jefferson,"{""39081"": ""74.54"", ""39067"": ""15.5"", ""39013"": ""9.96""}",Jefferson|Harrison|Belmont,39081|39067|39013,FALSE,FALSE,America/New_York
+352,43902,39.89145,-80.96236,Alledonia,OH,Ohio,TRUE,,134,3,39013,Belmont,"{""39013"": ""100""}",Belmont,39013,FALSE,FALSE,America/New_York
+353,43903,40.4703,-80.95207,Amsterdam,OH,Ohio,TRUE,,2125,21.9,39081,Jefferson,"{""39081"": ""53.85"", ""39019"": ""46.15""}",Jefferson|Carroll,39081|39019,FALSE,FALSE,America/New_York
+354,43905,40.10349,-80.83808,Barton,OH,Ohio,TRUE,,209,208.7,39013,Belmont,"{""39013"": ""100""}",Belmont,39013,FALSE,FALSE,America/New_York
+355,43906,40.01217,-80.80356,Bellaire,OH,Ohio,TRUE,,8344,100,39013,Belmont,"{""39013"": ""100""}",Belmont,39013,FALSE,FALSE,America/New_York
+356,43907,40.25609,-81.02123,Cadiz,OH,Ohio,TRUE,,5514,13.5,39067,Harrison,"{""39067"": ""98.17"", ""39081"": ""1.83""}",Harrison|Jefferson,39067|39081,FALSE,FALSE,America/New_York
+357,43908,40.50881,-80.8744,Bergholz,OH,Ohio,TRUE,,1496,18.6,39081,Jefferson,"{""39081"": ""97.01"", ""39019"": ""2.99""}",Jefferson|Carroll,39081|39019,FALSE,FALSE,America/New_York
+358,43910,40.37232,-80.823,Bloomingdale,OH,Ohio,TRUE,,3411,23.8,39081,Jefferson,"{""39081"": ""95.54"", ""39067"": ""4.46""}",Jefferson|Harrison,39081|39067,FALSE,FALSE,America/New_York
+359,43912,40.08805,-80.79447,Bridgeport,OH,Ohio,TRUE,,6390,131,39013,Belmont,"{""39013"": ""100""}",Belmont,39013,FALSE,FALSE,America/New_York
+360,43913,40.27101,-80.63084,Brilliant,OH,Ohio,TRUE,,1479,224,39081,Jefferson,"{""39081"": ""100""}",Jefferson,39081,FALSE,FALSE,America/New_York
+361,43914,39.77526,-80.95282,Cameron,OH,Ohio,TRUE,,277,183.6,39111,Monroe,"{""39111"": ""100""}",Monroe,39111,FALSE,FALSE,America/New_York
+362,43915,39.75982,-80.89765,Clarington,OH,Ohio,TRUE,,1188,8.6,39111,Monroe,"{""39111"": ""100""}",Monroe,39111,FALSE,FALSE,America/New_York
+363,43917,40.22509,-80.80313,Dillonvale,OH,Ohio,TRUE,,3281,35.7,39081,Jefferson,"{""39081"": ""84.12"", ""39013"": ""15.88""}",Jefferson|Belmont,39081|39013,FALSE,FALSE,America/New_York
+364,43920,40.67851,-80.5832,East Liverpool,OH,Ohio,TRUE,,22215,191.2,39029,Columbiana,"{""39029"": ""100""}",Columbiana,39029,FALSE,FALSE,America/New_York
+365,43925,40.44783,-80.86232,East Springfield,OH,Ohio,TRUE,,149,481.1,39081,Jefferson,"{""39081"": ""100""}",Jefferson,39081,FALSE,FALSE,America/New_York
+366,43926,40.50882,-80.62215,Empire,OH,Ohio,TRUE,,212,346.2,39081,Jefferson,"{""39081"": ""100""}",Jefferson,39081,FALSE,FALSE,America/New_York
+367,43927,40.11881,-80.93644,Fairpoint,OH,Ohio,TRUE,,336,316.5,39013,Belmont,"{""39013"": ""100""}",Belmont,39013,FALSE,FALSE,America/New_York
+368,43928,40.01032,-80.9075,Glencoe,OH,Ohio,TRUE,,129,37.8,39013,Belmont,"{""39013"": ""100""}",Belmont,39013,FALSE,FALSE,America/New_York
+369,43930,40.56755,-80.76591,Hammondsville,OH,Ohio,TRUE,,815,8.4,39081,Jefferson,"{""39081"": ""81.52"", ""39029"": ""18.48""}",Jefferson|Columbiana,39081|39029,FALSE,FALSE,America/New_York
+370,43931,39.67324,-80.87221,Hannibal,OH,Ohio,TRUE,,300,317.2,39111,Monroe,"{""39111"": ""100""}",Monroe,39111,FALSE,FALSE,America/New_York
+371,43932,40.51682,-80.76198,Irondale,OH,Ohio,TRUE,,806,17,39081,Jefferson,"{""39081"": ""100""}",Jefferson,39081,FALSE,FALSE,America/New_York
+372,43933,39.93718,-80.89439,Jacobsburg,OH,Ohio,TRUE,,1791,14.5,39013,Belmont,"{""39013"": ""100""}",Belmont,39013,FALSE,FALSE,America/New_York
+373,43934,40.07815,-80.78999,Lansing,OH,Ohio,TRUE,,444,797.1,39013,Belmont,"{""39013"": ""100""}",Belmont,39013,FALSE,FALSE,America/New_York
+374,43935,40.12589,-80.75137,Martins Ferry,OH,Ohio,TRUE,,8735,172.3,39013,Belmont,"{""39013"": ""100""}",Belmont,39013,FALSE,FALSE,America/New_York
+375,43938,40.30374,-80.67252,Mingo Junction,OH,Ohio,TRUE,,5359,64.7,39081,Jefferson,"{""39081"": ""100""}",Jefferson,39081,FALSE,FALSE,America/New_York
+376,43939,40.16719,-80.79996,Mount Pleasant,OH,Ohio,TRUE,,461,194.7,39081,Jefferson,"{""39081"": ""100""}",Jefferson,39081,FALSE,FALSE,America/New_York
+377,43940,40.02877,-80.8234,Neffs,OH,Ohio,TRUE,,318,199.9,39013,Belmont,"{""39013"": ""100""}",Belmont,39013,FALSE,FALSE,America/New_York
+378,43942,39.86364,-80.84882,Powhatan Point,OH,Ohio,TRUE,,2922,53.8,39013,Belmont,"{""39013"": ""95.36"", ""39111"": ""4.64""}",Belmont|Monroe,39013|39111,FALSE,FALSE,America/New_York
+379,43943,40.22297,-80.72456,Rayland,OH,Ohio,TRUE,,2997,27.8,39081,Jefferson,"{""39081"": ""98.91"", ""39013"": ""1.09""}",Jefferson|Belmont,39081|39013,FALSE,FALSE,America/New_York
+380,43944,40.43074,-80.77107,Richmond,OH,Ohio,TRUE,,2495,33.5,39081,Jefferson,"{""39081"": ""100""}",Jefferson,39081,FALSE,FALSE,America/New_York
+381,43945,40.6324,-80.84359,Salineville,OH,Ohio,TRUE,,3236,19.2,39029,Columbiana,"{""39029"": ""83.39"", ""39019"": ""12.72"", ""39081"": ""3.89""}",Columbiana|Carroll|Jefferson,39029|39019|39081,FALSE,FALSE,America/New_York
+382,43946,39.65071,-80.96512,Sardis,OH,Ohio,TRUE,,2259,14.8,39111,Monroe,"{""39111"": ""100""}",Monroe,39111,FALSE,FALSE,America/New_York
+383,43947,39.9561,-80.78563,Shadyside,OH,Ohio,TRUE,,5310,120.6,39013,Belmont,"{""39013"": ""100""}",Belmont,39013,FALSE,FALSE,America/New_York
+384,43948,40.27003,-80.77825,Smithfield,OH,Ohio,TRUE,,587,320.8,39081,Jefferson,"{""39081"": ""100""}",Jefferson,39081,FALSE,FALSE,America/New_York
+385,43950,40.09619,-80.92587,Saint Clairsville,OH,Ohio,TRUE,,16329,71.9,39013,Belmont,"{""39013"": ""99.39"", ""39067"": ""0.61""}",Belmont|Harrison,39013|39067,FALSE,FALSE,America/New_York
+386,43951,40.11082,-81.01164,Lafferty,OH,Ohio,TRUE,,44,115.4,39013,Belmont,"{""39013"": ""100""}",Belmont,39013,FALSE,FALSE,America/New_York
+387,43952,40.39806,-80.66163,Steubenville,OH,Ohio,TRUE,,18103,271.7,39081,Jefferson,"{""39081"": ""100""}",Jefferson,39081,FALSE,FALSE,America/New_York
+388,43953,40.35806,-80.7078,Steubenville,OH,Ohio,TRUE,,11713,249.1,39081,Jefferson,"{""39081"": ""100""}",Jefferson,39081,FALSE,FALSE,America/New_York
+389,43961,40.52531,-80.62971,Stratton,OH,Ohio,TRUE,,385,363.4,39081,Jefferson,"{""39081"": ""100""}",Jefferson,39081,FALSE,FALSE,America/New_York
+390,43962,40.67208,-80.87989,Summitville,OH,Ohio,TRUE,,92,27.6,39029,Columbiana,"{""39029"": ""100""}",Columbiana,39029,FALSE,FALSE,America/New_York
+391,43963,40.17169,-80.69681,Tiltonsville,OH,Ohio,TRUE,,1406,1224.6,39081,Jefferson,"{""39081"": ""100""}",Jefferson,39081,FALSE,FALSE,America/New_York
+392,43964,40.48617,-80.67064,Toronto,OH,Ohio,TRUE,,8727,70.8,39081,Jefferson,"{""39081"": ""100""}",Jefferson,39081,FALSE,FALSE,America/New_York
+393,43967,40.02646,-80.94009,Warnock,OH,Ohio,TRUE,,0,0,39013,Belmont,"{""39013"": ""100""}",Belmont,39013,FALSE,FALSE,America/New_York
+394,43968,40.63219,-80.68551,Wellsville,OH,Ohio,TRUE,,6283,70.8,39029,Columbiana,"{""39029"": ""100""}",Columbiana,39029,FALSE,FALSE,America/New_York
+395,43970,40.46323,-80.8891,Wolf Run,OH,Ohio,TRUE,,25,54.2,39081,Jefferson,"{""39081"": ""100""}",Jefferson,39081,FALSE,FALSE,America/New_York
+396,43971,40.15815,-80.71288,Yorkville,OH,Ohio,TRUE,,1037,327.7,39081,Jefferson,"{""39081"": ""59.65"", ""39013"": ""40.35""}",Jefferson|Belmont,39081|39013,FALSE,FALSE,America/New_York
+397,43972,40.10163,-80.97496,Bannock,OH,Ohio,TRUE,,59,173,39013,Belmont,"{""39013"": ""100""}",Belmont,39013,FALSE,FALSE,America/New_York
+398,43973,40.19412,-81.27181,Freeport,OH,Ohio,TRUE,,2383,10.2,39067,Harrison,"{""39067"": ""57.41"", ""39059"": ""42.59""}",Harrison|Guernsey,39067|39059,FALSE,FALSE,America/New_York
+399,43974,40.18218,-80.88725,Harrisville,OH,Ohio,TRUE,,78,461.8,39067,Harrison,"{""39067"": ""100""}",Harrison,39067,FALSE,FALSE,America/New_York
+400,43976,40.36522,-80.90873,Hopedale,OH,Ohio,TRUE,,1672,27.5,39067,Harrison,"{""39067"": ""100""}",Harrison,39067,FALSE,FALSE,America/New_York
+401,43977,40.1398,-81.10357,Flushing,OH,Ohio,TRUE,,2152,18.1,39013,Belmont,"{""39013"": ""94.6"", ""39067"": ""5.4""}",Belmont|Harrison,39013|39067,FALSE,FALSE,America/New_York
+402,43983,40.14151,-81.20541,Piedmont,OH,Ohio,TRUE,,442,8.3,39013,Belmont,"{""39013"": ""55.91"", ""39067"": ""25.68"", ""39059"": ""18.41""}",Belmont|Harrison|Guernsey,39013|39067|39059,FALSE,FALSE,America/New_York
+403,43985,40.16587,-81.13445,Holloway,OH,Ohio,TRUE,,78,73,39013,Belmont,"{""39013"": ""100""}",Belmont,39013,FALSE,FALSE,America/New_York
+404,43986,40.38015,-80.99374,Jewett,OH,Ohio,TRUE,,2200,21.2,39067,Harrison,"{""39067"": ""99.09"", ""39019"": ""0.91""}",Harrison|Carroll,39067|39019,FALSE,FALSE,America/New_York
+405,43988,40.40284,-81.10267,Scio,OH,Ohio,TRUE,,2389,17.7,39067,Harrison,"{""39067"": ""81.46"", ""39019"": ""18.54""}",Harrison|Carroll,39067|39019,FALSE,FALSE,America/New_York
+406,44001,41.36493,-82.26176,Amherst,OH,Ohio,TRUE,,21142,237.6,39093,Lorain,"{""39093"": ""100""}",Lorain,39093,FALSE,FALSE,America/New_York
+407,44003,41.62142,-80.58599,Andover,OH,Ohio,TRUE,,4323,25,39007,Ashtabula,"{""39007"": ""100""}",Ashtabula,39007,FALSE,FALSE,America/New_York
+408,44004,41.85338,-80.78859,Ashtabula,OH,Ohio,TRUE,,31498,168,39007,Ashtabula,"{""39007"": ""100""}",Ashtabula,39007,FALSE,FALSE,America/New_York
+409,44010,41.76247,-80.85209,Austinburg,OH,Ohio,TRUE,,1533,31,39007,Ashtabula,"{""39007"": ""100""}",Ashtabula,39007,FALSE,FALSE,America/New_York
+410,44011,41.44845,-82.01872,Avon,OH,Ohio,TRUE,,22999,426.8,39093,Lorain,"{""39093"": ""100""}",Lorain,39093,FALSE,FALSE,America/New_York
+411,44012,41.49453,-82.01602,Avon Lake,OH,Ohio,TRUE,,24030,833.6,39093,Lorain,"{""39093"": ""100""}",Lorain,39093,FALSE,FALSE,America/New_York
+412,44017,41.36865,-81.86317,Berea,OH,Ohio,TRUE,,18856,1183.4,39035,Cuyahoga,"{""39035"": ""100""}",Cuyahoga,39035,FALSE,FALSE,America/New_York
+413,44021,41.44167,-81.14743,Burton,OH,Ohio,TRUE,,6080,57.4,39055,Geauga,"{""39055"": ""100""}",Geauga,39055,FALSE,FALSE,America/New_York
+414,44022,41.44809,-81.40462,Chagrin Falls,OH,Ohio,TRUE,,16551,210,39035,Cuyahoga,"{""39035"": ""67.67"", ""39055"": ""32.33""}",Cuyahoga|Geauga,39035|39055,FALSE,FALSE,America/New_York
+415,44023,41.38639,-81.29065,Chagrin Falls,OH,Ohio,TRUE,,17555,131.1,39055,Geauga,"{""39055"": ""100""}",Geauga,39055,FALSE,FALSE,America/New_York
+416,44024,41.57663,-81.19262,Chardon,OH,Ohio,TRUE,,23905,102.2,39055,Geauga,"{""39055"": ""98.87"", ""39085"": ""1.13""}",Geauga|Lake,39055|39085,FALSE,FALSE,America/New_York
+417,44026,41.53247,-81.33179,Chesterland,OH,Ohio,TRUE,,10967,148.8,39055,Geauga,"{""39055"": ""100""}",Geauga,39055,FALSE,FALSE,America/New_York
+418,44028,41.31019,-81.939,Columbia Station,OH,Ohio,TRUE,,8938,104,39093,Lorain,"{""39093"": ""100""}",Lorain,39093,FALSE,FALSE,America/New_York
+419,44030,41.89683,-80.58027,Conneaut,OH,Ohio,TRUE,,16165,105.3,39007,Ashtabula,"{""39007"": ""100""}",Ashtabula,39007,FALSE,FALSE,America/New_York
+420,44032,41.66599,-80.6699,Dorset,OH,Ohio,TRUE,,1434,13.8,39007,Ashtabula,"{""39007"": ""100""}",Ashtabula,39007,FALSE,FALSE,America/New_York
+421,44035,41.36515,-82.12938,Elyria,OH,Ohio,TRUE,,63333,512.1,39093,Lorain,"{""39093"": ""100""}",Lorain,39093,FALSE,FALSE,America/New_York
+422,44039,41.3847,-82.0196,North Ridgeville,OH,Ohio,TRUE,,33462,546.1,39093,Lorain,"{""39093"": ""100""}",Lorain,39093,FALSE,FALSE,America/New_York
+423,44040,41.53204,-81.41101,Gates Mills,OH,Ohio,TRUE,,2851,114.8,39035,Cuyahoga,"{""39035"": ""100""}",Cuyahoga,39035,FALSE,FALSE,America/New_York
+424,44041,41.77579,-80.95137,Geneva,OH,Ohio,TRUE,,14399,86.1,39007,Ashtabula,"{""39007"": ""99.41"", ""39085"": ""0.59""}",Ashtabula|Lake,39007|39085,FALSE,FALSE,America/New_York
+425,44044,41.26672,-82.04027,Grafton,OH,Ohio,TRUE,,15100,105.5,39093,Lorain,"{""39093"": ""100""}",Lorain,39093,FALSE,FALSE,America/New_York
+426,44045,41.74619,-81.2836,Grand River,OH,Ohio,TRUE,,464,176.4,39085,Lake,"{""39085"": ""100""}",Lake,39085,FALSE,FALSE,America/New_York
+427,44046,41.54269,-81.06935,Huntsburg,OH,Ohio,TRUE,,2650,66.4,39055,Geauga,"{""39055"": ""100""}",Geauga,39055,FALSE,FALSE,America/New_York
+428,44047,41.71894,-80.73887,Jefferson,OH,Ohio,TRUE,,8661,31.7,39007,Ashtabula,"{""39007"": ""100""}",Ashtabula,39007,FALSE,FALSE,America/New_York
+429,44048,41.84626,-80.64558,Kingsville,OH,Ohio,TRUE,,2477,31.4,39007,Ashtabula,"{""39007"": ""100""}",Ashtabula,39007,FALSE,FALSE,America/New_York
+430,44049,41.26628,-82.3053,Kipton,OH,Ohio,TRUE,,240,258.9,39093,Lorain,"{""39093"": ""100""}",Lorain,39093,FALSE,FALSE,America/New_York
+431,44050,41.24845,-82.13008,Lagrange,OH,Ohio,TRUE,,6517,98.8,39093,Lorain,"{""39093"": ""100""}",Lorain,39093,FALSE,FALSE,America/New_York
+432,44052,41.45531,-82.16251,Lorain,OH,Ohio,TRUE,,29077,1217,39093,Lorain,"{""39093"": ""100""}",Lorain,39093,FALSE,FALSE,America/New_York
+433,44053,41.42515,-82.22405,Lorain,OH,Ohio,TRUE,,19424,632.2,39093,Lorain,"{""39093"": ""100""}",Lorain,39093,FALSE,FALSE,America/New_York
+434,44054,41.46438,-82.09318,Sheffield Lake,OH,Ohio,TRUE,,12647,390.4,39093,Lorain,"{""39093"": ""100""}",Lorain,39093,FALSE,FALSE,America/New_York
+435,44055,41.43383,-82.13369,Lorain,OH,Ohio,TRUE,,18839,1094.6,39093,Lorain,"{""39093"": ""100""}",Lorain,39093,FALSE,FALSE,America/New_York
+436,44056,41.31492,-81.49832,Macedonia,OH,Ohio,TRUE,,11873,467.4,39153,Summit,"{""39153"": ""100""}",Summit,39153,FALSE,FALSE,America/New_York
+437,44057,41.76786,-81.0583,Madison,OH,Ohio,TRUE,,19486,150.7,39085,Lake,"{""39085"": ""98.35"", ""39055"": ""1.45"", ""39007"": ""0.2""}",Lake|Geauga|Ashtabula,39085|39055|39007,FALSE,FALSE,America/New_York
+438,44060,41.678,-81.3285,Mentor,OH,Ohio,TRUE,,60134,585,39085,Lake,"{""39085"": ""99.83"", ""39055"": ""0.17""}",Lake|Geauga,39085|39055,FALSE,FALSE,America/New_York
+439,44062,41.45764,-81.02602,Middlefield,OH,Ohio,TRUE,,14407,72.7,39055,Geauga,"{""39055"": ""76.29"", ""39155"": ""21.27"", ""39007"": ""2.44""}",Geauga|Trumbull|Ashtabula,39055|39155|39007,FALSE,FALSE,America/New_York
+440,44064,41.60517,-81.04787,Montville,OH,Ohio,TRUE,,1655,28.4,39055,Geauga,"{""39055"": ""98.43"", ""39007"": ""1.57""}",Geauga|Ashtabula,39055|39007,FALSE,FALSE,America/New_York
+441,44065,41.46337,-81.24302,Newbury,OH,Ohio,TRUE,,4554,80.7,39055,Geauga,"{""39055"": ""100""}",Geauga,39055,FALSE,FALSE,America/New_York
+442,44067,41.31477,-81.54766,Northfield,OH,Ohio,TRUE,,20459,467.5,39153,Summit,"{""39153"": ""100""}",Summit,39153,FALSE,FALSE,America/New_York
+443,44070,41.41504,-81.91891,North Olmsted,OH,Ohio,TRUE,,31744,1050.5,39035,Cuyahoga,"{""39035"": ""100""}",Cuyahoga,39035,FALSE,FALSE,America/New_York
+444,44072,41.47175,-81.32795,Novelty,OH,Ohio,TRUE,,4422,91.1,39055,Geauga,"{""39055"": ""100""}",Geauga,39055,FALSE,FALSE,America/New_York
+445,44074,41.28741,-82.2336,Oberlin,OH,Ohio,TRUE,,11487,89.6,39093,Lorain,"{""39093"": ""100""}",Lorain,39093,FALSE,FALSE,America/New_York
+446,44076,41.52931,-80.82075,Orwell,OH,Ohio,TRUE,,5018,28.2,39007,Ashtabula,"{""39007"": ""86.99"", ""39155"": ""13.01""}",Ashtabula|Trumbull,39007|39155,FALSE,FALSE,America/New_York
+447,44077,41.69943,-81.21074,Painesville,OH,Ohio,TRUE,,56579,359.8,39085,Lake,"{""39085"": ""100""}",Lake,39085,FALSE,FALSE,America/New_York
+448,44080,41.36979,-81.05052,Parkman,OH,Ohio,TRUE,,143,55.4,39055,Geauga,"{""39055"": ""100""}",Geauga,39055,FALSE,FALSE,America/New_York
+449,44081,41.7678,-81.14561,Perry,OH,Ohio,TRUE,,7137,135,39085,Lake,"{""39085"": ""100""}",Lake,39085,FALSE,FALSE,America/New_York
+450,44082,41.76233,-80.56598,Pierpont,OH,Ohio,TRUE,,2690,30.7,39007,Ashtabula,"{""39007"": ""100""}",Ashtabula,39007,FALSE,FALSE,America/New_York
+451,44084,41.67263,-80.89491,Rock Creek,OH,Ohio,TRUE,,3454,31.4,39007,Ashtabula,"{""39007"": ""100""}",Ashtabula,39007,FALSE,FALSE,America/New_York
+452,44085,41.60526,-80.8709,Rome,OH,Ohio,TRUE,,3560,27.3,39007,Ashtabula,"{""39007"": ""100""}",Ashtabula,39007,FALSE,FALSE,America/New_York
+453,44086,41.67511,-81.05788,Thompson,OH,Ohio,TRUE,,2381,33.3,39055,Geauga,"{""39055"": ""87.37"", ""39085"": ""12.42"", ""39007"": ""0.21""}",Geauga|Lake|Ashtabula,39055|39085|39007,FALSE,FALSE,America/New_York
+454,44087,41.31796,-81.44017,Twinsburg,OH,Ohio,TRUE,,20845,459.7,39153,Summit,"{""39153"": ""100""}",Summit,39153,FALSE,FALSE,America/New_York
+455,44089,41.38904,-82.36655,Vermilion,OH,Ohio,TRUE,,15672,175.2,39043,Erie,"{""39043"": ""58.79"", ""39093"": ""41.21""}",Erie|Lorain,39043|39093,FALSE,FALSE,America/New_York
+456,44090,41.16738,-82.2296,Wellington,OH,Ohio,TRUE,,12096,44.9,39093,Lorain,"{""39093"": ""100""}",Lorain,39093,FALSE,FALSE,America/New_York
+457,44092,41.598,-81.46842,Wickliffe,OH,Ohio,TRUE,,16812,869.3,39085,Lake,"{""39085"": ""100""}",Lake,39085,FALSE,FALSE,America/New_York
+458,44093,41.53273,-80.61212,Williamsfield,OH,Ohio,TRUE,,1018,12.2,39007,Ashtabula,"{""39007"": ""100""}",Ashtabula,39007,FALSE,FALSE,America/New_York
+459,44094,41.60995,-81.3799,Willoughby,OH,Ohio,TRUE,,35805,352.5,39085,Lake,"{""39085"": ""100""}",Lake,39085,FALSE,FALSE,America/New_York
+460,44095,41.65238,-81.44214,Eastlake,OH,Ohio,TRUE,,33234,1413.9,39085,Lake,"{""39085"": ""100""}",Lake,39085,FALSE,FALSE,America/New_York
+461,44099,41.55006,-80.97471,Windsor,OH,Ohio,TRUE,,2558,44.9,39007,Ashtabula,"{""39007"": ""82.58"", ""39055"": ""17.42""}",Ashtabula|Geauga,39007|39055,FALSE,FALSE,America/New_York
+462,44101,41.48928,-81.66732,Cleveland,OH,Ohio,TRUE,,628,6945.1,39035,Cuyahoga,"{""39035"": ""100""}",Cuyahoga,39035,FALSE,FALSE,America/New_York
+463,44102,41.47524,-81.73766,Cleveland,OH,Ohio,TRUE,,45906,2936.3,39035,Cuyahoga,"{""39035"": ""100""}",Cuyahoga,39035,FALSE,FALSE,America/New_York
+464,44103,41.5172,-81.64237,Cleveland,OH,Ohio,TRUE,,15938,1410.8,39035,Cuyahoga,"{""39035"": ""100""}",Cuyahoga,39035,FALSE,FALSE,America/New_York
+465,44104,41.48222,-81.62674,Cleveland,OH,Ohio,TRUE,,19814,1615.1,39035,Cuyahoga,"{""39035"": ""100""}",Cuyahoga,39035,FALSE,FALSE,America/New_York
+466,44105,41.45064,-81.63024,Cleveland,OH,Ohio,TRUE,,36749,1619.4,39035,Cuyahoga,"{""39035"": ""100""}",Cuyahoga,39035,FALSE,FALSE,America/New_York
+467,44106,41.50628,-81.60683,Cleveland,OH,Ohio,TRUE,,25309,2317.9,39035,Cuyahoga,"{""39035"": ""100""}",Cuyahoga,39035,FALSE,FALSE,America/New_York
+468,44107,41.48243,-81.80106,Lakewood,OH,Ohio,TRUE,,50351,3520.5,39035,Cuyahoga,"{""39035"": ""100""}",Cuyahoga,39035,FALSE,FALSE,America/New_York
+469,44108,41.54,-81.60842,Cleveland,OH,Ohio,TRUE,,21250,1933.6,39035,Cuyahoga,"{""39035"": ""100""}",Cuyahoga,39035,FALSE,FALSE,America/New_York
+470,44109,41.44473,-81.69672,Cleveland,OH,Ohio,TRUE,,40056,2137.8,39035,Cuyahoga,"{""39035"": ""100""}",Cuyahoga,39035,FALSE,FALSE,America/New_York
+471,44110,41.56416,-81.57098,Cleveland,OH,Ohio,TRUE,,18355,1676,39035,Cuyahoga,"{""39035"": ""100""}",Cuyahoga,39035,FALSE,FALSE,America/New_York
+472,44111,41.45828,-81.78853,Cleveland,OH,Ohio,TRUE,,42378,2621.3,39035,Cuyahoga,"{""39035"": ""100""}",Cuyahoga,39035,FALSE,FALSE,America/New_York
+473,44112,41.53569,-81.57368,Cleveland,OH,Ohio,TRUE,,21666,2069.2,39035,Cuyahoga,"{""39035"": ""100""}",Cuyahoga,39035,FALSE,FALSE,America/New_York
+474,44113,41.48424,-81.69762,Cleveland,OH,Ohio,TRUE,,20310,2047.8,39035,Cuyahoga,"{""39035"": ""100""}",Cuyahoga,39035,FALSE,FALSE,America/New_York
+475,44114,41.51449,-81.67561,Cleveland,OH,Ohio,TRUE,,6896,919.8,39035,Cuyahoga,"{""39035"": ""100""}",Cuyahoga,39035,FALSE,FALSE,America/New_York
+476,44115,41.49215,-81.67108,Cleveland,OH,Ohio,TRUE,,8515,1485.5,39035,Cuyahoga,"{""39035"": ""100""}",Cuyahoga,39035,FALSE,FALSE,America/New_York
+477,44116,41.47017,-81.85251,Rocky River,OH,Ohio,TRUE,,20239,1629.9,39035,Cuyahoga,"{""39035"": ""100""}",Cuyahoga,39035,FALSE,FALSE,America/New_York
+478,44117,41.57149,-81.52679,Euclid,OH,Ohio,TRUE,,9768,988.6,39035,Cuyahoga,"{""39035"": ""100""}",Cuyahoga,39035,FALSE,FALSE,America/New_York
+479,44118,41.50186,-81.5563,Cleveland,OH,Ohio,TRUE,,38893,2111.1,39035,Cuyahoga,"{""39035"": ""100""}",Cuyahoga,39035,FALSE,FALSE,America/New_York
+480,44119,41.58736,-81.54704,Cleveland,OH,Ohio,TRUE,,13405,2456.7,39035,Cuyahoga,"{""39035"": ""100""}",Cuyahoga,39035,FALSE,FALSE,America/New_York
+481,44120,41.47357,-81.57931,Cleveland,OH,Ohio,TRUE,,34902,2535.7,39035,Cuyahoga,"{""39035"": ""100""}",Cuyahoga,39035,FALSE,FALSE,America/New_York
+482,44121,41.52647,-81.53214,Cleveland,OH,Ohio,TRUE,,32729,2014.5,39035,Cuyahoga,"{""39035"": ""100""}",Cuyahoga,39035,FALSE,FALSE,America/New_York
+483,44122,41.47013,-81.51178,Beachwood,OH,Ohio,TRUE,,33115,969.8,39035,Cuyahoga,"{""39035"": ""100""}",Cuyahoga,39035,FALSE,FALSE,America/New_York
+484,44123,41.60382,-81.52422,Euclid,OH,Ohio,TRUE,,17023,2551.2,39035,Cuyahoga,"{""39035"": ""100""}",Cuyahoga,39035,FALSE,FALSE,America/New_York
+485,44124,41.50053,-81.46678,Cleveland,OH,Ohio,TRUE,,37341,990.4,39035,Cuyahoga,"{""39035"": ""100""}",Cuyahoga,39035,FALSE,FALSE,America/New_York
+486,44125,41.40695,-81.6151,Cleveland,OH,Ohio,TRUE,,27743,753.3,39035,Cuyahoga,"{""39035"": ""100""}",Cuyahoga,39035,FALSE,FALSE,America/New_York
+487,44126,41.44175,-81.85303,Cleveland,OH,Ohio,TRUE,,16262,1357.7,39035,Cuyahoga,"{""39035"": ""100""}",Cuyahoga,39035,FALSE,FALSE,America/New_York
+488,44127,41.47157,-81.64914,Cleveland,OH,Ohio,TRUE,,4226,860.6,39035,Cuyahoga,"{""39035"": ""100""}",Cuyahoga,39035,FALSE,FALSE,America/New_York
+489,44128,41.43761,-81.54027,Cleveland,OH,Ohio,TRUE,,28876,1326.3,39035,Cuyahoga,"{""39035"": ""100""}",Cuyahoga,39035,FALSE,FALSE,America/New_York
+490,44129,41.38971,-81.73513,Cleveland,OH,Ohio,TRUE,,28592,1876.4,39035,Cuyahoga,"{""39035"": ""100""}",Cuyahoga,39035,FALSE,FALSE,America/New_York
+491,44130,41.3778,-81.78683,Cleveland,OH,Ohio,TRUE,,49713,1120.2,39035,Cuyahoga,"{""39035"": ""100""}",Cuyahoga,39035,FALSE,FALSE,America/New_York
+492,44131,41.38285,-81.65242,Independence,OH,Ohio,TRUE,,20422,490.3,39035,Cuyahoga,"{""39035"": ""100""}",Cuyahoga,39035,FALSE,FALSE,America/New_York
+493,44132,41.60503,-81.49946,Euclid,OH,Ohio,TRUE,,13726,1685.4,39035,Cuyahoga,"{""39035"": ""100""}",Cuyahoga,39035,FALSE,FALSE,America/New_York
+494,44133,41.31414,-81.74522,North Royalton,OH,Ohio,TRUE,,30092,548.5,39035,Cuyahoga,"{""39035"": ""100""}",Cuyahoga,39035,FALSE,FALSE,America/New_York
+495,44134,41.38533,-81.70451,Cleveland,OH,Ohio,TRUE,,36580,1471.6,39035,Cuyahoga,"{""39035"": ""100""}",Cuyahoga,39035,FALSE,FALSE,America/New_York
+496,44135,41.4257,-81.81966,Cleveland,OH,Ohio,TRUE,,27646,1058.3,39035,Cuyahoga,"{""39035"": ""100""}",Cuyahoga,39035,FALSE,FALSE,America/New_York
+497,44136,41.31184,-81.81098,Strongsville,OH,Ohio,TRUE,,25804,732.1,39035,Cuyahoga,"{""39035"": ""99.86"", ""39103"": ""0.14""}",Cuyahoga|Medina,39035|39103,FALSE,FALSE,America/New_York
+498,44137,41.40929,-81.56248,Maple Heights,OH,Ohio,TRUE,,22538,1681.5,39035,Cuyahoga,"{""39035"": ""100""}",Cuyahoga,39035,FALSE,FALSE,America/New_York
+499,44138,41.37364,-81.9231,Olmsted Falls,OH,Ohio,TRUE,,22271,622.6,39035,Cuyahoga,"{""39035"": ""100""}",Cuyahoga,39035,FALSE,FALSE,America/New_York
+500,44139,41.38326,-81.4444,Solon,OH,Ohio,TRUE,,24112,405.8,39035,Cuyahoga,"{""39035"": ""100""}",Cuyahoga,39035,FALSE,FALSE,America/New_York
+501,44140,41.48509,-81.93143,Bay Village,OH,Ohio,TRUE,,15325,1296,39035,Cuyahoga,"{""39035"": ""100""}",Cuyahoga,39035,FALSE,FALSE,America/New_York
+502,44141,41.30084,-81.61424,Brecksville,OH,Ohio,TRUE,,13785,224.7,39035,Cuyahoga,"{""39035"": ""97.93"", ""39153"": ""2.07""}",Cuyahoga|Summit,39035|39153,FALSE,FALSE,America/New_York
+503,44142,41.40227,-81.82519,Brookpark,OH,Ohio,TRUE,,18562,937.5,39035,Cuyahoga,"{""39035"": ""100""}",Cuyahoga,39035,FALSE,FALSE,America/New_York
+504,44143,41.5535,-81.47509,Cleveland,OH,Ohio,TRUE,,24085,661.1,39035,Cuyahoga,"{""39035"": ""100""}",Cuyahoga,39035,FALSE,FALSE,America/New_York
+505,44144,41.43764,-81.74274,Cleveland,OH,Ohio,TRUE,,21512,1485.9,39035,Cuyahoga,"{""39035"": ""100""}",Cuyahoga,39035,FALSE,FALSE,America/New_York
+506,44145,41.45244,-81.92945,Westlake,OH,Ohio,TRUE,,32275,782.4,39035,Cuyahoga,"{""39035"": ""100""}",Cuyahoga,39035,FALSE,FALSE,America/New_York
+507,44146,41.38161,-81.53018,Bedford,OH,Ohio,TRUE,,29050,560,39035,Cuyahoga,"{""39035"": ""100""}",Cuyahoga,39035,FALSE,FALSE,America/New_York
+508,44147,41.31914,-81.67871,Broadview Heights,OH,Ohio,TRUE,,19381,568.2,39035,Cuyahoga,"{""39035"": ""100""}",Cuyahoga,39035,FALSE,FALSE,America/New_York
+509,44149,41.31341,-81.85617,Strongsville,OH,Ohio,TRUE,,18930,654.6,39035,Cuyahoga,"{""39035"": ""100""}",Cuyahoga,39035,FALSE,FALSE,America/New_York
+510,44201,41.02682,-81.17928,Atwater,OH,Ohio,TRUE,,6955,49.1,39133,Portage,"{""39133"": ""98.94"", ""39151"": ""1.06""}",Portage|Stark,39133|39151,FALSE,FALSE,America/New_York
+511,44202,41.31499,-81.3399,Aurora,OH,Ohio,TRUE,,20455,260.3,39133,Portage,"{""39133"": ""83.41"", ""39153"": ""15.75"", ""39055"": ""0.84""}",Portage|Summit|Geauga,39133|39153|39055,FALSE,FALSE,America/New_York
+512,44203,41.02056,-81.62891,Barberton,OH,Ohio,TRUE,,40445,446.4,39153,Summit,"{""39153"": ""99.69"", ""39103"": ""0.31""}",Summit|Medina,39153|39103,FALSE,FALSE,America/New_York
+513,44212,41.24342,-81.82951,Brunswick,OH,Ohio,TRUE,,44625,795.7,39103,Medina,"{""39103"": ""100""}",Medina,39103,FALSE,FALSE,America/New_York
+514,44214,40.95263,-81.99851,Burbank,OH,Ohio,TRUE,,2520,35.6,39169,Wayne,"{""39169"": ""90.13"", ""39103"": ""9.87""}",Wayne|Medina,39169|39103,FALSE,FALSE,America/New_York
+515,44215,41.07027,-81.89779,Chippewa Lake,OH,Ohio,TRUE,,2209,579.6,39103,Medina,"{""39103"": ""100""}",Medina,39103,FALSE,FALSE,America/New_York
+516,44216,40.93914,-81.58506,Clinton,OH,Ohio,TRUE,,9353,155.5,39153,Summit,"{""39153"": ""93.59"", ""39151"": ""6.41""}",Summit|Stark,39153|39151,FALSE,FALSE,America/New_York
+517,44217,40.95518,-81.91161,Creston,OH,Ohio,TRUE,,3583,48,39169,Wayne,"{""39169"": ""92.44"", ""39103"": ""7.56""}",Wayne|Medina,39169|39103,FALSE,FALSE,America/New_York
+518,44221,41.13962,-81.47656,Cuyahoga Falls,OH,Ohio,TRUE,,29473,1750.9,39153,Summit,"{""39153"": ""100""}",Summit,39153,FALSE,FALSE,America/New_York
+519,44223,41.17121,-81.53122,Cuyahoga Falls,OH,Ohio,TRUE,,17460,449.3,39153,Summit,"{""39153"": ""100""}",Summit,39153,FALSE,FALSE,America/New_York
+520,44224,41.17668,-81.43881,Stow,OH,Ohio,TRUE,,39348,762.4,39153,Summit,"{""39153"": ""99.9"", ""39133"": ""0.1""}",Summit|Portage,39153|39133,FALSE,FALSE,America/New_York
+521,44230,40.9633,-81.68996,Doylestown,OH,Ohio,TRUE,,8502,190.8,39169,Wayne,"{""39169"": ""98.09"", ""39103"": ""1.91""}",Wayne|Medina,39169|39103,FALSE,FALSE,America/New_York
+522,44231,41.30653,-81.07238,Garrettsville,OH,Ohio,TRUE,,8922,70.1,39133,Portage,"{""39133"": ""89.62"", ""39055"": ""10.38""}",Portage|Geauga,39133|39055,FALSE,FALSE,America/New_York
+523,44233,41.23941,-81.73512,Hinckley,OH,Ohio,TRUE,,7967,115.2,39103,Medina,"{""39103"": ""100""}",Medina,39103,FALSE,FALSE,America/New_York
+524,44234,41.33498,-81.15758,Hiram,OH,Ohio,TRUE,,4173,65.1,39133,Portage,"{""39133"": ""73.66"", ""39055"": ""26.34""}",Portage|Geauga,39133|39055,FALSE,FALSE,America/New_York
+525,44235,41.03146,-82.12449,Homerville,OH,Ohio,TRUE,,1894,29.2,39103,Medina,"{""39103"": ""97.75"", ""39005"": ""2.25""}",Medina|Ashland,39103|39005,FALSE,FALSE,America/New_York
+526,44236,41.24769,-81.45094,Hudson,OH,Ohio,TRUE,,25426,288.2,39153,Summit,"{""39153"": ""99.32"", ""39133"": ""0.68""}",Summit|Portage,39153|39133,FALSE,FALSE,America/New_York
+527,44240,41.13302,-81.34148,Kent,OH,Ohio,TRUE,,39521,379.3,39133,Portage,"{""39133"": ""99.38"", ""39153"": ""0.62""}",Portage|Summit,39133|39153,FALSE,FALSE,America/New_York
+528,44241,41.23941,-81.3472,Streetsboro,OH,Ohio,TRUE,,16487,296,39133,Portage,"{""39133"": ""100""}",Portage,39133,FALSE,FALSE,America/New_York
+529,44243,41.14798,-81.34119,Kent,OH,Ohio,TRUE,,4914,3923.9,39133,Portage,"{""39133"": ""100""}",Portage,39133,FALSE,FALSE,America/New_York
+530,44250,41.02112,-81.43737,Lakemore,OH,Ohio,TRUE,,1009,871.7,39153,Summit,"{""39153"": ""100""}",Summit,39153,FALSE,FALSE,America/New_York
+531,44251,41.02914,-81.92738,Westfield Center,OH,Ohio,TRUE,,958,255.5,39103,Medina,"{""39103"": ""100""}",Medina,39103,FALSE,FALSE,America/New_York
+532,44253,41.1657,-82.03323,Litchfield,OH,Ohio,TRUE,,3094,48.5,39103,Medina,"{""39103"": ""93.63"", ""39093"": ""6.37""}",Medina|Lorain,39103|39093,FALSE,FALSE,America/New_York
+533,44254,41.04413,-82.01481,Lodi,OH,Ohio,TRUE,,5049,74.2,39103,Medina,"{""39103"": ""100""}",Medina,39103,FALSE,FALSE,America/New_York
+534,44255,41.28651,-81.22973,Mantua,OH,Ohio,TRUE,,8140,74.8,39133,Portage,"{""39133"": ""100""}",Portage,39133,FALSE,FALSE,America/New_York
+535,44256,41.14011,-81.85904,Medina,OH,Ohio,TRUE,,63497,184,39103,Medina,"{""39103"": ""99.83"", ""39093"": ""0.1"", ""39153"": ""0.08""}",Medina|Lorain|Summit,39103|39093|39153,FALSE,FALSE,America/New_York
+536,44260,41.03678,-81.34084,Mogadore,OH,Ohio,TRUE,,13054,152.2,39133,Portage,"{""39133"": ""71.46"", ""39153"": ""21.49"", ""39151"": ""7.04""}",Portage|Summit|Stark,39133|39153|39151,FALSE,FALSE,America/New_York
+537,44262,41.14048,-81.43726,Munroe Falls,OH,Ohio,TRUE,,5017,841.4,39153,Summit,"{""39153"": ""100""}",Summit,39153,FALSE,FALSE,America/New_York
+538,44264,41.22823,-81.54253,Peninsula,OH,Ohio,TRUE,,2885,52.2,39153,Summit,"{""39153"": ""100""}",Summit,39153,FALSE,FALSE,America/New_York
+539,44265,41.03572,-81.2531,Randolph,OH,Ohio,TRUE,,0,0,39133,Portage,"{""39133"": ""100""}",Portage,39133,FALSE,FALSE,America/New_York
+540,44266,41.16674,-81.20258,Ravenna,OH,Ohio,TRUE,,33549,141.1,39133,Portage,"{""39133"": ""100""}",Portage,39133,FALSE,FALSE,America/New_York
+541,44270,40.96055,-81.77806,Rittman,OH,Ohio,TRUE,,8711,161.2,39169,Wayne,"{""39169"": ""92.64"", ""39103"": ""7.36""}",Wayne|Medina,39169|39103,FALSE,FALSE,America/New_York
+542,44272,41.08801,-81.18335,Rootstown,OH,Ohio,TRUE,,5343,92,39133,Portage,"{""39133"": ""100""}",Portage,39133,FALSE,FALSE,America/New_York
+543,44273,41.02751,-81.87623,Seville,OH,Ohio,TRUE,,7331,73,39103,Medina,"{""39103"": ""98.88"", ""39169"": ""1.12""}",Medina|Wayne,39103|39169,FALSE,FALSE,America/New_York
+544,44274,41.09834,-81.73264,Sharon Center,OH,Ohio,TRUE,,162,144.7,39103,Medina,"{""39103"": ""100""}",Medina,39103,FALSE,FALSE,America/New_York
+545,44275,41.10151,-82.09938,Spencer,OH,Ohio,TRUE,,3387,33.9,39103,Medina,"{""39103"": ""97.73"", ""39093"": ""2.27""}",Medina|Lorain,39103|39093,FALSE,FALSE,America/New_York
+546,44276,40.93616,-81.83617,Sterling,OH,Ohio,TRUE,,1899,38.7,39169,Wayne,"{""39169"": ""100""}",Wayne,39169,FALSE,FALSE,America/New_York
+547,44278,41.10158,-81.42166,Tallmadge,OH,Ohio,TRUE,,17978,467.9,39153,Summit,"{""39153"": ""97.3"", ""39133"": ""2.7""}",Summit|Portage,39153|39133,FALSE,FALSE,America/New_York
+548,44280,41.23896,-81.92381,Valley City,OH,Ohio,TRUE,,4484,70.7,39103,Medina,"{""39103"": ""97.98"", ""39093"": ""2.02""}",Medina|Lorain,39103|39093,FALSE,FALSE,America/New_York
+549,44281,41.05858,-81.73834,Wadsworth,OH,Ohio,TRUE,,32280,261.1,39103,Medina,"{""39103"": ""99.55"", ""39153"": ""0.45""}",Medina|Summit,39103|39153,FALSE,FALSE,America/New_York
+550,44285,41.15976,-81.07151,Wayland,OH,Ohio,TRUE,,35,97.6,39133,Portage,"{""39133"": ""100""}",Portage,39133,FALSE,FALSE,America/New_York
+551,44286,41.23687,-81.64062,Richfield,OH,Ohio,TRUE,,6126,98.9,39153,Summit,"{""39153"": ""100""}",Summit,39153,FALSE,FALSE,America/New_York
+552,44287,40.93909,-82.10109,West Salem,OH,Ohio,TRUE,,7793,45,39169,Wayne,"{""39169"": ""60.09"", ""39005"": ""35.03"", ""39103"": ""4.88""}",Wayne|Ashland|Medina,39169|39005|39103,FALSE,FALSE,America/New_York
+553,44288,41.23861,-81.08434,Windham,OH,Ohio,TRUE,,3542,83.4,39133,Portage,"{""39133"": ""100""}",Portage,39133,FALSE,FALSE,America/New_York
+554,44301,41.04388,-81.52455,Akron,OH,Ohio,TRUE,,15044,1643.6,39153,Summit,"{""39153"": ""100""}",Summit,39153,FALSE,FALSE,America/New_York
+555,44302,41.08955,-81.53883,Akron,OH,Ohio,TRUE,,4489,1846.2,39153,Summit,"{""39153"": ""100""}",Summit,39153,FALSE,FALSE,America/New_York
+556,44303,41.10467,-81.53685,Akron,OH,Ohio,TRUE,,7899,1321.2,39153,Summit,"{""39153"": ""100""}",Summit,39153,FALSE,FALSE,America/New_York
+557,44304,41.08306,-81.5078,Akron,OH,Ohio,TRUE,,5018,1285,39153,Summit,"{""39153"": ""100""}",Summit,39153,FALSE,FALSE,America/New_York
+558,44305,41.07587,-81.4614,Akron,OH,Ohio,TRUE,,22940,1358.2,39153,Summit,"{""39153"": ""100""}",Summit,39153,FALSE,FALSE,America/New_York
+559,44306,41.03937,-81.4832,Akron,OH,Ohio,TRUE,,21711,1011.4,39153,Summit,"{""39153"": ""100""}",Summit,39153,FALSE,FALSE,America/New_York
+560,44307,41.07044,-81.54631,Akron,OH,Ohio,TRUE,,6413,1289.1,39153,Summit,"{""39153"": ""100""}",Summit,39153,FALSE,FALSE,America/New_York
+561,44308,41.08164,-81.51709,Akron,OH,Ohio,TRUE,,1110,871,39153,Summit,"{""39153"": ""100""}",Summit,39153,FALSE,FALSE,America/New_York
+562,44310,41.1066,-81.4971,Akron,OH,Ohio,TRUE,,26135,1680.3,39153,Summit,"{""39153"": ""100""}",Summit,39153,FALSE,FALSE,America/New_York
+563,44311,41.06427,-81.52086,Akron,OH,Ohio,TRUE,,8062,1630.7,39153,Summit,"{""39153"": ""100""}",Summit,39153,FALSE,FALSE,America/New_York
+564,44312,41.01539,-81.44085,Akron,OH,Ohio,TRUE,,31460,633.9,39153,Summit,"{""39153"": ""99.88"", ""39133"": ""0.12""}",Summit|Portage,39153|39133,FALSE,FALSE,America/New_York
+565,44313,41.13281,-81.56452,Akron,OH,Ohio,TRUE,,25730,720.8,39153,Summit,"{""39153"": ""100""}",Summit,39153,FALSE,FALSE,America/New_York
+566,44314,41.0406,-81.55858,Akron,OH,Ohio,TRUE,,19014,1674.5,39153,Summit,"{""39153"": ""100""}",Summit,39153,FALSE,FALSE,America/New_York
+567,44319,40.98304,-81.53167,Akron,OH,Ohio,TRUE,,22542,463.6,39153,Summit,"{""39153"": ""100""}",Summit,39153,FALSE,FALSE,America/New_York
+568,44320,41.07835,-81.58332,Akron,OH,Ohio,TRUE,,18554,734.7,39153,Summit,"{""39153"": ""100""}",Summit,39153,FALSE,FALSE,America/New_York
+569,44321,41.09891,-81.65131,Akron,OH,Ohio,TRUE,,15349,390.4,39153,Summit,"{""39153"": ""99.63"", ""39103"": ""0.38""}",Summit|Medina,39153|39103,FALSE,FALSE,America/New_York
+570,44333,41.16193,-81.63287,Akron,OH,Ohio,TRUE,,18769,260,39153,Summit,"{""39153"": ""99.8"", ""39103"": ""0.2""}",Summit|Medina,39153|39103,FALSE,FALSE,America/New_York
+571,44401,41.02259,-80.94521,Berlin Center,OH,Ohio,TRUE,,2868,34.4,39099,Mahoning,"{""39099"": ""100""}",Mahoning,39099,FALSE,FALSE,America/New_York
+572,44402,41.38663,-80.85424,Bristolville,OH,Ohio,TRUE,,3278,35,39155,Trumbull,"{""39155"": ""100""}",Trumbull,39155,FALSE,FALSE,America/New_York
+573,44403,41.24042,-80.58148,Brookfield,OH,Ohio,TRUE,,3920,104.9,39155,Trumbull,"{""39155"": ""100""}",Trumbull,39155,FALSE,FALSE,America/New_York
+574,44404,41.32651,-80.54998,Burghill,OH,Ohio,TRUE,,1583,35.8,39155,Trumbull,"{""39155"": ""100""}",Trumbull,39155,FALSE,FALSE,America/New_York
+575,44405,41.07769,-80.59186,Campbell,OH,Ohio,TRUE,,7895,866.7,39099,Mahoning,"{""39099"": ""100""}",Mahoning,39099,FALSE,FALSE,America/New_York
+576,44406,41.01105,-80.77222,Canfield,OH,Ohio,TRUE,,21394,155.3,39099,Mahoning,"{""39099"": ""100""}",Mahoning,39099,FALSE,FALSE,America/New_York
+577,44408,40.88615,-80.68651,Columbiana,OH,Ohio,TRUE,,9654,104.7,39029,Columbiana,"{""39029"": ""78.7"", ""39099"": ""21.3""}",Columbiana|Mahoning,39029|39099,FALSE,FALSE,America/New_York
+578,44410,41.34928,-80.72414,Cortland,OH,Ohio,TRUE,,16901,95.9,39155,Trumbull,"{""39155"": ""100""}",Trumbull,39155,FALSE,FALSE,America/New_York
+579,44411,41.035,-81.04871,Deerfield,OH,Ohio,TRUE,,2208,47.8,39133,Portage,"{""39133"": ""100""}",Portage,39133,FALSE,FALSE,America/New_York
+580,44412,41.09396,-81.02478,Diamond,OH,Ohio,TRUE,,2492,42.1,39133,Portage,"{""39133"": ""83.93"", ""39099"": ""16.07""}",Portage|Mahoning,39133|39099,FALSE,FALSE,America/New_York
+581,44413,40.84785,-80.55409,East Palestine,OH,Ohio,TRUE,,7176,116.8,39029,Columbiana,"{""39029"": ""100""}",Columbiana,39029,FALSE,FALSE,America/New_York
+582,44417,41.43634,-80.66387,Farmdale,OH,Ohio,TRUE,,1847,21.4,39155,Trumbull,"{""39155"": ""100""}",Trumbull,39155,FALSE,FALSE,America/New_York
+583,44418,41.3074,-80.60347,Fowler,OH,Ohio,TRUE,,1189,26.3,39155,Trumbull,"{""39155"": ""100""}",Trumbull,39155,FALSE,FALSE,America/New_York
+584,44420,41.17326,-80.68007,Girard,OH,Ohio,TRUE,,14774,364.8,39155,Trumbull,"{""39155"": ""100""}",Trumbull,39155,FALSE,FALSE,America/New_York
+585,44423,40.75272,-80.9008,Hanoverton,OH,Ohio,TRUE,,2495,35.2,39029,Columbiana,"{""39029"": ""100""}",Columbiana,39029,FALSE,FALSE,America/New_York
+586,44425,41.17053,-80.57383,Hubbard,OH,Ohio,TRUE,,14069,175.9,39155,Trumbull,"{""39155"": ""99.23"", ""39099"": ""0.77""}",Trumbull|Mahoning,39155|39099,FALSE,FALSE,America/New_York
+587,44427,40.71629,-80.95635,Kensington,OH,Ohio,TRUE,,1458,18.4,39029,Columbiana,"{""39029"": ""60.55"", ""39019"": ""39.45""}",Columbiana|Carroll,39029|39019,FALSE,FALSE,America/New_York
+588,44428,41.4361,-80.57854,Kinsman,OH,Ohio,TRUE,,3061,21.7,39155,Trumbull,"{""39155"": ""98.12"", ""39007"": ""1.88""}",Trumbull|Ashtabula,39155|39007,FALSE,FALSE,America/New_York
+589,44429,41.09715,-80.98165,Lake Milton,OH,Ohio,TRUE,,2629,156.2,39099,Mahoning,"{""39099"": ""97.52"", ""39133"": ""2.48""}",Mahoning|Portage,39099|39133,FALSE,FALSE,America/New_York
+590,44430,41.24069,-80.90784,Leavittsburg,OH,Ohio,TRUE,,4698,132.8,39155,Trumbull,"{""39155"": ""100""}",Trumbull,39155,FALSE,FALSE,America/New_York
+591,44431,40.8483,-80.75416,Leetonia,OH,Ohio,TRUE,,4491,66,39029,Columbiana,"{""39029"": ""100""}",Columbiana,39029,FALSE,FALSE,America/New_York
+592,44432,40.75011,-80.75814,Lisbon,OH,Ohio,TRUE,,12969,48.5,39029,Columbiana,"{""39029"": ""100""}",Columbiana,39029,FALSE,FALSE,America/New_York
+593,44436,41.05947,-80.54332,Lowellville,OH,Ohio,TRUE,,3796,63.3,39099,Mahoning,"{""39099"": ""100""}",Mahoning,39099,FALSE,FALSE,America/New_York
+594,44437,41.15582,-80.73122,McDonald,OH,Ohio,TRUE,,4229,413,39155,Trumbull,"{""39155"": ""97.77"", ""39099"": ""2.23""}",Trumbull|Mahoning,39155|39099,FALSE,FALSE,America/New_York
+595,44438,41.24234,-80.53365,Masury,OH,Ohio,TRUE,,4360,199.6,39155,Trumbull,"{""39155"": ""100""}",Trumbull,39155,FALSE,FALSE,America/New_York
+596,44439,41.4558,-80.95638,Mesopotamia,OH,Ohio,TRUE,,165,365.1,39155,Trumbull,"{""39155"": ""100""}",Trumbull,39155,FALSE,FALSE,America/New_York
+597,44440,41.14835,-80.78377,Mineral Ridge,OH,Ohio,TRUE,,4764,220.4,39155,Trumbull,"{""39155"": ""75.84"", ""39099"": ""24.16""}",Trumbull|Mahoning,39155|39099,FALSE,FALSE,America/New_York
+598,44441,40.75795,-80.55297,Negley,OH,Ohio,TRUE,,1803,43.4,39029,Columbiana,"{""39029"": ""100""}",Columbiana,39029,FALSE,FALSE,America/New_York
+599,44442,40.96613,-80.54925,New Middletown,OH,Ohio,TRUE,,3952,174.1,39099,Mahoning,"{""39099"": ""100""}",Mahoning,39099,FALSE,FALSE,America/New_York
+600,44443,40.9244,-80.59836,New Springfield,OH,Ohio,TRUE,,1753,52.7,39099,Mahoning,"{""39099"": ""96.13"", ""39029"": ""3.87""}",Mahoning|Columbiana,39099|39029,FALSE,FALSE,America/New_York
+601,44444,41.17342,-80.97525,Newton Falls,OH,Ohio,TRUE,,9776,88.5,39155,Trumbull,"{""39155"": ""87.93"", ""39133"": ""9.05"", ""39099"": ""3.02""}",Trumbull|Portage|Mahoning,39155|39133|39099,FALSE,FALSE,America/New_York
+602,44445,40.84865,-80.61804,New Waterford,OH,Ohio,TRUE,,3610,84.1,39029,Columbiana,"{""39029"": ""100""}",Columbiana,39029,FALSE,FALSE,America/New_York
+603,44446,41.18996,-80.7496,Niles,OH,Ohio,TRUE,,20151,573.8,39155,Trumbull,"{""39155"": ""100""}",Trumbull,39155,FALSE,FALSE,America/New_York
+604,44449,40.98034,-81.03356,North Benton,OH,Ohio,TRUE,,1313,42.8,39099,Mahoning,"{""39099"": ""53.06"", ""39133"": ""46.94""}",Mahoning|Portage,39099|39133,FALSE,FALSE,America/New_York
+605,44450,41.45519,-80.82992,North Bloomfield,OH,Ohio,TRUE,,2014,17,39155,Trumbull,"{""39155"": ""100""}",Trumbull,39155,FALSE,FALSE,America/New_York
+606,44451,41.0812,-80.86852,North Jackson,OH,Ohio,TRUE,,2702,27.8,39099,Mahoning,"{""39099"": ""100""}",Mahoning,39099,FALSE,FALSE,America/New_York
+607,44452,40.9477,-80.66169,North Lima,OH,Ohio,TRUE,,3622,104.7,39099,Mahoning,"{""39099"": ""100""}",Mahoning,39099,FALSE,FALSE,America/New_York
+608,44454,40.92002,-80.54298,Petersburg,OH,Ohio,TRUE,,1097,51.1,39099,Mahoning,"{""39099"": ""93.15"", ""39029"": ""6.85""}",Mahoning|Columbiana,39099|39029,FALSE,FALSE,America/New_York
+609,44455,40.77658,-80.6101,Rogers,OH,Ohio,TRUE,,1699,31.8,39029,Columbiana,"{""39029"": ""100""}",Columbiana,39029,FALSE,FALSE,America/New_York
+610,44460,40.89921,-80.87055,Salem,OH,Ohio,TRUE,,25232,89.1,39029,Columbiana,"{""39029"": ""81.18"", ""39099"": ""18.82""}",Columbiana|Mahoning,39029|39099,FALSE,FALSE,America/New_York
+611,44470,41.29776,-80.96182,Southington,OH,Ohio,TRUE,,3893,56.2,39155,Trumbull,"{""39155"": ""100""}",Trumbull,39155,FALSE,FALSE,America/New_York
+612,44471,41.04848,-80.58968,Struthers,OH,Ohio,TRUE,,10618,933.8,39099,Mahoning,"{""39099"": ""100""}",Mahoning,39099,FALSE,FALSE,America/New_York
+613,44473,41.24616,-80.66249,Vienna,OH,Ohio,TRUE,,3287,52.7,39155,Trumbull,"{""39155"": ""100""}",Trumbull,39155,FALSE,FALSE,America/New_York
+614,44481,41.22718,-80.86405,Warren,OH,Ohio,TRUE,,9441,63.6,39155,Trumbull,"{""39155"": ""98.72"", ""39099"": ""1.28""}",Trumbull|Mahoning,39155|39099,FALSE,FALSE,America/New_York
+615,44483,41.26542,-80.81576,Warren,OH,Ohio,TRUE,,24862,527.1,39155,Trumbull,"{""39155"": ""100""}",Trumbull,39155,FALSE,FALSE,America/New_York
+616,44484,41.23521,-80.74905,Warren,OH,Ohio,TRUE,,21347,471.6,39155,Trumbull,"{""39155"": ""100""}",Trumbull,39155,FALSE,FALSE,America/New_York
+617,44485,41.24042,-80.84612,Warren,OH,Ohio,TRUE,,15850,795.3,39155,Trumbull,"{""39155"": ""100""}",Trumbull,39155,FALSE,FALSE,America/New_York
+618,44490,40.8999,-80.76806,Washingtonville,OH,Ohio,TRUE,,903,461.1,39029,Columbiana,"{""39029"": ""56.14"", ""39099"": ""43.86""}",Columbiana|Mahoning,39029|39099,FALSE,FALSE,America/New_York
+619,44491,41.37502,-80.96429,West Farmington,OH,Ohio,TRUE,,3462,45,39155,Trumbull,"{""39155"": ""84.5"", ""39055"": ""14.74"", ""39133"": ""0.77""}",Trumbull|Geauga|Portage,39155|39055|39133,FALSE,FALSE,America/New_York
+620,44493,40.82502,-80.88864,Winona,OH,Ohio,TRUE,,56,86.3,39029,Columbiana,"{""39029"": ""100""}",Columbiana,39029,FALSE,FALSE,America/New_York
+621,44502,41.08438,-80.64246,Youngstown,OH,Ohio,TRUE,,9224,635.5,39099,Mahoning,"{""39099"": ""100""}",Mahoning,39099,FALSE,FALSE,America/New_York
+622,44503,41.09917,-80.64895,Youngstown,OH,Ohio,TRUE,,1020,876.1,39099,Mahoning,"{""39099"": ""100""}",Mahoning,39099,FALSE,FALSE,America/New_York
+623,44504,41.12356,-80.65365,Youngstown,OH,Ohio,TRUE,,4787,1482.4,39099,Mahoning,"{""39099"": ""96.64"", ""39155"": ""3.36""}",Mahoning|Trumbull,39099|39155,FALSE,FALSE,America/New_York
+624,44505,41.12798,-80.6196,Youngstown,OH,Ohio,TRUE,,17319,382.1,39099,Mahoning,"{""39099"": ""63.75"", ""39155"": ""36.25""}",Mahoning|Trumbull,39099|39155,FALSE,FALSE,America/New_York
+625,44506,41.09355,-80.62606,Youngstown,OH,Ohio,TRUE,,2853,611.5,39099,Mahoning,"{""39099"": ""100""}",Mahoning,39099,FALSE,FALSE,America/New_York
+626,44507,41.07441,-80.65525,Youngstown,OH,Ohio,TRUE,,5346,1187,39099,Mahoning,"{""39099"": ""100""}",Mahoning,39099,FALSE,FALSE,America/New_York
+627,44509,41.10805,-80.69644,Youngstown,OH,Ohio,TRUE,,12370,874.8,39099,Mahoning,"{""39099"": ""100""}",Mahoning,39099,FALSE,FALSE,America/New_York
+628,44510,41.12273,-80.67413,Youngstown,OH,Ohio,TRUE,,2654,537.7,39099,Mahoning,"{""39099"": ""100""}",Mahoning,39099,FALSE,FALSE,America/New_York
+629,44511,41.06953,-80.69565,Youngstown,OH,Ohio,TRUE,,20199,1049.8,39099,Mahoning,"{""39099"": ""100""}",Mahoning,39099,FALSE,FALSE,America/New_York
+630,44512,41.02498,-80.66778,Youngstown,OH,Ohio,TRUE,,32692,732.7,39099,Mahoning,"{""39099"": ""100""}",Mahoning,39099,FALSE,FALSE,America/New_York
+631,44514,40.99893,-80.60809,Youngstown,OH,Ohio,TRUE,,21737,389.3,39099,Mahoning,"{""39099"": ""100""}",Mahoning,39099,FALSE,FALSE,America/New_York
+632,44515,41.10123,-80.76375,Youngstown,OH,Ohio,TRUE,,26574,534.9,39099,Mahoning,"{""39099"": ""100""}",Mahoning,39099,FALSE,FALSE,America/New_York
+633,44601,40.91936,-81.13023,Alliance,OH,Ohio,TRUE,,34618,163.5,39151,Stark,"{""39151"": ""91.72"", ""39029"": ""4.2"", ""39099"": ""4.08""}",Stark|Columbiana|Mahoning,39151|39029|39099,FALSE,FALSE,America/New_York
+634,44606,40.73165,-81.79763,Apple Creek,OH,Ohio,TRUE,,8517,78.4,39169,Wayne,"{""39169"": ""100""}",Wayne,39169,FALSE,FALSE,America/New_York
+635,44607,40.68949,-81.02581,Augusta,OH,Ohio,TRUE,,161,29.7,39019,Carroll,"{""39019"": ""100""}",Carroll,39019,FALSE,FALSE,America/New_York
+636,44608,40.65394,-81.59493,Beach City,OH,Ohio,TRUE,,2242,39.9,39151,Stark,"{""39151"": ""83.95"", ""39157"": ""16.05""}",Stark|Tuscarawas,39151|39157,FALSE,FALSE,America/New_York
+637,44609,40.91729,-80.98799,Beloit,OH,Ohio,TRUE,,3747,48.2,39099,Mahoning,"{""39099"": ""59.62"", ""39029"": ""40.38""}",Mahoning|Columbiana,39099|39029,FALSE,FALSE,America/New_York
+638,44610,40.55952,-81.79983,Berlin,OH,Ohio,TRUE,,170,368.8,39075,Holmes,"{""39075"": ""100""}",Holmes,39075,FALSE,FALSE,America/New_York
+639,44611,40.60452,-82.08586,Big Prairie,OH,Ohio,TRUE,,2056,27.3,39075,Holmes,"{""39075"": ""95.46"", ""39169"": ""4.54""}",Holmes|Wayne,39075|39169,FALSE,FALSE,America/New_York
+640,44612,40.63595,-81.4596,Bolivar,OH,Ohio,TRUE,,5423,81.5,39157,Tuscarawas,"{""39157"": ""96.05"", ""39151"": ""3.95""}",Tuscarawas|Stark,39157|39151,FALSE,FALSE,America/New_York
+641,44613,40.71367,-81.60024,Brewster,OH,Ohio,TRUE,,2086,415.2,39151,Stark,"{""39151"": ""100""}",Stark,39151,FALSE,FALSE,America/New_York
+642,44614,40.88707,-81.58627,Canal Fulton,OH,Ohio,TRUE,,12597,217.1,39151,Stark,"{""39151"": ""98.52"", ""39153"": ""1.48""}",Stark|Summit,39151|39153,FALSE,FALSE,America/New_York
+643,44615,40.56509,-81.07428,Carrollton,OH,Ohio,TRUE,,9662,25.9,39019,Carroll,"{""39019"": ""100""}",Carroll,39019,FALSE,FALSE,America/New_York
+644,44618,40.77268,-81.68897,Dalton,OH,Ohio,TRUE,,6711,61.4,39169,Wayne,"{""39169"": ""92.42"", ""39151"": ""7.58""}",Wayne|Stark,39169|39151,FALSE,FALSE,America/New_York
+645,44620,40.58266,-81.21376,Dellroy,OH,Ohio,TRUE,,1833,31.1,39019,Carroll,"{""39019"": ""100""}",Carroll,39019,FALSE,FALSE,America/New_York
+646,44621,40.42753,-81.29587,Dennison,OH,Ohio,TRUE,,4406,56.3,39157,Tuscarawas,"{""39157"": ""94.49"", ""39067"": ""4.46"", ""39019"": ""1.06""}",Tuscarawas|Harrison|Carroll,39157|39067|39019,FALSE,FALSE,America/New_York
+647,44622,40.54871,-81.47896,Dover,OH,Ohio,TRUE,,18112,127.7,39157,Tuscarawas,"{""39157"": ""100""}",Tuscarawas,39157,FALSE,FALSE,America/New_York
+648,44624,40.61132,-81.66097,Dundee,OH,Ohio,TRUE,,5400,42.7,39075,Holmes,"{""39075"": ""53.07"", ""39157"": ""36"", ""39169"": ""10.93""}",Holmes|Tuscarawas|Wayne,39075|39157|39169,FALSE,FALSE,America/New_York
+649,44625,40.76108,-81.00001,East Rochester,OH,Ohio,TRUE,,1693,34.5,39029,Columbiana,"{""39029"": ""84.49"", ""39019"": ""15.51""}",Columbiana|Carroll,39029|39019,FALSE,FALSE,America/New_York
+650,44626,40.68963,-81.38377,East Sparta,OH,Ohio,TRUE,,2811,39.5,39151,Stark,"{""39151"": ""98.56"", ""39157"": ""1.44""}",Stark|Tuscarawas,39151|39157,FALSE,FALSE,America/New_York
+651,44627,40.66603,-81.83249,Fredericksburg,OH,Ohio,TRUE,,7177,59.6,39169,Wayne,"{""39169"": ""56.14"", ""39075"": ""43.86""}",Wayne|Holmes,39169|39075,FALSE,FALSE,America/New_York
+652,44628,40.53714,-82.16453,Glenmont,OH,Ohio,TRUE,,832,8.3,39075,Holmes,"{""39075"": ""77.41"", ""39083"": ""22.59""}",Holmes|Knox,39075|39083,FALSE,FALSE,America/New_York
+653,44629,40.35645,-81.44614,Gnadenhutten,OH,Ohio,TRUE,,2541,47.9,39157,Tuscarawas,"{""39157"": ""100""}",Tuscarawas,39157,FALSE,FALSE,America/New_York
+654,44632,40.96379,-81.30667,Hartville,OH,Ohio,TRUE,,9670,136.5,39151,Stark,"{""39151"": ""94.72"", ""39133"": ""5.28""}",Stark|Portage,39151|39133,FALSE,FALSE,America/New_York
+655,44633,40.63139,-81.93415,Holmesville,OH,Ohio,TRUE,,2423,40.6,39075,Holmes,"{""39075"": ""100""}",Holmes,39075,FALSE,FALSE,America/New_York
+656,44634,40.83417,-81.04793,Homeworth,OH,Ohio,TRUE,,1847,37.5,39029,Columbiana,"{""39029"": ""75.46"", ""39151"": ""24.54""}",Columbiana|Stark,39029|39151,FALSE,FALSE,America/New_York
+657,44637,40.48315,-82.03372,Killbuck,OH,Ohio,TRUE,,3000,20.9,39075,Holmes,"{""39075"": ""89.31"", ""39031"": ""10.69""}",Holmes|Coshocton,39075|39031,FALSE,FALSE,America/New_York
+658,44638,40.64822,-82.13607,Lakeville,OH,Ohio,TRUE,,1434,19.7,39075,Holmes,"{""39075"": ""78.62"", ""39005"": ""16.43"", ""39169"": ""4.94""}",Holmes|Ashland|Wayne,39075|39005|39169,FALSE,FALSE,America/New_York
+659,44640,40.98445,-81.14861,Limaville,OH,Ohio,TRUE,,238,391.2,39151,Stark,"{""39151"": ""100""}",Stark,39151,FALSE,FALSE,America/New_York
+660,44641,40.86582,-81.24172,Louisville,OH,Ohio,TRUE,,20221,144.1,39151,Stark,"{""39151"": ""100""}",Stark,39151,FALSE,FALSE,America/New_York
+661,44643,40.63965,-81.30086,Magnolia,OH,Ohio,TRUE,,3949,46.6,39151,Stark,"{""39151"": ""47.45"", ""39157"": ""28.68"", ""39019"": ""23.87""}",Stark|Tuscarawas|Carroll,39151|39157|39019,FALSE,FALSE,America/New_York
+662,44644,40.68776,-81.17665,Malvern,OH,Ohio,TRUE,,4790,83.5,39019,Carroll,"{""39019"": ""100""}",Carroll,39019,FALSE,FALSE,America/New_York
+663,44645,40.90888,-81.71655,Marshallville,OH,Ohio,TRUE,,2530,39.4,39169,Wayne,"{""39169"": ""100""}",Wayne,39169,FALSE,FALSE,America/New_York
+664,44646,40.81249,-81.49841,Massillon,OH,Ohio,TRUE,,47437,634.1,39151,Stark,"{""39151"": ""100""}",Stark,39151,FALSE,FALSE,America/New_York
+665,44647,40.79758,-81.56503,Massillon,OH,Ohio,TRUE,,18935,254.8,39151,Stark,"{""39151"": ""100""}",Stark,39151,FALSE,FALSE,America/New_York
+666,44651,40.62549,-80.95387,Mechanicstown,OH,Ohio,TRUE,,612,9.8,39019,Carroll,"{""39019"": ""100""}",Carroll,39019,FALSE,FALSE,America/New_York
+667,44652,40.90044,-81.32618,Middlebranch,OH,Ohio,TRUE,,0,0,39151,Stark,"{""39151"": ""100""}",Stark,39151,FALSE,FALSE,America/New_York
+668,44653,40.43606,-81.37023,Midvale,OH,Ohio,TRUE,,611,587.3,39157,Tuscarawas,"{""39157"": ""100""}",Tuscarawas,39157,FALSE,FALSE,America/New_York
+669,44654,40.53909,-81.87079,Millersburg,OH,Ohio,TRUE,,20348,50,39075,Holmes,"{""39075"": ""97.69"", ""39031"": ""2.31""}",Holmes|Coshocton,39075|39031,FALSE,FALSE,America/New_York
+670,44656,40.569,-81.33676,Mineral City,OH,Ohio,TRUE,,2647,24.6,39157,Tuscarawas,"{""39157"": ""96.36"", ""39019"": ""3.64""}",Tuscarawas|Carroll,39157|39019,FALSE,FALSE,America/New_York
+671,44657,40.74115,-81.0931,Minerva,OH,Ohio,TRUE,,9762,57.3,39151,Stark,"{""39151"": ""45.84"", ""39019"": ""35.84"", ""39029"": ""18.32""}",Stark|Carroll|Columbiana,39151|39019|39029,FALSE,FALSE,America/New_York
+672,44659,40.69464,-81.70207,Mount Eaton,OH,Ohio,TRUE,,136,436.4,39169,Wayne,"{""39169"": ""100""}",Wayne,39169,FALSE,FALSE,America/New_York
+673,44661,40.59529,-82.11284,Nashville,OH,Ohio,TRUE,,144,980.9,39075,Holmes,"{""39075"": ""100""}",Holmes,39075,FALSE,FALSE,America/New_York
+674,44662,40.71086,-81.55621,Navarre,OH,Ohio,TRUE,,9748,62.7,39151,Stark,"{""39151"": ""93.51"", ""39169"": ""6.49""}",Stark|Wayne,39151|39169,FALSE,FALSE,America/New_York
+675,44663,40.46047,-81.45206,New Philadelphia,OH,Ohio,TRUE,,25305,104.8,39157,Tuscarawas,"{""39157"": ""100""}",Tuscarawas,39157,FALSE,FALSE,America/New_York
+676,44666,40.84409,-81.63286,North Lawrence,OH,Ohio,TRUE,,2505,41.2,39151,Stark,"{""39151"": ""84.43"", ""39169"": ""15.57""}",Stark|Wayne,39151|39169,FALSE,FALSE,America/New_York
+677,44667,40.83346,-81.76595,Orrville,OH,Ohio,TRUE,,13226,109.9,39169,Wayne,"{""39169"": ""100""}",Wayne,39169,FALSE,FALSE,America/New_York
+678,44669,40.79669,-81.15786,Paris,OH,Ohio,TRUE,,1517,33.7,39151,Stark,"{""39151"": ""100""}",Stark,39151,FALSE,FALSE,America/New_York
+679,44670,40.7627,-81.18862,Robertsville,OH,Ohio,TRUE,,168,384,39151,Stark,"{""39151"": ""100""}",Stark,39151,FALSE,FALSE,America/New_York
+680,44671,40.64595,-81.36565,Sandyville,OH,Ohio,TRUE,,218,104.6,39157,Tuscarawas,"{""39157"": ""100""}",Tuscarawas,39157,FALSE,FALSE,America/New_York
+681,44672,40.92059,-81.02542,Sebring,OH,Ohio,TRUE,,4761,555.8,39099,Mahoning,"{""39099"": ""100""}",Mahoning,39099,FALSE,FALSE,America/New_York
+682,44675,40.50033,-81.25007,Sherrodsville,OH,Ohio,TRUE,,1970,24.9,39019,Carroll,"{""39019"": ""79.25"", ""39157"": ""20.75""}",Carroll|Tuscarawas,39019|39157,FALSE,FALSE,America/New_York
+683,44676,40.6885,-82.0354,Shreve,OH,Ohio,TRUE,,5068,35.7,39169,Wayne,"{""39169"": ""76.79"", ""39075"": ""23.21""}",Wayne|Holmes,39169|39075,FALSE,FALSE,America/New_York
+684,44677,40.87411,-81.86115,Smithville,OH,Ohio,TRUE,,2593,60.8,39169,Wayne,"{""39169"": ""100""}",Wayne,39169,FALSE,FALSE,America/New_York
+685,44678,40.56661,-81.34988,Somerdale,OH,Ohio,TRUE,,356,148,39157,Tuscarawas,"{""39157"": ""100""}",Tuscarawas,39157,FALSE,FALSE,America/New_York
+686,44680,40.60258,-81.54245,Strasburg,OH,Ohio,TRUE,,4401,94,39157,Tuscarawas,"{""39157"": ""100""}",Tuscarawas,39157,FALSE,FALSE,America/New_York
+687,44681,40.5021,-81.66119,Sugarcreek,OH,Ohio,TRUE,,8442,54.9,39157,Tuscarawas,"{""39157"": ""61.6"", ""39075"": ""38.4""}",Tuscarawas|Holmes,39157|39075,FALSE,FALSE,America/New_York
+688,44682,40.39729,-81.40533,Tuscarawas,OH,Ohio,TRUE,,1061,1071,39157,Tuscarawas,"{""39157"": ""100""}",Tuscarawas,39157,FALSE,FALSE,America/New_York
+689,44683,40.35284,-81.32318,Uhrichsville,OH,Ohio,TRUE,,8292,46.8,39157,Tuscarawas,"{""39157"": ""94.47"", ""39067"": ""5.53""}",Tuscarawas|Harrison,39157|39067,FALSE,FALSE,America/New_York
+690,44685,40.95992,-81.42424,Uniontown,OH,Ohio,TRUE,,27941,421.1,39153,Summit,"{""39153"": ""50.79"", ""39151"": ""49.21""}",Summit|Stark,39153|39151,FALSE,FALSE,America/New_York
+691,44687,40.53789,-81.72007,Walnut Creek,OH,Ohio,TRUE,,293,1739.5,39075,Holmes,"{""39075"": ""100""}",Holmes,39075,FALSE,FALSE,America/New_York
+692,44688,40.68462,-81.25771,Waynesburg,OH,Ohio,TRUE,,2961,49.6,39151,Stark,"{""39151"": ""91.09"", ""39019"": ""8.91""}",Stark|Carroll,39151|39019,FALSE,FALSE,America/New_York
+693,44689,40.64989,-81.65687,Wilmot,OH,Ohio,TRUE,,782,82.3,39151,Stark,"{""39151"": ""63.79"", ""39075"": ""36.21""}",Stark|Holmes,39151|39075,FALSE,FALSE,America/New_York
+694,44690,40.61422,-81.69379,Winesburg,OH,Ohio,TRUE,,163,208.9,39075,Holmes,"{""39075"": ""100""}",Holmes,39075,FALSE,FALSE,America/New_York
+695,44691,40.8057,-81.97955,Wooster,OH,Ohio,TRUE,,45195,111.3,39169,Wayne,"{""39169"": ""99.9"", ""39005"": ""0.1""}",Wayne|Ashland,39169|39005,FALSE,FALSE,America/New_York
+696,44693,40.3019,-81.18622,Deersville,OH,Ohio,TRUE,,38,15.2,39067,Harrison,"{""39067"": ""100""}",Harrison,39067,FALSE,FALSE,America/New_York
+697,44695,40.43674,-81.17831,Bowerston,OH,Ohio,TRUE,,1560,20,39019,Carroll,"{""39019"": ""50.19"", ""39067"": ""49.81""}",Carroll|Harrison,39019|39067,FALSE,FALSE,America/New_York
+698,44697,40.61156,-81.4236,Zoar,OH,Ohio,TRUE,,183,115.6,39157,Tuscarawas,"{""39157"": ""100""}",Tuscarawas,39157,FALSE,FALSE,America/New_York
+699,44699,40.27808,-81.28491,Tippecanoe,OH,Ohio,TRUE,,756,5.3,39067,Harrison,"{""39067"": ""73.53"", ""39157"": ""26.25"", ""39059"": ""0.21""}",Harrison|Tuscarawas|Guernsey,39067|39157|39059,FALSE,FALSE,America/New_York
+700,44702,40.79988,-81.37543,Canton,OH,Ohio,TRUE,,925,666.3,39151,Stark,"{""39151"": ""100""}",Stark,39151,FALSE,FALSE,America/New_York
+701,44703,40.81052,-81.38138,Canton,OH,Ohio,TRUE,,8156,2873.5,39151,Stark,"{""39151"": ""100""}",Stark,39151,FALSE,FALSE,America/New_York
+702,44704,40.8003,-81.34034,Canton,OH,Ohio,TRUE,,3495,557.4,39151,Stark,"{""39151"": ""100""}",Stark,39151,FALSE,FALSE,America/New_York
+703,44705,40.83384,-81.33223,Canton,OH,Ohio,TRUE,,19797,933.1,39151,Stark,"{""39151"": ""100""}",Stark,39151,FALSE,FALSE,America/New_York
+704,44706,40.75352,-81.41866,Canton,OH,Ohio,TRUE,,16676,346.5,39151,Stark,"{""39151"": ""100""}",Stark,39151,FALSE,FALSE,America/New_York
+705,44707,40.76111,-81.34988,Canton,OH,Ohio,TRUE,,8982,241.3,39151,Stark,"{""39151"": ""100""}",Stark,39151,FALSE,FALSE,America/New_York
+706,44708,40.81775,-81.43562,Canton,OH,Ohio,TRUE,,25425,960.2,39151,Stark,"{""39151"": ""100""}",Stark,39151,FALSE,FALSE,America/New_York
+707,44709,40.84237,-81.38622,Canton,OH,Ohio,TRUE,,19096,1279.8,39151,Stark,"{""39151"": ""100""}",Stark,39151,FALSE,FALSE,America/New_York
+708,44710,40.7897,-81.42607,Canton,OH,Ohio,TRUE,,8585,1489,39151,Stark,"{""39151"": ""100""}",Stark,39151,FALSE,FALSE,America/New_York
+709,44714,40.83611,-81.35907,Canton,OH,Ohio,TRUE,,8495,1248.5,39151,Stark,"{""39151"": ""100""}",Stark,39151,FALSE,FALSE,America/New_York
+710,44718,40.85116,-81.44747,Canton,OH,Ohio,TRUE,,11910,559.1,39151,Stark,"{""39151"": ""100""}",Stark,39151,FALSE,FALSE,America/New_York
+711,44720,40.90138,-81.43165,North Canton,OH,Ohio,TRUE,,38810,440,39151,Stark,"{""39151"": ""91.06"", ""39153"": ""8.94""}",Stark|Summit,39151|39153,FALSE,FALSE,America/New_York
+712,44721,40.89412,-81.32837,Canton,OH,Ohio,TRUE,,14065,353.3,39151,Stark,"{""39151"": ""100""}",Stark,39151,FALSE,FALSE,America/New_York
+713,44730,40.76573,-81.25905,East Canton,OH,Ohio,TRUE,,5711,59.8,39151,Stark,"{""39151"": ""98.51"", ""39019"": ""1.49""}",Stark|Carroll,39151|39019,FALSE,FALSE,America/New_York
+714,44802,41.04566,-83.41945,Alvada,OH,Ohio,TRUE,,1033,14,39147,Seneca,"{""39147"": ""56.88"", ""39063"": ""43.12""}",Seneca|Hancock,39147|39063,FALSE,FALSE,America/New_York
+715,44804,41.10561,-83.53412,Arcadia,OH,Ohio,TRUE,,883,16.8,39063,Hancock,"{""39063"": ""100""}",Hancock,39063,FALSE,FALSE,America/New_York
+716,44805,40.87291,-82.31688,Ashland,OH,Ohio,TRUE,,33290,83.9,39005,Ashland,"{""39005"": ""98.69"", ""39139"": ""1.31""}",Ashland|Richland,39005|39139,FALSE,FALSE,America/New_York
+717,44807,41.05988,-82.87733,Attica,OH,Ohio,TRUE,,2064,11.2,39147,Seneca,"{""39147"": ""93.91"", ""39077"": ""6.09""}",Seneca|Huron,39147|39077,FALSE,FALSE,America/New_York
+718,44809,41.13348,-83.2888,Bascom,OH,Ohio,TRUE,,269,325.6,39147,Seneca,"{""39147"": ""100""}",Seneca,39147,FALSE,FALSE,America/New_York
+719,44811,41.24463,-82.84455,Bellevue,OH,Ohio,TRUE,,12564,41.3,39143,Sandusky,"{""39143"": ""47.35"", ""39077"": ""37.19"", ""39147"": ""10.48"", ""39043"": ""4.97""}",Sandusky|Huron|Seneca|Erie,39143|39077|39147|39043,FALSE,FALSE,America/New_York
+720,44813,40.59884,-82.53168,Bellville,OH,Ohio,TRUE,,9148,49.3,39139,Richland,"{""39139"": ""86.54"", ""39117"": ""10.2"", ""39083"": ""3.27""}",Richland|Morrow|Knox,39139|39117|39083,FALSE,FALSE,America/New_York
+721,44814,41.32187,-82.4726,Berlin Heights,OH,Ohio,TRUE,,2894,42.5,39043,Erie,"{""39043"": ""100""}",Erie,39043,FALSE,FALSE,America/New_York
+722,44815,41.24664,-83.23942,Bettsville,OH,Ohio,TRUE,,607,206.4,39147,Seneca,"{""39147"": ""100""}",Seneca,39147,FALSE,FALSE,America/New_York
+723,44816,41.33023,-82.35253,Birmingham,OH,Ohio,TRUE,,24,359.4,39043,Erie,"{""39043"": ""100""}",Erie,39043,FALSE,FALSE,America/New_York
+724,44817,41.19985,-83.54542,Bloomdale,OH,Ohio,TRUE,,1517,18.5,39173,Wood,"{""39173"": ""93.66"", ""39063"": ""6.34""}",Wood|Hancock,39173|39063,FALSE,FALSE,America/New_York
+725,44818,41.00036,-82.99593,Bloomville,OH,Ohio,TRUE,,2460,13,39147,Seneca,"{""39147"": ""68.42"", ""39033"": ""31.58""}",Seneca|Crawford,39147|39033,FALSE,FALSE,America/New_York
+726,44820,40.81746,-82.97252,Bucyrus,OH,Ohio,TRUE,,17374,41.9,39033,Crawford,"{""39033"": ""100""}",Crawford,39033,FALSE,FALSE,America/New_York
+727,44822,40.55722,-82.39861,Butler,OH,Ohio,TRUE,,3124,27.7,39139,Richland,"{""39139"": ""68.83"", ""39083"": ""31.17""}",Richland|Knox,39139|39083,FALSE,FALSE,America/New_York
+728,44824,41.3806,-82.80504,Castalia,OH,Ohio,TRUE,,4325,67.2,39043,Erie,"{""39043"": ""97.93"", ""39143"": ""2.07""}",Erie|Sandusky,39043|39143,FALSE,FALSE,America/New_York
+729,44825,40.95424,-82.94314,Chatfield,OH,Ohio,TRUE,,111,1063.3,39033,Crawford,"{""39033"": ""100""}",Crawford,39033,FALSE,FALSE,America/New_York
+730,44826,41.2408,-82.48009,Collins,OH,Ohio,TRUE,,1540,22.5,39077,Huron,"{""39077"": ""90.22"", ""39043"": ""9.78""}",Huron|Erie,39077|39043,FALSE,FALSE,America/New_York
+731,44827,40.81937,-82.75771,Crestline,OH,Ohio,TRUE,,6832,55.5,39033,Crawford,"{""39033"": ""90.22"", ""39139"": ""9.78""}",Crawford|Richland,39033|39139,FALSE,FALSE,America/New_York
+732,44828,41.23186,-82.86093,Flat Rock,OH,Ohio,TRUE,,109,189,39147,Seneca,"{""39147"": ""100""}",Seneca,39147,FALSE,FALSE,America/New_York
+733,44830,41.16705,-83.39991,Fostoria,OH,Ohio,TRUE,,18888,61.2,39147,Seneca,"{""39147"": ""69.19"", ""39063"": ""19.33"", ""39173"": ""11.48""}",Seneca|Hancock|Wood,39147|39063|39173,FALSE,FALSE,America/New_York
+734,44833,40.71064,-82.79417,Galion,OH,Ohio,TRUE,,16658,70.6,39033,Crawford,"{""39033"": ""81.06"", ""39117"": ""15.66"", ""39139"": ""2.42"", ""39101"": ""0.85""}",Crawford|Morrow|Richland|Marion,39033|39117|39139|39101,FALSE,FALSE,America/New_York
+735,44836,41.23807,-83.05467,Green Springs,OH,Ohio,TRUE,,2330,25.6,39147,Seneca,"{""39147"": ""60.02"", ""39143"": ""39.98""}",Seneca|Sandusky,39147|39143,FALSE,FALSE,America/New_York
+736,44837,41.01641,-82.48219,Greenwich,OH,Ohio,TRUE,,4642,26.5,39077,Huron,"{""39077"": ""70.47"", ""39139"": ""21.07"", ""39005"": ""8.46""}",Huron|Richland|Ashland,39077|39139|39005,FALSE,FALSE,America/New_York
+737,44838,40.77228,-82.25979,Hayesville,OH,Ohio,TRUE,,235,291.8,39005,Ashland,"{""39005"": ""100""}",Ashland,39005,FALSE,FALSE,America/New_York
+738,44839,41.37348,-82.56096,Huron,OH,Ohio,TRUE,,12022,131.4,39043,Erie,"{""39043"": ""100""}",Erie,39043,FALSE,FALSE,America/New_York
+739,44840,40.78965,-82.17898,Jeromesville,OH,Ohio,TRUE,,2578,21.5,39005,Ashland,"{""39005"": ""99.21"", ""39169"": ""0.79""}",Ashland|Wayne,39005|39169,FALSE,FALSE,America/New_York
+740,44841,41.25124,-83.30611,Kansas,OH,Ohio,TRUE,,775,15.7,39147,Seneca,"{""39147"": ""65.92"", ""39143"": ""34.08""}",Seneca|Sandusky,39147|39143,FALSE,FALSE,America/New_York
+741,44842,40.65147,-82.22496,Loudonville,OH,Ohio,TRUE,,5343,28.5,39005,Ashland,"{""39005"": ""88.61"", ""39075"": ""11.39""}",Ashland|Holmes,39005|39075,FALSE,FALSE,America/New_York
+742,44843,40.68904,-82.41074,Lucas,OH,Ohio,TRUE,,2339,33,39139,Richland,"{""39139"": ""98.62"", ""39005"": ""1.38""}",Richland|Ashland,39139|39005,FALSE,FALSE,America/New_York
+743,44844,40.9922,-83.26132,McCutchenville,OH,Ohio,TRUE,,481,10.5,39175,Wyandot,"{""39175"": ""53.8"", ""39147"": ""46.2""}",Wyandot|Seneca,39175|39147,FALSE,FALSE,America/New_York
+744,44846,41.3206,-82.61033,Milan,OH,Ohio,TRUE,,3432,57.7,39043,Erie,"{""39043"": ""89.09"", ""39077"": ""10.91""}",Erie|Huron,39043|39077,FALSE,FALSE,America/New_York
+745,44847,41.22885,-82.7055,Monroeville,OH,Ohio,TRUE,,3604,19.8,39077,Huron,"{""39077"": ""79.22"", ""39043"": ""20.78""}",Huron|Erie,39077|39043,FALSE,FALSE,America/New_York
+746,44849,40.80925,-83.13046,Nevada,OH,Ohio,TRUE,,2572,20.4,39175,Wyandot,"{""39175"": ""79.6"", ""39033"": ""19.2"", ""39101"": ""1.19""}",Wyandot|Crawford|Marion,39175|39033|39101,FALSE,FALSE,America/New_York
+747,44850,41.03549,-82.68406,New Haven,OH,Ohio,TRUE,,52,53,39077,Huron,"{""39077"": ""100""}",Huron,39077,FALSE,FALSE,America/New_York
+748,44851,41.10396,-82.40599,New London,OH,Ohio,TRUE,,4697,24.4,39077,Huron,"{""39077"": ""85.64"", ""39093"": ""8.61"", ""39005"": ""5.75""}",Huron|Lorain|Ashland,39077|39093|39005,FALSE,FALSE,America/New_York
+749,44853,41.0553,-83.30302,New Riegel,OH,Ohio,TRUE,,1442,20.4,39147,Seneca,"{""39147"": ""100""}",Seneca,39147,FALSE,FALSE,America/New_York
+750,44854,40.94343,-82.8551,New Washington,OH,Ohio,TRUE,,1639,16.3,39033,Crawford,"{""39033"": ""100""}",Crawford,39033,FALSE,FALSE,America/New_York
+751,44855,41.10395,-82.58953,North Fairfield,OH,Ohio,TRUE,,1347,19.2,39077,Huron,"{""39077"": ""100""}",Huron,39077,FALSE,FALSE,America/New_York
+752,44856,40.794,-82.85666,North Robinson,OH,Ohio,TRUE,,234,1713.9,39033,Crawford,"{""39033"": ""100""}",Crawford,39033,FALSE,FALSE,America/New_York
+753,44857,41.2185,-82.58239,Norwalk,OH,Ohio,TRUE,,23303,108.3,39077,Huron,"{""39077"": ""98.7"", ""39043"": ""1.3""}",Huron|Erie,39077|39043,FALSE,FALSE,America/New_York
+754,44859,41.02044,-82.3265,Nova,OH,Ohio,TRUE,,1721,21.9,39005,Ashland,"{""39005"": ""95.68"", ""39093"": ""4.32""}",Ashland|Lorain,39005|39093,FALSE,FALSE,America/New_York
+755,44861,41.23951,-83.14798,Old Fort,OH,Ohio,TRUE,,106,1576.1,39147,Seneca,"{""39147"": ""100""}",Seneca,39147,FALSE,FALSE,America/New_York
+756,44864,40.66494,-82.32131,Perrysville,OH,Ohio,TRUE,,3281,21.4,39005,Ashland,"{""39005"": ""78.31"", ""39139"": ""21.69""}",Ashland|Richland,39005|39139,FALSE,FALSE,America/New_York
+757,44865,40.99234,-82.67912,Plymouth,OH,Ohio,TRUE,,3076,33.5,39077,Huron,"{""39077"": ""49.8"", ""39139"": ""48.14"", ""39033"": ""2.07""}",Huron|Richland|Crawford,39077|39139|39033,FALSE,FALSE,America/New_York
+758,44866,40.92062,-82.19347,Polk,OH,Ohio,TRUE,,1838,27.3,39005,Ashland,"{""39005"": ""100""}",Ashland,39005,FALSE,FALSE,America/New_York
+759,44867,41.14708,-82.98823,Republic,OH,Ohio,TRUE,,2543,16.1,39147,Seneca,"{""39147"": ""100""}",Seneca,39147,FALSE,FALSE,America/New_York
+760,44870,41.4052,-82.72495,Sandusky,OH,Ohio,TRUE,,39202,260,39043,Erie,"{""39043"": ""100""}",Erie,39043,FALSE,FALSE,America/New_York
+761,44874,40.96814,-82.36642,Savannah,OH,Ohio,TRUE,,360,293.6,39005,Ashland,"{""39005"": ""100""}",Ashland,39005,FALSE,FALSE,America/New_York
+762,44875,40.88812,-82.65272,Shelby,OH,Ohio,TRUE,,13353,65.2,39139,Richland,"{""39139"": ""99.34"", ""39033"": ""0.66""}",Richland|Crawford,39139|39033,FALSE,FALSE,America/New_York
+763,44878,40.94623,-82.51719,Shiloh,OH,Ohio,TRUE,,3153,20.1,39139,Richland,"{""39139"": ""95.68"", ""39005"": ""2.76"", ""39077"": ""1.56""}",Richland|Ashland|Huron,39139|39005|39077,FALSE,FALSE,America/New_York
+764,44880,41.03411,-82.22035,Sullivan,OH,Ohio,TRUE,,2886,36.2,39005,Ashland,"{""39005"": ""90.15"", ""39093"": ""9.25"", ""39103"": ""0.59""}",Ashland|Lorain|Medina,39005|39093|39103,FALSE,FALSE,America/New_York
+765,44881,40.87002,-82.87601,Sulphur Springs,OH,Ohio,TRUE,,25,241.6,39033,Crawford,"{""39033"": ""100""}",Crawford,39033,FALSE,FALSE,America/New_York
+766,44882,40.9476,-83.13513,Sycamore,OH,Ohio,TRUE,,2839,14.9,39175,Wyandot,"{""39175"": ""70.78"", ""39033"": ""23.99"", ""39147"": ""5.23""}",Wyandot|Crawford|Seneca,39175|39033|39147,FALSE,FALSE,America/New_York
+767,44883,41.12373,-83.17331,Tiffin,OH,Ohio,TRUE,,28271,65.4,39147,Seneca,"{""39147"": ""100""}",Seneca,39147,FALSE,FALSE,America/New_York
+768,44887,40.92159,-82.78573,Tiro,OH,Ohio,TRUE,,800,10.3,39033,Crawford,"{""39033"": ""100""}",Crawford,39033,FALSE,FALSE,America/New_York
+769,44889,41.24556,-82.38327,Wakeman,OH,Ohio,TRUE,,7149,34.9,39077,Huron,"{""39077"": ""63.99"", ""39043"": ""25.56"", ""39093"": ""10.46""}",Huron|Erie|Lorain,39077|39043|39093,FALSE,FALSE,America/New_York
+770,44890,41.08111,-82.71563,Willard,OH,Ohio,TRUE,,10936,48.2,39077,Huron,"{""39077"": ""100""}",Huron,39077,FALSE,FALSE,America/New_York
+771,44901,40.79166,-82.50941,Mansfield,OH,Ohio,TRUE,,2627,8667.4,39139,Richland,"{""39139"": ""100""}",Richland,39139,FALSE,FALSE,America/New_York
+772,44902,40.75817,-82.51056,Mansfield,OH,Ohio,TRUE,,5504,1137.3,39139,Richland,"{""39139"": ""100""}",Richland,39139,FALSE,FALSE,America/New_York
+773,44903,40.77603,-82.52734,Mansfield,OH,Ohio,TRUE,,23250,78.6,39139,Richland,"{""39139"": ""98.41"", ""39117"": ""1.34"", ""39005"": ""0.25""}",Richland|Morrow|Ashland,39139|39117|39005,FALSE,FALSE,America/New_York
+774,44904,40.66547,-82.61294,Mansfield,OH,Ohio,TRUE,,13427,101.1,39139,Richland,"{""39139"": ""90.63"", ""39117"": ""9.37""}",Richland|Morrow,39139|39117,FALSE,FALSE,America/New_York
+775,44905,40.77747,-82.46827,Mansfield,OH,Ohio,TRUE,,13387,406.4,39139,Richland,"{""39139"": ""100""}",Richland,39139,FALSE,FALSE,America/New_York
+776,44906,40.76575,-82.57694,Mansfield,OH,Ohio,TRUE,,16984,316,39139,Richland,"{""39139"": ""100""}",Richland,39139,FALSE,FALSE,America/New_York
+777,44907,40.72722,-82.52138,Mansfield,OH,Ohio,TRUE,,14958,741.7,39139,Richland,"{""39139"": ""100""}",Richland,39139,FALSE,FALSE,America/New_York
+778,45001,39.13918,-84.71233,Addyston,OH,Ohio,TRUE,,685,435.7,39061,Hamilton,"{""39061"": ""100""}",Hamilton,39061,FALSE,FALSE,America/New_York
+779,45002,39.19836,-84.73405,Cleves,OH,Ohio,TRUE,,13705,208.9,39061,Hamilton,"{""39061"": ""100""}",Hamilton,39061,FALSE,FALSE,America/New_York
+780,45003,39.58696,-84.78787,College Corner,OH,Ohio,TRUE,,590,21.6,39135,Preble,"{""39135"": ""69.73"", ""39017"": ""30.27""}",Preble|Butler,39135|39017,FALSE,FALSE,America/New_York
+781,45005,39.53559,-84.30296,Franklin,OH,Ohio,TRUE,,31475,337.9,39165,Warren,"{""39165"": ""99.18"", ""39113"": ""0.82""}",Warren|Montgomery,39165|39113,FALSE,FALSE,America/New_York
+782,45011,39.42962,-84.50248,Hamilton,OH,Ohio,TRUE,,71189,454,39017,Butler,"{""39017"": ""100""}",Butler,39017,FALSE,FALSE,America/New_York
+783,45013,39.40771,-84.64867,Hamilton,OH,Ohio,TRUE,,54333,181.7,39017,Butler,"{""39017"": ""99.98"", ""39061"": ""0.02""}",Butler|Hamilton,39017|39061,FALSE,FALSE,America/New_York
+784,45014,39.32804,-84.55132,Fairfield,OH,Ohio,TRUE,,43620,776.4,39017,Butler,"{""39017"": ""100""}",Butler,39017,FALSE,FALSE,America/New_York
+785,45015,39.36202,-84.53959,Hamilton,OH,Ohio,TRUE,,12122,776.4,39017,Butler,"{""39017"": ""100""}",Butler,39017,FALSE,FALSE,America/New_York
+786,45030,39.25707,-84.76083,Harrison,OH,Ohio,TRUE,,19532,176.9,39061,Hamilton,"{""39061"": ""100""}",Hamilton,39061,FALSE,FALSE,America/New_York
+787,45032,39.50239,-84.01038,Harveysburg,OH,Ohio,TRUE,,310,444.1,39165,Warren,"{""39165"": ""100""}",Warren,39165,FALSE,FALSE,America/New_York
+788,45033,39.1768,-84.76306,Hooven,OH,Ohio,TRUE,,182,1369.1,39061,Hamilton,"{""39061"": ""100""}",Hamilton,39061,FALSE,FALSE,America/New_York
+789,45034,39.35889,-84.24646,Kings Mills,OH,Ohio,TRUE,,1251,552.9,39165,Warren,"{""39165"": ""100""}",Warren,39165,FALSE,FALSE,America/New_York
+790,45036,39.44443,-84.2202,Lebanon,OH,Ohio,TRUE,,38759,184,39165,Warren,"{""39165"": ""100""}",Warren,39165,FALSE,FALSE,America/New_York
+791,45039,39.32785,-84.23948,Maineville,OH,Ohio,TRUE,,26045,630.5,39165,Warren,"{""39165"": ""100""}",Warren,39165,FALSE,FALSE,America/New_York
+792,45040,39.352,-84.31256,Mason,OH,Ohio,TRUE,,54890,754.8,39165,Warren,"{""39165"": ""100""}",Warren,39165,FALSE,FALSE,America/New_York
+793,45041,39.21114,-84.703,Miamitown,OH,Ohio,TRUE,,0,0,39061,Hamilton,"{""39061"": ""100""}",Hamilton,39061,FALSE,FALSE,America/New_York
+794,45042,39.54879,-84.43796,Middletown,OH,Ohio,TRUE,,27470,215,39017,Butler,"{""39017"": ""96.74"", ""39135"": ""1.83"", ""39165"": ""1.43""}",Butler|Preble|Warren,39017|39135|39165,FALSE,FALSE,America/New_York
+795,45044,39.45004,-84.38227,Middletown,OH,Ohio,TRUE,,53772,546.6,39017,Butler,"{""39017"": ""96.42"", ""39165"": ""3.58""}",Butler|Warren,39017|39165,FALSE,FALSE,America/New_York
+796,45050,39.44535,-84.35918,Monroe,OH,Ohio,TRUE,,8625,447.4,39017,Butler,"{""39017"": ""99.12"", ""39165"": ""0.88""}",Butler|Warren,39017|39165,FALSE,FALSE,America/New_York
+797,45051,39.09796,-84.64662,Mount Saint Joseph,OH,Ohio,TRUE,,168,750.5,39061,Hamilton,"{""39061"": ""100""}",Hamilton,39061,FALSE,FALSE,America/New_York
+798,45052,39.1448,-84.77923,North Bend,OH,Ohio,TRUE,,3830,112.8,39061,Hamilton,"{""39061"": ""100""}",Hamilton,39061,FALSE,FALSE,America/New_York
+799,45053,39.35251,-84.78054,Okeana,OH,Ohio,TRUE,,3780,53.8,39017,Butler,"{""39017"": ""99.71"", ""18047"": ""0.29""}",Butler|Franklin,39017|18047,FALSE,FALSE,America/New_York
+800,45054,39.44055,-84.07497,Oregonia,OH,Ohio,TRUE,,2924,36.6,39165,Warren,"{""39165"": ""100""}",Warren,39165,FALSE,FALSE,America/New_York
+801,45056,39.49069,-84.74361,Oxford,OH,Ohio,TRUE,,28355,144.1,39017,Butler,"{""39017"": ""100""}",Butler,39017,FALSE,FALSE,America/New_York
+802,45062,39.47972,-84.55304,Seven Mile,OH,Ohio,TRUE,,732,876.1,39017,Butler,"{""39017"": ""100""}",Butler,39017,FALSE,FALSE,America/New_York
+803,45064,39.56619,-84.60077,Somerville,OH,Ohio,TRUE,,3123,38.1,39017,Butler,"{""39017"": ""54.22"", ""39135"": ""45.78""}",Butler|Preble,39017|39135,FALSE,FALSE,America/New_York
+804,45065,39.37086,-84.21025,South Lebanon,OH,Ohio,TRUE,,4520,662.6,39165,Warren,"{""39165"": ""100""}",Warren,39165,FALSE,FALSE,America/New_York
+805,45066,39.54906,-84.22313,Springboro,OH,Ohio,TRUE,,25040,467.5,39165,Warren,"{""39165"": ""94.89"", ""39113"": ""5.11""}",Warren|Montgomery,39165|39113,FALSE,FALSE,America/New_York
+806,45067,39.48775,-84.47871,Trenton,OH,Ohio,TRUE,,15152,294.6,39017,Butler,"{""39017"": ""100""}",Butler,39017,FALSE,FALSE,America/New_York
+807,45068,39.52618,-84.06357,Waynesville,OH,Ohio,TRUE,,11719,68.5,39165,Warren,"{""39165"": ""98.2"", ""39057"": ""1.42"", ""39027"": ""0.38""}",Warren|Greene|Clinton,39165|39057|39027,FALSE,FALSE,America/New_York
+808,45069,39.34239,-84.41141,West Chester,OH,Ohio,TRUE,,51627,700.9,39017,Butler,"{""39017"": ""100""}",Butler,39017,FALSE,FALSE,America/New_York
+809,45070,39.5897,-84.55807,West Elkton,OH,Ohio,TRUE,,188,180.3,39135,Preble,"{""39135"": ""100""}",Preble,39135,FALSE,FALSE,America/New_York
+810,45101,38.69055,-83.74129,Aberdeen,OH,Ohio,TRUE,,2184,46.8,39015,Brown,"{""39015"": ""100""}",Brown,39015,FALSE,FALSE,America/New_York
+811,45102,39.01712,-84.20427,Amelia,OH,Ohio,TRUE,,22029,386,39025,Clermont,"{""39025"": ""100""}",Clermont,39025,FALSE,FALSE,America/New_York
+812,45103,39.09753,-84.13767,Batavia,OH,Ohio,TRUE,,32366,144.8,39025,Clermont,"{""39025"": ""100""}",Clermont,39025,FALSE,FALSE,America/New_York
+813,45106,38.94492,-84.07145,Bethel,OH,Ohio,TRUE,,12452,64.2,39025,Clermont,"{""39025"": ""89.98"", ""39015"": ""10.02""}",Clermont|Brown,39025|39015,FALSE,FALSE,America/New_York
+814,45107,39.29264,-83.96611,Blanchester,OH,Ohio,TRUE,,9730,49.8,39027,Clinton,"{""39027"": ""69.66"", ""39165"": ""16.7"", ""39015"": ""7.45"", ""39025"": ""6.19""}",Clinton|Warren|Brown|Clermont,39027|39165|39015|39025,FALSE,FALSE,America/New_York
+815,45111,39.19634,-84.29021,Camp Dennison,OH,Ohio,TRUE,,335,173.7,39061,Hamilton,"{""39061"": ""100""}",Hamilton,39061,FALSE,FALSE,America/New_York
+816,45112,38.7934,-84.14021,Chilo,OH,Ohio,TRUE,,68,105.3,39025,Clermont,"{""39025"": ""100""}",Clermont,39025,FALSE,FALSE,America/New_York
+817,45113,39.39718,-83.98502,Clarksville,OH,Ohio,TRUE,,3956,40.5,39027,Clinton,"{""39027"": ""68.65"", ""39165"": ""31.35""}",Clinton|Warren,39027|39165,FALSE,FALSE,America/New_York
+818,45115,38.82411,-83.69909,Decatur,OH,Ohio,TRUE,,68,25.2,39015,Brown,"{""39015"": ""100""}",Brown,39015,FALSE,FALSE,America/New_York
+819,45118,39.17028,-83.93325,Fayetteville,OH,Ohio,TRUE,,3875,38.1,39015,Brown,"{""39015"": ""95.71"", ""39025"": ""3.46"", ""39071"": ""0.83""}",Brown|Clermont|Highland,39015|39025|39071,FALSE,FALSE,America/New_York
+820,45120,38.82223,-84.0896,Felicity,OH,Ohio,TRUE,,2912,27.4,39025,Clermont,"{""39025"": ""83.63"", ""39015"": ""16.37""}",Clermont|Brown,39025|39015,FALSE,FALSE,America/New_York
+821,45121,38.87002,-83.90363,Georgetown,OH,Ohio,TRUE,,8922,33.2,39015,Brown,"{""39015"": ""99.1"", ""39025"": ""0.9""}",Brown|Clermont,39015|39025,FALSE,FALSE,America/New_York
+822,45122,39.22034,-84.11621,Goshen,OH,Ohio,TRUE,,11088,96.8,39025,Clermont,"{""39025"": ""95.68"", ""39165"": ""4.32""}",Clermont|Warren,39025|39165,FALSE,FALSE,America/New_York
+823,45123,39.35023,-83.38582,Greenfield,OH,Ohio,TRUE,,8643,33.9,39071,Highland,"{""39071"": ""79.52"", ""39141"": ""13.44"", ""39047"": ""7.05""}",Highland|Ross|Fayette,39071|39141|39047,FALSE,FALSE,America/New_York
+824,45130,38.90948,-83.99864,Hamersville,OH,Ohio,TRUE,,4020,41.3,39015,Brown,"{""39015"": ""84.85"", ""39025"": ""15.15""}",Brown|Clermont,39015|39025,FALSE,FALSE,America/New_York
+825,45131,38.79011,-83.9666,Higginsport,OH,Ohio,TRUE,,300,543.6,39015,Brown,"{""39015"": ""100""}",Brown,39015,FALSE,FALSE,America/New_York
+826,45132,39.34391,-83.60031,Highland,OH,Ohio,TRUE,,362,760.6,39071,Highland,"{""39071"": ""100""}",Highland,39071,FALSE,FALSE,America/New_York
+827,45133,39.15726,-83.57603,Hillsboro,OH,Ohio,TRUE,,24024,29.1,39071,Highland,"{""39071"": ""98.75"", ""39131"": ""1.13"", ""39015"": ""0.12""}",Highland|Pike|Brown,39071|39131|39015,FALSE,FALSE,America/New_York
+828,45135,39.34607,-83.54426,Leesburg,OH,Ohio,TRUE,,4873,26.7,39071,Highland,"{""39071"": ""90.25"", ""39047"": ""7.71"", ""39027"": ""2.04""}",Highland|Fayette|Clinton,39071|39047|39027,FALSE,FALSE,America/New_York
+829,45140,39.25758,-84.24167,Loveland,OH,Ohio,TRUE,,56357,469.6,39025,Clermont,"{""39025"": ""52.36"", ""39061"": ""28.81"", ""39165"": ""18.83""}",Clermont|Hamilton|Warren,39025|39061|39165,FALSE,FALSE,America/New_York
+830,45142,39.20569,-83.8126,Lynchburg,OH,Ohio,TRUE,,3754,22.8,39071,Highland,"{""39071"": ""80.29"", ""39027"": ""10.1"", ""39015"": ""9.61""}",Highland|Clinton|Brown,39071|39027|39015,FALSE,FALSE,America/New_York
+831,45144,38.7056,-83.61289,Manchester,OH,Ohio,TRUE,,4149,22.9,39001,Adams,"{""39001"": ""97.14"", ""39015"": ""2.86""}",Adams|Brown,39001|39015,FALSE,FALSE,America/New_York
+832,45146,39.31512,-83.79828,Martinsville,OH,Ohio,TRUE,,1507,21.4,39027,Clinton,"{""39027"": ""100""}",Clinton,39027,FALSE,FALSE,America/New_York
+833,45147,39.20667,-84.28889,Miamiville,OH,Ohio,TRUE,,235,152.2,39025,Clermont,"{""39025"": ""93.88"", ""39061"": ""6.12""}",Clermont|Hamilton,39025|39061,FALSE,FALSE,America/New_York
+834,45148,39.28715,-83.88347,Midland,OH,Ohio,TRUE,,1366,22.8,39027,Clinton,"{""39027"": ""94.77"", ""39015"": ""5.23""}",Clinton|Brown,39027|39015,FALSE,FALSE,America/New_York
+835,45150,39.1657,-84.233,Milford,OH,Ohio,TRUE,,33011,389.7,39025,Clermont,"{""39025"": ""99.94"", ""39061"": ""0.06""}",Clermont|Hamilton,39025|39061,FALSE,FALSE,America/New_York
+836,45152,39.35058,-84.12168,Morrow,OH,Ohio,TRUE,,12014,90,39165,Warren,"{""39165"": ""100""}",Warren,39165,FALSE,FALSE,America/New_York
+837,45153,38.86869,-84.18496,Moscow,OH,Ohio,TRUE,,1928,26.7,39025,Clermont,"{""39025"": ""100""}",Clermont,39025,FALSE,FALSE,America/New_York
+838,45154,39.05949,-83.91926,Mount Orab,OH,Ohio,TRUE,,8927,51.9,39015,Brown,"{""39015"": ""94.91"", ""39071"": ""5.09""}",Brown|Highland,39015|39071,FALSE,FALSE,America/New_York
+839,45155,39.03989,-83.75158,Mowrystown,OH,Ohio,TRUE,,356,271.3,39071,Highland,"{""39071"": ""100""}",Highland,39071,FALSE,FALSE,America/New_York
+840,45156,38.81472,-84.2154,Neville,OH,Ohio,TRUE,,59,35.9,39025,Clermont,"{""39025"": ""100""}",Clermont,39025,FALSE,FALSE,America/New_York
+841,45157,38.95651,-84.22984,New Richmond,OH,Ohio,TRUE,,10088,93.3,39025,Clermont,"{""39025"": ""100""}",Clermont,39025,FALSE,FALSE,America/New_York
+842,45158,39.18114,-84.08991,Newtonsville,OH,Ohio,TRUE,,391,868.7,39025,Clermont,"{""39025"": ""100""}",Clermont,39025,FALSE,FALSE,America/New_York
+843,45159,39.33069,-83.68921,New Vienna,OH,Ohio,TRUE,,3826,28.9,39027,Clinton,"{""39027"": ""62.65"", ""39071"": ""37.35""}",Clinton|Highland,39027|39071,FALSE,FALSE,America/New_York
+844,45160,39.123,-84.13673,Owensville,OH,Ohio,TRUE,,792,881.1,39025,Clermont,"{""39025"": ""100""}",Clermont,39025,FALSE,FALSE,America/New_York
+845,45162,39.26783,-84.07828,Pleasant Plain,OH,Ohio,TRUE,,2510,41,39165,Warren,"{""39165"": ""62.68"", ""39025"": ""37.32""}",Warren|Clermont,39165|39025,FALSE,FALSE,America/New_York
+846,45164,39.55406,-83.78264,Port William,OH,Ohio,TRUE,,365,496.8,39027,Clinton,"{""39027"": ""100""}",Clinton,39027,FALSE,FALSE,America/New_York
+847,45166,39.4766,-83.68776,Reesville,OH,Ohio,TRUE,,82,42.8,39027,Clinton,"{""39027"": ""100""}",Clinton,39027,FALSE,FALSE,America/New_York
+848,45167,38.77283,-83.80059,Ripley,OH,Ohio,TRUE,,3652,23,39015,Brown,"{""39015"": ""100""}",Brown,39015,FALSE,FALSE,America/New_York
+849,45168,38.84488,-83.75573,Russellville,OH,Ohio,TRUE,,1472,17.3,39015,Brown,"{""39015"": ""100""}",Brown,39015,FALSE,FALSE,America/New_York
+850,45169,39.50061,-83.64981,Sabina,OH,Ohio,TRUE,,4611,18.3,39027,Clinton,"{""39027"": ""92.37"", ""39047"": ""5.72"", ""39057"": ""1.91""}",Clinton|Fayette|Greene,39027|39047|39057,FALSE,FALSE,America/New_York
+851,45171,39.01455,-83.79884,Sardinia,OH,Ohio,TRUE,,5997,30.7,39015,Brown,"{""39015"": ""78.28"", ""39071"": ""21.72""}",Brown|Highland,39015|39071,FALSE,FALSE,America/New_York
+852,45172,39.07447,-83.38688,Sinking Spring,OH,Ohio,TRUE,,164,143.5,39071,Highland,"{""39071"": ""100""}",Highland,39071,FALSE,FALSE,America/New_York
+853,45174,39.15887,-84.31054,Terrace Park,OH,Ohio,TRUE,,2305,717,39061,Hamilton,"{""39061"": ""100""}",Hamilton,39061,FALSE,FALSE,America/New_York
+854,45176,39.08341,-84.02315,Williamsburg,OH,Ohio,TRUE,,9521,69.8,39025,Clermont,"{""39025"": ""64.96"", ""39015"": ""35.04""}",Clermont|Brown,39025|39015,FALSE,FALSE,America/New_York
+855,45177,39.46013,-83.83716,Wilmington,OH,Ohio,TRUE,,21998,49.2,39027,Clinton,"{""39027"": ""100""}",Clinton,39027,FALSE,FALSE,America/New_York
+856,45202,39.10893,-84.50253,Cincinnati,OH,Ohio,TRUE,,14097,2008.5,39061,Hamilton,"{""39061"": ""100""}",Hamilton,39061,FALSE,FALSE,America/New_York
+857,45203,39.10428,-84.53355,Cincinnati,OH,Ohio,TRUE,,2202,677.4,39061,Hamilton,"{""39061"": ""100""}",Hamilton,39061,FALSE,FALSE,America/New_York
+858,45204,39.09636,-84.57161,Cincinnati,OH,Ohio,TRUE,,5506,661.5,39061,Hamilton,"{""39061"": ""100""}",Hamilton,39061,FALSE,FALSE,America/New_York
+859,45205,39.11007,-84.57523,Cincinnati,OH,Ohio,TRUE,,18803,2501.1,39061,Hamilton,"{""39061"": ""100""}",Hamilton,39061,FALSE,FALSE,America/New_York
+860,45206,39.12738,-84.48436,Cincinnati,OH,Ohio,TRUE,,10713,2058.3,39061,Hamilton,"{""39061"": ""100""}",Hamilton,39061,FALSE,FALSE,America/New_York
+861,45207,39.14203,-84.47135,Cincinnati,OH,Ohio,TRUE,,6927,2273.2,39061,Hamilton,"{""39061"": ""100""}",Hamilton,39061,FALSE,FALSE,America/New_York
+862,45208,39.13475,-84.43453,Cincinnati,OH,Ohio,TRUE,,17953,1634.9,39061,Hamilton,"{""39061"": ""100""}",Hamilton,39061,FALSE,FALSE,America/New_York
+863,45209,39.15304,-84.42651,Cincinnati,OH,Ohio,TRUE,,11225,1831.8,39061,Hamilton,"{""39061"": ""100""}",Hamilton,39061,FALSE,FALSE,America/New_York
+864,45211,39.15629,-84.59823,Cincinnati,OH,Ohio,TRUE,,36890,1574.5,39061,Hamilton,"{""39061"": ""100""}",Hamilton,39061,FALSE,FALSE,America/New_York
+865,45212,39.16413,-84.4523,Cincinnati,OH,Ohio,TRUE,,22715,2351.2,39061,Hamilton,"{""39061"": ""100""}",Hamilton,39061,FALSE,FALSE,America/New_York
+866,45213,39.18076,-84.42008,Cincinnati,OH,Ohio,TRUE,,11658,1413.2,39061,Hamilton,"{""39061"": ""100""}",Hamilton,39061,FALSE,FALSE,America/New_York
+867,45214,39.1226,-84.54458,Cincinnati,OH,Ohio,TRUE,,7895,1351.3,39061,Hamilton,"{""39061"": ""100""}",Hamilton,39061,FALSE,FALSE,America/New_York
+868,45215,39.2353,-84.46211,Cincinnati,OH,Ohio,TRUE,,30581,1004.2,39061,Hamilton,"{""39061"": ""100""}",Hamilton,39061,FALSE,FALSE,America/New_York
+869,45216,39.2009,-84.48165,Cincinnati,OH,Ohio,TRUE,,9313,1192.9,39061,Hamilton,"{""39061"": ""100""}",Hamilton,39061,FALSE,FALSE,America/New_York
+870,45217,39.16767,-84.49728,Cincinnati,OH,Ohio,TRUE,,7085,1315.2,39061,Hamilton,"{""39061"": ""100""}",Hamilton,39061,FALSE,FALSE,America/New_York
+871,45218,39.26642,-84.52227,Cincinnati,OH,Ohio,TRUE,,3815,905.3,39061,Hamilton,"{""39061"": ""100""}",Hamilton,39061,FALSE,FALSE,America/New_York
+872,45219,39.12733,-84.513,Cincinnati,OH,Ohio,TRUE,,18766,4130.2,39061,Hamilton,"{""39061"": ""100""}",Hamilton,39061,FALSE,FALSE,America/New_York
+873,45220,39.14854,-84.52071,Cincinnati,OH,Ohio,TRUE,,14214,1914.8,39061,Hamilton,"{""39061"": ""100""}",Hamilton,39061,FALSE,FALSE,America/New_York
+874,45223,39.17123,-84.54898,Cincinnati,OH,Ohio,TRUE,,11877,791.1,39061,Hamilton,"{""39061"": ""100""}",Hamilton,39061,FALSE,FALSE,America/New_York
+875,45224,39.20099,-84.53151,Cincinnati,OH,Ohio,TRUE,,21481,1283.2,39061,Hamilton,"{""39061"": ""100""}",Hamilton,39061,FALSE,FALSE,America/New_York
+876,45225,39.14307,-84.55211,Cincinnati,OH,Ohio,TRUE,,9285,1163.5,39061,Hamilton,"{""39061"": ""100""}",Hamilton,39061,FALSE,FALSE,America/New_York
+877,45226,39.11129,-84.42002,Cincinnati,OH,Ohio,TRUE,,5478,375.6,39061,Hamilton,"{""39061"": ""100""}",Hamilton,39061,FALSE,FALSE,America/New_York
+878,45227,39.15384,-84.38531,Cincinnati,OH,Ohio,TRUE,,18468,1239.5,39061,Hamilton,"{""39061"": ""100""}",Hamilton,39061,FALSE,FALSE,America/New_York
+879,45229,39.15266,-84.48688,Cincinnati,OH,Ohio,TRUE,,12823,1814.1,39061,Hamilton,"{""39061"": ""100""}",Hamilton,39061,FALSE,FALSE,America/New_York
+880,45230,39.07434,-84.39088,Cincinnati,OH,Ohio,TRUE,,27999,788.9,39061,Hamilton,"{""39061"": ""100""}",Hamilton,39061,FALSE,FALSE,America/New_York
+881,45231,39.24541,-84.53788,Cincinnati,OH,Ohio,TRUE,,40626,1094.6,39061,Hamilton,"{""39061"": ""100""}",Hamilton,39061,FALSE,FALSE,America/New_York
+882,45232,39.18239,-84.51104,Cincinnati,OH,Ohio,TRUE,,7629,1276.9,39061,Hamilton,"{""39061"": ""100""}",Hamilton,39061,FALSE,FALSE,America/New_York
+883,45233,39.11841,-84.66579,Cincinnati,OH,Ohio,TRUE,,16062,557.8,39061,Hamilton,"{""39061"": ""100""}",Hamilton,39061,FALSE,FALSE,America/New_York
+884,45236,39.20981,-84.3973,Cincinnati,OH,Ohio,TRUE,,24915,1388.1,39061,Hamilton,"{""39061"": ""100""}",Hamilton,39061,FALSE,FALSE,America/New_York
+885,45237,39.19306,-84.45233,Cincinnati,OH,Ohio,TRUE,,20892,1333,39061,Hamilton,"{""39061"": ""100""}",Hamilton,39061,FALSE,FALSE,America/New_York
+886,45238,39.10914,-84.61122,Cincinnati,OH,Ohio,TRUE,,46359,1777.3,39061,Hamilton,"{""39061"": ""100""}",Hamilton,39061,FALSE,FALSE,America/New_York
+887,45239,39.20446,-84.57993,Cincinnati,OH,Ohio,TRUE,,28757,1759.5,39061,Hamilton,"{""39061"": ""100""}",Hamilton,39061,FALSE,FALSE,America/New_York
+888,45240,39.28513,-84.52883,Cincinnati,OH,Ohio,TRUE,,26685,1123.3,39061,Hamilton,"{""39061"": ""100""}",Hamilton,39061,FALSE,FALSE,America/New_York
+889,45241,39.27708,-84.40193,Cincinnati,OH,Ohio,TRUE,,24324,533.8,39061,Hamilton,"{""39061"": ""65.47"", ""39017"": ""34.24"", ""39165"": ""0.3""}",Hamilton|Butler|Warren,39061|39017|39165,FALSE,FALSE,America/New_York
+890,45242,39.24362,-84.35637,Cincinnati,OH,Ohio,TRUE,,22481,629.7,39061,Hamilton,"{""39061"": ""100""}",Hamilton,39061,FALSE,FALSE,America/New_York
+891,45243,39.18379,-84.34177,Cincinnati,OH,Ohio,TRUE,,15079,299.5,39061,Hamilton,"{""39061"": ""100""}",Hamilton,39061,FALSE,FALSE,America/New_York
+892,45244,39.11987,-84.32747,Cincinnati,OH,Ohio,TRUE,,28269,499.4,39061,Hamilton,"{""39061"": ""54.08"", ""39025"": ""45.92""}",Hamilton|Clermont,39061|39025,FALSE,FALSE,America/New_York
+893,45245,39.06272,-84.27533,Cincinnati,OH,Ohio,TRUE,,21872,535.4,39025,Clermont,"{""39025"": ""100""}",Clermont,39025,FALSE,FALSE,America/New_York
+894,45246,39.28963,-84.46692,Cincinnati,OH,Ohio,TRUE,,14467,548.1,39061,Hamilton,"{""39061"": ""93.31"", ""39017"": ""6.69""}",Hamilton|Butler,39061|39017,FALSE,FALSE,America/New_York
+895,45247,39.22036,-84.6516,Cincinnati,OH,Ohio,TRUE,,22854,415.8,39061,Hamilton,"{""39061"": ""100""}",Hamilton,39061,FALSE,FALSE,America/New_York
+896,45248,39.16433,-84.66255,Cincinnati,OH,Ohio,TRUE,,25612,832,39061,Hamilton,"{""39061"": ""100""}",Hamilton,39061,FALSE,FALSE,America/New_York
+897,45249,39.27545,-84.32799,Cincinnati,OH,Ohio,TRUE,,13571,800.2,39061,Hamilton,"{""39061"": ""97.33"", ""39165"": ""2.67""}",Hamilton|Warren,39061|39165,FALSE,FALSE,America/New_York
+898,45251,39.26809,-84.59383,Cincinnati,OH,Ohio,TRUE,,22177,718.6,39061,Hamilton,"{""39061"": ""100""}",Hamilton,39061,FALSE,FALSE,America/New_York
+899,45252,39.27347,-84.63214,Cincinnati,OH,Ohio,TRUE,,4456,151,39061,Hamilton,"{""39061"": ""100""}",Hamilton,39061,FALSE,FALSE,America/New_York
+900,45255,39.05885,-84.32711,Cincinnati,OH,Ohio,TRUE,,21972,664,39061,Hamilton,"{""39061"": ""70.33"", ""39025"": ""29.67""}",Hamilton|Clermont,39061|39025,FALSE,FALSE,America/New_York
+901,45301,39.71146,-84.02204,Alpha,OH,Ohio,TRUE,,99,433.3,39057,Greene,"{""39057"": ""100""}",Greene,39057,FALSE,FALSE,America/New_York
+902,45302,40.40228,-84.20383,Anna,OH,Ohio,TRUE,,4281,32.7,39149,Shelby,"{""39149"": ""100""}",Shelby,39149,FALSE,FALSE,America/New_York
+903,45303,40.21593,-84.65781,Ansonia,OH,Ohio,TRUE,,2542,30.9,39037,Darke,"{""39037"": ""100""}",Darke,39037,FALSE,FALSE,America/New_York
+904,45304,39.9888,-84.53121,Arcanum,OH,Ohio,TRUE,,7305,33.2,39037,Darke,"{""39037"": ""98.6"", ""39135"": ""1.07"", ""39109"": ""0.33""}",Darke|Preble|Miami,39037|39135|39109,FALSE,FALSE,America/New_York
+905,45305,39.63474,-84.07969,Bellbrook,OH,Ohio,TRUE,,11172,298.6,39057,Greene,"{""39057"": ""100""}",Greene,39057,FALSE,FALSE,America/New_York
+906,45306,40.45819,-84.18727,Botkins,OH,Ohio,TRUE,,2390,27.6,39149,Shelby,"{""39149"": ""99.08"", ""39011"": ""0.92""}",Shelby|Auglaize,39149|39011,FALSE,FALSE,America/New_York
+907,45307,39.58066,-83.72337,Bowersville,OH,Ohio,TRUE,,359,805.4,39057,Greene,"{""39057"": ""100""}",Greene,39057,FALSE,FALSE,America/New_York
+908,45308,40.12549,-84.4574,Bradford,OH,Ohio,TRUE,,4518,34.1,39037,Darke,"{""39037"": ""61.13"", ""39109"": ""38.87""}",Darke|Miami,39037|39109,FALSE,FALSE,America/New_York
+909,45309,39.84263,-84.42149,Brookville,OH,Ohio,TRUE,,12409,71.9,39113,Montgomery,"{""39113"": ""99.31"", ""39037"": ""0.48"", ""39135"": ""0.21""}",Montgomery|Darke|Preble,39113|39037|39135,FALSE,FALSE,America/New_York
+910,45310,40.35307,-84.64248,Burkettsville,OH,Ohio,TRUE,,266,590.8,39107,Mercer,"{""39107"": ""69.67"", ""39037"": ""30.33""}",Mercer|Darke,39107|39037,FALSE,FALSE,America/New_York
+911,45311,39.62693,-84.6671,Camden,OH,Ohio,TRUE,,6249,26.4,39135,Preble,"{""39135"": ""100""}",Preble,39135,FALSE,FALSE,America/New_York
+912,45312,40.06026,-84.08027,Casstown,OH,Ohio,TRUE,,1131,15.8,39109,Miami,"{""39109"": ""99.23"", ""39021"": ""0.77""}",Miami|Champaign,39109|39021,FALSE,FALSE,America/New_York
+913,45314,39.74698,-83.77573,Cedarville,OH,Ohio,TRUE,,6042,46.1,39057,Greene,"{""39057"": ""99.44"", ""39023"": ""0.56""}",Greene|Clark,39057|39023,FALSE,FALSE,America/New_York
+914,45315,39.85699,-84.33909,Clayton,OH,Ohio,TRUE,,3977,143.1,39113,Montgomery,"{""39113"": ""100""}",Montgomery,39113,FALSE,FALSE,America/New_York
+915,45316,39.79715,-83.82576,Clifton,OH,Ohio,TRUE,,85,350.7,39057,Greene,"{""39057"": ""76.52"", ""39023"": ""23.48""}",Greene|Clark,39057|39023,FALSE,FALSE,America/New_York
+916,45317,40.17487,-84.01914,Conover,OH,Ohio,TRUE,,1260,19.7,39021,Champaign,"{""39021"": ""45.68"", ""39109"": ""45.34"", ""39149"": ""8.98""}",Champaign|Miami|Shelby,39021|39109|39149,FALSE,FALSE,America/New_York
+917,45318,40.12926,-84.35344,Covington,OH,Ohio,TRUE,,5480,47.3,39109,Miami,"{""39109"": ""99.68"", ""39037"": ""0.32""}",Miami|Darke,39109|39037,FALSE,FALSE,America/New_York
+918,45319,39.91613,-83.94321,Donnelsville,OH,Ohio,TRUE,,361,388.7,39023,Clark,"{""39023"": ""100""}",Clark,39023,FALSE,FALSE,America/New_York
+919,45320,39.74915,-84.68804,Eaton,OH,Ohio,TRUE,,15163,43.7,39135,Preble,"{""39135"": ""100""}",Preble,39135,FALSE,FALSE,America/New_York
+920,45321,39.8735,-84.67821,Eldorado,OH,Ohio,TRUE,,791,23.3,39135,Preble,"{""39135"": ""100""}",Preble,39135,FALSE,FALSE,America/New_York
+921,45322,39.89787,-84.32868,Englewood,OH,Ohio,TRUE,,21527,417.5,39113,Montgomery,"{""39113"": ""98.37"", ""39109"": ""1.63""}",Montgomery|Miami,39113|39109,FALSE,FALSE,America/New_York
+922,45323,39.84989,-83.92759,Enon,OH,Ohio,TRUE,,4947,301.4,39023,Clark,"{""39023"": ""100""}",Clark,39023,FALSE,FALSE,America/New_York
+923,45324,39.82283,-83.99406,Fairborn,OH,Ohio,TRUE,,40867,497.7,39057,Greene,"{""39057"": ""95.16"", ""39023"": ""4.84""}",Greene|Clark,39057|39023,FALSE,FALSE,America/New_York
+924,45325,39.69126,-84.42457,Farmersville,OH,Ohio,TRUE,,2407,36.4,39113,Montgomery,"{""39113"": ""100""}",Montgomery,39113,FALSE,FALSE,America/New_York
+925,45326,40.14271,-84.09287,Fletcher,OH,Ohio,TRUE,,1145,19.2,39109,Miami,"{""39109"": ""100""}",Miami,39109,FALSE,FALSE,America/New_York
+926,45327,39.63251,-84.39985,Germantown,OH,Ohio,TRUE,,9115,73.3,39113,Montgomery,"{""39113"": ""97.17"", ""39017"": ""1.63"", ""39135"": ""1.2""}",Montgomery|Butler|Preble,39113|39017|39135,FALSE,FALSE,America/New_York
+927,45328,40.116,-84.49651,Gettysburg,OH,Ohio,TRUE,,576,554.7,39037,Darke,"{""39037"": ""100""}",Darke,39037,FALSE,FALSE,America/New_York
+928,45330,39.64831,-84.52812,Gratis,OH,Ohio,TRUE,,874,388.1,39135,Preble,"{""39135"": ""100""}",Preble,39135,FALSE,FALSE,America/New_York
+929,45331,40.09787,-84.64631,Greenville,OH,Ohio,TRUE,,22049,56.9,39037,Darke,"{""39037"": ""100""}",Darke,39037,FALSE,FALSE,America/New_York
+930,45332,39.99702,-84.78665,Hollansburg,OH,Ohio,TRUE,,765,23.2,39037,Darke,"{""39037"": ""100""}",Darke,39037,FALSE,FALSE,America/New_York
+931,45333,40.2476,-84.33283,Houston,OH,Ohio,TRUE,,1313,22.9,39149,Shelby,"{""39149"": ""100""}",Shelby,39149,FALSE,FALSE,America/New_York
+932,45334,40.44538,-84.04431,Jackson Center,OH,Ohio,TRUE,,2001,30,39149,Shelby,"{""39149"": ""98.43"", ""39011"": ""1.08"", ""39091"": ""0.49""}",Shelby|Auglaize|Logan,39149|39011|39091,FALSE,FALSE,America/New_York
+933,45335,39.63032,-83.73381,Jamestown,OH,Ohio,TRUE,,7033,32,39057,Greene,"{""39057"": ""97.18"", ""39027"": ""1.8"", ""39047"": ""1.02""}",Greene|Clinton|Fayette,39057|39027|39047,FALSE,FALSE,America/New_York
+934,45336,40.44015,-84.26137,Kettlersville,OH,Ohio,TRUE,,156,78.5,39149,Shelby,"{""39149"": ""100""}",Shelby,39149,FALSE,FALSE,America/New_York
+935,45337,39.97988,-84.42057,Laura,OH,Ohio,TRUE,,1724,32.5,39109,Miami,"{""39109"": ""82.96"", ""39037"": ""17.04""}",Miami|Darke,39109|39037,FALSE,FALSE,America/New_York
+936,45338,39.84999,-84.54359,Lewisburg,OH,Ohio,TRUE,,5050,38.3,39135,Preble,"{""39135"": ""100""}",Preble,39135,FALSE,FALSE,America/New_York
+937,45339,40.00916,-84.3425,Ludlow Falls,OH,Ohio,TRUE,,1235,33.4,39109,Miami,"{""39109"": ""100""}",Miami,39109,FALSE,FALSE,America/New_York
+938,45340,40.37192,-84.04744,Maplewood,OH,Ohio,TRUE,,701,11.7,39149,Shelby,"{""39149"": ""100""}",Shelby,39149,FALSE,FALSE,America/New_York
+939,45341,39.87673,-84.02331,Medway,OH,Ohio,TRUE,,3793,253.5,39023,Clark,"{""39023"": ""100""}",Clark,39023,FALSE,FALSE,America/New_York
+940,45342,39.62983,-84.27635,Miamisburg,OH,Ohio,TRUE,,36888,410.9,39113,Montgomery,"{""39113"": ""99.66"", ""39165"": ""0.34""}",Montgomery|Warren,39113|39165,FALSE,FALSE,America/New_York
+941,45344,39.95646,-84.00956,New Carlisle,OH,Ohio,TRUE,,16283,95.1,39023,Clark,"{""39023"": ""89.27"", ""39109"": ""10.12"", ""39021"": ""0.52"", ""39113"": ""0.09""}",Clark|Miami|Champaign|Montgomery,39023|39109|39021|39113,FALSE,FALSE,America/New_York
+942,45345,39.73786,-84.40749,New Lebanon,OH,Ohio,TRUE,,6415,113.3,39113,Montgomery,"{""39113"": ""100""}",Montgomery,39113,FALSE,FALSE,America/New_York
+943,45346,39.98073,-84.7113,New Madison,OH,Ohio,TRUE,,2038,18.7,39037,Darke,"{""39037"": ""100""}",Darke,39037,FALSE,FALSE,America/New_York
+944,45347,39.88231,-84.76263,New Paris,OH,Ohio,TRUE,,4346,30.4,39135,Preble,"{""39135"": ""86.08"", ""39037"": ""13.92""}",Preble|Darke,39135|39037,FALSE,FALSE,America/New_York
+945,45348,40.32806,-84.65193,New Weston,OH,Ohio,TRUE,,919,11.7,39037,Darke,"{""39037"": ""100""}",Darke,39037,FALSE,FALSE,America/New_York
+946,45349,39.98914,-83.94135,North Hampton,OH,Ohio,TRUE,,423,711.1,39023,Clark,"{""39023"": ""100""}",Clark,39023,FALSE,FALSE,America/New_York
+947,45350,40.32442,-84.57367,North Star,OH,Ohio,TRUE,,85,178.5,39037,Darke,"{""39037"": ""100""}",Darke,39037,FALSE,FALSE,America/New_York
+948,45351,40.33941,-84.4952,Osgood,OH,Ohio,TRUE,,255,308,39037,Darke,"{""39037"": ""100""}",Darke,39037,FALSE,FALSE,America/New_York
+949,45352,40.05016,-84.74424,Palestine,OH,Ohio,TRUE,,242,636.5,39037,Darke,"{""39037"": ""100""}",Darke,39037,FALSE,FALSE,America/New_York
+950,45353,40.29252,-84.04274,Pemberton,OH,Ohio,TRUE,,134,18.4,39149,Shelby,"{""39149"": ""100""}",Shelby,39149,FALSE,FALSE,America/New_York
+951,45354,39.91054,-84.39968,Phillipsburg,OH,Ohio,TRUE,,570,250.3,39113,Montgomery,"{""39113"": ""100""}",Montgomery,39113,FALSE,FALSE,America/New_York
+952,45356,40.16088,-84.23154,Piqua,OH,Ohio,TRUE,,24891,126.1,39109,Miami,"{""39109"": ""97.22"", ""39149"": ""2.78""}",Miami|Shelby,39109|39149,FALSE,FALSE,America/New_York
+953,45358,39.98659,-84.48777,Pitsburg,OH,Ohio,TRUE,,303,765,39037,Darke,"{""39037"": ""100""}",Darke,39037,FALSE,FALSE,America/New_York
+954,45359,40.05141,-84.35256,Pleasant Hill,OH,Ohio,TRUE,,1896,48.6,39109,Miami,"{""39109"": ""100""}",Miami,39109,FALSE,FALSE,America/New_York
+955,45360,40.33063,-84.09166,Port Jefferson,OH,Ohio,TRUE,,392,998,39149,Shelby,"{""39149"": ""100""}",Shelby,39149,FALSE,FALSE,America/New_York
+956,45361,39.96374,-84.41484,Potsdam,OH,Ohio,TRUE,,305,264.2,39109,Miami,"{""39109"": ""100""}",Miami,39109,FALSE,FALSE,America/New_York
+957,45362,40.28677,-84.6357,Rossburg,OH,Ohio,TRUE,,941,11.3,39037,Darke,"{""39037"": ""100""}",Darke,39037,FALSE,FALSE,America/New_York
+958,45363,40.24047,-84.39892,Russia,OH,Ohio,TRUE,,1811,29.9,39149,Shelby,"{""39149"": ""100""}",Shelby,39149,FALSE,FALSE,America/New_York
+959,45365,40.28424,-84.15953,Sidney,OH,Ohio,TRUE,,30016,72.2,39149,Shelby,"{""39149"": ""99.96"", ""39021"": ""0.04""}",Shelby|Champaign,39149|39021,FALSE,FALSE,America/New_York
+960,45368,39.84329,-83.65488,South Charleston,OH,Ohio,TRUE,,4824,23.5,39023,Clark,"{""39023"": ""98.88"", ""39057"": ""1.12""}",Clark|Greene,39023|39057,FALSE,FALSE,America/New_York
+961,45369,39.95302,-83.6043,South Vienna,OH,Ohio,TRUE,,3559,31.2,39023,Clark,"{""39023"": ""99.49"", ""39097"": ""0.51""}",Clark|Madison,39023|39097,FALSE,FALSE,America/New_York
+962,45370,39.60729,-84.02839,Spring Valley,OH,Ohio,TRUE,,2445,43.9,39057,Greene,"{""39057"": ""100""}",Greene,39057,FALSE,FALSE,America/New_York
+963,45371,39.94036,-84.16255,Tipp City,OH,Ohio,TRUE,,20324,159.3,39109,Miami,"{""39109"": ""99.64"", ""39113"": ""0.36""}",Miami|Montgomery,39109|39113,FALSE,FALSE,America/New_York
+964,45372,40.01472,-83.83862,Tremont City,OH,Ohio,TRUE,,345,601.6,39023,Clark,"{""39023"": ""100""}",Clark,39023,FALSE,FALSE,America/New_York
+965,45373,40.03218,-84.19478,Troy,OH,Ohio,TRUE,,36131,163.1,39109,Miami,"{""39109"": ""100""}",Miami,39109,FALSE,FALSE,America/New_York
+966,45377,39.89645,-84.22334,Vandalia,OH,Ohio,TRUE,,15332,268,39113,Montgomery,"{""39113"": ""100""}",Montgomery,39113,FALSE,FALSE,America/New_York
+967,45378,39.90288,-84.48874,Verona,OH,Ohio,TRUE,,341,576.4,39135,Preble,"{""39135"": ""100""}",Preble,39135,FALSE,FALSE,America/New_York
+968,45380,40.24335,-84.51429,Versailles,OH,Ohio,TRUE,,5520,31.2,39037,Darke,"{""39037"": ""100""}",Darke,39037,FALSE,FALSE,America/New_York
+969,45381,39.73152,-84.52454,West Alexandria,OH,Ohio,TRUE,,5318,40,39135,Preble,"{""39135"": ""96.06"", ""39113"": ""3.94""}",Preble|Montgomery,39135|39113,FALSE,FALSE,America/New_York
+970,45382,39.90036,-84.61347,West Manchester,OH,Ohio,TRUE,,1362,25.5,39135,Preble,"{""39135"": ""82.58"", ""39037"": ""17.42""}",Preble|Darke,39135|39037,FALSE,FALSE,America/New_York
+971,45383,39.95621,-84.33772,West Milton,OH,Ohio,TRUE,,6924,102.5,39109,Miami,"{""39109"": ""100""}",Miami,39109,FALSE,FALSE,America/New_York
+972,45384,39.71532,-83.88486,Wilberforce,OH,Ohio,TRUE,,2186,648.5,39057,Greene,"{""39057"": ""100""}",Greene,39057,FALSE,FALSE,America/New_York
+973,45385,39.6698,-83.91316,Xenia,OH,Ohio,TRUE,,39139,110.5,39057,Greene,"{""39057"": ""100""}",Greene,39057,FALSE,FALSE,America/New_York
+974,45387,39.79806,-83.88693,Yellow Springs,OH,Ohio,TRUE,,5390,75.4,39057,Greene,"{""39057"": ""95.76"", ""39023"": ""4.24""}",Greene|Clark,39057|39023,FALSE,FALSE,America/New_York
+975,45388,40.32643,-84.4819,Yorkshire,OH,Ohio,TRUE,,946,20.9,39037,Darke,"{""39037"": ""100""}",Darke,39037,FALSE,FALSE,America/New_York
+976,45389,40.05723,-84.02755,Christiansburg,OH,Ohio,TRUE,,425,509.5,39021,Champaign,"{""39021"": ""100""}",Champaign,39021,FALSE,FALSE,America/New_York
+977,45390,40.21875,-84.76887,Union City,OH,Ohio,TRUE,,3310,24.2,39037,Darke,"{""39037"": ""100""}",Darke,39037,FALSE,FALSE,America/New_York
+978,45402,39.75954,-84.21002,Dayton,OH,Ohio,TRUE,,9696,894.4,39113,Montgomery,"{""39113"": ""100""}",Montgomery,39113,FALSE,FALSE,America/New_York
+979,45403,39.76874,-84.14776,Dayton,OH,Ohio,TRUE,,13968,1388.9,39113,Montgomery,"{""39113"": ""100""}",Montgomery,39113,FALSE,FALSE,America/New_York
+980,45404,39.79057,-84.16168,Dayton,OH,Ohio,TRUE,,11150,698.2,39113,Montgomery,"{""39113"": ""100""}",Montgomery,39113,FALSE,FALSE,America/New_York
+981,45405,39.79241,-84.21588,Dayton,OH,Ohio,TRUE,,16793,1647.8,39113,Montgomery,"{""39113"": ""100""}",Montgomery,39113,FALSE,FALSE,America/New_York
+982,45406,39.78436,-84.24168,Dayton,OH,Ohio,TRUE,,19390,1496.3,39113,Montgomery,"{""39113"": ""100""}",Montgomery,39113,FALSE,FALSE,America/New_York
+983,45409,39.72428,-84.18758,Dayton,OH,Ohio,TRUE,,16227,1809.3,39113,Montgomery,"{""39113"": ""100""}",Montgomery,39113,FALSE,FALSE,America/New_York
+984,45410,39.74802,-84.15809,Dayton,OH,Ohio,TRUE,,16446,2848.2,39113,Montgomery,"{""39113"": ""100""}",Montgomery,39113,FALSE,FALSE,America/New_York
+985,45414,39.84254,-84.21243,Dayton,OH,Ohio,TRUE,,20053,341.1,39113,Montgomery,"{""39113"": ""100""}",Montgomery,39113,FALSE,FALSE,America/New_York
+986,45415,39.83457,-84.25698,Dayton,OH,Ohio,TRUE,,13212,824.3,39113,Montgomery,"{""39113"": ""100""}",Montgomery,39113,FALSE,FALSE,America/New_York
+987,45416,39.80717,-84.25801,Dayton,OH,Ohio,TRUE,,6016,1251.3,39113,Montgomery,"{""39113"": ""100""}",Montgomery,39113,FALSE,FALSE,America/New_York
+988,45417,39.73592,-84.28564,Dayton,OH,Ohio,TRUE,,29325,345.7,39113,Montgomery,"{""39113"": ""100""}",Montgomery,39113,FALSE,FALSE,America/New_York
+989,45419,39.71342,-84.16718,Dayton,OH,Ohio,TRUE,,15060,1509.6,39113,Montgomery,"{""39113"": ""100""}",Montgomery,39113,FALSE,FALSE,America/New_York
+990,45420,39.71954,-84.13056,Dayton,OH,Ohio,TRUE,,25179,1568.9,39113,Montgomery,"{""39113"": ""100""}",Montgomery,39113,FALSE,FALSE,America/New_York
+991,45424,39.84675,-84.11121,Dayton,OH,Ohio,TRUE,,51307,629.1,39113,Montgomery,"{""39113"": ""98.04"", ""39057"": ""1.34"", ""39109"": ""0.62""}",Montgomery|Greene|Miami,39113|39057|39109,FALSE,FALSE,America/New_York
+992,45426,39.80178,-84.31473,Dayton,OH,Ohio,TRUE,,15315,306.8,39113,Montgomery,"{""39113"": ""100""}",Montgomery,39113,FALSE,FALSE,America/New_York
+993,45428,39.74293,-84.26068,Dayton,OH,Ohio,TRUE,,346,226.6,39113,Montgomery,"{""39113"": ""100""}",Montgomery,39113,FALSE,FALSE,America/New_York
+994,45429,39.68478,-84.16093,Dayton,OH,Ohio,TRUE,,25563,994.8,39113,Montgomery,"{""39113"": ""100""}",Montgomery,39113,FALSE,FALSE,America/New_York
+995,45430,39.71287,-84.08443,Dayton,OH,Ohio,TRUE,,7334,563.4,39057,Greene,"{""39057"": ""100""}",Greene,39057,FALSE,FALSE,America/New_York
+996,45431,39.76453,-84.07957,Dayton,OH,Ohio,TRUE,,27785,936.4,39113,Montgomery,"{""39113"": ""51.35"", ""39057"": ""48.65""}",Montgomery|Greene,39113|39057,FALSE,FALSE,America/New_York
+997,45432,39.73905,-84.08565,Dayton,OH,Ohio,TRUE,,15106,775.7,39057,Greene,"{""39057"": ""53.81"", ""39113"": ""46.19""}",Greene|Montgomery,39057|39113,FALSE,FALSE,America/New_York
+998,45433,39.81256,-84.05835,Dayton,OH,Ohio,TRUE,,2514,89.9,39057,Greene,"{""39057"": ""90.35"", ""39113"": ""9.65""}",Greene|Montgomery,39057|39113,FALSE,FALSE,America/New_York
+999,45434,39.72158,-84.02895,Dayton,OH,Ohio,TRUE,,12388,455,39057,Greene,"{""39057"": ""100""}",Greene,39057,FALSE,FALSE,America/New_York
+1000,45439,39.70098,-84.21871,Dayton,OH,Ohio,TRUE,,9809,613.5,39113,Montgomery,"{""39113"": ""100""}",Montgomery,39113,FALSE,FALSE,America/New_York
+1001,45440,39.674,-84.09859,Dayton,OH,Ohio,TRUE,,21045,862.9,39113,Montgomery,"{""39113"": ""58.08"", ""39057"": ""41.92""}",Montgomery|Greene,39113|39057,FALSE,FALSE,America/New_York
+1002,45449,39.66467,-84.24134,Dayton,OH,Ohio,TRUE,,17561,1020.4,39113,Montgomery,"{""39113"": ""100""}",Montgomery,39113,FALSE,FALSE,America/New_York
+1003,45458,39.60072,-84.15813,Dayton,OH,Ohio,TRUE,,31680,611.1,39113,Montgomery,"{""39113"": ""93.59"", ""39165"": ""5.45"", ""39057"": ""0.96""}",Montgomery|Warren|Greene,39113|39165|39057,FALSE,FALSE,America/New_York
+1004,45459,39.6469,-84.16955,Dayton,OH,Ohio,TRUE,,27342,748.3,39113,Montgomery,"{""39113"": ""99.65"", ""39057"": ""0.35""}",Montgomery|Greene,39113|39057,FALSE,FALSE,America/New_York
+1005,45502,39.92831,-83.81837,Springfield,OH,Ohio,TRUE,,15708,52.5,39023,Clark,"{""39023"": ""98.45"", ""39021"": ""1.55""}",Clark|Champaign,39023|39021,FALSE,FALSE,America/New_York
+1006,45503,39.96015,-83.77234,Springfield,OH,Ohio,TRUE,,32599,724.7,39023,Clark,"{""39023"": ""100""}",Clark,39023,FALSE,FALSE,America/New_York
+1007,45504,39.94925,-83.86602,Springfield,OH,Ohio,TRUE,,17810,295.7,39023,Clark,"{""39023"": ""100""}",Clark,39023,FALSE,FALSE,America/New_York
+1008,45505,39.90692,-83.7629,Springfield,OH,Ohio,TRUE,,19689,565,39023,Clark,"{""39023"": ""100""}",Clark,39023,FALSE,FALSE,America/New_York
+1009,45506,39.90054,-83.85358,Springfield,OH,Ohio,TRUE,,13368,417.2,39023,Clark,"{""39023"": ""100""}",Clark,39023,FALSE,FALSE,America/New_York
+1010,45601,39.31024,-82.95564,Chillicothe,OH,Ohio,TRUE,,56263,63.5,39141,Ross,"{""39141"": ""99.15"", ""39079"": ""0.43"", ""39131"": ""0.43""}",Ross|Jackson|Pike,39141|39079|39131,FALSE,FALSE,America/New_York
+1011,45612,39.21586,-83.27254,Bainbridge,OH,Ohio,TRUE,,4563,15.5,39141,Ross,"{""39141"": ""70.79"", ""39131"": ""17.1"", ""39071"": ""12.11""}",Ross|Pike|Highland,39141|39131|39071,FALSE,FALSE,America/New_York
+1012,45613,39.03318,-82.85138,Beaver,OH,Ohio,TRUE,,2803,14,39131,Pike,"{""39131"": ""88.21"", ""39079"": ""10.48"", ""39145"": ""1.31""}",Pike|Jackson|Scioto,39131|39079|39145,FALSE,FALSE,America/New_York
+1013,45614,38.92975,-82.27709,Bidwell,OH,Ohio,TRUE,,4883,25.8,39053,Gallia,"{""39053"": ""100""}",Gallia,39053,FALSE,FALSE,America/New_York
+1014,45616,38.75333,-83.3076,Blue Creek,OH,Ohio,TRUE,,1762,8.3,39001,Adams,"{""39001"": ""80.95"", ""39145"": ""19.05""}",Adams|Scioto,39001|39145,FALSE,FALSE,America/New_York
+1015,45617,39.2797,-83.15589,Bourneville,OH,Ohio,TRUE,,189,431.2,39141,Ross,"{""39141"": ""100""}",Ross,39141,FALSE,FALSE,America/New_York
+1016,45618,38.88556,-83.61638,Cherry Fork,OH,Ohio,TRUE,,12,205.1,39001,Adams,"{""39001"": ""100""}",Adams,39001,FALSE,FALSE,America/New_York
+1017,45619,38.47362,-82.45037,Chesapeake,OH,Ohio,TRUE,,7627,84,39087,Lawrence,"{""39087"": ""100""}",Lawrence,39087,FALSE,FALSE,America/New_York
+1018,45620,38.95777,-82.13982,Cheshire,OH,Ohio,TRUE,,765,12.8,39053,Gallia,"{""39053"": ""94.55"", ""39105"": ""5.45""}",Gallia|Meigs,39053|39105,FALSE,FALSE,America/New_York
+1019,45621,39.11071,-82.60761,Coalton,OH,Ohio,TRUE,,265,354.4,39079,Jackson,"{""39079"": ""100""}",Jackson,39079,FALSE,FALSE,America/New_York
+1020,45622,39.37557,-82.49937,Creola,OH,Ohio,TRUE,,84,2.2,39163,Vinton,"{""39163"": ""92.83"", ""39073"": ""7.17""}",Vinton|Hocking,39163|39073,FALSE,FALSE,America/New_York
+1021,45623,38.6415,-82.26784,Crown City,OH,Ohio,TRUE,,3210,17.1,39053,Gallia,"{""39053"": ""79.77"", ""39087"": ""20.23""}",Gallia|Lawrence,39053|39087,FALSE,FALSE,America/New_York
+1022,45624,39.17024,-83.3469,Cynthiana,OH,Ohio,TRUE,,0,0,39131,Pike,"{""39131"": ""100""}",Pike,39131,FALSE,FALSE,America/New_York
+1023,45628,39.39099,-83.19805,Frankfort,OH,Ohio,TRUE,,5187,24.9,39141,Ross,"{""39141"": ""100""}",Ross,39141,FALSE,FALSE,America/New_York
+1024,45629,38.64971,-82.81286,Franklin Furnace,OH,Ohio,TRUE,,2741,34.8,39145,Scioto,"{""39145"": ""100""}",Scioto,39145,FALSE,FALSE,America/New_York
+1025,45630,38.69916,-83.09141,Friendship,OH,Ohio,TRUE,,78,264.5,39145,Scioto,"{""39145"": ""100""}",Scioto,39145,FALSE,FALSE,America/New_York
+1026,45631,38.81774,-82.25553,Gallipolis,OH,Ohio,TRUE,,14496,49.4,39053,Gallia,"{""39053"": ""100""}",Gallia,39053,FALSE,FALSE,America/New_York
+1027,45634,39.17982,-82.48627,Hamden,OH,Ohio,TRUE,,1898,21.4,39163,Vinton,"{""39163"": ""99.48"", ""39079"": ""0.52""}",Vinton|Jackson,39163|39079,FALSE,FALSE,America/New_York
+1028,45636,38.58725,-82.82521,Haverhill,OH,Ohio,TRUE,,126,75,39145,Scioto,"{""39145"": ""100""}",Scioto,39145,FALSE,FALSE,America/New_York
+1029,45638,38.56184,-82.67799,Ironton,OH,Ohio,TRUE,,21710,108.1,39087,Lawrence,"{""39087"": ""96.58"", ""39145"": ""3.42""}",Lawrence|Scioto,39087|39145,FALSE,FALSE,America/New_York
+1030,45640,39.02198,-82.65363,Jackson,OH,Ohio,TRUE,,16121,35,39079,Jackson,"{""39079"": ""100""}",Jackson,39079,FALSE,FALSE,America/New_York
+1031,45642,39.04632,-83.05292,Jasper,OH,Ohio,TRUE,,0,0,39131,Pike,"{""39131"": ""100""}",Pike,39131,FALSE,FALSE,America/New_York
+1032,45644,39.4532,-82.84153,Kingston,OH,Ohio,TRUE,,4931,31.4,39141,Ross,"{""39141"": ""75.22"", ""39129"": ""24.78""}",Ross|Pickaway,39141|39129,FALSE,FALSE,America/New_York
+1033,45645,38.56988,-82.53159,Kitts Hill,OH,Ohio,TRUE,,2317,19.1,39087,Lawrence,"{""39087"": ""100""}",Lawrence,39087,FALSE,FALSE,America/New_York
+1034,45646,39.07677,-83.3229,Latham,OH,Ohio,TRUE,,571,14.1,39131,Pike,"{""39131"": ""100""}",Pike,39131,FALSE,FALSE,America/New_York
+1035,45647,39.29437,-82.73775,Londonderry,OH,Ohio,TRUE,,2882,16.7,39141,Ross,"{""39141"": ""53.02"", ""39163"": ""46.98""}",Ross|Vinton,39141|39163,FALSE,FALSE,America/New_York
+1036,45648,38.92058,-83.0151,Lucasville,OH,Ohio,TRUE,,13143,35.7,39145,Scioto,"{""39145"": ""86.52"", ""39131"": ""13.48""}",Scioto|Pike,39145|39131,FALSE,FALSE,America/New_York
+1037,45650,38.74441,-83.42086,Lynx,OH,Ohio,TRUE,,454,11.7,39001,Adams,"{""39001"": ""100""}",Adams,39001,FALSE,FALSE,America/New_York
+1038,45651,39.2787,-82.48881,McArthur,OH,Ohio,TRUE,,5867,15.1,39163,Vinton,"{""39163"": ""100""}",Vinton,39163,FALSE,FALSE,America/New_York
+1039,45652,38.83144,-83.08477,McDermott,OH,Ohio,TRUE,,3706,43.1,39145,Scioto,"{""39145"": ""100""}",Scioto,39145,FALSE,FALSE,America/New_York
+1040,45653,38.89155,-82.8231,Minford,OH,Ohio,TRUE,,3924,32.5,39145,Scioto,"{""39145"": ""100""}",Scioto,39145,FALSE,FALSE,America/New_York
+1041,45654,39.3666,-82.3821,New Plymouth,OH,Ohio,TRUE,,1289,8.9,39163,Vinton,"{""39163"": ""59.76"", ""39073"": ""40.24""}",Vinton|Hocking,39163|39073,FALSE,FALSE,America/New_York
+1042,45656,38.87587,-82.59256,Oak Hill,OH,Ohio,TRUE,,6170,18.3,39079,Jackson,"{""39079"": ""93.79"", ""39053"": ""3.68"", ""39087"": ""2.53""}",Jackson|Gallia|Lawrence,39079|39053|39087,FALSE,FALSE,America/New_York
+1043,45657,38.85279,-83.2142,Otway,OH,Ohio,TRUE,,1518,6,39145,Scioto,"{""39145"": ""87.86"", ""39001"": ""12.14""}",Scioto|Adams,39145|39001,FALSE,FALSE,America/New_York
+1044,45658,38.7621,-82.41127,Patriot,OH,Ohio,TRUE,,2708,10.8,39053,Gallia,"{""39053"": ""100""}",Gallia,39053,FALSE,FALSE,America/New_York
+1045,45659,38.67088,-82.62351,Pedro,OH,Ohio,TRUE,,2653,10.4,39087,Lawrence,"{""39087"": ""100""}",Lawrence,39087,FALSE,FALSE,America/New_York
+1046,45660,38.98646,-83.3612,Peebles,OH,Ohio,TRUE,,7402,14.6,39001,Adams,"{""39001"": ""81.33"", ""39131"": ""16.03"", ""39071"": ""2.36"", ""39145"": ""0.28""}",Adams|Pike|Highland|Scioto,39001|39131|39071|39145,FALSE,FALSE,America/New_York
+1047,45661,39.04219,-83.10695,Piketon,OH,Ohio,TRUE,,7268,27.6,39131,Pike,"{""39131"": ""99.53"", ""39145"": ""0.47""}",Pike|Scioto,39131|39145,FALSE,FALSE,America/New_York
+1048,45662,38.78775,-82.92046,Portsmouth,OH,Ohio,TRUE,,29520,211.7,39145,Scioto,"{""39145"": ""100""}",Scioto,39145,FALSE,FALSE,America/New_York
+1049,45663,38.74781,-83.10379,West Portsmouth,OH,Ohio,TRUE,,6228,37.1,39145,Scioto,"{""39145"": ""100""}",Scioto,39145,FALSE,FALSE,America/New_York
+1050,45669,38.49429,-82.35534,Proctorville,OH,Ohio,TRUE,,9844,109.7,39087,Lawrence,"{""39087"": ""100""}",Lawrence,39087,FALSE,FALSE,America/New_York
+1051,45671,38.96821,-83.24146,Rarden,OH,Ohio,TRUE,,228,5.2,39145,Scioto,"{""39145"": ""86.65"", ""39131"": ""13.35""}",Scioto|Pike,39145|39131,FALSE,FALSE,America/New_York
+1052,45672,39.20161,-82.68342,Ray,OH,Ohio,TRUE,,1368,9.9,39079,Jackson,"{""39079"": ""53.23"", ""39163"": ""46.77""}",Jackson|Vinton,39079|39163,FALSE,FALSE,America/New_York
+1053,45673,39.20394,-82.81214,Richmond Dale,OH,Ohio,TRUE,,582,430.7,39141,Ross,"{""39141"": ""100""}",Ross,39141,FALSE,FALSE,America/New_York
+1054,45674,38.88163,-82.37329,Rio Grande,OH,Ohio,TRUE,,656,156.6,39053,Gallia,"{""39053"": ""100""}",Gallia,39053,FALSE,FALSE,America/New_York
+1055,45678,38.60103,-82.3772,Scottown,OH,Ohio,TRUE,,1263,12,39087,Lawrence,"{""39087"": ""91.37"", ""39053"": ""8.63""}",Lawrence|Gallia,39087|39053,FALSE,FALSE,America/New_York
+1056,45679,38.97536,-83.56372,Seaman,OH,Ohio,TRUE,,2801,18.6,39001,Adams,"{""39001"": ""96.44"", ""39071"": ""3.56""}",Adams|Highland,39001|39071,FALSE,FALSE,America/New_York
+1057,45680,38.45479,-82.54513,South Point,OH,Ohio,TRUE,,12647,147.3,39087,Lawrence,"{""39087"": ""100""}",Lawrence,39087,FALSE,FALSE,America/New_York
+1058,45681,39.30598,-83.25186,South Salem,OH,Ohio,TRUE,,1719,17.3,39141,Ross,"{""39141"": ""100""}",Ross,39141,FALSE,FALSE,America/New_York
+1059,45682,38.80766,-82.6944,South Webster,OH,Ohio,TRUE,,2133,17.7,39145,Scioto,"{""39145"": ""95.99"", ""39087"": ""4.01""}",Scioto|Lawrence,39145|39087,FALSE,FALSE,America/New_York
+1060,45684,38.67318,-83.27352,Stout,OH,Ohio,TRUE,,2169,10.6,39145,Scioto,"{""39145"": ""62.42"", ""39001"": ""37.58""}",Scioto|Adams,39145|39001,FALSE,FALSE,America/New_York
+1061,45685,38.93037,-82.44968,Thurman,OH,Ohio,TRUE,,1419,18.1,39053,Gallia,"{""39053"": ""69.14"", ""39079"": ""30.86""}",Gallia|Jackson,39053|39079,FALSE,FALSE,America/New_York
+1062,45686,39.01095,-82.37191,Vinton,OH,Ohio,TRUE,,3508,14.6,39053,Gallia,"{""39053"": ""75.33"", ""39163"": ""18.9"", ""39105"": ""5.77""}",Gallia|Vinton|Meigs,39053|39163|39105,FALSE,FALSE,America/New_York
+1063,45688,38.72999,-82.53036,Waterloo,OH,Ohio,TRUE,,578,6.1,39087,Lawrence,"{""39087"": ""96.21"", ""39053"": ""3.79""}",Lawrence|Gallia,39087|39053,FALSE,FALSE,America/New_York
+1064,45690,39.13139,-83.01686,Waverly,OH,Ohio,TRUE,,14602,39.2,39131,Pike,"{""39131"": ""89.26"", ""39141"": ""10.74""}",Pike|Ross,39131|39141,FALSE,FALSE,America/New_York
+1065,45692,39.11457,-82.54062,Wellston,OH,Ohio,TRUE,,8964,42.3,39079,Jackson,"{""39079"": ""100""}",Jackson,39079,FALSE,FALSE,America/New_York
+1066,45693,38.81009,-83.53667,West Union,OH,Ohio,TRUE,,8935,27.3,39001,Adams,"{""39001"": ""100""}",Adams,39001,FALSE,FALSE,America/New_York
+1067,45694,38.74733,-82.78221,Wheelersburg,OH,Ohio,TRUE,,12276,66.5,39145,Scioto,"{""39145"": ""100""}",Scioto,39145,FALSE,FALSE,America/New_York
+1068,45695,39.15942,-82.36917,Wilkesville,OH,Ohio,TRUE,,613,6.5,39163,Vinton,"{""39163"": ""100""}",Vinton,39163,FALSE,FALSE,America/New_York
+1069,45696,38.60592,-82.45037,Willow Wood,OH,Ohio,TRUE,,1525,16.4,39087,Lawrence,"{""39087"": ""100""}",Lawrence,39087,FALSE,FALSE,America/New_York
+1070,45697,38.9339,-83.66522,Winchester,OH,Ohio,TRUE,,4715,17.7,39001,Adams,"{""39001"": ""65.82"", ""39015"": ""24.95"", ""39071"": ""9.24""}",Adams|Brown|Highland,39001|39015|39071,FALSE,FALSE,America/New_York
+1071,45698,39.28581,-82.39259,Zaleski,OH,Ohio,TRUE,,372,38.8,39163,Vinton,"{""39163"": ""100""}",Vinton,39163,FALSE,FALSE,America/New_York
+1072,45701,39.31358,-82.08214,Athens,OH,Ohio,TRUE,,36270,94.4,39009,Athens,"{""39009"": ""100""}",Athens,39009,FALSE,FALSE,America/New_York
+1073,45710,39.19803,-82.22951,Albany,OH,Ohio,TRUE,,5378,20.6,39009,Athens,"{""39009"": ""62.93"", ""39105"": ""28.14"", ""39163"": ""8.93""}",Athens|Meigs|Vinton,39009|39105|39163,FALSE,FALSE,America/New_York
+1074,45711,39.42452,-81.92993,Amesville,OH,Ohio,TRUE,,1134,8.6,39009,Athens,"{""39009"": ""84.57"", ""39167"": ""11.21"", ""39115"": ""4.22""}",Athens|Washington|Morgan,39009|39167|39115,FALSE,FALSE,America/New_York
+1075,45714,39.31735,-81.61891,Belpre,OH,Ohio,TRUE,,9120,102.2,39167,Washington,"{""39167"": ""100""}",Washington,39167,FALSE,FALSE,America/New_York
+1076,45715,39.60457,-81.62985,Beverly,OH,Ohio,TRUE,,2653,24,39167,Washington,"{""39167"": ""68.94"", ""39115"": ""25.82"", ""39121"": ""5.25""}",Washington|Morgan|Noble,39167|39115|39121,FALSE,FALSE,America/New_York
+1077,45716,39.46286,-82.18176,Buchtel,OH,Ohio,TRUE,,425,422.5,39009,Athens,"{""39009"": ""100""}",Athens,39009,FALSE,FALSE,America/New_York
+1078,45719,39.40007,-82.12608,Chauncey,OH,Ohio,TRUE,,1056,576.1,39009,Athens,"{""39009"": ""100""}",Athens,39009,FALSE,FALSE,America/New_York
+1079,45721,39.56548,-81.58441,Coal Run,OH,Ohio,TRUE,,56,422.1,39167,Washington,"{""39167"": ""100""}",Washington,39167,FALSE,FALSE,America/New_York
+1080,45723,39.22297,-81.82739,Coolville,OH,Ohio,TRUE,,3532,20.7,39009,Athens,"{""39009"": ""86.9"", ""39105"": ""10.75"", ""39167"": ""2.35""}",Athens|Meigs|Washington,39009|39105|39167,FALSE,FALSE,America/New_York
+1081,45724,39.38111,-81.79195,Cutler,OH,Ohio,TRUE,,2424,17.6,39167,Washington,"{""39167"": ""100""}",Washington,39167,FALSE,FALSE,America/New_York
+1082,45727,39.64399,-81.48482,Dexter City,OH,Ohio,TRUE,,342,4.2,39121,Noble,"{""39121"": ""100""}",Noble,39121,FALSE,FALSE,America/New_York
+1083,45729,39.41361,-81.60783,Fleming,OH,Ohio,TRUE,,1520,23,39167,Washington,"{""39167"": ""100""}",Washington,39167,FALSE,FALSE,America/New_York
+1084,45732,39.51519,-82.0673,Glouster,OH,Ohio,TRUE,,4403,22.8,39009,Athens,"{""39009"": ""78.48"", ""39115"": ""18.07"", ""39127"": ""3.45""}",Athens|Morgan|Perry,39009|39115|39127,FALSE,FALSE,America/New_York
+1085,45734,39.63875,-81.18571,Graysville,OH,Ohio,TRUE,,447,5,39111,Monroe,"{""39111"": ""100""}",Monroe,39111,FALSE,FALSE,America/New_York
+1086,45735,39.25475,-81.92457,Guysville,OH,Ohio,TRUE,,1360,10.5,39009,Athens,"{""39009"": ""100""}",Athens,39009,FALSE,FALSE,America/New_York
+1087,45740,39.47702,-82.07966,Jacksonville,OH,Ohio,TRUE,,357,393.7,39009,Athens,"{""39009"": ""100""}",Athens,39009,FALSE,FALSE,America/New_York
+1088,45741,39.06483,-82.2523,Langsville,OH,Ohio,TRUE,,481,4.4,39105,Meigs,"{""39105"": ""100""}",Meigs,39105,FALSE,FALSE,America/New_York
+1089,45742,39.2855,-81.72908,Little Hocking,OH,Ohio,TRUE,,3077,44,39167,Washington,"{""39167"": ""97.35"", ""39009"": ""2.65""}",Washington|Athens,39167|39009,FALSE,FALSE,America/New_York
+1090,45743,39.07618,-81.84989,Long Bottom,OH,Ohio,TRUE,,1671,17.6,39105,Meigs,"{""39105"": ""100""}",Meigs,39105,FALSE,FALSE,America/New_York
+1091,45744,39.53769,-81.50407,Lowell,OH,Ohio,TRUE,,2746,19.5,39167,Washington,"{""39167"": ""98.53"", ""39121"": ""1.47""}",Washington|Noble,39167|39121,FALSE,FALSE,America/New_York
+1092,45745,39.61622,-81.32979,Lower Salem,OH,Ohio,TRUE,,1485,7.7,39167,Washington,"{""39167"": ""55.88"", ""39121"": ""30.35"", ""39111"": ""13.77""}",Washington|Noble|Monroe,39167|39121|39111,FALSE,FALSE,America/New_York
+1093,45746,39.60991,-81.45918,Macksburg,OH,Ohio,TRUE,,269,6.3,39167,Washington,"{""39167"": ""87.3"", ""39121"": ""12.7""}",Washington|Noble,39167|39121,FALSE,FALSE,America/New_York
+1094,45750,39.43136,-81.42219,Marietta,OH,Ohio,TRUE,,26473,91.9,39167,Washington,"{""39167"": ""100""}",Washington,39167,FALSE,FALSE,America/New_York
+1095,45760,39.01612,-82.12329,Middleport,OH,Ohio,TRUE,,4076,80.5,39105,Meigs,"{""39105"": ""100""}",Meigs,39105,FALSE,FALSE,America/New_York
+1096,45761,39.42651,-82.09102,Millfield,OH,Ohio,TRUE,,1663,19.4,39009,Athens,"{""39009"": ""100""}",Athens,39009,FALSE,FALSE,America/New_York
+1097,45764,39.44972,-82.24418,Nelsonville,OH,Ohio,TRUE,,9374,45,39009,Athens,"{""39009"": ""80.33"", ""39073"": ""19.67""}",Athens|Hocking,39009|39073,FALSE,FALSE,America/New_York
+1098,45766,39.32282,-82.25938,New Marshfield,OH,Ohio,TRUE,,1109,14.5,39009,Athens,"{""39009"": ""95.15"", ""39163"": ""4.85""}",Athens|Vinton,39009|39163,FALSE,FALSE,America/New_York
+1099,45767,39.54029,-81.13416,New Matamoras,OH,Ohio,TRUE,,2724,9.2,39167,Washington,"{""39167"": ""81.07"", ""39111"": ""18.93""}",Washington|Monroe,39167|39111,FALSE,FALSE,America/New_York
+1100,45768,39.41031,-81.27091,Newport,OH,Ohio,TRUE,,1409,18.2,39167,Washington,"{""39167"": ""100""}",Washington,39167,FALSE,FALSE,America/New_York
+1101,45769,39.10645,-82.04824,Pomeroy,OH,Ohio,TRUE,,6796,25,39105,Meigs,"{""39105"": ""100""}",Meigs,39105,FALSE,FALSE,America/New_York
+1102,45770,38.98347,-81.80049,Portland,OH,Ohio,TRUE,,640,12.1,39105,Meigs,"{""39105"": ""100""}",Meigs,39105,FALSE,FALSE,America/New_York
+1103,45771,38.98139,-81.89773,Racine,OH,Ohio,TRUE,,3347,20.9,39105,Meigs,"{""39105"": ""100""}",Meigs,39105,FALSE,FALSE,America/New_York
+1104,45772,39.14242,-81.8252,Reedsville,OH,Ohio,TRUE,,1847,16.5,39105,Meigs,"{""39105"": ""100""}",Meigs,39105,FALSE,FALSE,America/New_York
+1105,45773,39.4585,-81.26731,Reno,OH,Ohio,TRUE,,89,7.2,39167,Washington,"{""39167"": ""100""}",Washington,39167,FALSE,FALSE,America/New_York
+1106,45775,39.08289,-82.15426,Rutland,OH,Ohio,TRUE,,990,13.1,39105,Meigs,"{""39105"": ""100""}",Meigs,39105,FALSE,FALSE,America/New_York
+1107,45776,39.18708,-82.02045,Shade,OH,Ohio,TRUE,,693,13.6,39105,Meigs,"{""39105"": ""58.43"", ""39009"": ""41.57""}",Meigs|Athens,39105|39009,FALSE,FALSE,America/New_York
+1108,45778,39.34711,-81.89314,Stewart,OH,Ohio,TRUE,,1028,16.3,39009,Athens,"{""39009"": ""100""}",Athens,39009,FALSE,FALSE,America/New_York
+1109,45779,38.99844,-81.9731,Syracuse,OH,Ohio,TRUE,,856,453.7,39105,Meigs,"{""39105"": ""100""}",Meigs,39105,FALSE,FALSE,America/New_York
+1110,45780,39.36636,-82.13108,The Plains,OH,Ohio,TRUE,,3102,474.1,39009,Athens,"{""39009"": ""100""}",Athens,39009,FALSE,FALSE,America/New_York
+1111,45782,39.48597,-82.07952,Trimble,OH,Ohio,TRUE,,474,332.6,39009,Athens,"{""39009"": ""100""}",Athens,39009,FALSE,FALSE,America/New_York
+1112,45784,39.38717,-81.68722,Vincent,OH,Ohio,TRUE,,3355,34.6,39167,Washington,"{""39167"": ""100""}",Washington,39167,FALSE,FALSE,America/New_York
+1113,45786,39.50244,-81.65368,Waterford,OH,Ohio,TRUE,,3361,19.9,39167,Washington,"{""39167"": ""97.48"", ""39115"": ""2.52""}",Washington|Morgan,39167|39115,FALSE,FALSE,America/New_York
+1114,45787,39.46919,-81.63163,Watertown,OH,Ohio,TRUE,,55,744.1,39167,Washington,"{""39167"": ""100""}",Washington,39167,FALSE,FALSE,America/New_York
+1115,45788,39.51363,-81.36686,Whipple,OH,Ohio,TRUE,,1216,13.6,39167,Washington,"{""39167"": ""100""}",Washington,39167,FALSE,FALSE,America/New_York
+1116,45789,39.55155,-81.25683,Wingett Run,OH,Ohio,TRUE,,235,7.9,39167,Washington,"{""39167"": ""88.7"", ""39111"": ""11.3""}",Washington|Monroe,39167|39111,FALSE,FALSE,America/New_York
+1117,45801,40.77558,-84.03697,Lima,OH,Ohio,TRUE,,22518,193.3,39003,Allen,"{""39003"": ""100""}",Allen,39003,FALSE,FALSE,America/New_York
+1118,45804,40.71467,-84.06633,Lima,OH,Ohio,TRUE,,15551,276.2,39003,Allen,"{""39003"": ""100""}",Allen,39003,FALSE,FALSE,America/New_York
+1119,45805,40.72874,-84.16469,Lima,OH,Ohio,TRUE,,23252,596.6,39003,Allen,"{""39003"": ""100""}",Allen,39003,FALSE,FALSE,America/New_York
+1120,45806,40.6752,-84.12437,Lima,OH,Ohio,TRUE,,10923,70.3,39003,Allen,"{""39003"": ""76.43"", ""39011"": ""23.57""}",Allen|Auglaize,39003|39011,FALSE,FALSE,America/New_York
+1121,45807,40.80637,-84.17081,Lima,OH,Ohio,TRUE,,12008,61,39003,Allen,"{""39003"": ""100""}",Allen,39003,FALSE,FALSE,America/New_York
+1122,45808,40.83163,-83.97232,Beaverdam,OH,Ohio,TRUE,,345,250.5,39003,Allen,"{""39003"": ""100""}",Allen,39003,FALSE,FALSE,America/New_York
+1123,45809,40.84563,-84.18742,Gomer,OH,Ohio,TRUE,,146,221.7,39003,Allen,"{""39003"": ""100""}",Allen,39003,FALSE,FALSE,America/New_York
+1124,45810,40.77679,-83.81205,Ada,OH,Ohio,TRUE,,8006,49.4,39065,Hardin,"{""39065"": ""94.8"", ""39063"": ""2.62"", ""39003"": ""2.58""}",Hardin|Hancock|Allen,39065|39063|39003,FALSE,FALSE,America/New_York
+1125,45812,40.68519,-83.80944,Alger,OH,Ohio,TRUE,,1744,16.9,39065,Hardin,"{""39065"": ""100""}",Hardin,39065,FALSE,FALSE,America/New_York
+1126,45813,41.18986,-84.73112,Antwerp,OH,Ohio,TRUE,,3522,24.8,39125,Paulding,"{""39125"": ""99.32"", ""39039"": ""0.68""}",Paulding|Defiance,39125|39039,FALSE,FALSE,America/New_York
+1127,45814,40.9019,-83.61406,Arlington,OH,Ohio,TRUE,,3417,37,39063,Hancock,"{""39063"": ""100""}",Hancock,39063,FALSE,FALSE,America/New_York
+1128,45816,41.00446,-83.79401,Benton Ridge,OH,Ohio,TRUE,,338,489.9,39063,Hancock,"{""39063"": ""100""}",Hancock,39063,FALSE,FALSE,America/New_York
+1129,45817,40.87725,-83.88356,Bluffton,OH,Ohio,TRUE,,6862,41,39003,Allen,"{""39003"": ""82.56"", ""39063"": ""16.72"", ""39137"": ""0.73""}",Allen|Hancock|Putnam,39003|39063|39137,FALSE,FALSE,America/New_York
+1130,45819,40.62408,-84.26038,Buckland,OH,Ohio,TRUE,,321,477.4,39011,Auglaize,"{""39011"": ""100""}",Auglaize,39011,FALSE,FALSE,America/New_York
+1131,45820,40.8349,-84.08394,Cairo,OH,Ohio,TRUE,,508,271.5,39003,Allen,"{""39003"": ""100""}",Allen,39003,FALSE,FALSE,America/New_York
+1132,45821,41.22627,-84.56425,Cecil,OH,Ohio,TRUE,,986,9.6,39125,Paulding,"{""39125"": ""98.4"", ""39039"": ""1.6""}",Paulding|Defiance,39125|39039,FALSE,FALSE,America/New_York
+1133,45822,40.55265,-84.59801,Celina,OH,Ohio,TRUE,,18876,44.4,39107,Mercer,"{""39107"": ""100""}",Mercer,39107,FALSE,FALSE,America/New_York
+1134,45826,40.43575,-84.49344,Chickasaw,OH,Ohio,TRUE,,438,626.9,39107,Mercer,"{""39107"": ""100""}",Mercer,39107,FALSE,FALSE,America/New_York
+1135,45827,41.0032,-84.30088,Cloverdale,OH,Ohio,TRUE,,2065,12.9,39137,Putnam,"{""39137"": ""91.64"", ""39125"": ""8.36""}",Putnam|Paulding,39137|39125,FALSE,FALSE,America/New_York
+1136,45828,40.48671,-84.67532,Coldwater,OH,Ohio,TRUE,,6295,73.6,39107,Mercer,"{""39107"": ""100""}",Mercer,39107,FALSE,FALSE,America/New_York
+1137,45830,40.90566,-84.09236,Columbus Grove,OH,Ohio,TRUE,,5718,23.3,39137,Putnam,"{""39137"": ""79.38"", ""39003"": ""20.62""}",Putnam|Allen,39137|39003,FALSE,FALSE,America/New_York
+1138,45831,41.11002,-84.24957,Continental,OH,Ohio,TRUE,,3400,17.8,39137,Putnam,"{""39137"": ""99.37"", ""39039"": ""0.63""}",Putnam|Defiance,39137|39039,FALSE,FALSE,America/New_York
+1139,45832,40.92657,-84.73285,Convoy,OH,Ohio,TRUE,,3088,17.1,39161,Van Wert,"{""39161"": ""99.48"", ""39125"": ""0.52""}",Van Wert|Paulding,39161|39125,FALSE,FALSE,America/New_York
+1140,45833,40.83401,-84.34917,Delphos,OH,Ohio,TRUE,,10667,59.7,39003,Allen,"{""39003"": ""55.35"", ""39161"": ""41"", ""39137"": ""3.65""}",Allen|Van Wert|Putnam,39003|39161|39137,FALSE,FALSE,America/New_York
+1141,45835,40.75983,-83.70005,Dola,OH,Ohio,TRUE,,550,11.1,39065,Hardin,"{""39065"": ""100""}",Hardin,39065,FALSE,FALSE,America/New_York
+1142,45836,40.79266,-83.63982,Dunkirk,OH,Ohio,TRUE,,1287,20.7,39065,Hardin,"{""39065"": ""100""}",Hardin,39065,FALSE,FALSE,America/New_York
+1143,45838,40.74204,-84.47764,Elgin,OH,Ohio,TRUE,,49,138.6,39161,Van Wert,"{""39161"": ""100""}",Van Wert,39161,FALSE,FALSE,America/New_York
+1144,45840,41.02537,-83.6521,Findlay,OH,Ohio,TRUE,,55589,128,39063,Hancock,"{""39063"": ""100""}",Hancock,39063,FALSE,FALSE,America/New_York
+1145,45841,40.87455,-83.73719,Jenera,OH,Ohio,TRUE,,888,13.4,39063,Hancock,"{""39063"": ""100""}",Hancock,39063,FALSE,FALSE,America/New_York
+1146,45843,40.78156,-83.53505,Forest,OH,Ohio,TRUE,,3907,15.1,39065,Hardin,"{""39065"": ""64.39"", ""39063"": ""18.32"", ""39175"": ""17.29""}",Hardin|Hancock|Wyandot,39065|39063|39175,FALSE,FALSE,America/New_York
+1147,45844,40.91747,-84.27738,Fort Jennings,OH,Ohio,TRUE,,3066,21.8,39137,Putnam,"{""39137"": ""96.74"", ""39003"": ""2.4"", ""39161"": ""0.86""}",Putnam|Allen|Van Wert,39137|39003|39161,FALSE,FALSE,America/New_York
+1148,45845,40.33031,-84.38174,Fort Loramie,OH,Ohio,TRUE,,2931,35.4,39149,Shelby,"{""39149"": ""99.31"", ""39011"": ""0.69""}",Shelby|Auglaize,39149|39011,FALSE,FALSE,America/New_York
+1149,45846,40.40882,-84.74634,Fort Recovery,OH,Ohio,TRUE,,4231,21.9,39107,Mercer,"{""39107"": ""93.42"", ""39037"": ""6.58""}",Mercer|Darke,39107|39037,FALSE,FALSE,America/New_York
+1150,45849,41.01385,-84.45338,Grover Hill,OH,Ohio,TRUE,,1018,8.9,39125,Paulding,"{""39125"": ""85.07"", ""39161"": ""13.37"", ""39137"": ""1.56""}",Paulding|Van Wert|Putnam,39125|39161|39137,FALSE,FALSE,America/New_York
+1151,45850,40.70409,-83.91821,Harrod,OH,Ohio,TRUE,,3530,22.7,39003,Allen,"{""39003"": ""90.64"", ""39065"": ""7.86"", ""39011"": ""1.51""}",Allen|Hardin|Auglaize,39003|39065|39011,FALSE,FALSE,America/New_York
+1152,45851,41.03234,-84.60004,Haviland,OH,Ohio,TRUE,,839,9.6,39125,Paulding,"{""39125"": ""100""}",Paulding,39125,FALSE,FALSE,America/New_York
+1153,45853,40.98624,-84.19854,Kalida,OH,Ohio,TRUE,,1293,450.7,39137,Putnam,"{""39137"": ""100""}",Putnam,39137,FALSE,FALSE,America/New_York
+1154,45854,40.7578,-83.95175,Lafayette,OH,Ohio,TRUE,,458,538.9,39003,Allen,"{""39003"": ""100""}",Allen,39003,FALSE,FALSE,America/New_York
+1155,45855,41.08791,-84.5841,Latty,OH,Ohio,TRUE,,147,213.6,39125,Paulding,"{""39125"": ""100""}",Paulding,39125,FALSE,FALSE,America/New_York
+1156,45856,41.11526,-83.99906,Leipsic,OH,Ohio,TRUE,,5187,19.1,39137,Putnam,"{""39137"": ""98.44"", ""39069"": ""1.35"", ""39063"": ""0.21""}",Putnam|Henry|Hancock,39137|39069|39063,FALSE,FALSE,America/New_York
+1157,45858,41.10771,-83.80444,McComb,OH,Ohio,TRUE,,2972,18.3,39063,Hancock,"{""39063"": ""100""}",Hancock,39063,FALSE,FALSE,America/New_York
+1158,45859,40.68372,-83.77862,McGuffey,OH,Ohio,TRUE,,483,140.2,39065,Hardin,"{""39065"": ""100""}",Hardin,39065,FALSE,FALSE,America/New_York
+1159,45860,40.394,-84.51341,Maria Stein,OH,Ohio,TRUE,,2382,26.3,39107,Mercer,"{""39107"": ""100""}",Mercer,39107,FALSE,FALSE,America/New_York
+1160,45861,41.08281,-84.42657,Melrose,OH,Ohio,TRUE,,233,47.9,39125,Paulding,"{""39125"": ""100""}",Paulding,39125,FALSE,FALSE,America/New_York
+1161,45862,40.67074,-84.51455,Mendon,OH,Ohio,TRUE,,1420,14.9,39107,Mercer,"{""39107"": ""96.62"", ""39011"": ""3.38""}",Mercer|Auglaize,39107|39011,FALSE,FALSE,America/New_York
+1162,45863,40.90781,-84.44728,Middle Point,OH,Ohio,TRUE,,1398,17.9,39161,Van Wert,"{""39161"": ""100""}",Van Wert,39161,FALSE,FALSE,America/New_York
+1163,45864,41.09936,-84.14086,Miller City,OH,Ohio,TRUE,,159,54,39137,Putnam,"{""39137"": ""100""}",Putnam,39137,FALSE,FALSE,America/New_York
+1164,45865,40.39152,-84.36881,Minster,OH,Ohio,TRUE,,4859,59.2,39011,Auglaize,"{""39011"": ""75.01"", ""39149"": ""24.99""}",Auglaize|Shelby,39011|39149,FALSE,FALSE,America/New_York
+1165,45866,40.4914,-84.5516,Montezuma,OH,Ohio,TRUE,,111,226.1,39107,Mercer,"{""39107"": ""100""}",Mercer,39107,FALSE,FALSE,America/New_York
+1166,45867,40.89834,-83.53695,Mount Blanchard,OH,Ohio,TRUE,,968,14.6,39063,Hancock,"{""39063"": ""98.15"", ""39175"": ""1.85""}",Hancock|Wyandot,39063|39175,FALSE,FALSE,America/New_York
+1167,45868,40.96628,-83.84966,Mount Cory,OH,Ohio,TRUE,,604,15,39063,Hancock,"{""39063"": ""100""}",Hancock,39063,FALSE,FALSE,America/New_York
+1168,45869,40.4566,-84.39712,New Bremen,OH,Ohio,TRUE,,4875,51.2,39011,Auglaize,"{""39011"": ""96.05"", ""39149"": ""2.1"", ""39107"": ""1.85""}",Auglaize|Shelby|Mercer,39011|39149|39107,FALSE,FALSE,America/New_York
+1169,45870,40.55626,-83.95144,New Hampshire,OH,Ohio,TRUE,,276,326.4,39011,Auglaize,"{""39011"": ""100""}",Auglaize,39011,FALSE,FALSE,America/New_York
+1170,45871,40.49378,-84.29966,New Knoxville,OH,Ohio,TRUE,,2103,34.2,39011,Auglaize,"{""39011"": ""77.29"", ""39149"": ""22.71""}",Auglaize|Shelby,39011|39149,FALSE,FALSE,America/New_York
+1171,45872,41.1887,-83.68573,North Baltimore,OH,Ohio,TRUE,,4200,53.4,39173,Wood,"{""39173"": ""98.49"", ""39063"": ""1.51""}",Wood|Hancock,39173|39063,FALSE,FALSE,America/New_York
+1172,45873,41.11955,-84.39311,Oakwood,OH,Ohio,TRUE,,1855,14.6,39125,Paulding,"{""39125"": ""100""}",Paulding,39125,FALSE,FALSE,America/New_York
+1173,45874,40.78698,-84.67286,Ohio City,OH,Ohio,TRUE,,2178,14.7,39161,Van Wert,"{""39161"": ""100""}",Van Wert,39161,FALSE,FALSE,America/New_York
+1174,45875,41.02206,-84.06171,Ottawa,OH,Ohio,TRUE,,11207,42.2,39137,Putnam,"{""39137"": ""100""}",Putnam,39137,FALSE,FALSE,America/New_York
+1175,45876,40.92728,-84.34131,Ottoville,OH,Ohio,TRUE,,781,502.9,39137,Putnam,"{""39137"": ""100""}",Putnam,39137,FALSE,FALSE,America/New_York
+1176,45877,40.9558,-83.93683,Pandora,OH,Ohio,TRUE,,2200,30.6,39137,Putnam,"{""39137"": ""95.28"", ""39003"": ""4.49"", ""39063"": ""0.23""}",Putnam|Allen|Hancock,39137|39003|39063,FALSE,FALSE,America/New_York
+1177,45879,41.12849,-84.56158,Paulding,OH,Ohio,TRUE,,6173,22.5,39125,Paulding,"{""39125"": ""100""}",Paulding,39125,FALSE,FALSE,America/New_York
+1178,45880,41.0677,-84.7361,Payne,OH,Ohio,TRUE,,2754,18,39125,Paulding,"{""39125"": ""100""}",Paulding,39125,FALSE,FALSE,America/New_York
+1179,45881,40.94952,-83.7756,Rawson,OH,Ohio,TRUE,,1355,17.7,39063,Hancock,"{""39063"": ""100""}",Hancock,39063,FALSE,FALSE,America/New_York
+1180,45882,40.67736,-84.67559,Rockford,OH,Ohio,TRUE,,2852,13.1,39107,Mercer,"{""39107"": ""97.24"", ""39161"": ""2.76""}",Mercer|Van Wert,39107|39161,FALSE,FALSE,America/New_York
+1181,45883,40.40709,-84.62852,Saint Henry,OH,Ohio,TRUE,,3899,41.8,39107,Mercer,"{""39107"": ""100""}",Mercer,39107,FALSE,FALSE,America/New_York
+1182,45884,40.55423,-84.08301,Saint Johns,OH,Ohio,TRUE,,71,163.5,39011,Auglaize,"{""39011"": ""100""}",Auglaize,39011,FALSE,FALSE,America/New_York
+1183,45885,40.57147,-84.38858,Saint Marys,OH,Ohio,TRUE,,12594,68.6,39011,Auglaize,"{""39011"": ""99.69"", ""39107"": ""0.31""}",Auglaize|Mercer,39011|39107,FALSE,FALSE,America/New_York
+1184,45886,40.99192,-84.61727,Scott,OH,Ohio,TRUE,,534,9.7,39161,Van Wert,"{""39161"": ""52.45"", ""39125"": ""47.55""}",Van Wert|Paulding,39161|39125,FALSE,FALSE,America/New_York
+1185,45887,40.71001,-84.36403,Spencerville,OH,Ohio,TRUE,,4279,23.2,39003,Allen,"{""39003"": ""80.19"", ""39011"": ""11.25"", ""39161"": ""7.42"", ""39107"": ""1.14""}",Allen|Auglaize|Van Wert|Mercer,39003|39011|39161|39107,FALSE,FALSE,America/New_York
+1186,45888,40.60222,-84.08677,Uniopolis,OH,Ohio,TRUE,,262,595,39011,Auglaize,"{""39011"": ""100""}",Auglaize,39011,FALSE,FALSE,America/New_York
+1187,45889,41.14664,-83.63997,Van Buren,OH,Ohio,TRUE,,1663,31.6,39063,Hancock,"{""39063"": ""100""}",Hancock,39063,FALSE,FALSE,America/New_York
+1188,45890,40.97568,-83.48986,Vanlue,OH,Ohio,TRUE,,606,15.8,39063,Hancock,"{""39063"": ""100""}",Hancock,39063,FALSE,FALSE,America/New_York
+1189,45891,40.875,-84.57436,Van Wert,OH,Ohio,TRUE,,14956,43.7,39161,Van Wert,"{""39161"": ""100""}",Van Wert,39161,FALSE,FALSE,America/New_York
+1190,45894,40.76519,-84.46509,Venedocia,OH,Ohio,TRUE,,815,9.6,39161,Van Wert,"{""39161"": ""100""}",Van Wert,39161,FALSE,FALSE,America/New_York
+1191,45895,40.57016,-84.1518,Wapakoneta,OH,Ohio,TRUE,,17876,36.4,39011,Auglaize,"{""39011"": ""99.79"", ""39091"": ""0.21""}",Auglaize|Logan,39011|39091,FALSE,FALSE,America/New_York
+1192,45896,40.60422,-83.93137,Waynesfield,OH,Ohio,TRUE,,1754,17.8,39011,Auglaize,"{""39011"": ""82.67"", ""39003"": ""9.33"", ""39065"": ""7.99""}",Auglaize|Allen|Hardin,39011|39003|39065,FALSE,FALSE,America/New_York
+1193,45897,40.8317,-83.65748,Williamstown,OH,Ohio,TRUE,,0,0,39063,Hancock,"{""39063"": ""100""}",Hancock,39063,FALSE,FALSE,America/New_York
+1194,45898,40.743,-84.75692,Willshire,OH,Ohio,TRUE,,938,10.7,39161,Van Wert,"{""39161"": ""82.65"", ""39107"": ""17.35""}",Van Wert|Mercer,39161|39107,FALSE,FALSE,America/New_York
+1195,45899,40.80055,-84.77461,Wren,OH,Ohio,TRUE,,125,155.9,39161,Van Wert,"{""39161"": ""100""}",Van Wert,39161,FALSE,FALSE,America/New_York

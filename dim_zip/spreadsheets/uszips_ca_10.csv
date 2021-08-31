@@ -1,0 +1,169 @@
+Column1,Column2,zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone
+1594,91%,95930,39.5519,-121.19346,Clipper Mills,CA,California,TRUE,,72,1.7,6007,Butte,"{""06007"": ""50.72"", ""06115"": ""49.28""}",Butte|Yuba,06007|06115,FALSE,FALSE,America/Los_Angeles
+1595,91%,95932,39.27203,-121.9988,Colusa,CA,California,TRUE,,7633,23.7,6011,Colusa,"{""06011"": ""100""}",Colusa,6011,FALSE,FALSE,America/Los_Angeles
+1596,91%,95934,40.07192,-120.92855,Crescent Mills,CA,California,TRUE,,146,2.7,6063,Plumas,"{""06063"": ""100""}",Plumas,6063,FALSE,FALSE,America/Los_Angeles
+1597,91%,95935,39.37755,-121.19117,Dobbins,CA,California,TRUE,,261,4.3,6115,Yuba,"{""06115"": ""100""}",Yuba,6115,FALSE,FALSE,America/Los_Angeles
+1598,91%,95936,39.60728,-120.79215,Downieville,CA,California,TRUE,,158,0.6,6091,Sierra,"{""06091"": ""100""}",Sierra,6091,FALSE,FALSE,America/Los_Angeles
+1599,91%,95937,38.88522,-121.999,Dunnigan,CA,California,TRUE,,1540,11.7,6113,Yolo,"{""06113"": ""100""}",Yolo,6113,FALSE,FALSE,America/Los_Angeles
+1600,91%,95938,39.60303,-121.79879,Durham,CA,California,TRUE,,4446,23.9,6007,Butte,"{""06007"": ""100""}",Butte,6007,FALSE,FALSE,America/Los_Angeles
+1601,91%,95939,39.56322,-122.59296,Elk Creek,CA,California,TRUE,,605,0.8,6021,Glenn,"{""06021"": ""100""}",Glenn,6021,FALSE,FALSE,America/Los_Angeles
+1602,91%,95941,39.52098,-121.2424,Forbestown,CA,California,TRUE,,775,18.9,6007,Butte,"{""06007"": ""80.11"", ""06115"": ""19.89""}",Butte|Yuba,06007|06115,FALSE,FALSE,America/Los_Angeles
+1603,91%,95942,40.01871,-121.56466,Forest Ranch,CA,California,TRUE,,934,6.5,6007,Butte,"{""06007"": ""100""}",Butte,6007,FALSE,FALSE,America/Los_Angeles
+1604,91%,95943,39.58572,-122.03669,Glenn,CA,California,TRUE,,871,5.3,6021,Glenn,"{""06021"": ""100""}",Glenn,6021,FALSE,FALSE,America/Los_Angeles
+1605,91%,95944,39.49932,-120.93149,Goodyears Bar,CA,California,TRUE,,26,0.2,6091,Sierra,"{""06091"": ""100""}",Sierra,6091,FALSE,FALSE,America/Los_Angeles
+1606,91%,95945,39.19509,-120.97699,Grass Valley,CA,California,TRUE,,25381,152.6,6057,Nevada,"{""06057"": ""100""}",Nevada,6057,FALSE,FALSE,America/Los_Angeles
+1607,91%,95946,39.21537,-121.20124,Penn Valley,CA,California,TRUE,,8977,82.8,6057,Nevada,"{""06057"": ""100""}",Nevada,6057,FALSE,FALSE,America/Los_Angeles
+1608,91%,95947,40.17456,-120.8197,Greenville,CA,California,TRUE,,1657,4.9,6063,Plumas,"{""06063"": ""100""}",Plumas,6063,FALSE,FALSE,America/Los_Angeles
+1609,91%,95948,39.34384,-121.76035,Gridley,CA,California,TRUE,,11917,59,6007,Butte,"{""06007"": ""99.76"", ""06101"": ""0.24""}",Butte|Sutter,06007|06101,FALSE,FALSE,America/Los_Angeles
+1610,91%,95949,39.1026,-121.13515,Grass Valley,CA,California,TRUE,,21036,58.2,6057,Nevada,"{""06057"": ""100""}",Nevada,6057,FALSE,FALSE,America/Los_Angeles
+1611,91%,95950,39.04405,-121.92095,Grimes,CA,California,TRUE,,350,2.7,6011,Colusa,"{""06011"": ""100""}",Colusa,6011,FALSE,FALSE,America/Los_Angeles
+1612,92%,95951,39.71694,-122.00226,Hamilton City,CA,California,TRUE,,2686,56.4,6021,Glenn,"{""06021"": ""100""}",Glenn,6021,FALSE,FALSE,America/Los_Angeles
+1613,92%,95953,39.2509,-121.7739,Live Oak,CA,California,TRUE,,10925,37.1,6101,Sutter,"{""06101"": ""100""}",Sutter,6101,FALSE,FALSE,America/Los_Angeles
+1614,92%,95954,39.89153,-121.58525,Magalia,CA,California,TRUE,,12371,67.2,6007,Butte,"{""06007"": ""100""}",Butte,6007,FALSE,FALSE,America/Los_Angeles
+1615,92%,95955,39.29409,-122.20733,Maxwell,CA,California,TRUE,,1386,4.4,6011,Colusa,"{""06011"": ""100""}",Colusa,6011,FALSE,FALSE,America/Los_Angeles
+1616,92%,95956,39.83806,-121.13636,Meadow Valley,CA,California,TRUE,,348,2,6063,Plumas,"{""06063"": ""100""}",Plumas,6063,FALSE,FALSE,America/Los_Angeles
+1617,92%,95957,39.06216,-121.82823,Meridian,CA,California,TRUE,,879,4.9,6101,Sutter,"{""06101"": ""100""}",Sutter,6101,FALSE,FALSE,America/Los_Angeles
+1618,92%,95959,39.33853,-120.92058,Nevada City,CA,California,TRUE,,18343,28.6,6057,Nevada,"{""06057"": ""100""}",Nevada,6057,FALSE,FALSE,America/Los_Angeles
+1619,92%,95960,39.38978,-121.04434,North San Juan,CA,California,TRUE,,684,5.5,6057,Nevada,"{""06057"": ""73.24"", ""06091"": ""18.34"", ""06115"": ""8.42""}",Nevada|Sierra|Yuba,06057|06091|06115,FALSE,FALSE,America/Los_Angeles
+1620,92%,95961,39.03344,-121.55758,Olivehurst,CA,California,TRUE,,28489,240.3,6115,Yuba,"{""06115"": ""100""}",Yuba,6115,FALSE,FALSE,America/Los_Angeles
+1621,92%,95962,39.34594,-121.26629,Oregon House,CA,California,TRUE,,1324,17.2,6115,Yuba,"{""06115"": ""100""}",Yuba,6115,FALSE,FALSE,America/Los_Angeles
+1622,92%,95963,39.73634,-122.26205,Orland,CA,California,TRUE,,15492,19.6,6021,Glenn,"{""06021"": ""95.11"", ""06103"": ""4.89""}",Glenn|Tehama,06021|06103,FALSE,FALSE,America/Los_Angeles
+1623,92%,95965,39.5947,-121.59608,Oroville,CA,California,TRUE,,20498,24.7,6007,Butte,"{""06007"": ""100""}",Butte,6007,FALSE,FALSE,America/Los_Angeles
+1624,92%,95966,39.47123,-121.42821,Oroville,CA,California,TRUE,,29860,62.6,6007,Butte,"{""06007"": ""99.54"", ""06115"": ""0.46""}",Butte|Yuba,06007|06115,FALSE,FALSE,America/Los_Angeles
+1625,92%,95968,39.43522,-121.55195,Palermo,CA,California,TRUE,,1231,307.1,6007,Butte,"{""06007"": ""100""}",Butte,6007,FALSE,FALSE,America/Los_Angeles
+1626,92%,95969,39.71633,-121.64742,Paradise,CA,California,TRUE,,23572,154.2,6007,Butte,"{""06007"": ""100""}",Butte,6007,FALSE,FALSE,America/Los_Angeles
+1627,92%,95970,39.40056,-122.06028,Princeton,CA,California,TRUE,,616,5.1,6011,Colusa,"{""06011"": ""67.55"", ""06021"": ""32.45""}",Colusa|Glenn,06011|06021,FALSE,FALSE,America/Los_Angeles
+1628,92%,95971,39.93721,-120.90026,Quincy,CA,California,TRUE,,5924,22.6,6063,Plumas,"{""06063"": ""100""}",Plumas,6063,FALSE,FALSE,America/Los_Angeles
+1629,93%,95973,39.8974,-121.84826,Chico,CA,California,TRUE,,36682,42.6,6007,Butte,"{""06007"": ""99.76"", ""06103"": ""0.24""}",Butte|Tehama,06007|06103,FALSE,FALSE,America/Los_Angeles
+1630,93%,95974,39.48023,-121.83853,Richvale,CA,California,TRUE,,65,3,6007,Butte,"{""06007"": ""100""}",Butte,6007,FALSE,FALSE,America/Los_Angeles
+1631,93%,95975,39.22442,-121.15153,Rough And Ready,CA,California,TRUE,,1877,77.3,6057,Nevada,"{""06057"": ""100""}",Nevada,6057,FALSE,FALSE,America/Los_Angeles
+1632,93%,95977,39.17693,-121.28798,Smartsville,CA,California,TRUE,,1488,14.7,6057,Nevada,"{""06057"": ""61.56"", ""06115"": ""38.44""}",Nevada|Yuba,06057|06115,FALSE,FALSE,America/Los_Angeles
+1633,93%,95978,39.87564,-121.53629,Stirling City,CA,California,TRUE,,245,15,6007,Butte,"{""06007"": ""100""}",Butte,6007,FALSE,FALSE,America/Los_Angeles
+1634,93%,95979,39.30145,-122.51586,Stonyford,CA,California,TRUE,,414,0.6,6011,Colusa,"{""06011"": ""100""}",Colusa,6011,FALSE,FALSE,America/Los_Angeles
+1635,93%,95981,39.63608,-121.03597,Strawberry Valley,CA,California,TRUE,,39,0.4,6115,Yuba,"{""06115"": ""69.07"", ""06063"": ""30.93""}",Yuba|Plumas,06115|06063,FALSE,FALSE,America/Los_Angeles
+1636,93%,95982,39.18314,-121.80465,Sutter,CA,California,TRUE,,3259,28.4,6101,Sutter,"{""06101"": ""100""}",Sutter,6101,FALSE,FALSE,America/Los_Angeles
+1637,93%,95983,40.07792,-120.70727,Taylorsville,CA,California,TRUE,,380,1.2,6063,Plumas,"{""06063"": ""100""}",Plumas,6063,FALSE,FALSE,America/Los_Angeles
+1638,93%,95984,40.04096,-121.12268,Twain,CA,California,TRUE,,327,3.8,6063,Plumas,"{""06063"": ""100""}",Plumas,6063,FALSE,FALSE,America/Los_Angeles
+1639,93%,95986,39.34258,-120.77087,Washington,CA,California,TRUE,,56,2.6,6057,Nevada,"{""06057"": ""100""}",Nevada,6057,FALSE,FALSE,America/Los_Angeles
+1640,93%,95987,39.09609,-122.28249,Williams,CA,California,TRUE,,5950,6.9,6011,Colusa,"{""06011"": ""100""}",Colusa,6011,FALSE,FALSE,America/Los_Angeles
+1641,93%,95988,39.50503,-122.27429,Willows,CA,California,TRUE,,8298,10.3,6021,Glenn,"{""06021"": ""100""}",Glenn,6021,FALSE,FALSE,America/Los_Angeles
+1642,93%,95991,39.02249,-121.61286,Yuba City,CA,California,TRUE,,40861,387.7,6101,Sutter,"{""06101"": ""100""}",Sutter,6101,FALSE,FALSE,America/Los_Angeles
+1643,93%,95993,39.08184,-121.68845,Yuba City,CA,California,TRUE,,37077,167.4,6101,Sutter,"{""06101"": ""100""}",Sutter,6101,FALSE,FALSE,America/Los_Angeles
+1644,93%,96001,40.59648,-122.46004,Redding,CA,California,TRUE,,34293,150.5,6089,Shasta,"{""06089"": ""100""}",Shasta,6089,FALSE,FALSE,America/Los_Angeles
+1645,93%,96002,40.53023,-122.31734,Redding,CA,California,TRUE,,34196,436.5,6089,Shasta,"{""06089"": ""100""}",Shasta,6089,FALSE,FALSE,America/Los_Angeles
+1646,93%,96003,40.74375,-122.2387,Redding,CA,California,TRUE,,44328,72,6089,Shasta,"{""06089"": ""100""}",Shasta,6089,FALSE,FALSE,America/Los_Angeles
+1647,94%,96006,41.17425,-120.85292,Adin,CA,California,TRUE,,389,0.9,6049,Modoc,"{""06049"": ""69.3"", ""06035"": ""30.7""}",Modoc|Lassen,06049|06035,FALSE,FALSE,America/Los_Angeles
+1648,94%,96007,40.45867,-122.27916,Anderson,CA,California,TRUE,,23228,69.2,6089,Shasta,"{""06089"": ""100""}",Shasta,6089,FALSE,FALSE,America/Los_Angeles
+1649,94%,96008,40.71236,-122.10816,Bella Vista,CA,California,TRUE,,1191,12.7,6089,Shasta,"{""06089"": ""100""}",Shasta,6089,FALSE,FALSE,America/Los_Angeles
+1650,94%,96009,41.06347,-121.04102,Bieber,CA,California,TRUE,,321,0.6,6035,Lassen,"{""06035"": ""100""}",Lassen,6035,FALSE,FALSE,America/Los_Angeles
+1651,94%,96010,40.91942,-123.24622,Big Bar,CA,California,TRUE,,122,0.1,6105,Trinity,"{""06105"": ""100""}",Trinity,6105,FALSE,FALSE,America/Los_Angeles
+1652,94%,96011,41.05006,-121.98342,Big Bend,CA,California,TRUE,,199,0.2,6089,Shasta,"{""06089"": ""100""}",Shasta,6089,FALSE,FALSE,America/Los_Angeles
+1653,94%,96013,41.0015,-121.68639,Burney,CA,California,TRUE,,4819,8.1,6089,Shasta,"{""06089"": ""100""}",Shasta,6089,FALSE,FALSE,America/Los_Angeles
+1654,94%,96014,41.33895,-122.77793,Callahan,CA,California,TRUE,,135,0.4,6093,Siskiyou,"{""06093"": ""100""}",Siskiyou,6093,FALSE,FALSE,America/Los_Angeles
+1655,94%,96015,41.50377,-120.91725,Canby,CA,California,TRUE,,320,0.5,6049,Modoc,"{""06049"": ""100""}",Modoc,6049,FALSE,FALSE,America/Los_Angeles
+1656,94%,96016,40.91155,-121.52318,Cassel,CA,California,TRUE,,424,3.9,6089,Shasta,"{""06089"": ""100""}",Shasta,6089,FALSE,FALSE,America/Los_Angeles
+1657,94%,96017,41.11961,-122.27029,Castella,CA,California,TRUE,,140,0.4,6089,Shasta,"{""06089"": ""100""}",Shasta,6089,FALSE,FALSE,America/Los_Angeles
+1658,94%,96019,40.67917,-122.37743,Shasta Lake,CA,California,TRUE,,10178,359.1,6089,Shasta,"{""06089"": ""100""}",Shasta,6089,FALSE,FALSE,America/Los_Angeles
+1659,94%,96020,40.367,-121.29632,Chester,CA,California,TRUE,,2369,22.9,6063,Plumas,"{""06063"": ""100""}",Plumas,6063,FALSE,FALSE,America/Los_Angeles
+1660,94%,96021,39.92648,-122.26527,Corning,CA,California,TRUE,,16017,25.9,6103,Tehama,"{""06103"": ""100""}",Tehama,6103,FALSE,FALSE,America/Los_Angeles
+1661,94%,96022,40.33505,-122.447,Cottonwood,CA,California,TRUE,,16253,25.9,6103,Tehama,"{""06103"": ""52.31"", ""06089"": ""47.69""}",Tehama|Shasta,06103|06089,FALSE,FALSE,America/Los_Angeles
+1662,94%,96023,41.92683,-121.9071,Dorris,CA,California,TRUE,,1184,1.8,6093,Siskiyou,"{""06093"": ""100""}",Siskiyou,6093,FALSE,FALSE,America/Los_Angeles
+1663,94%,96024,40.5754,-122.89042,Douglas City,CA,California,TRUE,,846,1.8,6105,Trinity,"{""06105"": ""100""}",Trinity,6105,FALSE,FALSE,America/Los_Angeles
+1664,94%,96025,41.21073,-122.31349,Dunsmuir,CA,California,TRUE,,2126,8.9,6093,Siskiyou,"{""06093"": ""92.77"", ""06089"": ""7.23""}",Siskiyou|Shasta,06093|06089,FALSE,FALSE,America/Los_Angeles
+1665,95%,96027,41.3839,-123.06878,Etna,CA,California,TRUE,,2327,1.9,6093,Siskiyou,"{""06093"": ""100""}",Siskiyou,6093,FALSE,FALSE,America/Los_Angeles
+1666,95%,96028,41.01058,-121.47205,Fall River Mills,CA,California,TRUE,,1368,3.2,6089,Shasta,"{""06089"": ""100""}",Shasta,6089,FALSE,FALSE,America/Los_Angeles
+1667,95%,96029,39.94207,-122.47811,Flournoy,CA,California,TRUE,,167,1.8,6103,Tehama,"{""06103"": ""100""}",Tehama,6103,FALSE,FALSE,America/Los_Angeles
+1668,95%,96031,41.18353,-123.18184,Forks Of Salmon,CA,California,TRUE,,133,0.1,6093,Siskiyou,"{""06093"": ""100""}",Siskiyou,6093,FALSE,FALSE,America/Los_Angeles
+1669,95%,96032,41.60675,-122.96422,Fort Jones,CA,California,TRUE,,2653,2.2,6093,Siskiyou,"{""06093"": ""100""}",Siskiyou,6093,FALSE,FALSE,America/Los_Angeles
+1670,95%,96033,40.76366,-122.56918,French Gulch,CA,California,TRUE,,490,1.3,6089,Shasta,"{""06089"": ""100""}",Shasta,6089,FALSE,FALSE,America/Los_Angeles
+1671,95%,96034,41.43185,-122.61543,Gazelle,CA,California,TRUE,,279,1,6093,Siskiyou,"{""06093"": ""100""}",Siskiyou,6093,FALSE,FALSE,America/Los_Angeles
+1672,95%,96035,40.04685,-122.18201,Gerber,CA,California,TRUE,,3629,30.5,6103,Tehama,"{""06103"": ""100""}",Tehama,6103,FALSE,FALSE,America/Los_Angeles
+1673,95%,96037,41.54799,-122.93506,Greenview,CA,California,TRUE,,279,26.8,6093,Siskiyou,"{""06093"": ""100""}",Siskiyou,6093,FALSE,FALSE,America/Los_Angeles
+1674,95%,96038,41.60892,-122.54643,Grenada,CA,California,TRUE,,732,15.8,6093,Siskiyou,"{""06093"": ""100""}",Siskiyou,6093,FALSE,FALSE,America/Los_Angeles
+1675,95%,96039,41.69298,-123.48892,Happy Camp,CA,California,TRUE,,904,0.6,6093,Siskiyou,"{""06093"": ""100""}",Siskiyou,6093,FALSE,FALSE,America/Los_Angeles
+1676,95%,96040,40.77872,-121.42273,Hat Creek,CA,California,TRUE,,124,0.4,6089,Shasta,"{""06089"": ""100""}",Shasta,6089,FALSE,FALSE,America/Los_Angeles
+1677,95%,96041,40.52362,-123.19445,Hayfork,CA,California,TRUE,,2934,3.4,6105,Trinity,"{""06105"": ""100""}",Trinity,6105,FALSE,FALSE,America/Los_Angeles
+1678,95%,96044,41.94084,-122.52007,Hornbrook,CA,California,TRUE,,963,2.6,6093,Siskiyou,"{""06093"": ""100""}",Siskiyou,6093,FALSE,FALSE,America/Los_Angeles
+1679,95%,96046,40.59968,-123.42904,Hyampom,CA,California,TRUE,,115,0.2,6105,Trinity,"{""06105"": ""100""}",Trinity,6105,FALSE,FALSE,America/Los_Angeles
+1680,95%,96047,40.4643,-122.66396,Igo,CA,California,TRUE,,849,1.6,6089,Shasta,"{""06089"": ""100""}",Shasta,6089,FALSE,FALSE,America/Los_Angeles
+1681,95%,96048,40.82089,-123.0521,Junction City,CA,California,TRUE,,730,1.8,6105,Trinity,"{""06105"": ""100""}",Trinity,6105,FALSE,FALSE,America/Los_Angeles
+1682,96%,96049,41.76839,-123.32588,Redding,CA,California,TRUE,,90,2.2,6093,Siskiyou,"{""06093"": ""100""}",Siskiyou,6093,FALSE,FALSE,America/Los_Angeles
+1683,96%,96050,41.90006,-122.88684,Klamath River,CA,California,TRUE,,381,0.5,6093,Siskiyou,"{""06093"": ""100""}",Siskiyou,6093,FALSE,FALSE,America/Los_Angeles
+1684,96%,96051,40.9326,-122.4031,Lakehead,CA,California,TRUE,,1358,1.7,6089,Shasta,"{""06089"": ""100""}",Shasta,6089,FALSE,FALSE,America/Los_Angeles
+1685,96%,96052,40.7282,-122.81539,Lewiston,CA,California,TRUE,,1574,7.9,6105,Trinity,"{""06105"": ""100""}",Trinity,6105,FALSE,FALSE,America/Los_Angeles
+1686,96%,96054,41.26648,-121.10043,Lookout,CA,California,TRUE,,319,1,6049,Modoc,"{""06049"": ""100""}",Modoc,6049,FALSE,FALSE,America/Los_Angeles
+1687,96%,96055,40.08519,-122.03562,Los Molinos,CA,California,TRUE,,3866,23.8,6103,Tehama,"{""06103"": ""100""}",Tehama,6103,FALSE,FALSE,America/Los_Angeles
+1688,96%,96056,41.02369,-121.28308,Mcarthur,CA,California,TRUE,,1530,1.8,6089,Shasta,"{""06089"": ""58.89"", ""06035"": ""34.35"", ""06049"": ""6.76""}",Shasta|Lassen|Modoc,06089|06035|06049,FALSE,FALSE,America/Los_Angeles
+1689,96%,96057,41.26795,-121.93612,Mccloud,CA,California,TRUE,,1235,1.5,6093,Siskiyou,"{""06093"": ""100""}",Siskiyou,6093,FALSE,FALSE,America/Los_Angeles
+1690,96%,96058,41.72783,-121.93254,Macdoel,CA,California,TRUE,,553,0.5,6093,Siskiyou,"{""06093"": ""100""}",Siskiyou,6093,FALSE,FALSE,America/Los_Angeles
+1691,96%,96059,40.4275,-121.83234,Manton,CA,California,TRUE,,542,2.7,6103,Tehama,"{""06103"": ""58.72"", ""06089"": ""41.28""}",Tehama|Shasta,06103|06089,FALSE,FALSE,America/Los_Angeles
+1692,96%,96061,40.33076,-121.48649,Mill Creek,CA,California,TRUE,,21,0.2,6103,Tehama,"{""06103"": ""100""}",Tehama,6103,FALSE,FALSE,America/Los_Angeles
+1693,96%,96062,40.57391,-122.07108,Millville,CA,California,TRUE,,1042,5.5,6089,Shasta,"{""06089"": ""100""}",Shasta,6089,FALSE,FALSE,America/Los_Angeles
+1694,96%,96063,40.36022,-121.60481,Mineral,CA,California,TRUE,,359,11.6,6103,Tehama,"{""06103"": ""100""}",Tehama,6103,FALSE,FALSE,America/Los_Angeles
+1695,96%,96064,41.75995,-122.36209,Montague,CA,California,TRUE,,4533,3.7,6093,Siskiyou,"{""06093"": ""100""}",Siskiyou,6093,FALSE,FALSE,America/Los_Angeles
+1696,96%,96065,40.88819,-121.88087,Montgomery Creek,CA,California,TRUE,,403,1.8,6089,Shasta,"{""06089"": ""100""}",Shasta,6089,FALSE,FALSE,America/Los_Angeles
+1697,96%,96067,41.30912,-122.36782,Mount Shasta,CA,California,TRUE,,7094,20.2,6093,Siskiyou,"{""06093"": ""100""}",Siskiyou,6093,FALSE,FALSE,America/Los_Angeles
+1698,96%,96068,41.11529,-121.20869,Nubieber,CA,California,TRUE,,204,2,6035,Lassen,"{""06035"": ""100""}",Lassen,6035,FALSE,FALSE,America/Los_Angeles
+1699,96%,96069,40.68677,-122.0098,Oak Run,CA,California,TRUE,,800,3.5,6089,Shasta,"{""06089"": ""100""}",Shasta,6089,FALSE,FALSE,America/Los_Angeles
+1700,97%,96071,40.66364,-121.45879,Old Station,CA,California,TRUE,,31,0.1,6089,Shasta,"{""06089"": ""100""}",Shasta,6089,FALSE,FALSE,America/Los_Angeles
+1701,97%,96073,40.59529,-122.20186,Palo Cedro,CA,California,TRUE,,3980,34.5,6089,Shasta,"{""06089"": ""100""}",Shasta,6089,FALSE,FALSE,America/Los_Angeles
+1702,97%,96074,39.86746,-122.59372,Paskenta,CA,California,TRUE,,164,0.6,6103,Tehama,"{""06103"": ""100""}",Tehama,6103,FALSE,FALSE,America/Los_Angeles
+1703,97%,96075,40.33852,-121.84893,Paynes Creek,CA,California,TRUE,,350,2,6103,Tehama,"{""06103"": ""94.58"", ""06089"": ""5.42""}",Tehama|Shasta,06103|06089,FALSE,FALSE,America/Los_Angeles
+1704,97%,96076,40.38277,-122.92755,Platina,CA,California,TRUE,,284,0.5,6105,Trinity,"{""06105"": ""38.55"", ""06089"": ""37.95"", ""06103"": ""23.49""}",Trinity|Shasta|Tehama,06105|06089|06103,FALSE,FALSE,America/Los_Angeles
+1705,97%,96080,40.16515,-122.38167,Red Bluff,CA,California,TRUE,,29139,18.4,6103,Tehama,"{""06103"": ""100""}",Tehama,6103,FALSE,FALSE,America/Los_Angeles
+1706,97%,96084,40.85035,-121.96886,Round Mountain,CA,California,TRUE,,536,2,6089,Shasta,"{""06089"": ""100""}",Shasta,6089,FALSE,FALSE,America/Los_Angeles
+1707,97%,96085,41.75231,-123.05265,Scott Bar,CA,California,TRUE,,54,0.3,6093,Siskiyou,"{""06093"": ""100""}",Siskiyou,6093,FALSE,FALSE,America/Los_Angeles
+1708,97%,96086,41.87458,-123.22039,Seiad Valley,CA,California,TRUE,,278,0.4,6093,Siskiyou,"{""06093"": ""100""}",Siskiyou,6093,FALSE,FALSE,America/Los_Angeles
+1709,97%,96087,40.62393,-122.61601,Shasta,CA,California,TRUE,,544,2.7,6089,Shasta,"{""06089"": ""100""}",Shasta,6089,FALSE,FALSE,America/Los_Angeles
+1710,97%,96088,40.50989,-121.8795,Shingletown,CA,California,TRUE,,4690,11.5,6089,Shasta,"{""06089"": ""100""}",Shasta,6089,FALSE,FALSE,America/Los_Angeles
+1711,97%,96090,40.02045,-122.12906,Tehama,CA,California,TRUE,,481,180.8,6103,Tehama,"{""06103"": ""100""}",Tehama,6103,FALSE,FALSE,America/Los_Angeles
+1712,97%,96091,41.03584,-122.78817,Trinity Center,CA,California,TRUE,,618,0.5,6105,Trinity,"{""06105"": ""100""}",Trinity,6105,FALSE,FALSE,America/Los_Angeles
+1713,97%,96092,39.96245,-122.01554,Vina,CA,California,TRUE,,343,2.7,6103,Tehama,"{""06103"": ""100""}",Tehama,6103,FALSE,FALSE,America/Los_Angeles
+1714,97%,96093,40.75873,-122.93795,Weaverville,CA,California,TRUE,,3570,23.5,6105,Trinity,"{""06105"": ""100""}",Trinity,6105,FALSE,FALSE,America/Los_Angeles
+1715,97%,96094,41.53313,-122.31791,Weed,CA,California,TRUE,,6611,10.3,6093,Siskiyou,"{""06093"": ""100""}",Siskiyou,6093,FALSE,FALSE,America/Los_Angeles
+1716,97%,96096,40.64528,-121.8394,Whitmore,CA,California,TRUE,,703,2.4,6089,Shasta,"{""06089"": ""100""}",Shasta,6089,FALSE,FALSE,America/Los_Angeles
+1717,98%,96097,41.75581,-122.67266,Yreka,CA,California,TRUE,,9746,19.7,6093,Siskiyou,"{""06093"": ""100""}",Siskiyou,6093,FALSE,FALSE,America/Los_Angeles
+1718,98%,96101,41.45587,-120.53619,Alturas,CA,California,TRUE,,5262,3.5,6049,Modoc,"{""06049"": ""100""}",Modoc,6049,FALSE,FALSE,America/Los_Angeles
+1719,98%,96103,39.80115,-120.66082,Blairsden Graeagle,CA,California,TRUE,,1401,4.3,6063,Plumas,"{""06063"": ""100""}",Plumas,6063,FALSE,FALSE,America/Los_Angeles
+1720,98%,96104,41.51614,-120.12916,Cedarville,CA,California,TRUE,,842,1.5,6049,Modoc,"{""06049"": ""100""}",Modoc,6049,FALSE,FALSE,America/Los_Angeles
+1721,98%,96105,39.83341,-120.17841,Chilcoot,CA,California,TRUE,,372,0.6,6063,Plumas,"{""06063"": ""72.3"", ""06035"": ""24.1"", ""06091"": ""3.61""}",Plumas|Lassen|Sierra,06063|06035|06091,FALSE,FALSE,America/Los_Angeles
+1722,98%,96106,39.73671,-120.54374,Clio,CA,California,TRUE,,274,4.5,6063,Plumas,"{""06063"": ""100""}",Plumas,6063,FALSE,FALSE,America/Los_Angeles
+1723,98%,96107,38.48032,-119.47278,Coleville,CA,California,TRUE,,1433,6.2,6051,Mono,"{""06051"": ""100""}",Mono,6051,FALSE,FALSE,America/Los_Angeles
+1724,98%,96108,41.77515,-120.44572,Davis Creek,CA,California,TRUE,,80,0.2,6049,Modoc,"{""06049"": ""100""}",Modoc,6049,FALSE,FALSE,America/Los_Angeles
+1725,98%,96109,40.0196,-120.09784,Doyle,CA,California,TRUE,,812,1.6,6035,Lassen,"{""06035"": ""100""}",Lassen,6035,FALSE,FALSE,America/Los_Angeles
+1726,98%,96110,41.29329,-120.09354,Eagleville,CA,California,TRUE,,126,0.3,6049,Modoc,"{""06049"": ""93.98"", ""06035"": ""6.02""}",Modoc|Lassen,06049|06035,FALSE,FALSE,America/Los_Angeles
+1727,98%,96111,39.47476,-120.04144,Floriston,CA,California,TRUE,,83,1,6091,Sierra,"{""06091"": ""54.38"", ""06057"": ""45.63""}",Sierra|Nevada,06091|06057,FALSE,FALSE,America/Los_Angeles
+1728,98%,96112,41.86019,-120.10601,Fort Bidwell,CA,California,TRUE,,224,0.7,6049,Modoc,"{""06049"": ""100""}",Modoc,6049,FALSE,FALSE,America/Los_Angeles
+1729,98%,96113,40.14289,-120.15859,Herlong,CA,California,TRUE,,1925,109.1,6035,Lassen,"{""06035"": ""100""}",Lassen,6035,FALSE,FALSE,America/Los_Angeles
+1730,98%,96114,40.29473,-120.49696,Janesville,CA,California,TRUE,,3267,18.6,6035,Lassen,"{""06035"": ""100""}",Lassen,6035,FALSE,FALSE,America/Los_Angeles
+1731,98%,96115,41.69864,-120.14951,Lake City,CA,California,TRUE,,115,0.4,6049,Modoc,"{""06049"": ""100""}",Modoc,6049,FALSE,FALSE,America/Los_Angeles
+1732,98%,96116,41.26319,-120.42208,Likely,CA,California,TRUE,,172,0.3,6049,Modoc,"{""06049"": ""100""}",Modoc,6049,FALSE,FALSE,America/Los_Angeles
+1733,98%,96117,40.54621,-120.23999,Litchfield,CA,California,TRUE,,355,0.4,6035,Lassen,"{""06035"": ""100""}",Lassen,6035,FALSE,FALSE,America/Los_Angeles
+1734,98%,96118,39.63884,-120.22928,Loyalton,CA,California,TRUE,,1779,3.4,6091,Sierra,"{""06091"": ""98.83"", ""06063"": ""1.17""}",Sierra|Plumas,06091|06063,FALSE,FALSE,America/Los_Angeles
+1735,99%,96119,41.02327,-120.52529,Madeline,CA,California,TRUE,,59,0.1,6035,Lassen,"{""06035"": ""100""}",Lassen,6035,FALSE,FALSE,America/Los_Angeles
+1736,99%,96120,38.75366,-119.83344,Markleeville,CA,California,TRUE,,926,1.7,6003,Alpine,"{""06003"": ""100""}",Alpine,6003,FALSE,FALSE,America/Los_Angeles
+1737,99%,96121,40.16886,-120.37315,Milford,CA,California,TRUE,,358,4.1,6035,Lassen,"{""06035"": ""100""}",Lassen,6035,FALSE,FALSE,America/Los_Angeles
+1738,99%,96122,39.82647,-120.47237,Portola,CA,California,TRUE,,3266,20.6,6063,Plumas,"{""06063"": ""100""}",Plumas,6063,FALSE,FALSE,America/Los_Angeles
+1739,99%,96123,40.81018,-120.29682,Ravendale,CA,California,TRUE,,25,0,6035,Lassen,"{""06035"": ""100""}",Lassen,6035,FALSE,FALSE,America/Los_Angeles
+1740,99%,96124,39.64338,-120.45044,Calpine,CA,California,TRUE,,458,3.1,6091,Sierra,"{""06091"": ""100""}",Sierra,6091,FALSE,FALSE,America/Los_Angeles
+1741,99%,96125,39.5957,-120.62775,Sierra City,CA,California,TRUE,,126,0.5,6091,Sierra,"{""06091"": ""100""}",Sierra,6091,FALSE,FALSE,America/Los_Angeles
+1742,99%,96126,39.52992,-120.45679,Sierraville,CA,California,TRUE,,85,0.4,6091,Sierra,"{""06091"": ""100""}",Sierra,6091,FALSE,FALSE,America/Los_Angeles
+1743,99%,96128,40.35521,-120.41054,Standish,CA,California,TRUE,,685,8.4,6035,Lassen,"{""06035"": ""100""}",Lassen,6035,FALSE,FALSE,America/Los_Angeles
+1744,99%,96129,39.78757,-120.35564,Beckwourth,CA,California,TRUE,,408,1.7,6063,Plumas,"{""06063"": ""100""}",Plumas,6063,FALSE,FALSE,America/Los_Angeles
+1745,99%,96130,40.54876,-120.68496,Susanville,CA,California,TRUE,,20119,16.2,6035,Lassen,"{""06035"": ""100""}",Lassen,6035,FALSE,FALSE,America/Los_Angeles
+1746,99%,96132,40.89059,-120.37772,Termo,CA,California,TRUE,,50,0,6035,Lassen,"{""06035"": ""100""}",Lassen,6035,FALSE,FALSE,America/Los_Angeles
+1747,99%,96133,38.63289,-119.50411,Topaz,CA,California,TRUE,,126,3.8,6051,Mono,"{""06051"": ""100""}",Mono,6051,FALSE,FALSE,America/Los_Angeles
+1748,99%,96134,41.83835,-121.40661,Tulelake,CA,California,TRUE,,2059,2.4,6093,Siskiyou,"{""06093"": ""56.89"", ""06049"": ""43.11""}",Siskiyou|Modoc,06093|06049,FALSE,FALSE,America/Los_Angeles
+1749,99%,96135,39.80868,-120.20566,Vinton,CA,California,TRUE,,301,3.5,6063,Plumas,"{""06063"": ""100""}",Plumas,6063,FALSE,FALSE,America/Los_Angeles
+1750,99%,96136,40.30836,-120.11896,Wendel,CA,California,TRUE,,44,0.1,6035,Lassen,"{""06035"": ""100""}",Lassen,6035,FALSE,FALSE,America/Los_Angeles
+1751,99%,96137,40.2688,-121.02969,Westwood,CA,California,TRUE,,3252,25.9,6035,Lassen,"{""06035"": ""55.14"", ""06063"": ""44.86""}",Lassen|Plumas,06035|06063,FALSE,FALSE,America/Los_Angeles
+1752,99%,96140,39.22463,-120.09807,Carnelian Bay,CA,California,TRUE,,953,78.3,6061,Placer,"{""06061"": ""100""}",Placer,6061,FALSE,FALSE,America/Los_Angeles
+1753,100%,96141,39.07853,-120.17341,Homewood,CA,California,TRUE,,403,13,6061,Placer,"{""06061"": ""100""}",Placer,6061,FALSE,FALSE,America/Los_Angeles
+1754,100%,96142,38.99948,-120.12581,Tahoma,CA,California,TRUE,,885,16.9,6017,El Dorado,"{""06017"": ""89.39"", ""06061"": ""10.61""}",El Dorado|Placer,06017|06061,FALSE,FALSE,America/Los_Angeles
+1755,100%,96143,39.25155,-120.02471,Kings Beach,CA,California,TRUE,,3585,251.5,6061,Placer,"{""06061"": ""100""}",Placer,6061,FALSE,FALSE,America/Los_Angeles
+1756,100%,96145,39.14738,-120.18665,Tahoe City,CA,California,TRUE,,2147,22.3,6061,Placer,"{""06061"": ""100""}",Placer,6061,FALSE,FALSE,America/Los_Angeles
+1757,100%,96146,39.19846,-120.23902,Olympic Valley,CA,California,TRUE,,1145,21.1,6061,Placer,"{""06061"": ""100""}",Placer,6061,FALSE,FALSE,America/Los_Angeles
+1758,100%,96148,39.24685,-120.05806,Tahoe Vista,CA,California,TRUE,,580,164.7,6061,Placer,"{""06061"": ""100""}",Placer,6061,FALSE,FALSE,America/Los_Angeles
+1759,100%,96150,38.8709,-120.00886,South Lake Tahoe,CA,California,TRUE,,29327,91.7,6017,El Dorado,"{""06017"": ""100""}",El Dorado,6017,FALSE,FALSE,America/Los_Angeles
+1760,100%,96155,38.75192,-120.0917,South Lake Tahoe,CA,California,TRUE,,0,0,6017,El Dorado,"{""06017"": ""100""}",El Dorado,6017,FALSE,FALSE,America/Los_Angeles
+1761,100%,96161,39.30962,-120.20989,Truckee,CA,California,TRUE,,18488,39.3,6057,Nevada,"{""06057"": ""90.56"", ""06061"": ""9.44""}",Nevada|Placer,06057|06061,FALSE,FALSE,America/Los_Angeles

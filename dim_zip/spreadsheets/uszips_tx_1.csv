@@ -1,0 +1,200 @@
+,zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone
+1,75001,32.96,-96.83849,Addison,TX,Texas,TRUE,,14992,1510.1,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+2,75002,33.08965,-96.60752,Allen,TX,Texas,TRUE,,71253,739.6,48085,Collin,"{""48085"": ""100""}",Collin,48085,FALSE,FALSE,America/Chicago
+3,75006,32.96188,-96.89701,Carrollton,TX,Texas,TRUE,,51642,1186.2,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+4,75007,33.00462,-96.89715,Carrollton,TX,Texas,TRUE,,55500,1823.7,48121,Denton,"{""48121"": ""94.21"", ""48113"": ""5.79""}",Denton|Dallas,48121|48113,FALSE,FALSE,America/Chicago
+5,75009,33.34028,-96.75033,Celina,TX,Texas,TRUE,,14089,56.9,48085,Collin,"{""48085"": ""94.8"", ""48121"": ""5.2""}",Collin|Denton,48085|48121,FALSE,FALSE,America/Chicago
+6,75010,33.03425,-96.89673,Carrollton,TX,Texas,TRUE,,30406,1452.9,48121,Denton,"{""48121"": ""100""}",Denton,48121,FALSE,FALSE,America/Chicago
+7,75013,33.11467,-96.69411,Allen,TX,Texas,TRUE,,42629,1094.6,48085,Collin,"{""48085"": ""100""}",Collin,48085,FALSE,FALSE,America/Chicago
+8,75019,32.96329,-96.98553,Coppell,TX,Texas,TRUE,,42888,1004.9,48113,Dallas,"{""48113"": ""98.05"", ""48121"": ""1.95""}",Dallas|Denton,48113|48121,FALSE,FALSE,America/Chicago
+9,75020,33.77165,-96.60414,Denison,TX,Texas,TRUE,,23232,143.4,48181,Grayson,"{""48181"": ""100""}",Grayson,48181,FALSE,FALSE,America/Chicago
+10,75021,33.72616,-96.47325,Denison,TX,Texas,TRUE,,8847,56.8,48181,Grayson,"{""48181"": ""100""}",Grayson,48181,FALSE,FALSE,America/Chicago
+11,75022,33.02772,-97.12024,Flower Mound,TX,Texas,TRUE,,27201,546.8,48121,Denton,"{""48121"": ""99.09"", ""48439"": ""0.91""}",Denton|Tarrant,48121|48439,FALSE,FALSE,America/Chicago
+12,75023,33.05706,-96.73242,Plano,TX,Texas,TRUE,,50431,2066.8,48085,Collin,"{""48085"": ""100""}",Collin,48085,FALSE,FALSE,America/Chicago
+13,75024,33.07735,-96.80704,Plano,TX,Texas,TRUE,,43551,1326.6,48085,Collin,"{""48085"": ""94.2"", ""48121"": ""5.8""}",Collin|Denton,48085|48121,FALSE,FALSE,America/Chicago
+14,75025,33.09095,-96.74128,Plano,TX,Texas,TRUE,,53764,2219.7,48085,Collin,"{""48085"": ""100""}",Collin,48085,FALSE,FALSE,America/Chicago
+15,75028,33.0328,-97.06086,Flower Mound,TX,Texas,TRUE,,47804,1217.1,48121,Denton,"{""48121"": ""99.99"", ""48439"": ""0.01""}",Denton|Tarrant,48121|48439,FALSE,FALSE,America/Chicago
+16,75032,32.85505,-96.42772,Rockwall,TX,Texas,TRUE,,33080,248.9,48397,Rockwall,"{""48397"": ""100""}",Rockwall,48397,FALSE,FALSE,America/Chicago
+17,75034,33.15195,-96.86036,Frisco,TX,Texas,TRUE,,108525,837.4,48121,Denton,"{""48121"": ""65.96"", ""48085"": ""34.04""}",Denton|Collin,48121|48085,FALSE,FALSE,America/Chicago
+18,75035,33.15534,-96.77271,Frisco,TX,Texas,TRUE,,75485,1234.1,48085,Collin,"{""48085"": ""100""}",Collin,48085,FALSE,FALSE,America/Chicago
+19,75038,32.87457,-96.99759,Irving,TX,Texas,TRUE,,29990,865.8,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+20,75039,32.88753,-96.94224,Irving,TX,Texas,TRUE,,20108,1477.5,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+21,75040,32.92766,-96.62008,Garland,TX,Texas,TRUE,,62417,1539.7,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+22,75041,32.88091,-96.65147,Garland,TX,Texas,TRUE,,30880,1490,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+23,75042,32.9139,-96.67493,Garland,TX,Texas,TRUE,,39183,2021.9,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+24,75043,32.85707,-96.57941,Garland,TX,Texas,TRUE,,62601,1660.5,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+25,75044,32.96264,-96.65323,Garland,TX,Texas,TRUE,,43292,1556.5,48113,Dallas,"{""48113"": ""99.36"", ""48085"": ""0.64""}",Dallas|Collin,48113|48085,FALSE,FALSE,America/Chicago
+26,75048,32.972,-96.58085,Sachse,TX,Texas,TRUE,,25598,942.2,48113,Dallas,"{""48113"": ""68.91"", ""48085"": ""31.09""}",Dallas|Collin,48113|48085,FALSE,FALSE,America/Chicago
+27,75050,32.77409,-97.00532,Grand Prairie,TX,Texas,TRUE,,43174,673.5,48113,Dallas,"{""48113"": ""76.1"", ""48439"": ""23.9""}",Dallas|Tarrant,48113|48439,FALSE,FALSE,America/Chicago
+28,75051,32.72758,-96.99437,Grand Prairie,TX,Texas,TRUE,,40923,1301,48113,Dallas,"{""48113"": ""90.73"", ""48439"": ""9.27""}",Dallas|Tarrant,48113|48439,FALSE,FALSE,America/Chicago
+29,75052,32.6659,-97.02649,Grand Prairie,TX,Texas,TRUE,,95495,1409.5,48113,Dallas,"{""48113"": ""62.84"", ""48439"": ""37.16""}",Dallas|Tarrant,48113|48439,FALSE,FALSE,America/Chicago
+30,75054,32.59059,-97.04051,Grand Prairie,TX,Texas,TRUE,,11927,849.6,48439,Tarrant,"{""48439"": ""97.63"", ""48113"": ""2.37""}",Tarrant|Dallas,48439|48113,FALSE,FALSE,America/Chicago
+31,75056,33.07393,-96.91484,The Colony,TX,Texas,TRUE,,60554,927.2,48121,Denton,"{""48121"": ""100""}",Denton,48121,FALSE,FALSE,America/Chicago
+32,75057,33.04952,-96.98383,Lewisville,TX,Texas,TRUE,,14960,567.1,48121,Denton,"{""48121"": ""100""}",Denton,48121,FALSE,FALSE,America/Chicago
+33,75058,33.45012,-96.74225,Gunter,TX,Texas,TRUE,,2666,17.9,48181,Grayson,"{""48181"": ""100""}",Grayson,48181,FALSE,FALSE,America/Chicago
+34,75060,32.796,-96.95446,Irving,TX,Texas,TRUE,,47764,1391.5,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+35,75061,32.82605,-96.9655,Irving,TX,Texas,TRUE,,54520,1819.7,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+36,75062,32.84702,-96.95686,Irving,TX,Texas,TRUE,,49306,1732.9,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+37,75063,32.92046,-96.98599,Irving,TX,Texas,TRUE,,40048,1020.9,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+38,75065,33.11093,-97.0119,Lake Dallas,TX,Texas,TRUE,,12640,613.8,48121,Denton,"{""48121"": ""100""}",Denton,48121,FALSE,FALSE,America/Chicago
+39,75067,33.01371,-97.00025,Lewisville,TX,Texas,TRUE,,68196,1980.9,48121,Denton,"{""48121"": ""98.62"", ""48113"": ""1.38""}",Denton|Dallas,48121|48113,FALSE,FALSE,America/Chicago
+40,75068,33.17647,-96.95053,Little Elm,TX,Texas,TRUE,,65991,929.5,48121,Denton,"{""48121"": ""100""}",Denton,48121,FALSE,FALSE,America/Chicago
+41,75069,33.16545,-96.59468,Mckinney,TX,Texas,TRUE,,37892,457,48085,Collin,"{""48085"": ""100""}",Collin,48085,FALSE,FALSE,America/Chicago
+42,75070,33.17311,-96.69773,Mckinney,TX,Texas,TRUE,,104415,1687.8,48085,Collin,"{""48085"": ""100""}",Collin,48085,FALSE,FALSE,America/Chicago
+43,75071,33.24663,-96.62898,Mckinney,TX,Texas,TRUE,,55570,272.2,48085,Collin,"{""48085"": ""100""}",Collin,48085,FALSE,FALSE,America/Chicago
+44,75074,33.03188,-96.67428,Plano,TX,Texas,TRUE,,52259,1221.7,48085,Collin,"{""48085"": ""100""}",Collin,48085,FALSE,FALSE,America/Chicago
+45,75075,33.02137,-96.74103,Plano,TX,Texas,TRUE,,38283,1499.7,48085,Collin,"{""48085"": ""100""}",Collin,48085,FALSE,FALSE,America/Chicago
+46,75076,33.79472,-96.72168,Pottsboro,TX,Texas,TRUE,,8156,63.3,48181,Grayson,"{""48181"": ""100""}",Grayson,48181,FALSE,FALSE,America/Chicago
+47,75077,33.07886,-97.06273,Lewisville,TX,Texas,TRUE,,37102,1025,48121,Denton,"{""48121"": ""100""}",Denton,48121,FALSE,FALSE,America/Chicago
+48,75078,33.24672,-96.80856,Prosper,TX,Texas,TRUE,,28803,339.5,48085,Collin,"{""48085"": ""92.73"", ""48121"": ""7.27""}",Collin|Denton,48085|48121,FALSE,FALSE,America/Chicago
+49,75080,32.97394,-96.74202,Richardson,TX,Texas,TRUE,,52531,1775.5,48113,Dallas,"{""48113"": ""77.52"", ""48085"": ""22.48""}",Dallas|Collin,48113|48085,FALSE,FALSE,America/Chicago
+50,75081,32.94882,-96.7102,Richardson,TX,Texas,TRUE,,40265,1684.8,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+51,75082,32.99157,-96.66234,Richardson,TX,Texas,TRUE,,23483,1157.4,48085,Collin,"{""48085"": ""88.75"", ""48113"": ""11.25""}",Collin|Dallas,48085|48113,FALSE,FALSE,America/Chicago
+52,75087,32.94172,-96.44993,Rockwall,TX,Texas,TRUE,,35157,518.5,48397,Rockwall,"{""48397"": ""99.42"", ""48085"": ""0.58""}",Rockwall|Collin,48397|48085,FALSE,FALSE,America/Chicago
+53,75088,32.89229,-96.54917,Rowlett,TX,Texas,TRUE,,26039,1101.8,48113,Dallas,"{""48113"": ""82.23"", ""48397"": ""17.77""}",Dallas|Rockwall,48113|48397,FALSE,FALSE,America/Chicago
+54,75089,32.92975,-96.54975,Rowlett,TX,Texas,TRUE,,36324,1250.7,48113,Dallas,"{""48113"": ""95.04"", ""48397"": ""4.96""}",Dallas|Rockwall,48113|48397,FALSE,FALSE,America/Chicago
+55,75090,33.60452,-96.54562,Sherman,TX,Texas,TRUE,,25418,127.6,48181,Grayson,"{""48181"": ""100""}",Grayson,48181,FALSE,FALSE,America/Chicago
+56,75092,33.64891,-96.70005,Sherman,TX,Texas,TRUE,,24905,84.8,48181,Grayson,"{""48181"": ""100""}",Grayson,48181,FALSE,FALSE,America/Chicago
+57,75093,33.0355,-96.81001,Plano,TX,Texas,TRUE,,46788,1280.3,48085,Collin,"{""48085"": ""93.14"", ""48121"": ""6.86""}",Collin|Denton,48085|48121,FALSE,FALSE,America/Chicago
+58,75094,33.01909,-96.61509,Plano,TX,Texas,TRUE,,23239,1286.1,48085,Collin,"{""48085"": ""100""}",Collin,48085,FALSE,FALSE,America/Chicago
+59,75098,33.0119,-96.53479,Wylie,TX,Texas,TRUE,,56376,660.8,48085,Collin,"{""48085"": ""93.4"", ""48113"": ""3.76"", ""48397"": ""2.84""}",Collin|Dallas|Rockwall,48085|48113|48397,FALSE,FALSE,America/Chicago
+60,75101,32.27003,-96.70239,Bardwell,TX,Texas,TRUE,,517,242.6,48139,Ellis,"{""48139"": ""100""}",Ellis,48139,FALSE,FALSE,America/Chicago
+61,75102,32.06629,-96.64223,Barry,TX,Texas,TRUE,,1358,8.6,48349,Navarro,"{""48349"": ""100""}",Navarro,48349,FALSE,FALSE,America/Chicago
+62,75103,32.51192,-95.88235,Canton,TX,Texas,TRUE,,14530,28.1,48467,Van Zandt,"{""48467"": ""100""}",Van Zandt,48467,FALSE,FALSE,America/Chicago
+63,75104,32.58042,-96.96613,Cedar Hill,TX,Texas,TRUE,,49171,486.2,48113,Dallas,"{""48113"": ""99.1"", ""48139"": ""0.9""}",Dallas|Ellis,48113|48139,FALSE,FALSE,America/Chicago
+64,75105,32.26654,-96.37522,Chatfield,TX,Texas,TRUE,,161,1.2,48349,Navarro,"{""48349"": ""100""}",Navarro,48349,FALSE,FALSE,America/Chicago
+65,75109,32.04523,-96.35405,Corsicana,TX,Texas,TRUE,,4384,14.6,48349,Navarro,"{""48349"": ""100""}",Navarro,48349,FALSE,FALSE,America/Chicago
+66,75110,32.08693,-96.52879,Corsicana,TX,Texas,TRUE,,28558,73.5,48349,Navarro,"{""48349"": ""100""}",Navarro,48349,FALSE,FALSE,America/Chicago
+67,75114,32.61016,-96.44553,Crandall,TX,Texas,TRUE,,6829,61,48257,Kaufman,"{""48257"": ""100""}",Kaufman,48257,FALSE,FALSE,America/Chicago
+68,75115,32.59888,-96.86374,Desoto,TX,Texas,TRUE,,52916,931.5,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+69,75116,32.66017,-96.91393,Duncanville,TX,Texas,TRUE,,19867,1497.7,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+70,75117,32.71183,-95.85077,Edgewood,TX,Texas,TRUE,,3984,32.8,48467,Van Zandt,"{""48467"": ""100""}",Van Zandt,48467,FALSE,FALSE,America/Chicago
+71,75119,32.32976,-96.59334,Ennis,TX,Texas,TRUE,,28598,41.7,48139,Ellis,"{""48139"": ""99.3"", ""48349"": ""0.7""}",Ellis|Navarro,48139|48349,FALSE,FALSE,America/Chicago
+72,75124,32.32673,-95.9724,Eustace,TX,Texas,TRUE,,4255,17.7,48213,Henderson,"{""48213"": ""79.19"", ""48467"": ""20.81""}",Henderson|Van Zandt,48213|48467,FALSE,FALSE,America/Chicago
+73,75125,32.53137,-96.62477,Ferris,TX,Texas,TRUE,,6326,35.1,48139,Ellis,"{""48139"": ""95.13"", ""48113"": ""4.87""}",Ellis|Dallas,48139|48113,FALSE,FALSE,America/Chicago
+74,75126,32.74205,-96.45185,Forney,TX,Texas,TRUE,,48987,244.6,48257,Kaufman,"{""48257"": ""100""}",Kaufman,48257,FALSE,FALSE,America/Chicago
+75,75127,32.69116,-95.79336,Fruitvale,TX,Texas,TRUE,,1705,24.8,48467,Van Zandt,"{""48467"": ""100""}",Van Zandt,48467,FALSE,FALSE,America/Chicago
+76,75132,32.94537,-96.37375,Fate,TX,Texas,TRUE,,1559,405.9,48397,Rockwall,"{""48397"": ""100""}",Rockwall,48397,FALSE,FALSE,America/Chicago
+77,75134,32.6201,-96.783,Lancaster,TX,Texas,TRUE,,21879,826.6,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+78,75135,33.06521,-96.22289,Caddo Mills,TX,Texas,TRUE,,7363,45.7,48231,Hunt,"{""48231"": ""100""}",Hunt,48231,FALSE,FALSE,America/Chicago
+79,75137,32.634,-96.91176,Duncanville,TX,Texas,TRUE,,19548,1240.4,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+80,75140,32.64691,-95.69145,Grand Saline,TX,Texas,TRUE,,7595,26.1,48467,Van Zandt,"{""48467"": ""100""}",Van Zandt,48467,FALSE,FALSE,America/Chicago
+81,75141,32.63998,-96.69464,Hutchins,TX,Texas,TRUE,,5782,195.6,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+82,75142,32.57357,-96.24717,Kaufman,TX,Texas,TRUE,,19261,42.9,48257,Kaufman,"{""48257"": ""100""}",Kaufman,48257,FALSE,FALSE,America/Chicago
+83,75143,32.36358,-96.24817,Kemp,TX,Texas,TRUE,,14510,31.5,48213,Henderson,"{""48213"": ""53.51"", ""48257"": ""46.49""}",Henderson|Kaufman,48213|48257,FALSE,FALSE,America/Chicago
+84,75144,32.11313,-96.20885,Kerens,TX,Texas,TRUE,,3668,8.2,48349,Navarro,"{""48349"": ""100""}",Navarro,48349,FALSE,FALSE,America/Chicago
+85,75146,32.57462,-96.75068,Lancaster,TX,Texas,TRUE,,19701,229.1,48113,Dallas,"{""48113"": ""99.32"", ""48139"": ""0.68""}",Dallas|Ellis,48113|48139,FALSE,FALSE,America/Chicago
+86,75147,32.43298,-96.0774,Mabank,TX,Texas,TRUE,,6636,27.3,48257,Kaufman,"{""48257"": ""56.12"", ""48467"": ""34.13"", ""48213"": ""9.75""}",Kaufman|Van Zandt|Henderson,48257|48467|48213,FALSE,FALSE,America/Chicago
+87,75148,32.12461,-96.01216,Malakoff,TX,Texas,TRUE,,5961,26.3,48213,Henderson,"{""48213"": ""100""}",Henderson,48213,FALSE,FALSE,America/Chicago
+88,75149,32.77003,-96.61487,Mesquite,TX,Texas,TRUE,,56473,1373.1,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+89,75150,32.81577,-96.63039,Mesquite,TX,Texas,TRUE,,60671,1835.1,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+90,75152,32.43647,-96.68038,Palmer,TX,Texas,TRUE,,5195,48.9,48139,Ellis,"{""48139"": ""100""}",Ellis,48139,FALSE,FALSE,America/Chicago
+91,75153,32.15027,-96.32856,Powell,TX,Texas,TRUE,,441,7.2,48349,Navarro,"{""48349"": ""100""}",Navarro,48349,FALSE,FALSE,America/Chicago
+92,75154,32.52281,-96.81015,Red Oak,TX,Texas,TRUE,,40947,336.3,48139,Ellis,"{""48139"": ""75.44"", ""48113"": ""24.56""}",Ellis|Dallas,48139|48113,FALSE,FALSE,America/Chicago
+93,75155,32.22573,-96.47318,Rice,TX,Texas,TRUE,,3233,32.8,48349,Navarro,"{""48349"": ""100""}",Navarro,48349,FALSE,FALSE,America/Chicago
+94,75156,32.28688,-96.09979,Mabank,TX,Texas,TRUE,,16578,204.5,48213,Henderson,"{""48213"": ""100""}",Henderson,48213,FALSE,FALSE,America/Chicago
+95,75157,32.46227,-96.44684,Rosser,TX,Texas,TRUE,,261,59.3,48257,Kaufman,"{""48257"": ""100""}",Kaufman,48257,FALSE,FALSE,America/Chicago
+96,75158,32.46222,-96.39662,Scurry,TX,Texas,TRUE,,4191,18.4,48257,Kaufman,"{""48257"": ""100""}",Kaufman,48257,FALSE,FALSE,America/Chicago
+97,75159,32.60748,-96.54087,Seagoville,TX,Texas,TRUE,,20098,128.6,48113,Dallas,"{""48113"": ""88.21"", ""48257"": ""11.79""}",Dallas|Kaufman,48113|48257,FALSE,FALSE,America/Chicago
+98,75160,32.76169,-96.30017,Terrell,TX,Texas,TRUE,,25525,82.1,48257,Kaufman,"{""48257"": ""93.96"", ""48231"": ""5.89"", ""48397"": ""0.15""}",Kaufman|Hunt|Rockwall,48257|48231|48397,FALSE,FALSE,America/Chicago
+99,75161,32.73742,-96.17115,Terrell,TX,Texas,TRUE,,6529,22.1,48257,Kaufman,"{""48257"": ""100""}",Kaufman,48257,FALSE,FALSE,America/Chicago
+100,75163,32.16759,-96.11031,Trinidad,TX,Texas,TRUE,,2716,31,48213,Henderson,"{""48213"": ""100""}",Henderson,48213,FALSE,FALSE,America/Chicago
+101,75164,33.06593,-96.30793,Josephine,TX,Texas,TRUE,,633,107.2,48085,Collin,"{""48085"": ""100""}",Collin,48085,FALSE,FALSE,America/Chicago
+102,75165,32.36912,-96.79744,Waxahachie,TX,Texas,TRUE,,45059,154.8,48139,Ellis,"{""48139"": ""100""}",Ellis,48139,FALSE,FALSE,America/Chicago
+103,75166,33.01234,-96.45026,Lavon,TX,Texas,TRUE,,4395,128.4,48085,Collin,"{""48085"": ""100""}",Collin,48085,FALSE,FALSE,America/Chicago
+104,75167,32.35888,-96.91515,Waxahachie,TX,Texas,TRUE,,12170,48.1,48139,Ellis,"{""48139"": ""100""}",Ellis,48139,FALSE,FALSE,America/Chicago
+105,75169,32.70454,-95.99657,Wills Point,TX,Texas,TRUE,,14142,25.5,48467,Van Zandt,"{""48467"": ""83.45"", ""48231"": ""12.26"", ""48257"": ""4.3""}",Van Zandt|Hunt|Kaufman,48467|48231|48257,FALSE,FALSE,America/Chicago
+106,75172,32.60482,-96.67515,Wilmer,TX,Texas,TRUE,,4619,153,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+107,75173,33.05923,-96.39106,Nevada,TX,Texas,TRUE,,4409,55.9,48085,Collin,"{""48085"": ""100""}",Collin,48085,FALSE,FALSE,America/Chicago
+108,75180,32.71893,-96.61839,Balch Springs,TX,Texas,TRUE,,23941,1205.4,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+109,75181,32.72697,-96.55519,Mesquite,TX,Texas,TRUE,,28263,620.2,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+110,75182,32.80014,-96.55405,Sunnyvale,TX,Texas,TRUE,,6325,138.9,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+111,75189,32.95183,-96.31192,Royse City,TX,Texas,TRUE,,29135,101.3,48397,Rockwall,"{""48397"": ""65.97"", ""48231"": ""23.9"", ""48085"": ""10.13""}",Rockwall|Hunt|Collin,48397|48231|48085,FALSE,FALSE,America/Chicago
+112,75201,32.78773,-96.79936,Dallas,TX,Texas,TRUE,,17476,4660.6,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+113,75202,32.77924,-96.80472,Dallas,TX,Texas,TRUE,,2312,1269.1,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+114,75203,32.74627,-96.803,Dallas,TX,Texas,TRUE,,17367,1417.7,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+115,75204,32.80204,-96.78881,Dallas,TX,Texas,TRUE,,30537,4609.7,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+116,75205,32.83657,-96.79619,Dallas,TX,Texas,TRUE,,24877,2207.5,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+117,75206,32.83155,-96.77027,Dallas,TX,Texas,TRUE,,39010,3542.1,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+118,75207,32.78676,-96.82139,Dallas,TX,Texas,TRUE,,7702,773.1,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+119,75208,32.75376,-96.83984,Dallas,TX,Texas,TRUE,,29706,1930.7,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+120,75209,32.84885,-96.82587,Dallas,TX,Texas,TRUE,,14308,1562.8,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+121,75210,32.77135,-96.74596,Dallas,TX,Texas,TRUE,,8673,1478.2,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+122,75211,32.73493,-96.90297,Dallas,TX,Texas,TRUE,,77570,1695.7,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+123,75212,32.78142,-96.87913,Dallas,TX,Texas,TRUE,,26720,1005.2,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+124,75214,32.82865,-96.74543,Dallas,TX,Texas,TRUE,,34824,1858,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+125,75215,32.75076,-96.7581,Dallas,TX,Texas,TRUE,,17818,817.6,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+126,75216,32.71165,-96.78371,Dallas,TX,Texas,TRUE,,53327,1408.8,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+127,75217,32.71217,-96.68118,Dallas,TX,Texas,TRUE,,89163,1259.9,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+128,75218,32.84154,-96.70237,Dallas,TX,Texas,TRUE,,22529,1244.8,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+129,75219,32.81179,-96.81292,Dallas,TX,Texas,TRUE,,25120,4425.3,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+130,75220,32.86664,-96.87615,Dallas,TX,Texas,TRUE,,42009,1433,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+131,75223,32.79223,-96.74399,Dallas,TX,Texas,TRUE,,14941,1671,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+132,75224,32.711,-96.83994,Dallas,TX,Texas,TRUE,,37592,2484.4,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+133,75225,32.86521,-96.79098,Dallas,TX,Texas,TRUE,,21736,1777.8,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+134,75226,32.7828,-96.77632,Dallas,TX,Texas,TRUE,,4579,1578.6,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+135,75227,32.77,-96.68728,Dallas,TX,Texas,TRUE,,59924,2030.1,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+136,75228,32.82443,-96.67996,Dallas,TX,Texas,TRUE,,73976,2503.9,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+137,75229,32.89374,-96.86441,Dallas,TX,Texas,TRUE,,32322,995.8,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+138,75230,32.90229,-96.79207,Dallas,TX,Texas,TRUE,,27489,1465,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+139,75231,32.87764,-96.74976,Dallas,TX,Texas,TRUE,,40371,2765.2,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+140,75232,32.66095,-96.84018,Dallas,TX,Texas,TRUE,,31453,1468.7,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+141,75233,32.70435,-96.87298,Dallas,TX,Texas,TRUE,,17280,1926.7,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+142,75234,32.92366,-96.89042,Dallas,TX,Texas,TRUE,,37160,1384.9,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+143,75235,32.8325,-96.84849,Dallas,TX,Texas,TRUE,,18429,1058.8,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+144,75236,32.68557,-96.93576,Dallas,TX,Texas,TRUE,,18137,560.7,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+145,75237,32.66564,-96.8731,Dallas,TX,Texas,TRUE,,21423,1243.8,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+146,75238,32.87853,-96.70782,Dallas,TX,Texas,TRUE,,33049,1940.2,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+147,75240,32.93174,-96.78854,Dallas,TX,Texas,TRUE,,28534,2920.8,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+148,75241,32.66571,-96.75904,Dallas,TX,Texas,TRUE,,31562,453.6,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+149,75243,32.91211,-96.73563,Dallas,TX,Texas,TRUE,,68308,3031.6,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+150,75244,32.92542,-96.83663,Dallas,TX,Texas,TRUE,,13254,1109.6,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+151,75246,32.79292,-96.7733,Dallas,TX,Texas,TRUE,,2760,2359.3,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+152,75247,32.81358,-96.87748,Dallas,TX,Texas,TRUE,,792,46.8,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+153,75248,32.96955,-96.79528,Dallas,TX,Texas,TRUE,,37373,1956.4,48113,Dallas,"{""48113"": ""99.29"", ""48085"": ""0.71""}",Dallas|Collin,48113|48085,FALSE,FALSE,America/Chicago
+154,75249,32.64442,-96.9588,Dallas,TX,Texas,TRUE,,17649,1482.2,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+155,75251,32.91901,-96.77193,Dallas,TX,Texas,TRUE,,2861,2514.2,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+156,75252,32.99723,-96.79081,Dallas,TX,Texas,TRUE,,26867,2047.7,48085,Collin,"{""48085"": ""97.44"", ""48113"": ""2.56""}",Collin|Dallas,48085|48113,FALSE,FALSE,America/Chicago
+157,75253,32.67499,-96.61286,Dallas,TX,Texas,TRUE,,23900,676.7,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+158,75254,32.94562,-96.80133,Dallas,TX,Texas,TRUE,,26929,3130.8,48113,Dallas,"{""48113"": ""100""}",Dallas,48113,FALSE,FALSE,America/Chicago
+159,75270,32.78119,-96.80223,Dallas,TX,Texas,TRUE,,0,0,48113,Dallas,"{""48113"": ""0""}",Dallas,48113,FALSE,FALSE,America/Chicago
+160,75287,33.00032,-96.84114,Dallas,TX,Texas,TRUE,,55673,3839.7,48121,Denton,"{""48121"": ""52.75"", ""48085"": ""47.25"", ""48113"": ""0""}",Denton|Collin|Dallas,48121|48085|48113,FALSE,FALSE,America/Chicago
+161,75390,32.81419,-96.8408,Dallas,TX,Texas,TRUE,,0,0,48113,Dallas,"{""48113"": ""0""}",Dallas,48113,FALSE,FALSE,America/Chicago
+162,75401,33.18426,-96.11952,Greenville,TX,Texas,TRUE,,19146,71.1,48231,Hunt,"{""48231"": ""100""}",Hunt,48231,FALSE,FALSE,America/Chicago
+163,75402,33.06879,-96.08534,Greenville,TX,Texas,TRUE,,18087,77.3,48231,Hunt,"{""48231"": ""100""}",Hunt,48231,FALSE,FALSE,America/Chicago
+164,75407,33.15089,-96.48796,Princeton,TX,Texas,TRUE,,17978,140.5,48085,Collin,"{""48085"": ""100""}",Collin,48085,FALSE,FALSE,America/Chicago
+165,75409,33.35196,-96.52734,Anna,TX,Texas,TRUE,,16349,78.7,48085,Collin,"{""48085"": ""100""}",Collin,48085,FALSE,FALSE,America/Chicago
+166,75410,32.79101,-95.63456,Alba,TX,Texas,TRUE,,4954,23.3,48499,Wood,"{""48499"": ""82.16"", ""48379"": ""17.84""}",Wood|Rains,48499|48379,FALSE,FALSE,America/Chicago
+167,75411,33.86196,-95.64855,Arthur City,TX,Texas,TRUE,,889,4.4,48277,Lamar,"{""48277"": ""100""}",Lamar,48277,FALSE,FALSE,America/Chicago
+168,75412,33.79984,-95.15232,Bagwell,TX,Texas,TRUE,,457,1.2,48387,Red River,"{""48387"": ""100""}",Red River,48387,FALSE,FALSE,America/Chicago
+169,75413,33.4414,-96.17912,Bailey,TX,Texas,TRUE,,282,77.5,48147,Fannin,"{""48147"": ""100""}",Fannin,48147,FALSE,FALSE,America/Chicago
+170,75414,33.62333,-96.43179,Bells,TX,Texas,TRUE,,3416,27,48181,Grayson,"{""48181"": ""100""}",Grayson,48181,FALSE,FALSE,America/Chicago
+171,75415,33.45985,-95.75133,Ben Franklin,TX,Texas,TRUE,,240,8.8,48119,Delta,"{""48119"": ""100""}",Delta,48119,FALSE,FALSE,America/Chicago
+172,75416,33.67825,-95.35442,Blossom,TX,Texas,TRUE,,3070,16,48277,Lamar,"{""48277"": ""100""}",Lamar,48277,FALSE,FALSE,America/Chicago
+173,75417,33.43887,-95.13134,Bogata,TX,Texas,TRUE,,2688,6.3,48387,Red River,"{""48387"": ""100""}",Red River,48387,FALSE,FALSE,America/Chicago
+174,75418,33.57269,-96.17766,Bonham,TX,Texas,TRUE,,14571,40.3,48147,Fannin,"{""48147"": ""100""}",Fannin,48147,FALSE,FALSE,America/Chicago
+175,75420,33.053,-95.72612,Brashear,TX,Texas,TRUE,,1052,11.1,48223,Hopkins,"{""48223"": ""100""}",Hopkins,48223,FALSE,FALSE,America/Chicago
+176,75421,33.64665,-95.7172,Brookston,TX,Texas,TRUE,,666,4.7,48277,Lamar,"{""48277"": ""100""}",Lamar,48277,FALSE,FALSE,America/Chicago
+177,75422,33.13937,-95.93198,Campbell,TX,Texas,TRUE,,3088,16.3,48231,Hunt,"{""48231"": ""100""}",Hunt,48231,FALSE,FALSE,America/Chicago
+178,75423,33.28614,-96.19999,Celeste,TX,Texas,TRUE,,3110,14.8,48231,Hunt,"{""48231"": ""98.89"", ""48147"": ""1.11""}",Hunt|Fannin,48231|48147,FALSE,FALSE,America/Chicago
+179,75424,33.30659,-96.38586,Blue Ridge,TX,Texas,TRUE,,3024,17.5,48085,Collin,"{""48085"": ""93.9"", ""48147"": ""6.1""}",Collin|Fannin,48085|48147,FALSE,FALSE,America/Chicago
+180,75426,33.65539,-95.00488,Clarksville,TX,Texas,TRUE,,4393,5.2,48387,Red River,"{""48387"": ""100""}",Red River,48387,FALSE,FALSE,America/Chicago
+181,75428,33.26847,-95.91606,Commerce,TX,Texas,TRUE,,11371,51.1,48231,Hunt,"{""48231"": ""97.27"", ""48119"": ""2.73""}",Hunt|Delta,48231|48119,FALSE,FALSE,America/Chicago
+182,75431,33.01166,-95.46369,Como,TX,Texas,TRUE,,2122,13.9,48223,Hopkins,"{""48223"": ""88.45"", ""48499"": ""11.55""}",Hopkins|Wood,48223|48499,FALSE,FALSE,America/Chicago
+183,75432,33.39605,-95.67442,Cooper,TX,Texas,TRUE,,3504,12.8,48119,Delta,"{""48119"": ""100""}",Delta,48119,FALSE,FALSE,America/Chicago
+184,75433,33.10767,-95.80424,Cumby,TX,Texas,TRUE,,2808,10.4,48223,Hopkins,"{""48223"": ""100""}",Hopkins,48223,FALSE,FALSE,America/Chicago
+185,75435,33.48223,-95.31354,Deport,TX,Texas,TRUE,,944,5.4,48277,Lamar,"{""48277"": ""84.98"", ""48387"": ""15.02""}",Lamar|Red River,48277|48387,FALSE,FALSE,America/Chicago
+186,75436,33.71282,-95.25156,Detroit,TX,Texas,TRUE,,2480,5.8,48387,Red River,"{""48387"": ""95.52"", ""48277"": ""4.48""}",Red River|Lamar,48387|48277,FALSE,FALSE,America/Chicago
+187,75437,33.25841,-95.46899,Dike,TX,Texas,TRUE,,1377,8.8,48223,Hopkins,"{""48223"": ""100""}",Hopkins,48223,FALSE,FALSE,America/Chicago
+188,75438,33.60829,-96.06541,Dodd City,TX,Texas,TRUE,,992,8.4,48147,Fannin,"{""48147"": ""100""}",Fannin,48147,FALSE,FALSE,America/Chicago
+189,75439,33.55199,-96.27716,Ector,TX,Texas,TRUE,,1035,28.7,48147,Fannin,"{""48147"": ""100""}",Fannin,48147,FALSE,FALSE,America/Chicago
+190,75440,32.87828,-95.75557,Emory,TX,Texas,TRUE,,6258,21,48379,Rains,"{""48379"": ""97.1"", ""48499"": ""2.9""}",Rains|Wood,48379|48499,FALSE,FALSE,America/Chicago
+191,75441,33.4322,-95.65349,Enloe,TX,Texas,TRUE,,128,7,48119,Delta,"{""48119"": ""100""}",Delta,48119,FALSE,FALSE,America/Chicago
+192,75442,33.17365,-96.35309,Farmersville,TX,Texas,TRUE,,9308,34.1,48085,Collin,"{""48085"": ""89.03"", ""48231"": ""10.97""}",Collin|Hunt,48085|48231,FALSE,FALSE,America/Chicago
+193,75446,33.61208,-95.89414,Honey Grove,TX,Texas,TRUE,,3178,7,48147,Fannin,"{""48147"": ""87.67"", ""48277"": ""12.33""}",Fannin|Lamar,48147|48277,FALSE,FALSE,America/Chicago
+194,75447,33.76513,-96.1177,Ivanhoe,TX,Texas,TRUE,,1256,9.1,48147,Fannin,"{""48147"": ""100""}",Fannin,48147,FALSE,FALSE,America/Chicago
+195,75448,33.31493,-95.79329,Klondike,TX,Texas,TRUE,,643,8.8,48119,Delta,"{""48119"": ""100""}",Delta,48119,FALSE,FALSE,America/Chicago
+196,75449,33.42067,-95.94604,Ladonia,TX,Texas,TRUE,,1374,6.5,48147,Fannin,"{""48147"": ""83.39"", ""48231"": ""16.61""}",Fannin|Hunt,48147|48231,FALSE,FALSE,America/Chicago
+197,75450,33.4051,-95.47848,Lake Creek,TX,Texas,TRUE,,150,1,48119,Delta,"{""48119"": ""100""}",Delta,48119,FALSE,FALSE,America/Chicago
+198,75451,32.96634,-95.1212,Leesburg,TX,Texas,TRUE,,1163,12.9,48063,Camp,"{""48063"": ""95.46"", ""48499"": ""4.54""}",Camp|Wood,48063|48499,FALSE,FALSE,America/Chicago
+199,75452,33.39324,-96.24331,Leonard,TX,Texas,TRUE,,4650,23.6,48147,Fannin,"{""48147"": ""93.79"", ""48231"": ""4.23"", ""48085"": ""1.98""}",Fannin|Hunt|Collin,48147|48231|48085,FALSE,FALSE,America/Chicago

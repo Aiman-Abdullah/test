@@ -1,0 +1,177 @@
+Column1,Column2,zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone
+362,21%,92065,33.05146,-116.84562,Ramona,CA,California,TRUE,,37505,87.7,6073,San Diego,"{""06073"": ""100""}",San Diego,6073,FALSE,FALSE,America/Los_Angeles
+363,21%,92066,33.21937,-116.53526,Ranchita,CA,California,TRUE,,693,13.5,6073,San Diego,"{""06073"": ""100""}",San Diego,6073,FALSE,FALSE,America/Los_Angeles
+364,21%,92067,33.02141,-117.19383,Rancho Santa Fe,CA,California,TRUE,,7724,132.4,6073,San Diego,"{""06073"": ""100""}",San Diego,6073,FALSE,FALSE,America/Los_Angeles
+365,21%,92069,33.17078,-117.15867,San Marcos,CA,California,TRUE,,50376,1182.2,6073,San Diego,"{""06073"": ""100""}",San Diego,6073,FALSE,FALSE,America/Los_Angeles
+366,21%,92070,33.1594,-116.72662,Santa Ysabel,CA,California,TRUE,,786,2.3,6073,San Diego,"{""06073"": ""100""}",San Diego,6073,FALSE,FALSE,America/Los_Angeles
+367,21%,92071,32.85129,-116.99146,Santee,CA,California,TRUE,,57710,1267.3,6073,San Diego,"{""06073"": ""100""}",San Diego,6073,FALSE,FALSE,America/Los_Angeles
+368,21%,92075,32.99738,-117.25844,Solana Beach,CA,California,TRUE,,12752,1390.2,6073,San Diego,"{""06073"": ""100""}",San Diego,6073,FALSE,FALSE,America/Los_Angeles
+369,21%,92078,33.11927,-117.18505,San Marcos,CA,California,TRUE,,50510,1169.3,6073,San Diego,"{""06073"": ""100""}",San Diego,6073,FALSE,FALSE,America/Los_Angeles
+370,21%,92081,33.16431,-117.24028,Vista,CA,California,TRUE,,29596,1287.3,6073,San Diego,"{""06073"": ""100""}",San Diego,6073,FALSE,FALSE,America/Los_Angeles
+371,21%,92082,33.25079,-117.00049,Valley Center,CA,California,TRUE,,18705,58.8,6073,San Diego,"{""06073"": ""100""}",San Diego,6073,FALSE,FALSE,America/Los_Angeles
+372,21%,92083,33.19787,-117.24825,Vista,CA,California,TRUE,,39509,2741.1,6073,San Diego,"{""06073"": ""100""}",San Diego,6073,FALSE,FALSE,America/Los_Angeles
+373,21%,92084,33.22218,-117.20537,Vista,CA,California,TRUE,,51619,761.7,6073,San Diego,"{""06073"": ""100""}",San Diego,6073,FALSE,FALSE,America/Los_Angeles
+374,21%,92086,33.30957,-116.65268,Warner Springs,CA,California,TRUE,,1543,2.7,6073,San Diego,"{""06073"": ""100""}",San Diego,6073,FALSE,FALSE,America/Los_Angeles
+375,21%,92091,33.01093,-117.21135,Rancho Santa Fe,CA,California,TRUE,,1313,776.9,6073,San Diego,"{""06073"": ""100""}",San Diego,6073,FALSE,FALSE,America/Los_Angeles
+376,21%,92101,32.72396,-117.17072,San Diego,CA,California,TRUE,,41159,3368.7,6073,San Diego,"{""06073"": ""100""}",San Diego,6073,FALSE,FALSE,America/Los_Angeles
+377,21%,92102,32.71621,-117.11704,San Diego,CA,California,TRUE,,44010,3664.9,6073,San Diego,"{""06073"": ""100""}",San Diego,6073,FALSE,FALSE,America/Los_Angeles
+378,21%,92103,32.74742,-117.16688,San Diego,CA,California,TRUE,,34700,3557,6073,San Diego,"{""06073"": ""100""}",San Diego,6073,FALSE,FALSE,America/Los_Angeles
+379,22%,92104,32.74158,-117.12814,San Diego,CA,California,TRUE,,45435,4632.3,6073,San Diego,"{""06073"": ""100""}",San Diego,6073,FALSE,FALSE,America/Los_Angeles
+380,22%,92105,32.73785,-117.09268,San Diego,CA,California,TRUE,,73623,5104.4,6073,San Diego,"{""06073"": ""100""}",San Diego,6073,FALSE,FALSE,America/Los_Angeles
+381,22%,92106,32.71272,-117.23605,San Diego,CA,California,TRUE,,20155,1376.2,6073,San Diego,"{""06073"": ""100""}",San Diego,6073,FALSE,FALSE,America/Los_Angeles
+382,22%,92107,32.73981,-117.24372,San Diego,CA,California,TRUE,,31223,3843.3,6073,San Diego,"{""06073"": ""100""}",San Diego,6073,FALSE,FALSE,America/Los_Angeles
+383,22%,92108,32.77389,-117.14247,San Diego,CA,California,TRUE,,22280,1953.6,6073,San Diego,"{""06073"": ""100""}",San Diego,6073,FALSE,FALSE,America/Los_Angeles
+384,22%,92109,32.78699,-117.23324,San Diego,CA,California,TRUE,,47111,2394.1,6073,San Diego,"{""06073"": ""100""}",San Diego,6073,FALSE,FALSE,America/Los_Angeles
+385,22%,92110,32.76519,-117.1999,San Diego,CA,California,TRUE,,30108,2391.1,6073,San Diego,"{""06073"": ""100""}",San Diego,6073,FALSE,FALSE,America/Los_Angeles
+386,22%,92111,32.80648,-117.16887,San Diego,CA,California,TRUE,,50693,2313.3,6073,San Diego,"{""06073"": ""100""}",San Diego,6073,FALSE,FALSE,America/Los_Angeles
+387,22%,92113,32.69602,-117.11817,San Diego,CA,California,TRUE,,58408,4282.1,6073,San Diego,"{""06073"": ""100""}",San Diego,6073,FALSE,FALSE,America/Los_Angeles
+388,22%,92114,32.70776,-117.0551,San Diego,CA,California,TRUE,,68851,3226.9,6073,San Diego,"{""06073"": ""100""}",San Diego,6073,FALSE,FALSE,America/Los_Angeles
+389,22%,92115,32.76139,-117.07173,San Diego,CA,California,TRUE,,64343,3819.6,6073,San Diego,"{""06073"": ""100""}",San Diego,6073,FALSE,FALSE,America/Los_Angeles
+390,22%,92116,32.76496,-117.12281,San Diego,CA,California,TRUE,,33408,3755.8,6073,San Diego,"{""06073"": ""100""}",San Diego,6073,FALSE,FALSE,America/Los_Angeles
+391,22%,92117,32.82461,-117.19954,San Diego,CA,California,TRUE,,56983,2504,6073,San Diego,"{""06073"": ""100""}",San Diego,6073,FALSE,FALSE,America/Los_Angeles
+392,22%,92118,32.67487,-117.17866,Coronado,CA,California,TRUE,,22548,1116.5,6073,San Diego,"{""06073"": ""100""}",San Diego,6073,FALSE,FALSE,America/Los_Angeles
+393,22%,92119,32.8101,-117.03279,San Diego,CA,California,TRUE,,24831,1400.9,6073,San Diego,"{""06073"": ""100""}",San Diego,6073,FALSE,FALSE,America/Los_Angeles
+394,22%,92120,32.79468,-117.07114,San Diego,CA,California,TRUE,,30550,1743.3,6073,San Diego,"{""06073"": ""100""}",San Diego,6073,FALSE,FALSE,America/Los_Angeles
+395,22%,92121,32.89918,-117.20233,San Diego,CA,California,TRUE,,4729,149,6073,San Diego,"{""06073"": ""100""}",San Diego,6073,FALSE,FALSE,America/Los_Angeles
+396,22%,92122,32.85926,-117.17007,San Diego,CA,California,TRUE,,48071,1164,6073,San Diego,"{""06073"": ""100""}",San Diego,6073,FALSE,FALSE,America/Los_Angeles
+397,23%,92123,32.80675,-117.13495,San Diego,CA,California,TRUE,,32473,1531.8,6073,San Diego,"{""06073"": ""100""}",San Diego,6073,FALSE,FALSE,America/Los_Angeles
+398,23%,92124,32.82654,-117.08602,San Diego,CA,California,TRUE,,32600,1188.9,6073,San Diego,"{""06073"": ""100""}",San Diego,6073,FALSE,FALSE,America/Los_Angeles
+399,23%,92126,32.90847,-117.1414,San Diego,CA,California,TRUE,,82658,2529.1,6073,San Diego,"{""06073"": ""100""}",San Diego,6073,FALSE,FALSE,America/Los_Angeles
+400,23%,92127,33.0198,-117.12385,San Diego,CA,California,TRUE,,49935,873.8,6073,San Diego,"{""06073"": ""100""}",San Diego,6073,FALSE,FALSE,America/Los_Angeles
+401,23%,92128,32.99937,-117.07178,San Diego,CA,California,TRUE,,51357,1772.9,6073,San Diego,"{""06073"": ""100""}",San Diego,6073,FALSE,FALSE,America/Los_Angeles
+402,23%,92129,32.96486,-117.12604,San Diego,CA,California,TRUE,,54762,1504.2,6073,San Diego,"{""06073"": ""100""}",San Diego,6073,FALSE,FALSE,America/Los_Angeles
+403,23%,92130,32.94759,-117.20741,San Diego,CA,California,TRUE,,56134,1174,6073,San Diego,"{""06073"": ""100""}",San Diego,6073,FALSE,FALSE,America/Los_Angeles
+404,23%,92131,32.89435,-117.08011,San Diego,CA,California,TRUE,,34727,532.3,6073,San Diego,"{""06073"": ""100""}",San Diego,6073,FALSE,FALSE,America/Los_Angeles
+405,23%,92132,32.71368,-117.17201,San Diego,CA,California,TRUE,,0,0,6073,San Diego,"{""06073"": ""0""}",San Diego,6073,FALSE,FALSE,America/Los_Angeles
+406,23%,92134,32.72425,-117.14671,San Diego,CA,California,TRUE,,285,611.6,6073,San Diego,"{""06073"": ""100""}",San Diego,6073,FALSE,FALSE,America/Los_Angeles
+407,23%,92135,32.69673,-117.19328,San Diego,CA,California,TRUE,,635,518.3,6073,San Diego,"{""06073"": ""100""}",San Diego,6073,FALSE,FALSE,America/Los_Angeles
+408,23%,92139,32.67991,-117.04891,San Diego,CA,California,TRUE,,36105,3853.2,6073,San Diego,"{""06073"": ""100""}",San Diego,6073,FALSE,FALSE,America/Los_Angeles
+409,23%,92140,32.7401,-117.19796,San Diego,CA,California,TRUE,,3737,2222.4,6073,San Diego,"{""06073"": ""100""}",San Diego,6073,FALSE,FALSE,America/Los_Angeles
+410,23%,92145,32.9306,-117.00801,San Diego,CA,California,TRUE,,1883,217.1,6073,San Diego,"{""06073"": ""100""}",San Diego,6073,FALSE,FALSE,America/Los_Angeles
+411,23%,92147,32.72458,-117.2193,San Diego,CA,California,TRUE,,518,2112.6,6073,San Diego,"{""06073"": ""100""}",San Diego,6073,FALSE,FALSE,America/Los_Angeles
+412,23%,92154,32.56762,-117.00305,San Diego,CA,California,TRUE,,88979,924.3,6073,San Diego,"{""06073"": ""100""}",San Diego,6073,FALSE,FALSE,America/Los_Angeles
+413,23%,92155,32.67492,-117.16175,San Diego,CA,California,TRUE,,456,783.9,6073,San Diego,"{""06073"": ""100""}",San Diego,6073,FALSE,FALSE,America/Los_Angeles
+414,24%,92173,32.55403,-117.04239,San Ysidro,CA,California,TRUE,,31000,2372,6073,San Diego,"{""06073"": ""100""}",San Diego,6073,FALSE,FALSE,America/Los_Angeles
+415,24%,92201,33.69743,-116.10328,Indio,CA,California,TRUE,,65726,1120.3,6065,Riverside,"{""06065"": ""100""}",Riverside,6065,FALSE,FALSE,America/Los_Angeles
+416,24%,92203,33.75395,-116.24649,Indio,CA,California,TRUE,,31140,686.7,6065,Riverside,"{""06065"": ""100""}",Riverside,6065,FALSE,FALSE,America/Los_Angeles
+417,24%,92210,33.70043,-116.34019,Indian Wells,CA,California,TRUE,,5138,152,6065,Riverside,"{""06065"": ""100""}",Riverside,6065,FALSE,FALSE,America/Los_Angeles
+418,24%,92211,33.76218,-116.33102,Palm Desert,CA,California,TRUE,,25056,642.6,6065,Riverside,"{""06065"": ""100""}",Riverside,6065,FALSE,FALSE,America/Los_Angeles
+419,24%,92220,33.94892,-116.8324,Banning,CA,California,TRUE,,33525,104.2,6065,Riverside,"{""06065"": ""100""}",Riverside,6065,FALSE,FALSE,America/Los_Angeles
+420,24%,92222,32.78577,-114.54552,Bard,CA,California,TRUE,,0,0,6025,Imperial,"{""06025"": ""100""}",Imperial,6025,FALSE,FALSE,America/Phoenix
+421,24%,92223,33.94833,-116.98802,Beaumont,CA,California,TRUE,,55580,494.1,6065,Riverside,"{""06065"": ""100""}",Riverside,6065,FALSE,FALSE,America/Los_Angeles
+422,24%,92225,33.74646,-114.66793,Blythe,CA,California,TRUE,,22460,14.5,6065,Riverside,"{""06065"": ""99.91"", ""06025"": ""0.09""}",Riverside|Imperial,06065|06025,FALSE,FALSE,America/Los_Angeles
+423,24%,92227,32.99027,-115.34876,Brawley,CA,California,TRUE,,27189,19.4,6025,Imperial,"{""06025"": ""100""}",Imperial,6025,FALSE,FALSE,America/Los_Angeles
+424,24%,92230,33.91058,-116.76598,Cabazon,CA,California,TRUE,,2705,68.3,6065,Riverside,"{""06065"": ""100""}",Riverside,6065,FALSE,FALSE,America/Los_Angeles
+425,24%,92231,32.68754,-115.54115,Calexico,CA,California,TRUE,,40064,271.9,6025,Imperial,"{""06025"": ""100""}",Imperial,6025,FALSE,FALSE,America/Los_Angeles
+426,24%,92233,33.17378,-115.55954,Calipatria,CA,California,TRUE,,7509,19.2,6025,Imperial,"{""06025"": ""100""}",Imperial,6025,FALSE,FALSE,America/Los_Angeles
+427,24%,92234,33.81825,-116.46644,Cathedral City,CA,California,TRUE,,54357,1334,6065,Riverside,"{""06065"": ""100""}",Riverside,6065,FALSE,FALSE,America/Los_Angeles
+428,24%,92236,33.68615,-116.17291,Coachella,CA,California,TRUE,,45477,802.4,6065,Riverside,"{""06065"": ""100""}",Riverside,6065,FALSE,FALSE,America/Los_Angeles
+429,24%,92239,33.76482,-115.47023,Desert Center,CA,California,TRUE,,227,0.6,6065,Riverside,"{""06065"": ""100""}",Riverside,6065,FALSE,FALSE,America/Los_Angeles
+430,24%,92240,33.95314,-116.5219,Desert Hot Springs,CA,California,TRUE,,35278,372.3,6065,Riverside,"{""06065"": ""100""}",Riverside,6065,FALSE,FALSE,America/Los_Angeles
+431,24%,92241,33.85305,-116.30055,Desert Hot Springs,CA,California,TRUE,,7699,21.5,6065,Riverside,"{""06065"": ""100""}",Riverside,6065,FALSE,FALSE,America/Los_Angeles
+432,25%,92242,34.1652,-114.31961,Earp,CA,California,TRUE,,1312,16.1,6071,San Bernardino,"{""06071"": ""100""}",San Bernardino,6071,FALSE,FALSE,America/Los_Angeles
+433,25%,92243,32.77255,-115.59931,El Centro,CA,California,TRUE,,50402,176.5,6025,Imperial,"{""06025"": ""100""}",Imperial,6025,FALSE,FALSE,America/Los_Angeles
+434,25%,92249,32.72559,-115.47265,Heber,CA,California,TRUE,,7861,141.6,6025,Imperial,"{""06025"": ""100""}",Imperial,6025,FALSE,FALSE,America/Los_Angeles
+435,25%,92250,32.82385,-115.23944,Holtville,CA,California,TRUE,,8655,8.1,6025,Imperial,"{""06025"": ""100""}",Imperial,6025,FALSE,FALSE,America/Los_Angeles
+436,25%,92251,32.87227,-115.69,Imperial,CA,California,TRUE,,23970,46.4,6025,Imperial,"{""06025"": ""100""}",Imperial,6025,FALSE,FALSE,America/Los_Angeles
+437,25%,92252,34.16837,-116.2884,Joshua Tree,CA,California,TRUE,,9351,40.2,6071,San Bernardino,"{""06071"": ""100""}",San Bernardino,6071,FALSE,FALSE,America/Los_Angeles
+438,25%,92253,33.65396,-116.27871,La Quinta,CA,California,TRUE,,40929,451.7,6065,Riverside,"{""06065"": ""100""}",Riverside,6065,FALSE,FALSE,America/Los_Angeles
+439,25%,92254,33.54474,-115.99414,Mecca,CA,California,TRUE,,9779,80.9,6065,Riverside,"{""06065"": ""100""}",Riverside,6065,FALSE,FALSE,America/Los_Angeles
+440,25%,92256,34.07707,-116.6064,Morongo Valley,CA,California,TRUE,,3100,15.3,6071,San Bernardino,"{""06071"": ""100""}",San Bernardino,6071,FALSE,FALSE,America/Los_Angeles
+441,25%,92257,33.26444,-115.32343,Niland,CA,California,TRUE,,1281,0.7,6025,Imperial,"{""06025"": ""100""}",Imperial,6025,FALSE,FALSE,America/Los_Angeles
+442,25%,92258,33.91584,-116.55986,North Palm Springs,CA,California,TRUE,,559,20.4,6065,Riverside,"{""06065"": ""100""}",Riverside,6065,FALSE,FALSE,America/Los_Angeles
+443,25%,92259,32.7377,-115.93223,Ocotillo,CA,California,TRUE,,121,0.1,6025,Imperial,"{""06025"": ""100""}",Imperial,6025,FALSE,FALSE,America/Los_Angeles
+444,25%,92260,33.70701,-116.40478,Palm Desert,CA,California,TRUE,,34660,471.3,6065,Riverside,"{""06065"": ""100""}",Riverside,6065,FALSE,FALSE,America/Los_Angeles
+445,25%,92262,33.86055,-116.56152,Palm Springs,CA,California,TRUE,,28618,301.2,6065,Riverside,"{""06065"": ""100""}",Riverside,6065,FALSE,FALSE,America/Los_Angeles
+446,25%,92264,33.73214,-116.50424,Palm Springs,CA,California,TRUE,,20072,148.7,6065,Riverside,"{""06065"": ""100""}",Riverside,6065,FALSE,FALSE,America/Los_Angeles
+447,25%,92266,33.34535,-114.92183,Palo Verde,CA,California,TRUE,,112,0.1,6025,Imperial,"{""06025"": ""100""}",Imperial,6025,FALSE,FALSE,America/Los_Angeles
+448,25%,92267,34.27582,-114.19065,Parker Dam,CA,California,TRUE,,6,0.1,6071,San Bernardino,"{""06071"": ""100""}",San Bernardino,6071,FALSE,FALSE,America/Los_Angeles
+449,25%,92268,34.2221,-116.56421,Pioneertown,CA,California,TRUE,,455,2.2,6071,San Bernardino,"{""06071"": ""100""}",San Bernardino,6071,FALSE,FALSE,America/Los_Angeles
+450,26%,92270,33.76591,-116.42728,Rancho Mirage,CA,California,TRUE,,18193,263.3,6065,Riverside,"{""06065"": ""100""}",Riverside,6065,FALSE,FALSE,America/Los_Angeles
+451,26%,92273,32.81777,-115.69995,Seeley,CA,California,TRUE,,2010,111.3,6025,Imperial,"{""06025"": ""100""}",Imperial,6025,FALSE,FALSE,America/Los_Angeles
+452,26%,92274,33.46162,-116.08565,Thermal,CA,California,TRUE,,15317,33.1,6065,Riverside,"{""06065"": ""80.05"", ""06025"": ""19.95""}",Riverside|Imperial,06065|06025,FALSE,FALSE,America/Los_Angeles
+453,26%,92275,33.25184,-115.85659,Salton City,CA,California,TRUE,,2632,16.3,6025,Imperial,"{""06025"": ""100""}",Imperial,6025,FALSE,FALSE,America/Los_Angeles
+454,26%,92276,33.82232,-116.36424,Thousand Palms,CA,California,TRUE,,6748,88.9,6065,Riverside,"{""06065"": ""100""}",Riverside,6065,FALSE,FALSE,America/Los_Angeles
+455,26%,92277,34.21531,-115.6222,Twentynine Palms,CA,California,TRUE,,23172,6.4,6071,San Bernardino,"{""06071"": ""99.97"", ""06065"": ""0.03""}",San Bernardino|Riverside,06071|06065,FALSE,FALSE,America/Los_Angeles
+456,26%,92278,34.22989,-116.05507,Twentynine Palms,CA,California,TRUE,,4890,2362.8,6071,San Bernardino,"{""06071"": ""100""}",San Bernardino,6071,FALSE,FALSE,America/Los_Angeles
+457,26%,92280,34.12557,-114.77794,Vidal,CA,California,TRUE,,0,0,6071,San Bernardino,"{""06071"": ""100""}",San Bernardino,6071,FALSE,FALSE,America/Los_Angeles
+458,26%,92281,33.05175,-115.60873,Westmorland,CA,California,TRUE,,2591,70.1,6025,Imperial,"{""06025"": ""100""}",Imperial,6025,FALSE,FALSE,America/Los_Angeles
+459,26%,92282,33.9655,-116.65872,Whitewater,CA,California,TRUE,,1372,7.2,6065,Riverside,"{""06065"": ""100""}",Riverside,6065,FALSE,FALSE,America/Los_Angeles
+460,26%,92283,32.93769,-114.7472,Winterhaven,CA,California,TRUE,,1684,0.9,6025,Imperial,"{""06025"": ""100""}",Imperial,6025,FALSE,FALSE,America/Los_Angeles
+461,26%,92284,34.18604,-116.43234,Yucca Valley,CA,California,TRUE,,26182,91.8,6071,San Bernardino,"{""06071"": ""100""}",San Bernardino,6071,FALSE,FALSE,America/Los_Angeles
+462,26%,92285,34.34017,-116.54047,Landers,CA,California,TRUE,,2430,5.5,6071,San Bernardino,"{""06071"": ""100""}",San Bernardino,6071,FALSE,FALSE,America/Los_Angeles
+463,26%,92301,34.64464,-117.54086,Adelanto,CA,California,TRUE,,34250,77.5,6071,San Bernardino,"{""06071"": ""100""}",San Bernardino,6071,FALSE,FALSE,America/Los_Angeles
+464,26%,92304,34.54146,-115.64452,Amboy,CA,California,TRUE,,23,0.2,6071,San Bernardino,"{""06071"": ""100""}",San Bernardino,6071,FALSE,FALSE,America/Los_Angeles
+465,26%,92305,34.16326,-116.82868,Angelus Oaks,CA,California,TRUE,,657,2.5,6071,San Bernardino,"{""06071"": ""100""}",San Bernardino,6071,FALSE,FALSE,America/Los_Angeles
+466,26%,92307,34.58832,-117.13875,Apple Valley,CA,California,TRUE,,39149,88.9,6071,San Bernardino,"{""06071"": ""100""}",San Bernardino,6071,FALSE,FALSE,America/Los_Angeles
+467,27%,92308,34.425,-117.15998,Apple Valley,CA,California,TRUE,,42207,174.7,6071,San Bernardino,"{""06071"": ""100""}",San Bernardino,6071,FALSE,FALSE,America/Los_Angeles
+468,27%,92309,35.21647,-116.13003,Baker,CA,California,TRUE,,572,1.4,6071,San Bernardino,"{""06071"": ""100""}",San Bernardino,6071,FALSE,FALSE,America/Los_Angeles
+469,27%,92310,35.26144,-116.69033,Fort Irwin,CA,California,TRUE,,9872,1273.5,6071,San Bernardino,"{""06071"": ""100""}",San Bernardino,6071,FALSE,FALSE,America/Los_Angeles
+470,27%,92311,34.97828,-116.98115,Barstow,CA,California,TRUE,,33454,52,6071,San Bernardino,"{""06071"": ""100""}",San Bernardino,6071,FALSE,FALSE,America/Los_Angeles
+471,27%,92313,34.031,-117.31288,Grand Terrace,CA,California,TRUE,,12547,1390,6071,San Bernardino,"{""06071"": ""100""}",San Bernardino,6071,FALSE,FALSE,America/Los_Angeles
+472,27%,92314,34.26095,-116.81304,Big Bear City,CA,California,TRUE,,11385,142.6,6071,San Bernardino,"{""06071"": ""100""}",San Bernardino,6071,FALSE,FALSE,America/Los_Angeles
+473,27%,92315,34.23501,-116.90509,Big Bear Lake,CA,California,TRUE,,5247,159.8,6071,San Bernardino,"{""06071"": ""100""}",San Bernardino,6071,FALSE,FALSE,America/Los_Angeles
+474,27%,92316,34.05911,-117.39065,Bloomington,CA,California,TRUE,,28704,1007.3,6071,San Bernardino,"{""06071"": ""100""}",San Bernardino,6071,FALSE,FALSE,America/Los_Angeles
+475,27%,92320,33.99042,-117.05205,Calimesa,CA,California,TRUE,,8753,318.1,6065,Riverside,"{""06065"": ""100""}",Riverside,6065,FALSE,FALSE,America/Los_Angeles
+476,27%,92321,34.25446,-117.15332,Cedar Glen,CA,California,TRUE,,1042,61.8,6071,San Bernardino,"{""06071"": ""100""}",San Bernardino,6071,FALSE,FALSE,America/Los_Angeles
+477,27%,92322,34.25437,-117.32647,Cedarpines Park,CA,California,TRUE,,672,86.7,6071,San Bernardino,"{""06071"": ""100""}",San Bernardino,6071,FALSE,FALSE,America/Los_Angeles
+478,27%,92324,34.03144,-117.28736,Colton,CA,California,TRUE,,59972,778.9,6071,San Bernardino,"{""06071"": ""98.43"", ""06065"": ""1.57""}",San Bernardino|Riverside,06071|06065,FALSE,FALSE,America/Los_Angeles
+479,27%,92325,34.24332,-117.2811,Crestline,CA,California,TRUE,,7948,303.6,6071,San Bernardino,"{""06071"": ""100""}",San Bernardino,6071,FALSE,FALSE,America/Los_Angeles
+480,27%,92327,34.86284,-116.86134,Daggett,CA,California,TRUE,,737,10.1,6071,San Bernardino,"{""06071"": ""100""}",San Bernardino,6071,FALSE,FALSE,America/Los_Angeles
+481,27%,92328,36.529,-116.87036,Death Valley,CA,California,TRUE,,438,0.2,6027,Inyo,"{""06027"": ""100""}",Inyo,6027,FALSE,FALSE,America/Los_Angeles
+482,27%,92332,34.91269,-115.34169,Essex,CA,California,TRUE,,97,0,6071,San Bernardino,"{""06071"": ""100""}",San Bernardino,6071,FALSE,FALSE,America/Los_Angeles
+483,27%,92333,34.27062,-116.94926,Fawnskin,CA,California,TRUE,,392,36.3,6071,San Bernardino,"{""06071"": ""100""}",San Bernardino,6071,FALSE,FALSE,America/Los_Angeles
+484,27%,92335,34.08717,-117.46549,Fontana,CA,California,TRUE,,99306,2209.6,6071,San Bernardino,"{""06071"": ""100""}",San Bernardino,6071,FALSE,FALSE,America/Los_Angeles
+485,28%,92336,34.14648,-117.46394,Fontana,CA,California,TRUE,,98346,1525.5,6071,San Bernardino,"{""06071"": ""100""}",San Bernardino,6071,FALSE,FALSE,America/Los_Angeles
+486,28%,92337,34.04981,-117.4706,Fontana,CA,California,TRUE,,39240,1087.7,6071,San Bernardino,"{""06071"": ""100""}",San Bernardino,6071,FALSE,FALSE,America/Los_Angeles
+487,28%,92338,34.78262,-116.19042,Ludlow,CA,California,TRUE,,0,0,6071,San Bernardino,"{""06071"": ""100""}",San Bernardino,6071,FALSE,FALSE,America/Los_Angeles
+488,28%,92339,34.09364,-116.93627,Forest Falls,CA,California,TRUE,,1077,39.3,6071,San Bernardino,"{""06071"": ""100""}",San Bernardino,6071,FALSE,FALSE,America/Los_Angeles
+489,28%,92341,34.23479,-117.06587,Green Valley Lake,CA,California,TRUE,,222,12.1,6071,San Bernardino,"{""06071"": ""100""}",San Bernardino,6071,FALSE,FALSE,America/Los_Angeles
+490,28%,92342,34.7584,-117.34944,Helendale,CA,California,TRUE,,6737,24.7,6071,San Bernardino,"{""06071"": ""100""}",San Bernardino,6071,FALSE,FALSE,America/Los_Angeles
+491,28%,92344,34.39117,-117.40567,Hesperia,CA,California,TRUE,,23349,234.1,6071,San Bernardino,"{""06071"": ""100""}",San Bernardino,6071,FALSE,FALSE,America/Los_Angeles
+492,28%,92345,34.38212,-117.30939,Hesperia,CA,California,TRUE,,82110,386.5,6071,San Bernardino,"{""06071"": ""100""}",San Bernardino,6071,FALSE,FALSE,America/Los_Angeles
+493,28%,92346,34.12429,-117.18004,Highland,CA,California,TRUE,,63857,968.1,6071,San Bernardino,"{""06071"": ""100""}",San Bernardino,6071,FALSE,FALSE,America/Los_Angeles
+494,28%,92347,34.95443,-117.22236,Hinkley,CA,California,TRUE,,702,1.8,6071,San Bernardino,"{""06071"": ""100""}",San Bernardino,6071,FALSE,FALSE,America/Los_Angeles
+495,28%,92352,34.26065,-117.20154,Lake Arrowhead,CA,California,TRUE,,5578,223.2,6071,San Bernardino,"{""06071"": ""100""}",San Bernardino,6071,FALSE,FALSE,America/Los_Angeles
+496,28%,92354,34.04977,-117.25154,Loma Linda,CA,California,TRUE,,22050,1743.1,6071,San Bernardino,"{""06071"": ""100""}",San Bernardino,6071,FALSE,FALSE,America/Los_Angeles
+497,28%,92356,34.5107,-116.89677,Lucerne Valley,CA,California,TRUE,,6573,6.4,6071,San Bernardino,"{""06071"": ""100""}",San Bernardino,6071,FALSE,FALSE,America/Los_Angeles
+498,28%,92358,34.25923,-117.52095,Lytle Creek,CA,California,TRUE,,722,14.1,6071,San Bernardino,"{""06071"": ""100""}",San Bernardino,6071,FALSE,FALSE,America/Los_Angeles
+499,28%,92359,34.08318,-117.06638,Mentone,CA,California,TRUE,,9170,211.4,6071,San Bernardino,"{""06071"": ""100""}",San Bernardino,6071,FALSE,FALSE,America/Los_Angeles
+500,28%,92363,34.68325,-114.55044,Needles,CA,California,TRUE,,5348,10.4,6071,San Bernardino,"{""06071"": ""100""}",San Bernardino,6071,FALSE,FALSE,America/Los_Angeles
+501,28%,92364,35.34055,-115.42615,Nipton,CA,California,TRUE,,6,0,6071,San Bernardino,"{""06071"": ""100""}",San Bernardino,6071,FALSE,FALSE,America/Los_Angeles
+502,29%,92365,34.89977,-116.6491,Newberry Springs,CA,California,TRUE,,2733,6.1,6071,San Bernardino,"{""06071"": ""100""}",San Bernardino,6071,FALSE,FALSE,America/Los_Angeles
+503,29%,92368,34.65227,-117.33282,Oro Grande,CA,California,TRUE,,1019,14.1,6071,San Bernardino,"{""06071"": ""100""}",San Bernardino,6071,FALSE,FALSE,America/Los_Angeles
+504,29%,92371,34.44269,-117.54186,Phelan,CA,California,TRUE,,18269,50.5,6071,San Bernardino,"{""06071"": ""100""}",San Bernardino,6071,FALSE,FALSE,America/Los_Angeles
+505,29%,92372,34.44481,-117.62514,Pinon Hills,CA,California,TRUE,,6071,84.1,6071,San Bernardino,"{""06071"": ""100""}",San Bernardino,6071,FALSE,FALSE,America/Los_Angeles
+506,29%,92373,34.00495,-117.15067,Redlands,CA,California,TRUE,,33353,316.1,6071,San Bernardino,"{""06071"": ""98.63"", ""06065"": ""1.37""}",San Bernardino|Riverside,06071|06065,FALSE,FALSE,America/Los_Angeles
+507,29%,92374,34.06654,-117.17201,Redlands,CA,California,TRUE,,43391,896.1,6071,San Bernardino,"{""06071"": ""100""}",San Bernardino,6071,FALSE,FALSE,America/Los_Angeles
+508,29%,92376,34.1112,-117.37884,Rialto,CA,California,TRUE,,86085,2453,6071,San Bernardino,"{""06071"": ""100""}",San Bernardino,6071,FALSE,FALSE,America/Los_Angeles
+509,29%,92377,34.15602,-117.40413,Rialto,CA,California,TRUE,,20476,757.7,6071,San Bernardino,"{""06071"": ""100""}",San Bernardino,6071,FALSE,FALSE,America/Los_Angeles
+510,29%,92378,34.2261,-117.22605,Rimforest,CA,California,TRUE,,234,109,6071,San Bernardino,"{""06071"": ""100""}",San Bernardino,6071,FALSE,FALSE,America/Los_Angeles
+511,29%,92382,34.20542,-117.11801,Running Springs,CA,California,TRUE,,4462,114.3,6071,San Bernardino,"{""06071"": ""100""}",San Bernardino,6071,FALSE,FALSE,America/Los_Angeles
+512,29%,92384,36.0125,-116.17791,Shoshone,CA,California,TRUE,,17,0,6027,Inyo,"{""06027"": ""100""}",Inyo,6027,FALSE,FALSE,America/Los_Angeles
+513,29%,92385,34.21473,-117.19233,Skyforest,CA,California,TRUE,,216,9.9,6071,San Bernardino,"{""06071"": ""100""}",San Bernardino,6071,FALSE,FALSE,America/Los_Angeles
+514,29%,92386,34.23721,-116.82765,Sugarloaf,CA,California,TRUE,,2248,452.7,6071,San Bernardino,"{""06071"": ""100""}",San Bernardino,6071,FALSE,FALSE,America/Los_Angeles
+515,29%,92389,35.90217,-116.15425,Tecopa,CA,California,TRUE,,168,0.5,6027,Inyo,"{""06027"": ""100""}",Inyo,6027,FALSE,FALSE,America/Los_Angeles
+516,29%,92391,34.23799,-117.23481,Twin Peaks,CA,California,TRUE,,1959,323.5,6071,San Bernardino,"{""06071"": ""100""}",San Bernardino,6071,FALSE,FALSE,America/Los_Angeles
+517,29%,92392,34.48024,-117.4082,Victorville,CA,California,TRUE,,58393,604,6071,San Bernardino,"{""06071"": ""100""}",San Bernardino,6071,FALSE,FALSE,America/Los_Angeles
+518,29%,92394,34.55629,-117.35281,Victorville,CA,California,TRUE,,34915,493.4,6071,San Bernardino,"{""06071"": ""100""}",San Bernardino,6071,FALSE,FALSE,America/Los_Angeles
+519,29%,92395,34.50159,-117.29441,Victorville,CA,California,TRUE,,43908,972.9,6071,San Bernardino,"{""06071"": ""100""}",San Bernardino,6071,FALSE,FALSE,America/Los_Angeles
+520,30%,92397,34.36701,-117.62729,Wrightwood,CA,California,TRUE,,4562,170.3,6071,San Bernardino,"{""06071"": ""98.55"", ""06037"": ""1.45""}",San Bernardino|Los Angeles,06071|06037,FALSE,FALSE,America/Los_Angeles
+521,30%,92398,34.91176,-116.8472,Yermo,CA,California,TRUE,,2195,30.2,6071,San Bernardino,"{""06071"": ""100""}",San Bernardino,6071,FALSE,FALSE,America/Los_Angeles
+522,30%,92399,34.04282,-117.00516,Yucaipa,CA,California,TRUE,,54268,395.1,6071,San Bernardino,"{""06071"": ""98.76"", ""06065"": ""1.24""}",San Bernardino|Riverside,06071|06065,FALSE,FALSE,America/Los_Angeles
+523,30%,92401,34.10478,-117.29216,San Bernardino,CA,California,TRUE,,2257,1007.6,6071,San Bernardino,"{""06071"": ""100""}",San Bernardino,6071,FALSE,FALSE,America/Los_Angeles
+524,30%,92404,34.17837,-117.25146,San Bernardino,CA,California,TRUE,,62915,849.9,6071,San Bernardino,"{""06071"": ""100""}",San Bernardino,6071,FALSE,FALSE,America/Los_Angeles
+525,30%,92405,34.1446,-117.30127,San Bernardino,CA,California,TRUE,,30112,2460.5,6071,San Bernardino,"{""06071"": ""100""}",San Bernardino,6071,FALSE,FALSE,America/Los_Angeles
+526,30%,92407,34.21658,-117.39082,San Bernardino,CA,California,TRUE,,68545,416.7,6071,San Bernardino,"{""06071"": ""100""}",San Bernardino,6071,FALSE,FALSE,America/Los_Angeles
+527,30%,92408,34.08448,-117.26588,San Bernardino,CA,California,TRUE,,13635,494.2,6071,San Bernardino,"{""06071"": ""100""}",San Bernardino,6071,FALSE,FALSE,America/Los_Angeles
+528,30%,92410,34.10688,-117.29742,San Bernardino,CA,California,TRUE,,45052,2120,6071,San Bernardino,"{""06071"": ""100""}",San Bernardino,6071,FALSE,FALSE,America/Los_Angeles
+529,30%,92411,34.12207,-117.32032,San Bernardino,CA,California,TRUE,,25650,2384,6071,San Bernardino,"{""06071"": ""100""}",San Bernardino,6071,FALSE,FALSE,America/Los_Angeles
+530,30%,92501,33.99542,-117.37361,Riverside,CA,California,TRUE,,21590,1463.6,6065,Riverside,"{""06065"": ""100""}",Riverside,6065,FALSE,FALSE,America/Los_Angeles
+531,30%,92503,33.88162,-117.44479,Riverside,CA,California,TRUE,,95551,1233.1,6065,Riverside,"{""06065"": ""100""}",Riverside,6065,FALSE,FALSE,America/Los_Angeles
+532,30%,92504,33.90247,-117.39662,Riverside,CA,California,TRUE,,59896,987.7,6065,Riverside,"{""06065"": ""100""}",Riverside,6065,FALSE,FALSE,America/Los_Angeles
+533,30%,92505,33.93325,-117.49435,Riverside,CA,California,TRUE,,53282,1683.2,6065,Riverside,"{""06065"": ""100""}",Riverside,6065,FALSE,FALSE,America/Los_Angeles
+534,30%,92506,33.93434,-117.36737,Riverside,CA,California,TRUE,,46241,1102.1,6065,Riverside,"{""06065"": ""100""}",Riverside,6065,FALSE,FALSE,America/Los_Angeles
+535,30%,92507,33.97099,-117.32489,Riverside,CA,California,TRUE,,59152,1129.9,6065,Riverside,"{""06065"": ""100""}",Riverside,6065,FALSE,FALSE,America/Los_Angeles
+536,30%,92508,33.89113,-117.32676,Riverside,CA,California,TRUE,,38428,1384,6065,Riverside,"{""06065"": ""100""}",Riverside,6065,FALSE,FALSE,America/Los_Angeles
+537,30%,92509,34.00326,-117.44494,Jurupa Valley,CA,California,TRUE,,81383,1010.1,6065,Riverside,"{""06065"": ""99.98"", ""06071"": ""0.02""}",Riverside|San Bernardino,06065|06071,FALSE,FALSE,America/Los_Angeles

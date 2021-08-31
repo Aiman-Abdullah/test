@@ -1,0 +1,809 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone
+27006,35.94454,-80.43766,Advance,NC,North Carolina,TRUE,,14329,86.6,37059,Davie,"{""37059"": ""100""}",Davie,37059,FALSE,FALSE,America/New_York
+27007,36.38732,-80.59249,Ararat,NC,North Carolina,TRUE,,2550,46.4,37171,Surry,"{""37171"": ""100""}",Surry,37171,FALSE,FALSE,America/New_York
+27009,36.23306,-80.07612,Belews Creek,NC,North Carolina,TRUE,,3002,73.1,37067,Forsyth,"{""37067"": ""99.7"", ""37169"": ""0.3""}",Forsyth|Stokes,37067|37169,FALSE,FALSE,America/New_York
+27011,36.2156,-80.69667,Boonville,NC,North Carolina,TRUE,,5201,37.8,37197,Yadkin,"{""37197"": ""100""}",Yadkin,37197,FALSE,FALSE,America/New_York
+27012,36.0041,-80.37582,Clemmons,NC,North Carolina,TRUE,,28334,260.8,37067,Forsyth,"{""37067"": ""80.04"", ""37057"": ""19.96""}",Forsyth|Davidson,37067|37057,FALSE,FALSE,America/New_York
+27013,35.75594,-80.70351,Cleveland,NC,North Carolina,TRUE,,5814,29.8,37159,Rowan,"{""37159"": ""71.09"", ""37097"": ""28.91""}",Rowan|Iredell,37159|37097,FALSE,FALSE,America/New_York
+27014,35.81193,-80.55519,Cooleemee,NC,North Carolina,TRUE,,942,589.8,37059,Davie,"{""37059"": ""100""}",Davie,37059,FALSE,FALSE,America/New_York
+27016,36.45168,-80.21452,Danbury,NC,North Carolina,TRUE,,1339,12.9,37169,Stokes,"{""37169"": ""100""}",Stokes,37169,FALSE,FALSE,America/New_York
+27017,36.38153,-80.76031,Dobson,NC,North Carolina,TRUE,,9144,32.9,37171,Surry,"{""37171"": ""100""}",Surry,37171,FALSE,FALSE,America/New_York
+27018,36.19792,-80.52076,East Bend,NC,North Carolina,TRUE,,8204,38.6,37197,Yadkin,"{""37197"": ""100""}",Yadkin,37197,FALSE,FALSE,America/New_York
+27019,36.28392,-80.23478,Germanton,NC,North Carolina,TRUE,,3900,42.8,37169,Stokes,"{""37169"": ""63.07"", ""37067"": ""36.93""}",Stokes|Forsyth,37169|37067,FALSE,FALSE,America/New_York
+27020,36.10084,-80.80798,Hamptonville,NC,North Carolina,TRUE,,6205,32.6,37197,Yadkin,"{""37197"": ""87.24"", ""37097"": ""6.7"", ""37193"": ""6.06""}",Yadkin|Iredell|Wilkes,37197|37097|37193,FALSE,FALSE,America/New_York
+27021,36.31838,-80.33868,King,NC,North Carolina,TRUE,,17489,126.8,37169,Stokes,"{""37169"": ""99.24"", ""37067"": ""0.76""}",Stokes|Forsyth,37169|37067,FALSE,FALSE,America/New_York
+27022,36.51447,-80.21465,Lawsonville,NC,North Carolina,TRUE,,1103,12.8,37169,Stokes,"{""37169"": ""100""}",Stokes,37169,FALSE,FALSE,America/New_York
+27023,36.09096,-80.45048,Lewisville,NC,North Carolina,TRUE,,12728,176.9,37067,Forsyth,"{""37067"": ""100""}",Forsyth,37067,FALSE,FALSE,America/New_York
+27024,36.52379,-80.84169,Lowgap,NC,North Carolina,TRUE,,3205,27.9,37171,Surry,"{""37171"": ""100""}",Surry,37171,FALSE,FALSE,America/New_York
+27025,36.37788,-79.97286,Madison,NC,North Carolina,TRUE,,10937,43,37157,Rockingham,"{""37157"": ""79.57"", ""37169"": ""20.43""}",Rockingham|Stokes,37157|37169,FALSE,FALSE,America/New_York
+27027,36.44539,-79.98931,Mayodan,NC,North Carolina,TRUE,,4190,74.4,37157,Rockingham,"{""37157"": ""100""}",Rockingham,37157,FALSE,FALSE,America/New_York
+27028,35.92347,-80.57515,Mocksville,NC,North Carolina,TRUE,,26465,53,37059,Davie,"{""37059"": ""99.83"", ""37097"": ""0.17""}",Davie|Iredell,37059|37097,FALSE,FALSE,America/New_York
+27030,36.48892,-80.62906,Mount Airy,NC,North Carolina,TRUE,,35575,80.5,37171,Surry,"{""37171"": ""99.13"", ""37169"": ""0.87""}",Surry|Stokes,37171|37169,FALSE,FALSE,America/New_York
+27040,36.16893,-80.38971,Pfafftown,NC,North Carolina,TRUE,,12519,181.1,37067,Forsyth,"{""37067"": ""100""}",Forsyth,37067,FALSE,FALSE,America/New_York
+27041,36.41987,-80.48238,Pilot Mountain,NC,North Carolina,TRUE,,7951,52,37171,Surry,"{""37171"": ""83.2"", ""37169"": ""16.8""}",Surry|Stokes,37171|37169,FALSE,FALSE,America/New_York
+27042,36.34116,-80.05603,Pine Hall,NC,North Carolina,TRUE,,606,27.1,37169,Stokes,"{""37169"": ""100""}",Stokes,37169,FALSE,FALSE,America/New_York
+27043,36.33748,-80.45027,Pinnacle,NC,North Carolina,TRUE,,6917,37.3,37169,Stokes,"{""37169"": ""57.28"", ""37171"": ""42.55"", ""37067"": ""0.17""}",Stokes|Surry|Forsyth,37169|37171|37067,FALSE,FALSE,America/New_York
+27045,36.23488,-80.29577,Rural Hall,NC,North Carolina,TRUE,,9552,159.2,37067,Forsyth,"{""37067"": ""98.18"", ""37169"": ""1.82""}",Forsyth|Stokes,37067|37169,FALSE,FALSE,America/New_York
+27046,36.49321,-80.09055,Sandy Ridge,NC,North Carolina,TRUE,,1771,16.8,37169,Stokes,"{""37169"": ""100""}",Stokes,37169,FALSE,FALSE,America/New_York
+27047,36.31155,-80.57765,Siloam,NC,North Carolina,TRUE,,1439,27.4,37171,Surry,"{""37171"": ""100""}",Surry,37171,FALSE,FALSE,America/New_York
+27048,36.47573,-79.91057,Stoneville,NC,North Carolina,TRUE,,8423,39.2,37157,Rockingham,"{""37157"": ""100""}",Rockingham,37157,FALSE,FALSE,America/New_York
+27050,36.23598,-80.40128,Tobaccoville,NC,North Carolina,TRUE,,3811,59.1,37067,Forsyth,"{""37067"": ""84"", ""37169"": ""16""}",Forsyth|Stokes,37067|37169,FALSE,FALSE,America/New_York
+27051,36.18762,-80.16052,Walkertown,NC,North Carolina,TRUE,,7641,160.6,37067,Forsyth,"{""37067"": ""100""}",Forsyth,37067,FALSE,FALSE,America/New_York
+27052,36.32615,-80.15436,Walnut Cove,NC,North Carolina,TRUE,,10383,38.2,37169,Stokes,"{""37169"": ""87.7"", ""37067"": ""12.3""}",Stokes|Forsyth,37169|37067,FALSE,FALSE,America/New_York
+27053,36.47279,-80.34823,Westfield,NC,North Carolina,TRUE,,3233,18.5,37169,Stokes,"{""37169"": ""91.75"", ""37171"": ""8.25""}",Stokes|Surry,37169|37171,FALSE,FALSE,America/New_York
+27054,35.79245,-80.5984,Woodleaf,NC,North Carolina,TRUE,,2725,36.1,37159,Rowan,"{""37159"": ""100""}",Rowan,37159,FALSE,FALSE,America/New_York
+27055,36.11345,-80.6337,Yadkinville,NC,North Carolina,TRUE,,13145,47.4,37197,Yadkin,"{""37197"": ""99.39"", ""37097"": ""0.37"", ""37059"": ""0.24""}",Yadkin|Iredell|Davie,37197|37097|37059,FALSE,FALSE,America/New_York
+27101,36.11173,-80.19857,Winston Salem,NC,North Carolina,TRUE,,19713,596.2,37067,Forsyth,"{""37067"": ""100""}",Forsyth,37067,FALSE,FALSE,America/New_York
+27103,36.05798,-80.32147,Winston Salem,NC,North Carolina,TRUE,,34688,722,37067,Forsyth,"{""37067"": ""100""}",Forsyth,37067,FALSE,FALSE,America/New_York
+27104,36.09482,-80.3239,Winston Salem,NC,North Carolina,TRUE,,28402,889.4,37067,Forsyth,"{""37067"": ""100""}",Forsyth,37067,FALSE,FALSE,America/New_York
+27105,36.16283,-80.23476,Winston Salem,NC,North Carolina,TRUE,,40134,460.5,37067,Forsyth,"{""37067"": ""100""}",Forsyth,37067,FALSE,FALSE,America/New_York
+27106,36.14292,-80.32263,Winston Salem,NC,North Carolina,TRUE,,48709,656.5,37067,Forsyth,"{""37067"": ""100""}",Forsyth,37067,FALSE,FALSE,America/New_York
+27107,36.01471,-80.1783,Winston Salem,NC,North Carolina,TRUE,,48000,284.8,37067,Forsyth,"{""37067"": ""73.47"", ""37057"": ""26.53""}",Forsyth|Davidson,37067|37057,FALSE,FALSE,America/New_York
+27109,36.13391,-80.27798,Winston Salem,NC,North Carolina,TRUE,,2661,5262.1,37067,Forsyth,"{""37067"": ""100""}",Forsyth,37067,FALSE,FALSE,America/New_York
+27110,36.08926,-80.22497,Winston Salem,NC,North Carolina,TRUE,,2723,5573.6,37067,Forsyth,"{""37067"": ""100""}",Forsyth,37067,FALSE,FALSE,America/New_York
+27127,36.01992,-80.27894,Winston Salem,NC,North Carolina,TRUE,,40511,525.6,37067,Forsyth,"{""37067"": ""87.9"", ""37057"": ""12.1""}",Forsyth|Davidson,37067|37057,FALSE,FALSE,America/New_York
+27201,36.03424,-79.48485,Alamance,NC,North Carolina,TRUE,,66,192.9,37001,Alamance,"{""37001"": ""100""}",Alamance,37001,FALSE,FALSE,America/New_York
+27203,35.73221,-79.7893,Asheboro,NC,North Carolina,TRUE,,20983,370.3,37151,Randolph,"{""37151"": ""100""}",Randolph,37151,FALSE,FALSE,America/New_York
+27205,35.63956,-79.85091,Asheboro,NC,North Carolina,TRUE,,34805,60.1,37151,Randolph,"{""37151"": ""100""}",Randolph,37151,FALSE,FALSE,America/New_York
+27207,35.60548,-79.39299,Bear Creek,NC,North Carolina,TRUE,,3227,14.7,37037,Chatham,"{""37037"": ""100""}",Chatham,37037,FALSE,FALSE,America/New_York
+27208,35.56282,-79.54294,Bennett,NC,North Carolina,TRUE,,1721,17.1,37037,Chatham,"{""37037"": ""53.4"", ""37151"": ""34.31"", ""37125"": ""12.29""}",Chatham|Randolph|Moore,37037|37151|37125,FALSE,FALSE,America/New_York
+27209,35.34314,-79.7508,Biscoe,NC,North Carolina,TRUE,,4584,38.8,37123,Montgomery,"{""37123"": ""92.22"", ""37125"": ""7.78""}",Montgomery|Moore,37123|37125,FALSE,FALSE,America/New_York
+27212,36.46058,-79.28064,Blanch,NC,North Carolina,TRUE,,2196,17.5,37033,Caswell,"{""37033"": ""100""}",Caswell,37033,FALSE,FALSE,America/New_York
+27214,36.21252,-79.67859,Browns Summit,NC,North Carolina,TRUE,,11825,94.9,37081,Guilford,"{""37081"": ""95.55"", ""37157"": ""4.45""}",Guilford|Rockingham,37081|37157,FALSE,FALSE,America/New_York
+27215,36.03178,-79.48892,Burlington,NC,North Carolina,TRUE,,42331,262.6,37001,Alamance,"{""37001"": ""96.32"", ""37081"": ""3.68""}",Alamance|Guilford,37001|37081,FALSE,FALSE,America/New_York
+27217,36.19274,-79.38335,Burlington,NC,North Carolina,TRUE,,37099,116.3,37001,Alamance,"{""37001"": ""96.9"", ""37033"": ""3.1""}",Alamance|Caswell,37001|37033,FALSE,FALSE,America/New_York
+27229,35.25024,-79.79754,Candor,NC,North Carolina,TRUE,,3484,15.3,37123,Montgomery,"{""37123"": ""100""}",Montgomery,37123,FALSE,FALSE,America/New_York
+27231,36.20296,-79.16981,Cedar Grove,NC,North Carolina,TRUE,,2020,21.5,37135,Orange,"{""37135"": ""100""}",Orange,37135,FALSE,FALSE,America/New_York
+27233,35.88702,-79.69957,Climax,NC,North Carolina,TRUE,,4096,64.6,37151,Randolph,"{""37151"": ""62.24"", ""37081"": ""37.76""}",Randolph|Guilford,37151|37081,FALSE,FALSE,America/New_York
+27235,36.0953,-80.00887,Colfax,NC,North Carolina,TRUE,,4443,126.6,37081,Guilford,"{""37081"": ""100""}",Guilford,37081,FALSE,FALSE,America/New_York
+27239,35.60758,-80.08959,Denton,NC,North Carolina,TRUE,,9562,24.5,37057,Davidson,"{""37057"": ""73.4"", ""37151"": ""26.6""}",Davidson|Randolph,37057|37151,FALSE,FALSE,America/New_York
+27242,35.33052,-79.63977,Eagle Springs,NC,North Carolina,TRUE,,1366,9.8,37125,Moore,"{""37125"": ""100""}",Moore,37125,FALSE,FALSE,America/New_York
+27243,36.078,-79.19495,Efland,NC,North Carolina,TRUE,,4369,42.6,37135,Orange,"{""37135"": ""100""}",Orange,37135,FALSE,FALSE,America/New_York
+27244,36.21011,-79.48778,Elon,NC,North Carolina,TRUE,,16036,122.7,37001,Alamance,"{""37001"": ""89.44"", ""37033"": ""7.96"", ""37081"": ""2.6""}",Alamance|Caswell|Guilford,37001|37033|37081,FALSE,FALSE,America/New_York
+27248,35.78777,-79.70968,Franklinville,NC,North Carolina,TRUE,,3555,39.8,37151,Randolph,"{""37151"": ""100""}",Randolph,37151,FALSE,FALSE,America/New_York
+27249,36.1574,-79.5819,Gibsonville,NC,North Carolina,TRUE,,11882,79.5,37081,Guilford,"{""37081"": ""67.34"", ""37001"": ""27.04"", ""37033"": ""4.86"", ""37157"": ""0.76""}",Guilford|Alamance|Caswell|Rockingham,37081|37001|37033|37157,FALSE,FALSE,America/New_York
+27252,35.56417,-79.34949,Goldston,NC,North Carolina,TRUE,,1669,15,37037,Chatham,"{""37037"": ""100""}",Chatham,37037,FALSE,FALSE,America/New_York
+27253,35.96166,-79.34546,Graham,NC,North Carolina,TRUE,,30573,134,37001,Alamance,"{""37001"": ""100""}",Alamance,37001,FALSE,FALSE,America/New_York
+27258,36.03624,-79.32597,Haw River,NC,North Carolina,TRUE,,7370,167.2,37001,Alamance,"{""37001"": ""100""}",Alamance,37001,FALSE,FALSE,America/New_York
+27260,35.95396,-79.98833,High Point,NC,North Carolina,TRUE,,25505,810.5,37081,Guilford,"{""37081"": ""98.9"", ""37151"": ""1.1""}",Guilford|Randolph,37081|37151,FALSE,FALSE,America/New_York
+27262,35.96231,-80.03839,High Point,NC,North Carolina,TRUE,,24510,719.1,37081,Guilford,"{""37081"": ""93.63"", ""37057"": ""6.37""}",Guilford|Davidson,37081|37057,FALSE,FALSE,America/New_York
+27263,35.90928,-79.93796,High Point,NC,North Carolina,TRUE,,21886,216.7,37151,Randolph,"{""37151"": ""67.94"", ""37081"": ""32.06""}",Randolph|Guilford,37151|37081,FALSE,FALSE,America/New_York
+27265,36.00956,-80.03052,High Point,NC,North Carolina,TRUE,,51477,472.2,37081,Guilford,"{""37081"": ""82.64"", ""37057"": ""16.35"", ""37067"": ""1.01""}",Guilford|Davidson|Forsyth,37081|37057|37067,FALSE,FALSE,America/New_York
+27278,36.08601,-79.08617,Hillsborough,NC,North Carolina,TRUE,,26884,102.4,37135,Orange,"{""37135"": ""94.21"", ""37063"": ""5.79""}",Orange|Durham,37135|37063,FALSE,FALSE,America/New_York
+27281,35.18609,-79.62675,Jackson Springs,NC,North Carolina,TRUE,,3433,25.5,37125,Moore,"{""37125"": ""54.45"", ""37123"": ""45.55""}",Moore|Montgomery,37125|37123,FALSE,FALSE,America/New_York
+27282,35.9957,-79.92824,Jamestown,NC,North Carolina,TRUE,,17090,478.9,37081,Guilford,"{""37081"": ""100""}",Guilford,37081,FALSE,FALSE,America/New_York
+27283,35.95195,-79.63724,Julian,NC,North Carolina,TRUE,,3194,46.8,37081,Guilford,"{""37081"": ""97.61"", ""37151"": ""2.39""}",Guilford|Randolph,37081|37151,FALSE,FALSE,America/New_York
+27284,36.11847,-80.07738,Kernersville,NC,North Carolina,TRUE,,55489,268.1,37067,Forsyth,"{""37067"": ""94.06"", ""37081"": ""4.93"", ""37057"": ""1.01""}",Forsyth|Guilford|Davidson,37067|37081|37057,FALSE,FALSE,America/New_York
+27288,36.4991,-79.74662,Eden,NC,North Carolina,TRUE,,23436,133.6,37157,Rockingham,"{""37157"": ""100""}",Rockingham,37157,FALSE,FALSE,America/New_York
+27291,36.40204,-79.16604,Leasburg,NC,North Carolina,TRUE,,1616,12.3,37033,Caswell,"{""37033"": ""59.75"", ""37145"": ""40.25""}",Caswell|Person,37033|37145,FALSE,FALSE,America/New_York
+27292,35.73451,-80.20924,Lexington,NC,North Carolina,TRUE,,39360,104.5,37057,Davidson,"{""37057"": ""99.85"", ""37151"": ""0.15""}",Davidson|Randolph,37057|37151,FALSE,FALSE,America/New_York
+27295,35.86839,-80.31509,Lexington,NC,North Carolina,TRUE,,38255,115.8,37057,Davidson,"{""37057"": ""100""}",Davidson,37057,FALSE,FALSE,America/New_York
+27298,35.88583,-79.56712,Liberty,NC,North Carolina,TRUE,,10925,44.4,37151,Randolph,"{""37151"": ""60.28"", ""37001"": ""23.81"", ""37081"": ""15.55"", ""37037"": ""0.36""}",Randolph|Alamance|Guilford|Chatham,37151|37001|37081|37037,FALSE,FALSE,America/New_York
+27299,35.75219,-80.38593,Linwood,NC,North Carolina,TRUE,,6172,86.6,37057,Davidson,"{""37057"": ""100""}",Davidson,37057,FALSE,FALSE,America/New_York
+27301,36.11377,-79.66684,McLeansville,NC,North Carolina,TRUE,,9358,108.3,37081,Guilford,"{""37081"": ""100""}",Guilford,37081,FALSE,FALSE,America/New_York
+27302,36.14042,-79.26434,Mebane,NC,North Carolina,TRUE,,31280,103.4,37001,Alamance,"{""37001"": ""68.81"", ""37135"": ""27.82"", ""37033"": ""3.38""}",Alamance|Orange|Caswell,37001|37135|37033,FALSE,FALSE,America/New_York
+27305,36.5195,-79.22876,Milton,NC,North Carolina,TRUE,,1624,23.4,37033,Caswell,"{""37033"": ""97.74"", ""37145"": ""2.26""}",Caswell|Person,37033|37145,FALSE,FALSE,America/New_York
+27306,35.21538,-79.97525,Mount Gilead,NC,North Carolina,TRUE,,6428,14.2,37123,Montgomery,"{""37123"": ""94.82"", ""37153"": ""5.18""}",Montgomery|Richmond,37123|37153,FALSE,FALSE,America/New_York
+27310,36.17268,-79.99314,Oak Ridge,NC,North Carolina,TRUE,,7253,174.2,37081,Guilford,"{""37081"": ""100""}",Guilford,37081,FALSE,FALSE,America/New_York
+27311,36.48314,-79.47459,Pelham,NC,North Carolina,TRUE,,3521,29.4,37033,Caswell,"{""37033"": ""84.3"", ""37157"": ""15.7""}",Caswell|Rockingham,37033|37157,FALSE,FALSE,America/New_York
+27312,35.75676,-79.19671,Pittsboro,NC,North Carolina,TRUE,,20508,46.6,37037,Chatham,"{""37037"": ""99.71"", ""37001"": ""0.29""}",Chatham|Alamance,37037|37001,FALSE,FALSE,America/New_York
+27313,35.929,-79.75182,Pleasant Garden,NC,North Carolina,TRUE,,6733,91.6,37081,Guilford,"{""37081"": ""67.05"", ""37151"": ""32.95""}",Guilford|Randolph,37081|37151,FALSE,FALSE,America/New_York
+27314,36.29169,-79.18699,Prospect Hill,NC,North Carolina,TRUE,,956,14.2,37033,Caswell,"{""37033"": ""100""}",Caswell,37033,FALSE,FALSE,America/New_York
+27315,36.5052,-79.39276,Providence,NC,North Carolina,TRUE,,1763,25.8,37033,Caswell,"{""37033"": ""100""}",Caswell,37033,FALSE,FALSE,America/New_York
+27316,35.68986,-79.62225,Ramseur,NC,North Carolina,TRUE,,8369,46.7,37151,Randolph,"{""37151"": ""100""}",Randolph,37151,FALSE,FALSE,America/New_York
+27317,35.83746,-79.80283,Randleman,NC,North Carolina,TRUE,,16169,116.3,37151,Randolph,"{""37151"": ""96.86"", ""37081"": ""3.14""}",Randolph|Guilford,37151|37081,FALSE,FALSE,America/New_York
+27320,36.34247,-79.65758,Reidsville,NC,North Carolina,TRUE,,38997,59.8,37157,Rockingham,"{""37157"": ""94.19"", ""37033"": ""5.26"", ""37081"": ""0.55""}",Rockingham|Caswell|Guilford,37157|37033|37081,FALSE,FALSE,America/New_York
+27325,35.46321,-79.57477,Robbins,NC,North Carolina,TRUE,,7836,34.3,37125,Moore,"{""37125"": ""99.43"", ""37151"": ""0.57""}",Moore|Randolph,37125|37151,FALSE,FALSE,America/New_York
+27326,36.45343,-79.55636,Ruffin,NC,North Carolina,TRUE,,2900,15.9,37157,Rockingham,"{""37157"": ""66.94"", ""37033"": ""33.06""}",Rockingham|Caswell,37157|37033,FALSE,FALSE,America/New_York
+27330,35.51635,-79.18718,Sanford,NC,North Carolina,TRUE,,40121,75.3,37105,Lee,"{""37105"": ""97.49"", ""37037"": ""2.04"", ""37125"": ""0.45"", ""37085"": ""0.03""}",Lee|Chatham|Moore|Harnett,37105|37037|37125|37085,FALSE,FALSE,America/New_York
+27332,35.37931,-79.13603,Sanford,NC,North Carolina,TRUE,,30743,113,37105,Lee,"{""37105"": ""60.22"", ""37085"": ""39.78""}",Lee|Harnett,37105|37085,FALSE,FALSE,America/New_York
+27340,35.94596,-79.31719,Saxapahaw,NC,North Carolina,TRUE,,43,293.8,37001,Alamance,"{""37001"": ""100""}",Alamance,37001,FALSE,FALSE,America/New_York
+27341,35.52466,-79.70201,Seagrove,NC,North Carolina,TRUE,,4810,19.6,37151,Randolph,"{""37151"": ""65.07"", ""37125"": ""24.63"", ""37123"": ""10.3""}",Randolph|Moore|Montgomery,37151|37125|37123,FALSE,FALSE,America/New_York
+27343,36.50309,-79.09172,Semora,NC,North Carolina,TRUE,,1772,14.9,37145,Person,"{""37145"": ""71.33"", ""37033"": ""28.67""}",Person|Caswell,37145|37033,FALSE,FALSE,America/New_York
+27344,35.72929,-79.43188,Siler City,NC,North Carolina,TRUE,,19116,44.5,37037,Chatham,"{""37037"": ""98.4"", ""37151"": ""1.6""}",Chatham|Randolph,37037|37151,FALSE,FALSE,America/New_York
+27349,35.89843,-79.41629,Snow Camp,NC,North Carolina,TRUE,,5825,36.9,37001,Alamance,"{""37001"": ""94.18"", ""37037"": ""5.82""}",Alamance|Chatham,37001|37037,FALSE,FALSE,America/New_York
+27350,35.80575,-79.88925,Sophia,NC,North Carolina,TRUE,,6412,66.5,37151,Randolph,"{""37151"": ""100""}",Randolph,37151,FALSE,FALSE,America/New_York
+27355,35.78963,-79.56858,Staley,NC,North Carolina,TRUE,,2394,26.8,37151,Randolph,"{""37151"": ""79.4"", ""37037"": ""20.6""}",Randolph|Chatham,37151|37037,FALSE,FALSE,America/New_York
+27356,35.43919,-79.79799,Star,NC,North Carolina,TRUE,,2759,18.9,37123,Montgomery,"{""37123"": ""90.55"", ""37125"": ""9.45""}",Montgomery|Moore,37123|37125,FALSE,FALSE,America/New_York
+27357,36.26818,-79.97697,Stokesdale,NC,North Carolina,TRUE,,8901,81.1,37157,Rockingham,"{""37157"": ""55.64"", ""37081"": ""44.27"", ""37169"": ""0.09""}",Rockingham|Guilford|Stokes,37157|37081|37169,FALSE,FALSE,America/New_York
+27358,36.22808,-79.87975,Summerfield,NC,North Carolina,TRUE,,15028,106.5,37081,Guilford,"{""37081"": ""82.31"", ""37157"": ""17.69""}",Guilford|Rockingham,37081|37157,FALSE,FALSE,America/New_York
+27360,35.85771,-80.09978,Thomasville,NC,North Carolina,TRUE,,45974,201.4,37057,Davidson,"{""37057"": ""92.32"", ""37151"": ""7.68""}",Davidson|Randolph,37057|37151,FALSE,FALSE,America/New_York
+27370,35.81079,-79.99171,Trinity,NC,North Carolina,TRUE,,14409,92.1,37151,Randolph,"{""37151"": ""100""}",Randolph,37151,FALSE,FALSE,America/New_York
+27371,35.42018,-79.95884,Troy,NC,North Carolina,TRUE,,8431,20.1,37123,Montgomery,"{""37123"": ""97.43"", ""37151"": ""2.57""}",Montgomery|Randolph,37123|37151,FALSE,FALSE,America/New_York
+27376,35.25454,-79.53539,West End,NC,North Carolina,TRUE,,9802,54.3,37125,Moore,"{""37125"": ""100""}",Moore,37125,FALSE,FALSE,America/New_York
+27377,36.03823,-79.60259,Whitsett,NC,North Carolina,TRUE,,8612,130.3,37081,Guilford,"{""37081"": ""100""}",Guilford,37081,FALSE,FALSE,America/New_York
+27379,36.3771,-79.34624,Yanceyville,NC,North Carolina,TRUE,,5246,23.7,37033,Caswell,"{""37033"": ""100""}",Caswell,37033,FALSE,FALSE,America/New_York
+27401,36.07011,-79.76582,Greensboro,NC,North Carolina,TRUE,,23388,1454.2,37081,Guilford,"{""37081"": ""100""}",Guilford,37081,FALSE,FALSE,America/New_York
+27403,36.0643,-79.82474,Greensboro,NC,North Carolina,TRUE,,22867,1464.9,37081,Guilford,"{""37081"": ""100""}",Guilford,37081,FALSE,FALSE,America/New_York
+27405,36.11603,-79.7354,Greensboro,NC,North Carolina,TRUE,,48879,607.6,37081,Guilford,"{""37081"": ""100""}",Guilford,37081,FALSE,FALSE,America/New_York
+27406,35.99912,-79.76565,Greensboro,NC,North Carolina,TRUE,,63199,351.3,37081,Guilford,"{""37081"": ""100""}",Guilford,37081,FALSE,FALSE,America/New_York
+27407,36.0098,-79.87648,Greensboro,NC,North Carolina,TRUE,,51900,660.5,37081,Guilford,"{""37081"": ""100""}",Guilford,37081,FALSE,FALSE,America/New_York
+27408,36.1031,-79.81418,Greensboro,NC,North Carolina,TRUE,,18323,926.9,37081,Guilford,"{""37081"": ""100""}",Guilford,37081,FALSE,FALSE,America/New_York
+27409,36.09381,-79.94467,Greensboro,NC,North Carolina,TRUE,,17223,342.1,37081,Guilford,"{""37081"": ""100""}",Guilford,37081,FALSE,FALSE,America/New_York
+27410,36.11785,-79.89434,Greensboro,NC,North Carolina,TRUE,,55707,657.8,37081,Guilford,"{""37081"": ""100""}",Guilford,37081,FALSE,FALSE,America/New_York
+27455,36.18377,-79.80763,Greensboro,NC,North Carolina,TRUE,,28791,374.5,37081,Guilford,"{""37081"": ""100""}",Guilford,37081,FALSE,FALSE,America/New_York
+27501,35.48576,-78.68494,Angier,NC,North Carolina,TRUE,,21055,132.9,37085,Harnett,"{""37085"": ""69.36"", ""37101"": ""29.24"", ""37183"": ""1.4""}",Harnett|Johnston|Wake,37085|37101|37183,FALSE,FALSE,America/New_York
+27502,35.7201,-78.91507,Apex,NC,North Carolina,TRUE,,41455,565,37183,Wake,"{""37183"": ""99.72"", ""37037"": ""0.28""}",Wake|Chatham,37183|37037,FALSE,FALSE,America/New_York
+27503,36.15926,-78.8778,Bahama,NC,North Carolina,TRUE,,6377,67.4,37063,Durham,"{""37063"": ""100""}",Durham,37063,FALSE,FALSE,America/New_York
+27504,35.39897,-78.51901,Benson,NC,North Carolina,TRUE,,15593,66.6,37101,Johnston,"{""37101"": ""96.3"", ""37085"": ""3.7""}",Johnston|Harnett,37101|37085,FALSE,FALSE,America/New_York
+27505,35.4207,-79.002,Broadway,NC,North Carolina,TRUE,,6943,47.2,37085,Harnett,"{""37085"": ""78.24"", ""37105"": ""21.76""}",Harnett|Lee,37085|37105,FALSE,FALSE,America/New_York
+27507,36.51271,-78.56306,Bullock,NC,North Carolina,TRUE,,1930,15.6,37077,Granville,"{""37077"": ""87.51"", ""37181"": ""12.49""}",Granville|Vance,37077|37181,FALSE,FALSE,America/New_York
+27508,35.95771,-78.24979,Bunn,NC,North Carolina,TRUE,,1413,52.2,37069,Franklin,"{""37069"": ""100""}",Franklin,37069,FALSE,FALSE,America/New_York
+27509,36.12849,-78.7758,Butner,NC,North Carolina,TRUE,,6070,156.6,37077,Granville,"{""37077"": ""100""}",Granville,37077,FALSE,FALSE,America/New_York
+27510,35.91585,-79.08193,Carrboro,NC,North Carolina,TRUE,,15117,1563.8,37135,Orange,"{""37135"": ""100""}",Orange,37135,FALSE,FALSE,America/New_York
+27511,35.76325,-78.78426,Cary,NC,North Carolina,TRUE,,34078,1121.9,37183,Wake,"{""37183"": ""100""}",Wake,37183,FALSE,FALSE,America/New_York
+27513,35.80222,-78.80271,Cary,NC,North Carolina,TRUE,,45542,1112.5,37183,Wake,"{""37183"": ""100""}",Wake,37183,FALSE,FALSE,America/New_York
+27514,35.96717,-79.04442,Chapel Hill,NC,North Carolina,TRUE,,33208,659.5,37135,Orange,"{""37135"": ""100""}",Orange,37135,FALSE,FALSE,America/New_York
+27516,35.91251,-79.15137,Chapel Hill,NC,North Carolina,TRUE,,43036,178.7,37135,Orange,"{""37135"": ""91.33"", ""37037"": ""8.67""}",Orange|Chatham,37135|37037,FALSE,FALSE,America/New_York
+27517,35.85024,-79.02484,Chapel Hill,NC,North Carolina,TRUE,,25355,213,37135,Orange,"{""37135"": ""40.53"", ""37037"": ""35.31"", ""37063"": ""24.17""}",Orange|Chatham|Durham,37135|37037|37063,FALSE,FALSE,America/New_York
+27518,35.72981,-78.77353,Cary,NC,North Carolina,TRUE,,20102,807,37183,Wake,"{""37183"": ""100""}",Wake,37183,FALSE,FALSE,America/New_York
+27519,35.80708,-78.88695,Cary,NC,North Carolina,TRUE,,56482,1003.1,37183,Wake,"{""37183"": ""96.34"", ""37037"": ""3.66""}",Wake|Chatham,37183|37037,FALSE,FALSE,America/New_York
+27520,35.61427,-78.47187,Clayton,NC,North Carolina,TRUE,,42387,224.2,37101,Johnston,"{""37101"": ""97.34"", ""37183"": ""2.66""}",Johnston|Wake,37101|37183,FALSE,FALSE,America/New_York
+27521,35.41365,-78.65924,Coats,NC,North Carolina,TRUE,,6366,94.7,37085,Harnett,"{""37085"": ""100""}",Harnett,37085,FALSE,FALSE,America/New_York
+27522,36.10623,-78.67393,Creedmoor,NC,North Carolina,TRUE,,12552,67,37077,Granville,"{""37077"": ""96.99"", ""37183"": ""3.01""}",Granville|Wake,37077|37183,FALSE,FALSE,America/New_York
+27523,35.77227,-78.96053,Apex,NC,North Carolina,TRUE,,12441,116.1,37183,Wake,"{""37183"": ""77.32"", ""37037"": ""22.68""}",Wake|Chatham,37183|37037,FALSE,FALSE,America/New_York
+27524,35.39541,-78.38191,Four Oaks,NC,North Carolina,TRUE,,13675,40.1,37101,Johnston,"{""37101"": ""97.58"", ""37191"": ""2.42""}",Johnston|Wayne,37101|37191,FALSE,FALSE,America/New_York
+27525,36.11841,-78.46803,Franklinton,NC,North Carolina,TRUE,,14819,61.8,37069,Franklin,"{""37069"": ""67.55"", ""37077"": ""32.45""}",Franklin|Granville,37069|37077,FALSE,FALSE,America/New_York
+27526,35.54137,-78.82801,Fuquay Varina,NC,North Carolina,TRUE,,48581,193.5,37183,Wake,"{""37183"": ""79.62"", ""37085"": ""20.38""}",Wake|Harnett,37183|37085,FALSE,FALSE,America/New_York
+27527,35.65778,-78.38384,Clayton,NC,North Carolina,TRUE,,25337,223.7,37101,Johnston,"{""37101"": ""100""}",Johnston,37101,FALSE,FALSE,America/New_York
+27529,35.65233,-78.58172,Garner,NC,North Carolina,TRUE,,50683,338.6,37183,Wake,"{""37183"": ""74.82"", ""37101"": ""25.18""}",Wake|Johnston,37183|37101,FALSE,FALSE,America/New_York
+27530,35.36899,-78.07487,Goldsboro,NC,North Carolina,TRUE,,38940,142.2,37191,Wayne,"{""37191"": ""100""}",Wayne,37191,FALSE,FALSE,America/New_York
+27531,35.34299,-77.96444,Goldsboro,NC,North Carolina,TRUE,,778,83.8,37191,Wayne,"{""37191"": ""100""}",Wayne,37191,FALSE,FALSE,America/New_York
+27534,35.37132,-77.90759,Goldsboro,NC,North Carolina,TRUE,,32492,173.4,37191,Wayne,"{""37191"": ""100""}",Wayne,37191,FALSE,FALSE,America/New_York
+27536,36.32669,-78.40883,Henderson,NC,North Carolina,TRUE,,16522,499.5,37181,Vance,"{""37181"": ""100""}",Vance,37181,FALSE,FALSE,America/New_York
+27537,36.3601,-78.39039,Henderson,NC,North Carolina,TRUE,,23736,48,37181,Vance,"{""37181"": ""94.13"", ""37069"": ""3.75"", ""37185"": ""2.11""}",Vance|Franklin|Warren,37181|37069|37185,FALSE,FALSE,America/New_York
+27539,35.67672,-78.81397,Apex,NC,North Carolina,TRUE,,23970,293.4,37183,Wake,"{""37183"": ""100""}",Wake,37183,FALSE,FALSE,America/New_York
+27540,35.61215,-78.86968,Holly Springs,NC,North Carolina,TRUE,,39675,329.4,37183,Wake,"{""37183"": ""96.42"", ""37085"": ""3.55"", ""37037"": ""0.02""}",Wake|Harnett|Chatham,37183|37085|37037,FALSE,FALSE,America/New_York
+27541,36.26325,-79.08637,Hurdle Mills,NC,North Carolina,TRUE,,3915,21.8,37145,Person,"{""37145"": ""66.18"", ""37135"": ""33.4"", ""37033"": ""0.42""}",Person|Orange|Caswell,37145|37135|37033,FALSE,FALSE,America/New_York
+27542,35.61826,-78.14073,Kenly,NC,North Carolina,TRUE,,9288,41.7,37101,Johnston,"{""37101"": ""70.29"", ""37195"": ""22.15"", ""37191"": ""7.56""}",Johnston|Wilson|Wayne,37101|37195|37191,FALSE,FALSE,America/New_York
+27544,36.20052,-78.44077,Kittrell,NC,North Carolina,TRUE,,5131,32.5,37181,Vance,"{""37181"": ""66.8"", ""37069"": ""21.94"", ""37077"": ""11.26""}",Vance|Franklin|Granville,37181|37069|37077,FALSE,FALSE,America/New_York
+27545,35.78352,-78.4778,Knightdale,NC,North Carolina,TRUE,,28676,381.9,37183,Wake,"{""37183"": ""100""}",Wake,37183,FALSE,FALSE,America/New_York
+27546,35.38386,-78.86807,Lillington,NC,North Carolina,TRUE,,21129,65.9,37085,Harnett,"{""37085"": ""100""}",Harnett,37085,FALSE,FALSE,America/New_York
+27549,36.10367,-78.23827,Louisburg,NC,North Carolina,TRUE,,26716,42.7,37069,Franklin,"{""37069"": ""100""}",Franklin,37069,FALSE,FALSE,America/New_York
+27551,36.43195,-78.05164,Macon,NC,North Carolina,TRUE,,1684,7.7,37185,Warren,"{""37185"": ""100""}",Warren,37185,FALSE,FALSE,America/New_York
+27553,36.48362,-78.307,Manson,NC,North Carolina,TRUE,,2725,28.4,37185,Warren,"{""37185"": ""69.73"", ""37181"": ""30.27""}",Warren|Vance,37185|37181,FALSE,FALSE,America/New_York
+27555,35.56246,-78.20423,Micro,NC,North Carolina,TRUE,,672,699.3,37101,Johnston,"{""37101"": ""100""}",Johnston,37101,FALSE,FALSE,America/New_York
+27556,36.40839,-78.31478,Middleburg,NC,North Carolina,TRUE,,238,48.1,37181,Vance,"{""37181"": ""100""}",Vance,37181,FALSE,FALSE,America/New_York
+27557,35.77609,-78.19922,Middlesex,NC,North Carolina,TRUE,,8205,51.5,37127,Nash,"{""37127"": ""56.81"", ""37101"": ""42.11"", ""37195"": ""1.08""}",Nash|Johnston|Wilson,37127|37101|37195,FALSE,FALSE,America/New_York
+27559,35.63173,-79.10088,Moncure,NC,North Carolina,TRUE,,2622,20.9,37037,Chatham,"{""37037"": ""100""}",Chatham,37037,FALSE,FALSE,America/New_York
+27560,35.85922,-78.8271,Morrisville,NC,North Carolina,TRUE,,35800,472.7,37183,Wake,"{""37183"": ""88.14"", ""37063"": ""11.86""}",Wake|Durham,37183|37063,FALSE,FALSE,America/New_York
+27562,35.64129,-78.98812,New Hill,NC,North Carolina,TRUE,,2149,15.4,37037,Chatham,"{""37037"": ""56.19"", ""37183"": ""43.81""}",Chatham|Wake,37037|37183,FALSE,FALSE,America/New_York
+27563,36.42886,-78.23717,Norlina,NC,North Carolina,TRUE,,4270,23.3,37185,Warren,"{""37185"": ""97.84"", ""37181"": ""2.16""}",Warren|Vance,37185|37181,FALSE,FALSE,America/New_York
+27565,36.36263,-78.65005,Oxford,NC,North Carolina,TRUE,,25127,29.2,37077,Granville,"{""37077"": ""96.85"", ""37181"": ""2.71"", ""37145"": ""0.44""}",Granville|Vance|Person,37077|37181|37145,FALSE,FALSE,America/New_York
+27568,35.5089,-78.24388,Pine Level,NC,North Carolina,TRUE,,607,998.2,37101,Johnston,"{""37101"": ""100""}",Johnston,37101,FALSE,FALSE,America/New_York
+27569,35.42912,-78.17608,Princeton,NC,North Carolina,TRUE,,7993,37.9,37101,Johnston,"{""37101"": ""72.58"", ""37191"": ""27.42""}",Johnston|Wayne,37101|37191,FALSE,FALSE,America/New_York
+27571,35.92048,-78.45722,Rolesville,NC,North Carolina,TRUE,,7407,649.4,37183,Wake,"{""37183"": ""100""}",Wake,37183,FALSE,FALSE,America/New_York
+27572,36.2491,-78.88452,Rougemont,NC,North Carolina,TRUE,,7081,26.6,37145,Person,"{""37145"": ""36.6"", ""37063"": ""29.27"", ""37135"": ""27.47"", ""37077"": ""6.66""}",Person|Durham|Orange|Granville,37145|37063|37135|37077,FALSE,FALSE,America/New_York
+27573,36.39672,-78.97607,Roxboro,NC,North Carolina,TRUE,,11391,246.6,37145,Person,"{""37145"": ""100""}",Person,37145,FALSE,FALSE,America/New_York
+27574,36.43041,-78.94505,Roxboro,NC,North Carolina,TRUE,,14036,28.9,37145,Person,"{""37145"": ""100""}",Person,37145,FALSE,FALSE,America/New_York
+27576,35.58282,-78.2576,Selma,NC,North Carolina,TRUE,,18222,84.6,37101,Johnston,"{""37101"": ""100""}",Johnston,37101,FALSE,FALSE,America/New_York
+27577,35.49187,-78.34385,Smithfield,NC,North Carolina,TRUE,,26875,99.6,37101,Johnston,"{""37101"": ""100""}",Johnston,37101,FALSE,FALSE,America/New_York
+27581,36.2013,-78.73072,Stem,NC,North Carolina,TRUE,,4612,51.8,37077,Granville,"{""37077"": ""100""}",Granville,37077,FALSE,FALSE,America/New_York
+27582,36.46187,-78.5743,Stovall,NC,North Carolina,TRUE,,409,49.7,37077,Granville,"{""37077"": ""100""}",Granville,37077,FALSE,FALSE,America/New_York
+27583,36.29509,-78.93614,Timberlake,NC,North Carolina,TRUE,,7073,59,37145,Person,"{""37145"": ""97.46"", ""37135"": ""2.54""}",Person|Orange,37145|37135,FALSE,FALSE,America/New_York
+27587,35.98129,-78.55288,Wake Forest,NC,North Carolina,TRUE,,68491,252.7,37183,Wake,"{""37183"": ""93.05"", ""37077"": ""3.62"", ""37069"": ""3.33""}",Wake|Granville|Franklin,37183|37077|37069,FALSE,FALSE,America/New_York
+27589,36.33759,-78.1291,Warrenton,NC,North Carolina,TRUE,,7938,17.6,37185,Warren,"{""37185"": ""97.04"", ""37069"": ""2.96""}",Warren|Franklin,37185|37069,FALSE,FALSE,America/New_York
+27591,35.78485,-78.38605,Wendell,NC,North Carolina,TRUE,,20562,119.7,37183,Wake,"{""37183"": ""80.33"", ""37101"": ""19.67""}",Wake|Johnston,37183|37101,FALSE,FALSE,America/New_York
+27592,35.55773,-78.67346,Willow Spring,NC,North Carolina,TRUE,,15972,148.1,37183,Wake,"{""37183"": ""57.98"", ""37101"": ""41.8"", ""37085"": ""0.22""}",Wake|Johnston|Harnett,37183|37101|37085,FALSE,FALSE,America/New_York
+27596,36.01015,-78.44623,Youngsville,NC,North Carolina,TRUE,,18043,124.8,37069,Franklin,"{""37069"": ""88.53"", ""37077"": ""7.13"", ""37183"": ""4.33""}",Franklin|Granville|Wake,37069|37077|37183,FALSE,FALSE,America/New_York
+27597,35.84098,-78.30021,Zebulon,NC,North Carolina,TRUE,,24691,77.8,37183,Wake,"{""37183"": ""55.31"", ""37069"": ""25.22"", ""37101"": ""13.95"", ""37127"": ""5.52""}",Wake|Franklin|Johnston|Nash,37183|37069|37101|37127,FALSE,FALSE,America/New_York
+27601,35.77367,-78.63442,Raleigh,NC,North Carolina,TRUE,,10525,2264.6,37183,Wake,"{""37183"": ""100""}",Wake,37183,FALSE,FALSE,America/New_York
+27603,35.66355,-78.66172,Raleigh,NC,North Carolina,TRUE,,54457,407.4,37183,Wake,"{""37183"": ""96.87"", ""37101"": ""3.13""}",Wake|Johnston,37183|37101,FALSE,FALSE,America/New_York
+27604,35.81863,-78.55881,Raleigh,NC,North Carolina,TRUE,,48494,866.8,37183,Wake,"{""37183"": ""100""}",Wake,37183,FALSE,FALSE,America/New_York
+27605,35.79067,-78.65459,Raleigh,NC,North Carolina,TRUE,,5990,2342.6,37183,Wake,"{""37183"": ""100""}",Wake,37183,FALSE,FALSE,America/New_York
+27606,35.74046,-78.71762,Raleigh,NC,North Carolina,TRUE,,47478,739.1,37183,Wake,"{""37183"": ""100""}",Wake,37183,FALSE,FALSE,America/New_York
+27607,35.81327,-78.72239,Raleigh,NC,North Carolina,TRUE,,28874,692.1,37183,Wake,"{""37183"": ""100""}",Wake,37183,FALSE,FALSE,America/New_York
+27608,35.80903,-78.64731,Raleigh,NC,North Carolina,TRUE,,11203,1345.1,37183,Wake,"{""37183"": ""100""}",Wake,37183,FALSE,FALSE,America/New_York
+27609,35.84328,-78.63332,Raleigh,NC,North Carolina,TRUE,,33575,1160.2,37183,Wake,"{""37183"": ""100""}",Wake,37183,FALSE,FALSE,America/New_York
+27610,35.74598,-78.54647,Raleigh,NC,North Carolina,TRUE,,79924,722.3,37183,Wake,"{""37183"": ""100""}",Wake,37183,FALSE,FALSE,America/New_York
+27612,35.85334,-78.71023,Raleigh,NC,North Carolina,TRUE,,39989,822.7,37183,Wake,"{""37183"": ""100""}",Wake,37183,FALSE,FALSE,America/New_York
+27613,35.92531,-78.71143,Raleigh,NC,North Carolina,TRUE,,42324,664.4,37183,Wake,"{""37183"": ""97.89"", ""37063"": ""2.11""}",Wake|Durham,37183|37063,FALSE,FALSE,America/New_York
+27614,35.94725,-78.61915,Raleigh,NC,North Carolina,TRUE,,32849,468.7,37183,Wake,"{""37183"": ""100""}",Wake,37183,FALSE,FALSE,America/New_York
+27615,35.89798,-78.63612,Raleigh,NC,North Carolina,TRUE,,43950,877.8,37183,Wake,"{""37183"": ""100""}",Wake,37183,FALSE,FALSE,America/New_York
+27616,35.86728,-78.53812,Raleigh,NC,North Carolina,TRUE,,55128,957.6,37183,Wake,"{""37183"": ""100""}",Wake,37183,FALSE,FALSE,America/New_York
+27617,35.90726,-78.7717,Raleigh,NC,North Carolina,TRUE,,20281,935.9,37183,Wake,"{""37183"": ""99.25"", ""37063"": ""0.75""}",Wake|Durham,37183|37063,FALSE,FALSE,America/New_York
+27701,35.99886,-78.89864,Durham,NC,North Carolina,TRUE,,23112,1686.9,37063,Durham,"{""37063"": ""100""}",Durham,37063,FALSE,FALSE,America/New_York
+27703,35.96078,-78.80681,Durham,NC,North Carolina,TRUE,,53733,379.9,37063,Durham,"{""37063"": ""100"", ""37183"": ""0""}",Durham|Wake,37063|37183,FALSE,FALSE,America/New_York
+27704,36.04174,-78.83035,Durham,NC,North Carolina,TRUE,,40392,387,37063,Durham,"{""37063"": ""100""}",Durham,37063,FALSE,FALSE,America/New_York
+27705,36.02698,-78.98065,Durham,NC,North Carolina,TRUE,,49508,436.5,37063,Durham,"{""37063"": ""90.43"", ""37135"": ""9.57""}",Durham|Orange,37063|37135,FALSE,FALSE,America/New_York
+27707,35.95474,-78.95486,Durham,NC,North Carolina,TRUE,,51414,932.3,37063,Durham,"{""37063"": ""99.54"", ""37135"": ""0.46""}",Durham|Orange,37063|37135,FALSE,FALSE,America/New_York
+27709,35.92576,-78.83553,Durham,NC,North Carolina,TRUE,,1152,1138.3,37063,Durham,"{""37063"": ""100""}",Durham,37063,FALSE,FALSE,America/New_York
+27712,36.09689,-78.90212,Durham,NC,North Carolina,TRUE,,21301,244.9,37063,Durham,"{""37063"": ""100""}",Durham,37063,FALSE,FALSE,America/New_York
+27713,35.89497,-78.92368,Durham,NC,North Carolina,TRUE,,54348,643.9,37063,Durham,"{""37063"": ""98.5"", ""37037"": ""1.5""}",Durham|Chatham,37063|37037,FALSE,FALSE,America/New_York
+27801,35.9155,-77.7361,Rocky Mount,NC,North Carolina,TRUE,,20065,111.4,37065,Edgecombe,"{""37065"": ""100""}",Edgecombe,37065,FALSE,FALSE,America/New_York
+27803,35.89988,-77.85593,Rocky Mount,NC,North Carolina,TRUE,,17905,171.4,37127,Nash,"{""37127"": ""96.23"", ""37195"": ""2.12"", ""37065"": ""1.64""}",Nash|Wilson|Edgecombe,37127|37195|37065,FALSE,FALSE,America/New_York
+27804,35.99039,-77.84674,Rocky Mount,NC,North Carolina,TRUE,,29519,269.5,37127,Nash,"{""37127"": ""100""}",Nash,37127,FALSE,FALSE,America/New_York
+27805,36.20783,-77.08434,Aulander,NC,North Carolina,TRUE,,4243,14.8,37091,Hertford,"{""37091"": ""50.7"", ""37015"": ""49.3""}",Hertford|Bertie,37091|37015,FALSE,FALSE,America/New_York
+27806,35.29727,-76.76526,Aurora,NC,North Carolina,TRUE,,2576,7.2,37013,Beaufort,"{""37013"": ""100""}",Beaufort,37013,FALSE,FALSE,America/New_York
+27807,35.80665,-78.09352,Bailey,NC,North Carolina,TRUE,,6604,51,37127,Nash,"{""37127"": ""94.3"", ""37195"": ""5.7""}",Nash|Wilson,37127|37195,FALSE,FALSE,America/New_York
+27808,35.47122,-76.76314,Bath,NC,North Carolina,TRUE,,2066,19,37013,Beaufort,"{""37013"": ""100""}",Beaufort,37013,FALSE,FALSE,America/New_York
+27809,36.02027,-77.74282,Battleboro,NC,North Carolina,TRUE,,4747,24.5,37127,Nash,"{""37127"": ""57.93"", ""37065"": ""42.07""}",Nash|Edgecombe,37127|37065,FALSE,FALSE,America/New_York
+27810,35.55184,-76.53706,Belhaven,NC,North Carolina,TRUE,,4045,12,37013,Beaufort,"{""37013"": ""88.97"", ""37095"": ""11.03""}",Beaufort|Hyde,37013|37095,FALSE,FALSE,America/New_York
+27812,35.81566,-77.36924,Bethel,NC,North Carolina,TRUE,,2686,16.7,37147,Pitt,"{""37147"": ""90.94"", ""37065"": ""5.51"", ""37117"": ""3.55""}",Pitt|Edgecombe|Martin,37147|37065|37117,FALSE,FALSE,America/New_York
+27813,35.63089,-77.93603,Black Creek,NC,North Carolina,TRUE,,792,275.6,37195,Wilson,"{""37195"": ""100""}",Wilson,37195,FALSE,FALSE,America/New_York
+27814,35.38299,-76.92429,Blounts Creek,NC,North Carolina,TRUE,,1947,11.8,37013,Beaufort,"{""37013"": ""100""}",Beaufort,37013,FALSE,FALSE,America/New_York
+27816,36.10682,-78.07056,Castalia,NC,North Carolina,TRUE,,2125,13.6,37127,Nash,"{""37127"": ""54.69"", ""37069"": ""45.31""}",Nash|Franklin,37127|37069,FALSE,FALSE,America/New_York
+27817,35.44393,-77.0764,Chocowinity,NC,North Carolina,TRUE,,7614,26.2,37013,Beaufort,"{""37013"": ""100""}",Beaufort,37013,FALSE,FALSE,America/New_York
+27818,36.50275,-77.01395,Como,NC,North Carolina,TRUE,,1699,10.7,37091,Hertford,"{""37091"": ""100""}",Hertford,37091,FALSE,FALSE,America/New_York
+27819,35.81601,-77.45488,Conetoe,NC,North Carolina,TRUE,,249,89,37065,Edgecombe,"{""37065"": ""100""}",Edgecombe,37065,FALSE,FALSE,America/New_York
+27820,36.41563,-77.24179,Conway,NC,North Carolina,TRUE,,2041,14,37131,Northampton,"{""37131"": ""100""}",Northampton,37131,FALSE,FALSE,America/New_York
+27821,35.32373,-76.87461,Edward,NC,North Carolina,TRUE,,225,13.4,37013,Beaufort,"{""37013"": ""100""}",Beaufort,37013,FALSE,FALSE,America/New_York
+27822,35.80519,-77.84034,Elm City,NC,North Carolina,TRUE,,8225,34.7,37195,Wilson,"{""37195"": ""74.2"", ""37127"": ""18.9"", ""37065"": ""6.9""}",Wilson|Nash|Edgecombe,37195|37127|37065,FALSE,FALSE,America/New_York
+27823,36.20577,-77.72004,Enfield,NC,North Carolina,TRUE,,7950,16.3,37083,Halifax,"{""37083"": ""100""}",Halifax,37083,FALSE,FALSE,America/New_York
+27824,35.52145,-76.03258,Engelhard,NC,North Carolina,TRUE,,1797,7.1,37095,Hyde,"{""37095"": ""100""}",Hyde,37095,FALSE,FALSE,America/New_York
+27825,35.83281,-77.17446,Everetts,NC,North Carolina,TRUE,,46,37.9,37117,Martin,"{""37117"": ""100""}",Martin,37117,FALSE,FALSE,America/New_York
+27826,35.58173,-76.21189,Fairfield,NC,North Carolina,TRUE,,924,4.8,37095,Hyde,"{""37095"": ""93.4"", ""37177"": ""6.6""}",Hyde|Tyrrell,37095|37177,FALSE,FALSE,America/New_York
+27827,35.69661,-77.51323,Falkland,NC,North Carolina,TRUE,,59,238.1,37147,Pitt,"{""37147"": ""100""}",Pitt,37147,FALSE,FALSE,America/New_York
+27828,35.5861,-77.58796,Farmville,NC,North Carolina,TRUE,,9834,49.4,37147,Pitt,"{""37147"": ""87.98"", ""37079"": ""12.02""}",Pitt|Greene,37147|37079,FALSE,FALSE,America/New_York
+27829,35.69021,-77.62076,Fountain,NC,North Carolina,TRUE,,1436,11.3,37147,Pitt,"{""37147"": ""69.84"", ""37065"": ""18.65"", ""37195"": ""11.5""}",Pitt|Edgecombe|Wilson,37147|37065|37195,FALSE,FALSE,America/New_York
+27830,35.55528,-77.95795,Fremont,NC,North Carolina,TRUE,,4547,29,37191,Wayne,"{""37191"": ""93.96"", ""37195"": ""6.04""}",Wayne|Wilson,37191|37195,FALSE,FALSE,America/New_York
+27831,36.45917,-77.57071,Garysburg,NC,North Carolina,TRUE,,3381,19.9,37131,Northampton,"{""37131"": ""100""}",Northampton,37131,FALSE,FALSE,America/New_York
+27832,36.51201,-77.72584,Gaston,NC,North Carolina,TRUE,,2868,36.6,37131,Northampton,"{""37131"": ""100""}",Northampton,37131,FALSE,FALSE,America/New_York
+27834,35.65856,-77.38395,Greenville,NC,North Carolina,TRUE,,57258,125.1,37147,Pitt,"{""37147"": ""99.84"", ""37013"": ""0.08"", ""37065"": ""0.08""}",Pitt|Beaufort|Edgecombe,37147|37013|37065,FALSE,FALSE,America/New_York
+27837,35.5169,-77.20951,Grimesland,NC,North Carolina,TRUE,,7075,45.7,37147,Pitt,"{""37147"": ""94.88"", ""37013"": ""5.12""}",Pitt|Beaufort,37147|37013,FALSE,FALSE,America/New_York
+27839,36.28837,-77.5522,Halifax,NC,North Carolina,TRUE,,3479,9.4,37083,Halifax,"{""37083"": ""100""}",Halifax,37083,FALSE,FALSE,America/New_York
+27840,35.95925,-77.22221,Hamilton,NC,North Carolina,TRUE,,328,10,37117,Martin,"{""37117"": ""100""}",Martin,37117,FALSE,FALSE,America/New_York
+27841,35.90856,-77.27624,Hassell,NC,North Carolina,TRUE,,16,23.4,37117,Martin,"{""37117"": ""100""}",Martin,37117,FALSE,FALSE,America/New_York
+27842,36.52483,-77.85857,Henrico,NC,North Carolina,TRUE,,1446,51.6,37131,Northampton,"{""37131"": ""86.4"", ""37185"": ""13.6""}",Northampton|Warren,37131|37185,FALSE,FALSE,America/New_York
+27843,36.0005,-77.39833,Hobgood,NC,North Carolina,TRUE,,1053,6.8,37083,Halifax,"{""37083"": ""61.88"", ""37065"": ""20.83"", ""37117"": ""17.29""}",Halifax|Edgecombe|Martin,37083|37065|37117,FALSE,FALSE,America/New_York
+27844,36.25231,-77.9487,Hollister,NC,North Carolina,TRUE,,2846,25.8,37083,Halifax,"{""37083"": ""81.97"", ""37185"": ""18.03""}",Halifax|Warren,37083|37185,FALSE,FALSE,America/New_York
+27845,36.37388,-77.43208,Jackson,NC,North Carolina,TRUE,,3192,12.3,37131,Northampton,"{""37131"": ""100""}",Northampton,37131,FALSE,FALSE,America/New_York
+27846,35.76368,-76.88982,Jamesville,NC,North Carolina,TRUE,,3096,12.6,37117,Martin,"{""37117"": ""100""}",Martin,37117,FALSE,FALSE,America/New_York
+27847,36.1846,-77.18907,Kelford,NC,North Carolina,TRUE,,649,6.7,37015,Bertie,"{""37015"": ""100""}",Bertie,37015,FALSE,FALSE,America/New_York
+27849,36.07214,-77.20663,Lewiston Woodville,NC,North Carolina,TRUE,,1608,8.1,37015,Bertie,"{""37015"": ""100""}",Bertie,37015,FALSE,FALSE,America/New_York
+27850,36.40104,-77.88397,Littleton,NC,North Carolina,TRUE,,7410,15.3,37083,Halifax,"{""37083"": ""62.87"", ""37185"": ""37.13""}",Halifax|Warren,37083|37185,FALSE,FALSE,America/New_York
+27851,35.64124,-78.0284,Lucama,NC,North Carolina,TRUE,,5458,47,37195,Wilson,"{""37195"": ""100""}",Wilson,37195,FALSE,FALSE,America/New_York
+27852,35.75262,-77.63588,Macclesfield,NC,North Carolina,TRUE,,3061,24.3,37065,Edgecombe,"{""37065"": ""85.79"", ""37195"": ""10.28"", ""37147"": ""3.93""}",Edgecombe|Wilson|Pitt,37065|37195|37147,FALSE,FALSE,America/New_York
+27853,36.51478,-77.30433,Margarettsville,NC,North Carolina,TRUE,,591,5.4,37131,Northampton,"{""37131"": ""100""}",Northampton,37131,FALSE,FALSE,America/New_York
+27855,36.42201,-77.08377,Murfreesboro,NC,North Carolina,TRUE,,6066,42.9,37091,Hertford,"{""37091"": ""92.58"", ""37131"": ""7.42""}",Hertford|Northampton,37091|37131,FALSE,FALSE,America/New_York
+27856,36.01379,-77.98267,Nashville,NC,North Carolina,TRUE,,17258,51.3,37127,Nash,"{""37127"": ""100""}",Nash,37127,FALSE,FALSE,America/New_York
+27857,35.97356,-77.28627,Oak City,NC,North Carolina,TRUE,,1037,6.3,37117,Martin,"{""37117"": ""100""}",Martin,37117,FALSE,FALSE,America/New_York
+27858,35.53207,-77.29789,Greenville,NC,North Carolina,TRUE,,59182,379.3,37147,Pitt,"{""37147"": ""100""}",Pitt,37147,FALSE,FALSE,America/New_York
+27860,35.65075,-76.68044,Pantego,NC,North Carolina,TRUE,,1663,4.5,37013,Beaufort,"{""37013"": ""88.78"", ""37187"": ""6.14"", ""37095"": ""5.08""}",Beaufort|Washington|Hyde,37013|37187|37095,FALSE,FALSE,America/New_York
+27861,35.81488,-77.32014,Parmele,NC,North Carolina,TRUE,,44,28.2,37117,Martin,"{""37117"": ""100""}",Martin,37117,FALSE,FALSE,America/New_York
+27862,36.49468,-77.17962,Pendleton,NC,North Carolina,TRUE,,727,7,37131,Northampton,"{""37131"": ""100""}",Northampton,37131,FALSE,FALSE,America/New_York
+27863,35.48762,-77.96791,Pikeville,NC,North Carolina,TRUE,,12782,72.9,37191,Wayne,"{""37191"": ""99.09"", ""37079"": ""0.91""}",Wayne|Greene,37191|37079,FALSE,FALSE,America/New_York
+27864,35.80833,-77.64947,Pinetops,NC,North Carolina,TRUE,,4652,44.5,37065,Edgecombe,"{""37065"": ""100""}",Edgecombe,37065,FALSE,FALSE,America/New_York
+27865,35.59315,-76.81676,Pinetown,NC,North Carolina,TRUE,,1963,8.7,37013,Beaufort,"{""37013"": ""100""}",Beaufort,37013,FALSE,FALSE,America/New_York
+27866,36.51842,-77.51514,Pleasant Hill,NC,North Carolina,TRUE,,961,14.3,37131,Northampton,"{""37131"": ""100""}",Northampton,37131,FALSE,FALSE,America/New_York
+27869,36.26606,-77.31438,Rich Square,NC,North Carolina,TRUE,,1705,8,37131,Northampton,"{""37131"": ""100""}",Northampton,37131,FALSE,FALSE,America/New_York
+27870,36.43001,-77.72097,Roanoke Rapids,NC,North Carolina,TRUE,,25497,145,37083,Halifax,"{""37083"": ""100""}",Halifax,37083,FALSE,FALSE,America/New_York
+27871,35.8111,-77.26213,Robersonville,NC,North Carolina,TRUE,,4293,17.2,37117,Martin,"{""37117"": ""87.08"", ""37147"": ""12.62"", ""37013"": ""0.3""}",Martin|Pitt|Beaufort,37117|37147|37013,FALSE,FALSE,America/New_York
+27872,36.19493,-77.2603,Roxobel,NC,North Carolina,TRUE,,535,16.4,37015,Bertie,"{""37015"": ""100""}",Bertie,37015,FALSE,FALSE,America/New_York
+27873,35.65358,-77.77524,Saratoga,NC,North Carolina,TRUE,,413,254.9,37195,Wilson,"{""37195"": ""100""}",Wilson,37195,FALSE,FALSE,America/New_York
+27874,36.12984,-77.40916,Scotland Neck,NC,North Carolina,TRUE,,3837,11.4,37083,Halifax,"{""37083"": ""100""}",Halifax,37083,FALSE,FALSE,America/New_York
+27875,35.45785,-76.48668,Scranton,NC,North Carolina,TRUE,,477,3.3,37095,Hyde,"{""37095"": ""100""}",Hyde,37095,FALSE,FALSE,America/New_York
+27876,36.47751,-77.39594,Seaboard,NC,North Carolina,TRUE,,1218,11.3,37131,Northampton,"{""37131"": ""100""}",Northampton,37131,FALSE,FALSE,America/New_York
+27878,35.86681,-77.83493,Sharpsburg,NC,North Carolina,TRUE,,2045,429.8,37127,Nash,"{""37127"": ""62.82"", ""37195"": ""29.16"", ""37065"": ""8.03""}",Nash|Wilson|Edgecombe,37127|37195|37065,FALSE,FALSE,America/New_York
+27879,35.57453,-77.27946,Simpson,NC,North Carolina,TRUE,,316,414.8,37147,Pitt,"{""37147"": ""100""}",Pitt,37147,FALSE,FALSE,America/New_York
+27880,35.73497,-78.08706,Sims,NC,North Carolina,TRUE,,3421,50.9,37195,Wilson,"{""37195"": ""95.34"", ""37127"": ""4.66""}",Wilson|Nash,37195|37127,FALSE,FALSE,America/New_York
+27881,35.97843,-77.43659,Speed,NC,North Carolina,TRUE,,146,83,37065,Edgecombe,"{""37065"": ""100""}",Edgecombe,37065,FALSE,FALSE,America/New_York
+27882,35.94071,-78.11629,Spring Hope,NC,North Carolina,TRUE,,7972,31.1,37127,Nash,"{""37127"": ""86.81"", ""37069"": ""13.19""}",Nash|Franklin,37127|37069,FALSE,FALSE,America/New_York
+27883,35.59767,-77.79709,Stantonsburg,NC,North Carolina,TRUE,,2850,14.4,37195,Wilson,"{""37195"": ""56.8"", ""37079"": ""26.2"", ""37191"": ""17""}",Wilson|Greene|Wayne,37195|37079|37191,FALSE,FALSE,America/New_York
+27884,35.7046,-77.27004,Stokes,NC,North Carolina,TRUE,,1332,15.6,37147,Pitt,"{""37147"": ""100""}",Pitt,37147,FALSE,FALSE,America/New_York
+27885,35.41418,-76.26283,Swanquarter,NC,North Carolina,TRUE,,963,3,37095,Hyde,"{""37095"": ""100""}",Hyde,37095,FALSE,FALSE,America/New_York
+27886,35.90299,-77.52247,Tarboro,NC,North Carolina,TRUE,,20280,40.6,37065,Edgecombe,"{""37065"": ""98.43"", ""37147"": ""1.57""}",Edgecombe|Pitt,37065|37147,FALSE,FALSE,America/New_York
+27888,35.58513,-77.70497,Walstonburg,NC,North Carolina,TRUE,,2261,18.3,37079,Greene,"{""37079"": ""93.36"", ""37147"": ""4.88"", ""37195"": ""1.76""}",Greene|Pitt|Wilson,37079|37147|37195,FALSE,FALSE,America/New_York
+27889,35.59112,-77.01419,Washington,NC,North Carolina,TRUE,,26637,52,37013,Beaufort,"{""37013"": ""91.78"", ""37147"": ""8.22""}",Beaufort|Pitt,37013|37147,FALSE,FALSE,America/New_York
+27890,36.41525,-77.59078,Weldon,NC,North Carolina,TRUE,,2685,115.5,37083,Halifax,"{""37083"": ""100""}",Halifax,37083,FALSE,FALSE,America/New_York
+27891,36.09929,-77.74091,Whitakers,NC,North Carolina,TRUE,,5036,13.8,37127,Nash,"{""37127"": ""61.28"", ""37065"": ""35.26"", ""37083"": ""3.46""}",Nash|Edgecombe|Halifax,37127|37065|37083,FALSE,FALSE,America/New_York
+27892,35.81743,-77.06452,Williamston,NC,North Carolina,TRUE,,14217,28.4,37117,Martin,"{""37117"": ""99.68"", ""37013"": ""0.32""}",Martin|Beaufort,37117|37013,FALSE,FALSE,America/New_York
+27893,35.69204,-77.90257,Wilson,NC,North Carolina,TRUE,,39531,138.6,37195,Wilson,"{""37195"": ""100""}",Wilson,37195,FALSE,FALSE,America/New_York
+27896,35.79141,-77.97651,Wilson,NC,North Carolina,TRUE,,20791,232.2,37195,Wilson,"{""37195"": ""97"", ""37127"": ""3""}",Wilson|Nash,37195|37127,FALSE,FALSE,America/New_York
+27897,36.32502,-77.2107,Woodland,NC,North Carolina,TRUE,,1810,16.3,37131,Northampton,"{""37131"": ""93.95"", ""37091"": ""6.05""}",Northampton|Hertford,37131|37091,FALSE,FALSE,America/New_York
+27909,36.29548,-76.28394,Elizabeth City,NC,North Carolina,TRUE,,39551,67.3,37139,Pasquotank,"{""37139"": ""99.91"", ""37029"": ""0.09""}",Pasquotank|Camden,37139|37029,FALSE,FALSE,America/New_York
+27910,36.28948,-76.9931,Ahoskie,NC,North Carolina,TRUE,,11691,33.2,37091,Hertford,"{""37091"": ""89.94"", ""37015"": ""10.06""}",Hertford|Bertie,37091|37015,FALSE,FALSE,America/New_York
+27915,35.40321,-75.4953,Avon,NC,North Carolina,TRUE,,421,20.6,37055,Dare,"{""37055"": ""100""}",Dare,37055,FALSE,FALSE,America/New_York
+27916,36.32212,-75.91509,Aydlett,NC,North Carolina,TRUE,,860,42.8,37053,Currituck,"{""37053"": ""100""}",Currituck,37053,FALSE,FALSE,America/New_York
+27917,36.36121,-75.99114,Barco,NC,North Carolina,TRUE,,647,12.4,37053,Currituck,"{""37053"": ""100""}",Currituck,37053,FALSE,FALSE,America/New_York
+27919,36.31187,-76.50347,Belvidere,NC,North Carolina,TRUE,,1035,6.9,37143,Perquimans,"{""37143"": ""85.75"", ""37041"": ""14.25""}",Perquimans|Chowan,37143|37041,FALSE,FALSE,America/New_York
+27920,35.25902,-75.53971,Buxton,NC,North Carolina,TRUE,,1527,161.2,37055,Dare,"{""37055"": ""100""}",Dare,37055,FALSE,FALSE,America/New_York
+27921,36.35833,-76.1691,Camden,NC,North Carolina,TRUE,,4750,25.4,37029,Camden,"{""37029"": ""100""}",Camden,37029,FALSE,FALSE,America/New_York
+27922,36.32022,-76.84832,Cofield,NC,North Carolina,TRUE,,687,6.3,37091,Hertford,"{""37091"": ""100""}",Hertford,37091,FALSE,FALSE,America/New_York
+27923,36.37888,-75.93668,Coinjock,NC,North Carolina,TRUE,,827,44.3,37053,Currituck,"{""37053"": ""100""}",Currituck,37053,FALSE,FALSE,America/New_York
+27924,36.17506,-76.83992,Colerain,NC,North Carolina,TRUE,,3568,14.6,37015,Bertie,"{""37015"": ""99.14"", ""37091"": ""0.86""}",Bertie|Hertford,37015|37091,FALSE,FALSE,America/New_York
+27925,35.84819,-76.19669,Columbia,NC,North Carolina,TRUE,,4003,6.4,37177,Tyrrell,"{""37177"": ""100""}",Tyrrell,37177,FALSE,FALSE,America/New_York
+27926,36.51685,-76.6078,Corapeake,NC,North Carolina,TRUE,,1692,18.3,37073,Gates,"{""37073"": ""100""}",Gates,37073,FALSE,FALSE,America/New_York
+27927,36.4131,-75.8497,Corolla,NC,North Carolina,TRUE,,947,13.8,37053,Currituck,"{""37053"": ""100""}",Currituck,37053,FALSE,FALSE,America/New_York
+27928,35.82883,-76.43415,Creswell,NC,North Carolina,TRUE,,1717,9.7,37187,Washington,"{""37187"": ""95.12"", ""37177"": ""4.88""}",Washington|Tyrrell,37187|37177,FALSE,FALSE,America/New_York
+27929,36.42767,-76.00129,Currituck,NC,North Carolina,TRUE,,1787,116.4,37053,Currituck,"{""37053"": ""100""}",Currituck,37053,FALSE,FALSE,America/New_York
+27932,36.1007,-76.60012,Edenton,NC,North Carolina,TRUE,,12129,39.6,37041,Chowan,"{""37041"": ""100""}",Chowan,37041,FALSE,FALSE,America/New_York
+27935,36.42984,-76.85863,Eure,NC,North Carolina,TRUE,,1879,12.1,37073,Gates,"{""37073"": ""100""}",Gates,37073,FALSE,FALSE,America/New_York
+27936,35.24286,-75.58313,Frisco,NC,North Carolina,TRUE,,953,39.2,37055,Dare,"{""37055"": ""100""}",Dare,37055,FALSE,FALSE,America/New_York
+27937,36.50216,-76.77868,Gates,NC,North Carolina,TRUE,,4448,20.3,37073,Gates,"{""37073"": ""100""}",Gates,37073,FALSE,FALSE,America/New_York
+27938,36.3834,-76.71786,Gatesville,NC,North Carolina,TRUE,,1233,9.4,37073,Gates,"{""37073"": ""100""}",Gates,37073,FALSE,FALSE,America/New_York
+27939,36.23639,-75.86756,Grandy,NC,North Carolina,TRUE,,2862,167.2,37053,Currituck,"{""37053"": ""100""}",Currituck,37053,FALSE,FALSE,America/New_York
+27941,36.10241,-75.8169,Harbinger,NC,North Carolina,TRUE,,424,51.8,37053,Currituck,"{""37053"": ""100""}",Currituck,37053,FALSE,FALSE,America/New_York
+27942,36.28368,-76.76262,Harrellsville,NC,North Carolina,TRUE,,658,7.6,37091,Hertford,"{""37091"": ""100""}",Hertford,37091,FALSE,FALSE,America/New_York
+27943,35.21097,-75.7008,Hatteras,NC,North Carolina,TRUE,,460,66.3,37055,Dare,"{""37055"": ""100""}",Dare,37055,FALSE,FALSE,America/New_York
+27944,36.17466,-76.42018,Hertford,NC,North Carolina,TRUE,,11756,24.5,37143,Perquimans,"{""37143"": ""100""}",Perquimans,37143,FALSE,FALSE,America/New_York
+27946,36.35849,-76.60035,Hobbsville,NC,North Carolina,TRUE,,1022,9.2,37073,Gates,"{""37073"": ""85.09"", ""37041"": ""14.91""}",Gates|Chowan,37073|37041,FALSE,FALSE,America/New_York
+27947,36.20521,-75.87756,Jarvisburg,NC,North Carolina,TRUE,,1259,40.3,37053,Currituck,"{""37053"": ""100""}",Currituck,37053,FALSE,FALSE,America/New_York
+27948,36.01761,-75.68664,Kill Devil Hills,NC,North Carolina,TRUE,,11245,469.6,37055,Dare,"{""37055"": ""100""}",Dare,37055,FALSE,FALSE,America/New_York
+27949,36.10813,-75.73111,Kitty Hawk,NC,North Carolina,TRUE,,7648,194.5,37055,Dare,"{""37055"": ""100""}",Dare,37055,FALSE,FALSE,America/New_York
+27950,36.52599,-76.00081,Knotts Island,NC,North Carolina,TRUE,,2048,26.6,37053,Currituck,"{""37053"": ""100""}",Currituck,37053,FALSE,FALSE,America/New_York
+27953,35.78282,-75.86446,Manns Harbor,NC,North Carolina,TRUE,,888,1.2,37055,Dare,"{""37055"": ""100""}",Dare,37055,FALSE,FALSE,America/New_York
+27954,35.91056,-75.68205,Manteo,NC,North Carolina,TRUE,,7938,346.8,37055,Dare,"{""37055"": ""100""}",Dare,37055,FALSE,FALSE,America/New_York
+27956,36.40253,-76.01406,Maple,NC,North Carolina,TRUE,,549,45.6,37053,Currituck,"{""37053"": ""100""}",Currituck,37053,FALSE,FALSE,America/New_York
+27957,36.06449,-76.77187,Merry Hill,NC,North Carolina,TRUE,,1143,10.4,37015,Bertie,"{""37015"": ""100""}",Bertie,37015,FALSE,FALSE,America/New_York
+27958,36.48334,-76.14524,Moyock,NC,North Carolina,TRUE,,11354,49.6,37053,Currituck,"{""37053"": ""100""}",Currituck,37053,FALSE,FALSE,America/New_York
+27959,35.88591,-75.59657,Nags Head,NC,North Carolina,TRUE,,2938,77.2,37055,Dare,"{""37055"": ""100""}",Dare,37055,FALSE,FALSE,America/New_York
+27960,35.12624,-75.92083,Ocracoke,NC,North Carolina,TRUE,,706,31.3,37095,Hyde,"{""37095"": ""100""}",Hyde,37095,FALSE,FALSE,America/New_York
+27962,35.79077,-76.73861,Plymouth,NC,North Carolina,TRUE,,7696,33.4,37187,Washington,"{""37187"": ""100""}",Washington,37187,FALSE,FALSE,America/New_York
+27964,36.08598,-75.80222,Point Harbor,NC,North Carolina,TRUE,,661,171.6,37053,Currituck,"{""37053"": ""100""}",Currituck,37053,FALSE,FALSE,America/New_York
+27965,36.28318,-75.92746,Poplar Branch,NC,North Carolina,TRUE,,399,9.6,37053,Currituck,"{""37053"": ""100""}",Currituck,37053,FALSE,FALSE,America/New_York
+27966,36.13401,-75.83924,Powells Point,NC,North Carolina,TRUE,,818,30.9,37053,Currituck,"{""37053"": ""100""}",Currituck,37053,FALSE,FALSE,America/New_York
+27967,36.2295,-76.9049,Powellsville,NC,North Carolina,TRUE,,174,18.1,37015,Bertie,"{""37015"": ""100""}",Bertie,37015,FALSE,FALSE,America/New_York
+27968,35.68291,-75.49116,Rodanthe,NC,North Carolina,TRUE,,141,7,37055,Dare,"{""37055"": ""100""}",Dare,37055,FALSE,FALSE,America/New_York
+27970,35.87517,-76.58169,Roper,NC,North Carolina,TRUE,,2446,8.3,37187,Washington,"{""37187"": ""100""}",Washington,37187,FALSE,FALSE,America/New_York
+27972,35.5482,-75.47106,Salvo,NC,North Carolina,TRUE,,91,24.7,37055,Dare,"{""37055"": ""100""}",Dare,37055,FALSE,FALSE,America/New_York
+27973,36.35993,-76.06615,Shawboro,NC,North Carolina,TRUE,,1205,12.4,37053,Currituck,"{""37053"": ""69.54"", ""37029"": ""30.46""}",Currituck|Camden,37053|37029,FALSE,FALSE,America/New_York
+27974,36.23919,-76.00642,Shiloh,NC,North Carolina,TRUE,,1351,11.4,37029,Camden,"{""37029"": ""100""}",Camden,37029,FALSE,FALSE,America/New_York
+27976,36.48796,-76.35104,South Mills,NC,North Carolina,TRUE,,4129,15,37029,Camden,"{""37029"": ""100""}",Camden,37029,FALSE,FALSE,America/New_York
+27978,35.73482,-75.74841,Stumpy Point,NC,North Carolina,TRUE,,184,4.4,37055,Dare,"{""37055"": ""100""}",Dare,37055,FALSE,FALSE,America/New_York
+27979,36.44137,-76.55915,Sunbury,NC,North Carolina,TRUE,,1473,7.9,37073,Gates,"{""37073"": ""100""}",Gates,37073,FALSE,FALSE,America/New_York
+27980,36.24376,-76.61884,Tyner,NC,North Carolina,TRUE,,2018,15.1,37041,Chowan,"{""37041"": ""86.62"", ""37143"": ""13.38""}",Chowan|Perquimans,37041|37143,FALSE,FALSE,America/New_York
+27981,35.85408,-75.6415,Wanchese,NC,North Carolina,TRUE,,1732,84.7,37055,Dare,"{""37055"": ""100""}",Dare,37055,FALSE,FALSE,America/New_York
+27982,35.56512,-75.46628,Waves,NC,North Carolina,TRUE,,56,68.1,37055,Dare,"{""37055"": ""100""}",Dare,37055,FALSE,FALSE,America/New_York
+27983,35.98396,-76.93933,Windsor,NC,North Carolina,TRUE,,8502,9.9,37015,Bertie,"{""37015"": ""100""}",Bertie,37015,FALSE,FALSE,America/New_York
+27985,36.21286,-76.45829,Winfall,NC,North Carolina,TRUE,,390,163.8,37143,Perquimans,"{""37143"": ""100""}",Perquimans,37143,FALSE,FALSE,America/New_York
+27986,36.38789,-76.92569,Winton,NC,North Carolina,TRUE,,2362,59.3,37091,Hertford,"{""37091"": ""100""}",Hertford,37091,FALSE,FALSE,America/New_York
+28001,35.33623,-80.20477,Albemarle,NC,North Carolina,TRUE,,26557,77.1,37167,Stanly,"{""37167"": ""100""}",Stanly,37167,FALSE,FALSE,America/New_York
+28006,35.4069,-81.09465,Alexis,NC,North Carolina,TRUE,,1116,80.4,37071,Gaston,"{""37071"": ""64.6"", ""37109"": ""35.4""}",Gaston|Lincoln,37071|37109,FALSE,FALSE,America/New_York
+28007,35.10451,-80.10989,Ansonville,NC,North Carolina,TRUE,,720,211.7,37007,Anson,"{""37007"": ""100""}",Anson,37007,FALSE,FALSE,America/New_York
+28009,35.40852,-80.10754,Badin,NC,North Carolina,TRUE,,1183,159.6,37167,Stanly,"{""37167"": ""100""}",Stanly,37167,FALSE,FALSE,America/New_York
+28012,35.21042,-81.04074,Belmont,NC,North Carolina,TRUE,,23830,336.1,37071,Gaston,"{""37071"": ""100""}",Gaston,37071,FALSE,FALSE,America/New_York
+28016,35.31749,-81.28818,Bessemer City,NC,North Carolina,TRUE,,13405,120.4,37071,Gaston,"{""37071"": ""100""}",Gaston,37071,FALSE,FALSE,America/New_York
+28017,35.24709,-81.67063,Boiling Springs,NC,North Carolina,TRUE,,730,1641,37045,Cleveland,"{""37045"": ""100""}",Cleveland,37045,FALSE,FALSE,America/New_York
+28018,35.48378,-81.79521,Bostic,NC,North Carolina,TRUE,,5234,20.3,37161,Rutherford,"{""37161"": ""100""}",Rutherford,37161,FALSE,FALSE,America/New_York
+28019,35.28039,-81.79053,Caroleen,NC,North Carolina,TRUE,,0,0,37161,Rutherford,"{""37161"": ""100""}",Rutherford,37161,FALSE,FALSE,America/New_York
+28020,35.52498,-81.64131,Casar,NC,North Carolina,TRUE,,2354,20.9,37045,Cleveland,"{""37045"": ""96.94"", ""37161"": ""3.06""}",Cleveland|Rutherford,37045|37161,FALSE,FALSE,America/New_York
+28021,35.39855,-81.4098,Cherryville,NC,North Carolina,TRUE,,14408,88.8,37071,Gaston,"{""37071"": ""65.4"", ""37045"": ""20.28"", ""37109"": ""14.32""}",Gaston|Cleveland|Lincoln,37071|37045|37109,FALSE,FALSE,America/New_York
+28023,35.56951,-80.60223,China Grove,NC,North Carolina,TRUE,,16129,134.4,37159,Rowan,"{""37159"": ""100""}",Rowan,37159,FALSE,FALSE,America/New_York
+28025,35.38042,-80.5279,Concord,NC,North Carolina,TRUE,,54425,193,37025,Cabarrus,"{""37025"": ""100""}",Cabarrus,37025,FALSE,FALSE,America/New_York
+28027,35.40847,-80.67521,Concord,NC,North Carolina,TRUE,,68716,386.6,37025,Cabarrus,"{""37025"": ""100""}",Cabarrus,37025,FALSE,FALSE,America/New_York
+28031,35.47155,-80.89809,Cornelius,NC,North Carolina,TRUE,,28077,773.2,37119,Mecklenburg,"{""37119"": ""100""}",Mecklenburg,37119,FALSE,FALSE,America/New_York
+28032,35.23492,-81.08024,Cramerton,NC,North Carolina,TRUE,,3245,537.5,37071,Gaston,"{""37071"": ""100""}",Gaston,37071,FALSE,FALSE,America/New_York
+28033,35.41871,-81.3211,Crouse,NC,North Carolina,TRUE,,3132,77.6,37109,Lincoln,"{""37109"": ""66.06"", ""37071"": ""33.94""}",Lincoln|Gaston,37109|37071,FALSE,FALSE,America/New_York
+28034,35.35325,-81.18086,Dallas,NC,North Carolina,TRUE,,17386,148,37071,Gaston,"{""37071"": ""100""}",Gaston,37071,FALSE,FALSE,America/New_York
+28036,35.48573,-80.79425,Davidson,NC,North Carolina,TRUE,,18266,312.3,37119,Mecklenburg,"{""37119"": ""79.21"", ""37025"": ""17.97"", ""37097"": ""2.83""}",Mecklenburg|Cabarrus|Iredell,37119|37025|37097,FALSE,FALSE,America/New_York
+28037,35.50705,-81.01755,Denver,NC,North Carolina,TRUE,,20619,179.5,37109,Lincoln,"{""37109"": ""90.29"", ""37035"": ""9.71""}",Lincoln|Catawba,37109|37035,FALSE,FALSE,America/New_York
+28039,35.68043,-80.43551,East Spencer,NC,North Carolina,TRUE,,82,372.4,37159,Rowan,"{""37159"": ""100""}",Rowan,37159,FALSE,FALSE,America/New_York
+28040,35.39149,-81.74721,Ellenboro,NC,North Carolina,TRUE,,7441,40.4,37161,Rutherford,"{""37161"": ""98.38"", ""37045"": ""1.62""}",Rutherford|Cleveland,37161|37045,FALSE,FALSE,America/New_York
+28043,35.31198,-81.86931,Forest City,NC,North Carolina,TRUE,,20339,123.9,37161,Rutherford,"{""37161"": ""100""}",Rutherford,37161,FALSE,FALSE,America/New_York
+28052,35.22379,-81.23375,Gastonia,NC,North Carolina,TRUE,,35169,322.3,37071,Gaston,"{""37071"": ""100""}",Gaston,37071,FALSE,FALSE,America/New_York
+28054,35.26276,-81.15012,Gastonia,NC,North Carolina,TRUE,,37876,731.2,37071,Gaston,"{""37071"": ""100""}",Gaston,37071,FALSE,FALSE,America/New_York
+28056,35.21718,-81.12519,Gastonia,NC,North Carolina,TRUE,,34373,279,37071,Gaston,"{""37071"": ""100""}",Gaston,37071,FALSE,FALSE,America/New_York
+28071,35.51557,-80.32699,Gold Hill,NC,North Carolina,TRUE,,2667,22.6,37159,Rowan,"{""37159"": ""69.27"", ""37025"": ""24.95"", ""37167"": ""5.78""}",Rowan|Cabarrus|Stanly,37159|37025|37167,FALSE,FALSE,America/New_York
+28072,35.61397,-80.44503,Granite Quarry,NC,North Carolina,TRUE,,1527,543.2,37159,Rowan,"{""37159"": ""100""}",Rowan,37159,FALSE,FALSE,America/New_York
+28073,35.19718,-81.48098,Grover,NC,North Carolina,TRUE,,6541,98.9,37045,Cleveland,"{""37045"": ""100""}",Cleveland,37045,FALSE,FALSE,America/New_York
+28075,35.30272,-80.63982,Harrisburg,NC,North Carolina,TRUE,,19099,349,37025,Cabarrus,"{""37025"": ""100""}",Cabarrus,37025,FALSE,FALSE,America/New_York
+28076,35.25931,-81.7888,Henrietta,NC,North Carolina,TRUE,,521,150.4,37161,Rutherford,"{""37161"": ""100""}",Rutherford,37161,FALSE,FALSE,America/New_York
+28077,35.40416,-81.20284,High Shoals,NC,North Carolina,TRUE,,467,308.5,37071,Gaston,"{""37071"": ""100""}",Gaston,37071,FALSE,FALSE,America/New_York
+28078,35.40491,-80.86263,Huntersville,NC,North Carolina,TRUE,,61043,369.5,37119,Mecklenburg,"{""37119"": ""95.65"", ""37025"": ""4.35""}",Mecklenburg|Cabarrus,37119|37025,FALSE,FALSE,America/New_York
+28079,35.11227,-80.60317,Indian Trail,NC,North Carolina,TRUE,,37694,331.1,37179,Union,"{""37179"": ""100""}",Union,37179,FALSE,FALSE,America/New_York
+28080,35.45254,-81.10976,Iron Station,NC,North Carolina,TRUE,,7857,76.8,37109,Lincoln,"{""37109"": ""100""}",Lincoln,37109,FALSE,FALSE,America/New_York
+28081,35.50229,-80.66996,Kannapolis,NC,North Carolina,TRUE,,28116,356.3,37025,Cabarrus,"{""37025"": ""57.76"", ""37159"": ""42.24""}",Cabarrus|Rowan,37025|37159,FALSE,FALSE,America/New_York
+28083,35.49082,-80.58059,Kannapolis,NC,North Carolina,TRUE,,25536,491.6,37025,Cabarrus,"{""37025"": ""76.45"", ""37159"": ""23.55""}",Cabarrus|Rowan,37025|37159,FALSE,FALSE,America/New_York
+28086,35.243,-81.37108,Kings Mountain,NC,North Carolina,TRUE,,25436,111.7,37045,Cleveland,"{""37045"": ""85.74"", ""37071"": ""14.26""}",Cleveland|Gaston,37045|37071,FALSE,FALSE,America/New_York
+28088,35.54425,-80.61468,Landis,NC,North Carolina,TRUE,,2746,400.3,37159,Rowan,"{""37159"": ""100""}",Rowan,37159,FALSE,FALSE,America/New_York
+28089,35.31818,-81.65975,Lattimore,NC,North Carolina,TRUE,,227,353.2,37045,Cleveland,"{""37045"": ""100""}",Cleveland,37045,FALSE,FALSE,America/New_York
+28090,35.45947,-81.56041,Lawndale,NC,North Carolina,TRUE,,7820,32.2,37045,Cleveland,"{""37045"": ""97.13"", ""37109"": ""1.99"", ""37035"": ""0.49"", ""37023"": ""0.38""}",Cleveland|Lincoln|Catawba|Burke,37045|37109|37035|37023,FALSE,FALSE,America/New_York
+28091,34.98477,-79.93154,Lilesville,NC,North Carolina,TRUE,,1975,8.1,37007,Anson,"{""37007"": ""100""}",Anson,37007,FALSE,FALSE,America/New_York
+28092,35.48577,-81.25452,Lincolnton,NC,North Carolina,TRUE,,40517,127.8,37109,Lincoln,"{""37109"": ""93.7"", ""37071"": ""5.31"", ""37035"": ""0.99""}",Lincoln|Gaston|Catawba,37109|37071|37035,FALSE,FALSE,America/New_York
+28097,35.2967,-80.39302,Locust,NC,North Carolina,TRUE,,6078,77.2,37167,Stanly,"{""37167"": ""96.35"", ""37025"": ""3.65""}",Stanly|Cabarrus,37167|37025,FALSE,FALSE,America/New_York
+28098,35.27099,-81.09844,Lowell,NC,North Carolina,TRUE,,3632,412,37071,Gaston,"{""37071"": ""100""}",Gaston,37071,FALSE,FALSE,America/New_York
+28101,35.25782,-81.0789,McAdenville,NC,North Carolina,TRUE,,970,418.1,37071,Gaston,"{""37071"": ""100""}",Gaston,37071,FALSE,FALSE,America/New_York
+28102,34.81446,-79.97457,McFarlan,NC,North Carolina,TRUE,,95,72.4,37007,Anson,"{""37007"": ""100""}",Anson,37007,FALSE,FALSE,America/New_York
+28103,35.00287,-80.35279,Marshville,NC,North Carolina,TRUE,,11281,28.1,37179,Union,"{""37179"": ""99.32"", ""37007"": ""0.68""}",Union|Anson,37179|37007,FALSE,FALSE,America/New_York
+28104,35.06048,-80.69576,Matthews,NC,North Carolina,TRUE,,31773,420.2,37179,Union,"{""37179"": ""98.03"", ""37119"": ""1.97""}",Union|Mecklenburg,37179|37119,FALSE,FALSE,America/New_York
+28105,35.11659,-80.71313,Matthews,NC,North Carolina,TRUE,,46180,748.7,37119,Mecklenburg,"{""37119"": ""98.9"", ""37179"": ""1.1""}",Mecklenburg|Union,37119|37179,FALSE,FALSE,America/New_York
+28107,35.25124,-80.52009,Midland,NC,North Carolina,TRUE,,8024,62.5,37025,Cabarrus,"{""37025"": ""92.14"", ""37119"": ""5.12"", ""37179"": ""1.6"", ""37167"": ""1.14""}",Cabarrus|Mecklenburg|Union|Stanly,37025|37119|37179|37167,FALSE,FALSE,America/New_York
+28108,34.93426,-80.67945,Mineral Springs,NC,North Carolina,TRUE,,160,309.1,37179,Union,"{""37179"": ""100""}",Union,37179,FALSE,FALSE,America/New_York
+28109,35.49217,-80.28652,Misenheimer,NC,North Carolina,TRUE,,334,76.5,37167,Stanly,"{""37167"": ""100""}",Stanly,37167,FALSE,FALSE,America/New_York
+28110,35.0675,-80.52703,Monroe,NC,North Carolina,TRUE,,53733,161.1,37179,Union,"{""37179"": ""100""}",Union,37179,FALSE,FALSE,America/New_York
+28112,34.89302,-80.54085,Monroe,NC,North Carolina,TRUE,,26831,78.3,37179,Union,"{""37179"": ""100""}",Union,37179,FALSE,FALSE,America/New_York
+28114,35.22947,-81.74926,Mooresboro,NC,North Carolina,TRUE,,7475,44.2,37161,Rutherford,"{""37161"": ""59.39"", ""37045"": ""40.61""}",Rutherford|Cleveland,37161|37045,FALSE,FALSE,America/New_York
+28115,35.57956,-80.77328,Mooresville,NC,North Carolina,TRUE,,37673,197.3,37097,Iredell,"{""37097"": ""93.22"", ""37159"": ""6.78""}",Iredell|Rowan,37097|37159,FALSE,FALSE,America/New_York
+28117,35.57216,-80.89562,Mooresville,NC,North Carolina,TRUE,,40855,395.1,37097,Iredell,"{""37097"": ""100""}",Iredell,37097,FALSE,FALSE,America/New_York
+28119,34.8509,-80.01586,Morven,NC,North Carolina,TRUE,,2391,14,37007,Anson,"{""37007"": ""100""}",Anson,37007,FALSE,FALSE,America/New_York
+28120,35.33151,-81.02617,Mount Holly,NC,North Carolina,TRUE,,21582,274.5,37071,Gaston,"{""37071"": ""100""}",Gaston,37071,FALSE,FALSE,America/New_York
+28124,35.40211,-80.40378,Mount Pleasant,NC,North Carolina,TRUE,,5946,40.3,37025,Cabarrus,"{""37025"": ""90.83"", ""37167"": ""9.17""}",Cabarrus|Stanly,37025|37167,FALSE,FALSE,America/New_York
+28125,35.65947,-80.70306,Mount Ulla,NC,North Carolina,TRUE,,2421,24.3,37159,Rowan,"{""37159"": ""79.56"", ""37097"": ""20.44""}",Rowan|Iredell,37159|37097,FALSE,FALSE,America/New_York
+28127,35.45666,-80.17346,New London,NC,North Carolina,TRUE,,7704,42.8,37167,Stanly,"{""37167"": ""76.46"", ""37123"": ""21.03"", ""37057"": ""2.52""}",Stanly|Montgomery|Davidson,37167|37123|37057,FALSE,FALSE,America/New_York
+28128,35.2146,-80.15849,Norwood,NC,North Carolina,TRUE,,7519,42.6,37167,Stanly,"{""37167"": ""100""}",Stanly,37167,FALSE,FALSE,America/New_York
+28129,35.2316,-80.32713,Oakboro,NC,North Carolina,TRUE,,5416,48.9,37167,Stanly,"{""37167"": ""100""}",Stanly,37167,FALSE,FALSE,America/New_York
+28133,34.93454,-80.26135,Peachland,NC,North Carolina,TRUE,,2420,11.7,37007,Anson,"{""37007"": ""95.62"", ""37179"": ""4.38""}",Anson|Union,37007|37179,FALSE,FALSE,America/New_York
+28134,35.08616,-80.8918,Pineville,NC,North Carolina,TRUE,,11037,497.1,37119,Mecklenburg,"{""37119"": ""100""}",Mecklenburg,37119,FALSE,FALSE,America/New_York
+28135,35.04001,-80.21081,Polkton,NC,North Carolina,TRUE,,6245,24.1,37007,Anson,"{""37007"": ""100""}",Anson,37007,FALSE,FALSE,America/New_York
+28137,35.50359,-80.2547,Richfield,NC,North Carolina,TRUE,,3181,27.7,37167,Stanly,"{""37167"": ""76.54"", ""37159"": ""23.46""}",Stanly|Rowan,37167|37159,FALSE,FALSE,America/New_York
+28138,35.52095,-80.44185,Rockwell,NC,North Carolina,TRUE,,10160,88.4,37159,Rowan,"{""37159"": ""91.78"", ""37025"": ""8.22""}",Rowan|Cabarrus,37159|37025,FALSE,FALSE,America/New_York
+28139,35.3487,-81.99232,Rutherfordton,NC,North Carolina,TRUE,,20467,45.1,37161,Rutherford,"{""37161"": ""95.05"", ""37149"": ""4.95""}",Rutherford|Polk,37161|37149,FALSE,FALSE,America/New_York
+28144,35.70622,-80.46414,Salisbury,NC,North Carolina,TRUE,,24858,320.7,37159,Rowan,"{""37159"": ""100""}",Rowan,37159,FALSE,FALSE,America/New_York
+28146,35.62089,-80.39305,Salisbury,NC,North Carolina,TRUE,,28420,110.6,37159,Rowan,"{""37159"": ""100""}",Rowan,37159,FALSE,FALSE,America/New_York
+28147,35.67987,-80.56392,Salisbury,NC,North Carolina,TRUE,,23495,115.5,37159,Rowan,"{""37159"": ""100""}",Rowan,37159,FALSE,FALSE,America/New_York
+28150,35.34829,-81.57502,Shelby,NC,North Carolina,TRUE,,26965,97.2,37045,Cleveland,"{""37045"": ""99.98"", ""37161"": ""0.02""}",Cleveland|Rutherford,37045|37161,FALSE,FALSE,America/New_York
+28152,35.24301,-81.59517,Shelby,NC,North Carolina,TRUE,,24523,114.5,37045,Cleveland,"{""37045"": ""100""}",Cleveland,37045,FALSE,FALSE,America/New_York
+28159,35.69465,-80.43198,Spencer,NC,North Carolina,TRUE,,2959,463.5,37159,Rowan,"{""37159"": ""100""}",Rowan,37159,FALSE,FALSE,America/New_York
+28160,35.36102,-81.92233,Spindale,NC,North Carolina,TRUE,,3825,263.2,37161,Rutherford,"{""37161"": ""100""}",Rutherford,37161,FALSE,FALSE,America/New_York
+28163,35.20743,-80.42853,Stanfield,NC,North Carolina,TRUE,,5275,57.9,37167,Stanly,"{""37167"": ""100""}",Stanly,37167,FALSE,FALSE,America/New_York
+28164,35.39171,-81.03812,Stanley,NC,North Carolina,TRUE,,15623,143.1,37071,Gaston,"{""37071"": ""66.28"", ""37109"": ""33.72""}",Gaston|Lincoln,37071|37109,FALSE,FALSE,America/New_York
+28166,35.68145,-80.87567,Troutman,NC,North Carolina,TRUE,,9651,128.7,37097,Iredell,"{""37097"": ""100""}",Iredell,37097,FALSE,FALSE,America/New_York
+28167,35.50618,-81.96192,Union Mills,NC,North Carolina,TRUE,,2732,14.7,37161,Rutherford,"{""37161"": ""94.24"", ""37111"": ""5.76""}",Rutherford|McDowell,37161|37111,FALSE,FALSE,America/New_York
+28168,35.55476,-81.42363,Vale,NC,North Carolina,TRUE,,10415,46.4,37109,Lincoln,"{""37109"": ""65.85"", ""37035"": ""34.15""}",Lincoln|Catawba,37109|37035,FALSE,FALSE,America/New_York
+28169,35.35844,-81.42931,Waco,NC,North Carolina,TRUE,,202,139.2,37045,Cleveland,"{""37045"": ""100""}",Cleveland,37045,FALSE,FALSE,America/New_York
+28170,34.99577,-80.09668,Wadesboro,NC,North Carolina,TRUE,,11187,23.1,37007,Anson,"{""37007"": ""100""}",Anson,37007,FALSE,FALSE,America/New_York
+28173,34.91685,-80.73013,Waxhaw,NC,North Carolina,TRUE,,59559,213.5,37179,Union,"{""37179"": ""100""}",Union,37179,FALSE,FALSE,America/New_York
+28174,34.96987,-80.43858,Wingate,NC,North Carolina,TRUE,,9496,101.7,37179,Union,"{""37179"": ""100""}",Union,37179,FALSE,FALSE,America/New_York
+28202,35.22778,-80.84458,Charlotte,NC,North Carolina,TRUE,,13498,2889.2,37119,Mecklenburg,"{""37119"": ""100""}",Mecklenburg,37119,FALSE,FALSE,America/New_York
+28203,35.20815,-80.85911,Charlotte,NC,North Carolina,TRUE,,16655,1938.4,37119,Mecklenburg,"{""37119"": ""100""}",Mecklenburg,37119,FALSE,FALSE,America/New_York
+28204,35.21463,-80.82702,Charlotte,NC,North Carolina,TRUE,,7199,1607.8,37119,Mecklenburg,"{""37119"": ""100""}",Mecklenburg,37119,FALSE,FALSE,America/New_York
+28205,35.21973,-80.78791,Charlotte,NC,North Carolina,TRUE,,48798,1593.8,37119,Mecklenburg,"{""37119"": ""100""}",Mecklenburg,37119,FALSE,FALSE,America/New_York
+28206,35.25679,-80.82116,Charlotte,NC,North Carolina,TRUE,,12036,658.6,37119,Mecklenburg,"{""37119"": ""100""}",Mecklenburg,37119,FALSE,FALSE,America/New_York
+28207,35.19512,-80.82622,Charlotte,NC,North Carolina,TRUE,,9986,1531.4,37119,Mecklenburg,"{""37119"": ""100""}",Mecklenburg,37119,FALSE,FALSE,America/New_York
+28208,35.23057,-80.90992,Charlotte,NC,North Carolina,TRUE,,40284,706.7,37119,Mecklenburg,"{""37119"": ""100""}",Mecklenburg,37119,FALSE,FALSE,America/New_York
+28209,35.17854,-80.85386,Charlotte,NC,North Carolina,TRUE,,23533,1657.2,37119,Mecklenburg,"{""37119"": ""100""}",Mecklenburg,37119,FALSE,FALSE,America/New_York
+28210,35.129,-80.85552,Charlotte,NC,North Carolina,TRUE,,48333,1469.4,37119,Mecklenburg,"{""37119"": ""100""}",Mecklenburg,37119,FALSE,FALSE,America/New_York
+28211,35.16807,-80.79616,Charlotte,NC,North Carolina,TRUE,,31121,1115,37119,Mecklenburg,"{""37119"": ""100""}",Mecklenburg,37119,FALSE,FALSE,America/New_York
+28212,35.18943,-80.74511,Charlotte,NC,North Carolina,TRUE,,47903,2001.3,37119,Mecklenburg,"{""37119"": ""100""}",Mecklenburg,37119,FALSE,FALSE,America/New_York
+28213,35.28493,-80.73326,Charlotte,NC,North Carolina,TRUE,,43099,1202.1,37119,Mecklenburg,"{""37119"": ""97.76"", ""37025"": ""2.24""}",Mecklenburg|Cabarrus,37119|37025,FALSE,FALSE,America/New_York
+28214,35.27488,-80.96851,Charlotte,NC,North Carolina,TRUE,,42412,500.2,37119,Mecklenburg,"{""37119"": ""100""}",Mecklenburg,37119,FALSE,FALSE,America/New_York
+28215,35.24684,-80.6935,Charlotte,NC,North Carolina,TRUE,,62543,790.4,37119,Mecklenburg,"{""37119"": ""97.17"", ""37025"": ""2.83""}",Mecklenburg|Cabarrus,37119|37025,FALSE,FALSE,America/New_York
+28216,35.31122,-80.8875,Charlotte,NC,North Carolina,TRUE,,49849,643.4,37119,Mecklenburg,"{""37119"": ""100""}",Mecklenburg,37119,FALSE,FALSE,America/New_York
+28217,35.17145,-80.90839,Charlotte,NC,North Carolina,TRUE,,30082,783.9,37119,Mecklenburg,"{""37119"": ""100""}",Mecklenburg,37119,FALSE,FALSE,America/New_York
+28226,35.1067,-80.81984,Charlotte,NC,North Carolina,TRUE,,39796,1030.2,37119,Mecklenburg,"{""37119"": ""100""}",Mecklenburg,37119,FALSE,FALSE,America/New_York
+28227,35.18614,-80.65136,Charlotte,NC,North Carolina,TRUE,,57336,571.7,37119,Mecklenburg,"{""37119"": ""99.02"", ""37179"": ""0.98""}",Mecklenburg|Union,37119|37179,FALSE,FALSE,America/New_York
+28244,35.2246,-80.8431,Charlotte,NC,North Carolina,TRUE,,0,0,37119,Mecklenburg,"{""37119"": ""0""}",Mecklenburg,37119,FALSE,FALSE,America/New_York
+28262,35.32513,-80.74224,Charlotte,NC,North Carolina,TRUE,,43209,769.9,37119,Mecklenburg,"{""37119"": ""99.99"", ""37025"": ""0.01""}",Mecklenburg|Cabarrus,37119|37025,FALSE,FALSE,America/New_York
+28269,35.33788,-80.80251,Charlotte,NC,North Carolina,TRUE,,77248,978.5,37119,Mecklenburg,"{""37119"": ""94.99"", ""37025"": ""5.01""}",Mecklenburg|Cabarrus,37119|37025,FALSE,FALSE,America/New_York
+28270,35.10982,-80.76033,Charlotte,NC,North Carolina,TRUE,,36086,1104.5,37119,Mecklenburg,"{""37119"": ""100""}",Mecklenburg,37119,FALSE,FALSE,America/New_York
+28273,35.12675,-80.94667,Charlotte,NC,North Carolina,TRUE,,41170,728.9,37119,Mecklenburg,"{""37119"": ""100""}",Mecklenburg,37119,FALSE,FALSE,America/New_York
+28277,35.05238,-80.81752,Charlotte,NC,North Carolina,TRUE,,72132,1189.8,37119,Mecklenburg,"{""37119"": ""100""}",Mecklenburg,37119,FALSE,FALSE,America/New_York
+28278,35.12961,-81.00788,Charlotte,NC,North Carolina,TRUE,,29347,397.7,37119,Mecklenburg,"{""37119"": ""100""}",Mecklenburg,37119,FALSE,FALSE,America/New_York
+28280,35.22633,-80.84309,Charlotte,NC,North Carolina,TRUE,,0,0,37119,Mecklenburg,"{""37119"": ""100""}",Mecklenburg,37119,FALSE,FALSE,America/New_York
+28282,35.22481,-80.84528,Charlotte,NC,North Carolina,TRUE,,0,0,37119,Mecklenburg,"{""37119"": ""0""}",Mecklenburg,37119,FALSE,FALSE,America/New_York
+28301,35.07431,-78.88358,Fayetteville,NC,North Carolina,TRUE,,16929,532.2,37051,Cumberland,"{""37051"": ""100""}",Cumberland,37051,FALSE,FALSE,America/New_York
+28303,35.08602,-78.9618,Fayetteville,NC,North Carolina,TRUE,,29888,689.2,37051,Cumberland,"{""37051"": ""100""}",Cumberland,37051,FALSE,FALSE,America/New_York
+28304,35.02599,-78.98983,Fayetteville,NC,North Carolina,TRUE,,36682,858.6,37051,Cumberland,"{""37051"": ""99.18"", ""37093"": ""0.82""}",Cumberland|Hoke,37051|37093,FALSE,FALSE,America/New_York
+28305,35.05266,-78.90674,Fayetteville,NC,North Carolina,TRUE,,5751,854,37051,Cumberland,"{""37051"": ""100""}",Cumberland,37051,FALSE,FALSE,America/New_York
+28306,34.95875,-78.89551,Fayetteville,NC,North Carolina,TRUE,,42973,241.6,37051,Cumberland,"{""37051"": ""98.14"", ""37093"": ""1.37"", ""37017"": ""0.49""}",Cumberland|Hoke|Bladen,37051|37093|37017,FALSE,FALSE,America/New_York
+28307,35.13737,-78.98501,Fort Bragg,NC,North Carolina,TRUE,,17065,563.3,37051,Cumberland,"{""37051"": ""100""}",Cumberland,37051,FALSE,FALSE,America/New_York
+28308,35.17102,-79.01498,Pope Army Airfield,NC,North Carolina,TRUE,,588,61.4,37051,Cumberland,"{""37051"": ""100""}",Cumberland,37051,FALSE,FALSE,America/New_York
+28310,35.14157,-79.02177,Fort Bragg,NC,North Carolina,TRUE,,7066,598.9,37051,Cumberland,"{""37051"": ""100""}",Cumberland,37051,FALSE,FALSE,America/New_York
+28311,35.17184,-78.88169,Fayetteville,NC,North Carolina,TRUE,,35334,363.7,37051,Cumberland,"{""37051"": ""100""}",Cumberland,37051,FALSE,FALSE,America/New_York
+28312,34.95501,-78.74072,Fayetteville,NC,North Carolina,TRUE,,19761,45.4,37051,Cumberland,"{""37051"": ""98.74"", ""37017"": ""1.26""}",Cumberland|Bladen,37051|37017,FALSE,FALSE,America/New_York
+28314,35.05815,-79.02259,Fayetteville,NC,North Carolina,TRUE,,58827,985,37051,Cumberland,"{""37051"": ""100""}",Cumberland,37051,FALSE,FALSE,America/New_York
+28315,35.1165,-79.43682,Aberdeen,NC,North Carolina,TRUE,,13303,80.4,37125,Moore,"{""37125"": ""86.7"", ""37093"": ""13.3""}",Moore|Hoke,37125|37093,FALSE,FALSE,America/New_York
+28318,35.01788,-78.61414,Autryville,NC,North Carolina,TRUE,,4250,20.6,37163,Sampson,"{""37163"": ""83.62"", ""37051"": ""16.38""}",Sampson|Cumberland,37163|37051,FALSE,FALSE,America/New_York
+28320,34.5518,-78.77337,Bladenboro,NC,North Carolina,TRUE,,9233,29.7,37017,Bladen,"{""37017"": ""97.15"", ""37047"": ""2.85""}",Bladen|Columbus,37017|37047,FALSE,FALSE,America/New_York
+28323,35.31194,-78.84057,Bunnlevel,NC,North Carolina,TRUE,,4207,43.2,37085,Harnett,"{""37085"": ""100""}",Harnett,37085,FALSE,FALSE,America/New_York
+28325,35.15392,-78.1042,Calypso,NC,North Carolina,TRUE,,605,274.5,37061,Duplin,"{""37061"": ""100""}",Duplin,37061,FALSE,FALSE,America/New_York
+28326,35.28032,-79.1685,Cameron,NC,North Carolina,TRUE,,24217,80.4,37085,Harnett,"{""37085"": ""75.17"", ""37125"": ""16.99"", ""37105"": ""7.84""}",Harnett|Moore|Lee,37085|37125|37105,FALSE,FALSE,America/New_York
+28327,35.35637,-79.42307,Carthage,NC,North Carolina,TRUE,,17013,34.5,37125,Moore,"{""37125"": ""100""}",Moore,37125,FALSE,FALSE,America/New_York
+28328,35.00345,-78.33829,Clinton,NC,North Carolina,TRUE,,27372,41.4,37163,Sampson,"{""37163"": ""100""}",Sampson,37163,FALSE,FALSE,America/New_York
+28330,34.90959,-79.82238,Cordova,NC,North Carolina,TRUE,,293,456.5,37153,Richmond,"{""37153"": ""100""}",Richmond,37153,FALSE,FALSE,America/New_York
+28332,34.65911,-78.73795,Dublin,NC,North Carolina,TRUE,,442,86.2,37017,Bladen,"{""37017"": ""100""}",Bladen,37017,FALSE,FALSE,America/New_York
+28333,35.28272,-78.01278,Dudley,NC,North Carolina,TRUE,,10902,89.1,37191,Wayne,"{""37191"": ""100""}",Wayne,37191,FALSE,FALSE,America/New_York
+28334,35.26849,-78.56989,Dunn,NC,North Carolina,TRUE,,23410,56.4,37085,Harnett,"{""37085"": ""64.52"", ""37163"": ""27.94"", ""37101"": ""5.58"", ""37051"": ""1.97""}",Harnett|Sampson|Johnston|Cumberland,37085|37163|37101|37051,FALSE,FALSE,America/New_York
+28337,34.66141,-78.57076,Elizabethtown,NC,North Carolina,TRUE,,10574,25.6,37017,Bladen,"{""37017"": ""100""}",Bladen,37017,FALSE,FALSE,America/New_York
+28338,35.10278,-79.75911,Ellerbe,NC,North Carolina,TRUE,,4718,12.7,37153,Richmond,"{""37153"": ""100""}",Richmond,37153,FALSE,FALSE,America/New_York
+28339,35.31414,-78.72176,Erwin,NC,North Carolina,TRUE,,7432,80,37085,Harnett,"{""37085"": ""100""}",Harnett,37085,FALSE,FALSE,America/New_York
+28340,34.47199,-79.14074,Fairmont,NC,North Carolina,TRUE,,10075,31,37155,Robeson,"{""37155"": ""100""}",Robeson,37155,FALSE,FALSE,America/New_York
+28341,35.11891,-78.17831,Faison,NC,North Carolina,TRUE,,5047,20.8,37061,Duplin,"{""37061"": ""53.75"", ""37163"": ""46.25""}",Duplin|Sampson,37061|37163,FALSE,FALSE,America/New_York
+28342,35.19194,-78.64973,Falcon,NC,North Carolina,TRUE,,216,67.1,37051,Cumberland,"{""37051"": ""100""}",Cumberland,37051,FALSE,FALSE,America/New_York
+28343,34.7635,-79.58189,Gibson,NC,North Carolina,TRUE,,1457,31.4,37165,Scotland,"{""37165"": ""100""}",Scotland,37165,FALSE,FALSE,America/New_York
+28344,35.16341,-78.62734,Godwin,NC,North Carolina,TRUE,,3726,37.2,37163,Sampson,"{""37163"": ""72.56"", ""37051"": ""27.44""}",Sampson|Cumberland,37163|37051,FALSE,FALSE,America/New_York
+28345,34.87411,-79.66866,Hamlet,NC,North Carolina,TRUE,,12003,65.4,37153,Richmond,"{""37153"": ""98.79"", ""37165"": ""1.21""}",Richmond|Scotland,37153|37165,FALSE,FALSE,America/New_York
+28347,35.05501,-79.59385,Hoffman,NC,North Carolina,TRUE,,2187,16.4,37153,Richmond,"{""37153"": ""99.24"", ""37125"": ""0.76""}",Richmond|Moore,37153|37125,FALSE,FALSE,America/New_York
+28348,34.92635,-78.91152,Hope Mills,NC,North Carolina,TRUE,,35721,310.7,37051,Cumberland,"{""37051"": ""100""}",Cumberland,37051,FALSE,FALSE,America/New_York
+28349,34.97677,-77.9171,Kenansville,NC,North Carolina,TRUE,,2598,14.9,37061,Duplin,"{""37061"": ""100""}",Duplin,37061,FALSE,FALSE,America/New_York
+28350,35.24354,-79.31306,Lakeview,NC,North Carolina,TRUE,,144,85.9,37125,Moore,"{""37125"": ""100""}",Moore,37125,FALSE,FALSE,America/New_York
+28351,34.84025,-79.55836,Laurel Hill,NC,North Carolina,TRUE,,4598,31.4,37165,Scotland,"{""37165"": ""100""}",Scotland,37165,FALSE,FALSE,America/New_York
+28352,34.76732,-79.45084,Laurinburg,NC,North Carolina,TRUE,,25575,79.3,37165,Scotland,"{""37165"": ""100""}",Scotland,37165,FALSE,FALSE,America/New_York
+28356,35.23088,-78.7909,Linden,NC,North Carolina,TRUE,,4819,33.9,37051,Cumberland,"{""37051"": ""73.61"", ""37085"": ""26.39""}",Cumberland|Harnett,37051|37085,FALSE,FALSE,America/New_York
+28357,34.90575,-79.08703,Lumber Bridge,NC,North Carolina,TRUE,,2590,28.2,37155,Robeson,"{""37155"": ""62.02"", ""37093"": ""37.98""}",Robeson|Hoke,37155|37093,FALSE,FALSE,America/New_York
+28358,34.60567,-78.94113,Lumberton,NC,North Carolina,TRUE,,38858,75.1,37155,Robeson,"{""37155"": ""100""}",Robeson,37155,FALSE,FALSE,America/New_York
+28360,34.67464,-79.07344,Lumberton,NC,North Carolina,TRUE,,14769,86.8,37155,Robeson,"{""37155"": ""100""}",Robeson,37155,FALSE,FALSE,America/New_York
+28363,34.95472,-79.54204,Marston,NC,North Carolina,TRUE,,1415,9.5,37165,Scotland,"{""37165"": ""59.82"", ""37153"": ""40.18""}",Scotland|Richmond,37165|37153,FALSE,FALSE,America/New_York
+28364,34.71235,-79.32696,Maxton,NC,North Carolina,TRUE,,14732,42.1,37155,Robeson,"{""37155"": ""96.27"", ""37165"": ""3.17"", ""37093"": ""0.57""}",Robeson|Scotland|Hoke,37155|37165|37093,FALSE,FALSE,America/New_York
+28365,35.17701,-78.0566,Mount Olive,NC,North Carolina,TRUE,,15533,31.1,37191,Wayne,"{""37191"": ""61.88"", ""37061"": ""36.74"", ""37163"": ""1.38""}",Wayne|Duplin|Sampson,37191|37061|37163,FALSE,FALSE,America/New_York
+28366,35.23019,-78.35944,Newton Grove,NC,North Carolina,TRUE,,5868,26.7,37163,Sampson,"{""37163"": ""81.11"", ""37101"": ""18.89""}",Sampson|Johnston,37163|37101,FALSE,FALSE,America/New_York
+28367,35.1727,-79.72528,Norman,NC,North Carolina,TRUE,,126,170.9,37153,Richmond,"{""37153"": ""100""}",Richmond,37153,FALSE,FALSE,America/New_York
+28369,34.42096,-79.03027,Orrum,NC,North Carolina,TRUE,,2585,13.5,37155,Robeson,"{""37155"": ""100""}",Robeson,37155,FALSE,FALSE,America/New_York
+28371,34.90636,-78.98946,Parkton,NC,North Carolina,TRUE,,6964,77.4,37155,Robeson,"{""37155"": ""59.95"", ""37051"": ""37.11"", ""37093"": ""2.95""}",Robeson|Cumberland|Hoke,37155|37051|37093,FALSE,FALSE,America/New_York
+28372,34.69689,-79.1776,Pembroke,NC,North Carolina,TRUE,,14196,125.1,37155,Robeson,"{""37155"": ""100""}",Robeson,37155,FALSE,FALSE,America/New_York
+28373,35.09074,-79.48519,Pinebluff,NC,North Carolina,TRUE,,2749,82.2,37125,Moore,"{""37125"": ""100""}",Moore,37125,FALSE,FALSE,America/New_York
+28374,35.19759,-79.46247,Pinehurst,NC,North Carolina,TRUE,,17347,302.3,37125,Moore,"{""37125"": ""100""}",Moore,37125,FALSE,FALSE,America/New_York
+28375,34.47572,-79.03855,Proctorville,NC,North Carolina,TRUE,,164,221.6,37155,Robeson,"{""37155"": ""100""}",Robeson,37155,FALSE,FALSE,America/New_York
+28376,34.9919,-79.24262,Raeford,NC,North Carolina,TRUE,,44967,120.2,37093,Hoke,"{""37093"": ""100""}",Hoke,37093,FALSE,FALSE,America/New_York
+28377,34.83438,-79.21329,Red Springs,NC,North Carolina,TRUE,,12654,48.5,37155,Robeson,"{""37155"": ""69.3"", ""37093"": ""30.7""}",Robeson|Hoke,37155|37093,FALSE,FALSE,America/New_York
+28379,34.93102,-79.78009,Rockingham,NC,North Carolina,TRUE,,24512,61.1,37153,Richmond,"{""37153"": ""100""}",Richmond,37153,FALSE,FALSE,America/New_York
+28382,34.96393,-78.51332,Roseboro,NC,North Carolina,TRUE,,7252,23.7,37163,Sampson,"{""37163"": ""88.29"", ""37051"": ""11.71""}",Sampson|Cumberland,37163|37051,FALSE,FALSE,America/New_York
+28383,34.5755,-79.26576,Rowland,NC,North Carolina,TRUE,,8518,31.5,37155,Robeson,"{""37155"": ""100""}",Robeson,37155,FALSE,FALSE,America/New_York
+28384,34.79838,-78.95735,Saint Pauls,NC,North Carolina,TRUE,,11162,44.3,37155,Robeson,"{""37155"": ""89.21"", ""37017"": ""6.98"", ""37051"": ""3.81""}",Robeson|Bladen|Cumberland,37155|37017|37051,FALSE,FALSE,America/New_York
+28385,35.04525,-78.49749,Salemburg,NC,North Carolina,TRUE,,2277,22.3,37163,Sampson,"{""37163"": ""100""}",Sampson,37163,FALSE,FALSE,America/New_York
+28386,34.85423,-79.12742,Shannon,NC,North Carolina,TRUE,,6258,53.6,37155,Robeson,"{""37155"": ""80.91"", ""37093"": ""19.09""}",Robeson|Hoke,37155|37093,FALSE,FALSE,America/New_York
+28387,35.17912,-79.37607,Southern Pines,NC,North Carolina,TRUE,,15437,204.9,37125,Moore,"{""37125"": ""100""}",Moore,37125,FALSE,FALSE,America/New_York
+28390,35.21757,-78.95465,Spring Lake,NC,North Carolina,TRUE,,24768,162,37085,Harnett,"{""37085"": ""51.12"", ""37051"": ""48.88""}",Harnett|Cumberland,37085|37051,FALSE,FALSE,America/New_York
+28391,35.02121,-78.70175,Stedman,NC,North Carolina,TRUE,,5842,63.7,37051,Cumberland,"{""37051"": ""100""}",Cumberland,37051,FALSE,FALSE,America/New_York
+28392,34.73801,-78.80148,Tar Heel,NC,North Carolina,TRUE,,1559,15.3,37017,Bladen,"{""37017"": ""100""}",Bladen,37017,FALSE,FALSE,America/New_York
+28393,34.97788,-78.18778,Turkey,NC,North Carolina,TRUE,,1962,17.1,37163,Sampson,"{""37163"": ""99.75"", ""37061"": ""0.25""}",Sampson|Duplin,37163|37061,FALSE,FALSE,America/New_York
+28394,35.21684,-79.23466,Vass,NC,North Carolina,TRUE,,5547,49.1,37125,Moore,"{""37125"": ""100""}",Moore,37125,FALSE,FALSE,America/New_York
+28395,35.13842,-78.73982,Wade,NC,North Carolina,TRUE,,2046,16.5,37051,Cumberland,"{""37051"": ""100""}",Cumberland,37051,FALSE,FALSE,America/New_York
+28396,34.92929,-79.40378,Wagram,NC,North Carolina,TRUE,,2583,19.9,37165,Scotland,"{""37165"": ""100""}",Scotland,37165,FALSE,FALSE,America/New_York
+28398,34.99525,-78.06875,Warsaw,NC,North Carolina,TRUE,,8296,32.9,37061,Duplin,"{""37061"": ""100""}",Duplin,37061,FALSE,FALSE,America/New_York
+28399,34.76006,-78.70514,White Oak,NC,North Carolina,TRUE,,1955,8.1,37017,Bladen,"{""37017"": ""100""}",Bladen,37017,FALSE,FALSE,America/New_York
+28401,34.27257,-77.96332,Wilmington,NC,North Carolina,TRUE,,24656,394.3,37129,New Hanover,"{""37129"": ""100""}",New Hanover,37129,FALSE,FALSE,America/New_York
+28403,34.22189,-77.87985,Wilmington,NC,North Carolina,TRUE,,41525,1139.1,37129,New Hanover,"{""37129"": ""100""}",New Hanover,37129,FALSE,FALSE,America/New_York
+28405,34.26515,-77.86701,Wilmington,NC,North Carolina,TRUE,,32909,528,37129,New Hanover,"{""37129"": ""100""}",New Hanover,37129,FALSE,FALSE,America/New_York
+28409,34.15484,-77.86235,Wilmington,NC,North Carolina,TRUE,,34849,564.3,37129,New Hanover,"{""37129"": ""100""}",New Hanover,37129,FALSE,FALSE,America/New_York
+28411,34.30228,-77.7917,Wilmington,NC,North Carolina,TRUE,,39019,359.5,37129,New Hanover,"{""37129"": ""94.69"", ""37141"": ""5.31""}",New Hanover|Pender,37129|37141,FALSE,FALSE,America/New_York
+28412,34.13314,-77.9194,Wilmington,NC,North Carolina,TRUE,,39106,692.9,37129,New Hanover,"{""37129"": ""100""}",New Hanover,37129,FALSE,FALSE,America/New_York
+28420,34.07423,-78.48055,Ash,NC,North Carolina,TRUE,,4075,11.2,37019,Brunswick,"{""37019"": ""100""}",Brunswick,37019,FALSE,FALSE,America/New_York
+28421,34.52082,-78.17817,Atkinson,NC,North Carolina,TRUE,,1610,11.2,37141,Pender,"{""37141"": ""100""}",Pender,37141,FALSE,FALSE,America/New_York
+28422,34.0196,-78.17297,Bolivia,NC,North Carolina,TRUE,,8116,34.1,37019,Brunswick,"{""37019"": ""100""}",Brunswick,37019,FALSE,FALSE,America/New_York
+28423,34.31178,-78.39381,Bolton,NC,North Carolina,TRUE,,2421,11.7,37047,Columbus,"{""37047"": ""89.96"", ""37017"": ""10.04""}",Columbus|Bladen,37047|37017,FALSE,FALSE,America/New_York
+28424,34.29029,-78.69973,Brunswick,NC,North Carolina,TRUE,,48,125,37047,Columbus,"{""37047"": ""100""}",Columbus,37047,FALSE,FALSE,America/New_York
+28425,34.56277,-77.89637,Burgaw,NC,North Carolina,TRUE,,11833,30.5,37141,Pender,"{""37141"": ""100""}",Pender,37141,FALSE,FALSE,America/New_York
+28428,34.03832,-77.90681,Carolina Beach,NC,North Carolina,TRUE,,6611,496.2,37129,New Hanover,"{""37129"": ""100""}",New Hanover,37129,FALSE,FALSE,America/New_York
+28429,34.34202,-77.90118,Castle Hayne,NC,North Carolina,TRUE,,7058,69.7,37129,New Hanover,"{""37129"": ""100""}",New Hanover,37129,FALSE,FALSE,America/New_York
+28430,34.29242,-78.93519,Cerro Gordo,NC,North Carolina,TRUE,,2298,21.8,37047,Columbus,"{""37047"": ""100""}",Columbus,37047,FALSE,FALSE,America/New_York
+28431,34.31373,-78.83935,Chadbourn,NC,North Carolina,TRUE,,7027,36.1,37047,Columbus,"{""37047"": ""100""}",Columbus,37047,FALSE,FALSE,America/New_York
+28432,34.17623,-78.76396,Clarendon,NC,North Carolina,TRUE,,1407,15.4,37047,Columbus,"{""37047"": ""100""}",Columbus,37047,FALSE,FALSE,America/New_York
+28433,34.4911,-78.62406,Clarkton,NC,North Carolina,TRUE,,5228,18,37017,Bladen,"{""37017"": ""77.5"", ""37047"": ""22.5""}",Bladen|Columbus,37017|37047,FALSE,FALSE,America/New_York
+28434,34.46645,-78.46909,Council,NC,North Carolina,TRUE,,948,4.6,37017,Bladen,"{""37017"": ""100""}",Bladen,37017,FALSE,FALSE,America/New_York
+28435,34.4076,-78.10562,Currie,NC,North Carolina,TRUE,,2210,8.9,37141,Pender,"{""37141"": ""100""}",Pender,37141,FALSE,FALSE,America/New_York
+28436,34.27617,-78.26633,Delco,NC,North Carolina,TRUE,,2090,21.3,37047,Columbus,"{""37047"": ""99.68"", ""37019"": ""0.32""}",Columbus|Brunswick,37047|37019,FALSE,FALSE,America/New_York
+28438,34.41155,-78.92459,Evergreen,NC,North Carolina,TRUE,,1651,13.5,37047,Columbus,"{""37047"": ""97.4"", ""37017"": ""2.6""}",Columbus|Bladen,37047|37017,FALSE,FALSE,America/New_York
+28439,34.29479,-79.00975,Fair Bluff,NC,North Carolina,TRUE,,1038,16.6,37047,Columbus,"{""37047"": ""100""}",Columbus,37047,FALSE,FALSE,America/New_York
+28441,34.78969,-78.4309,Garland,NC,North Carolina,TRUE,,3396,10.3,37163,Sampson,"{""37163"": ""66.85"", ""37017"": ""33.15""}",Sampson|Bladen,37163|37017,FALSE,FALSE,America/New_York
+28442,34.28908,-78.60226,Hallsboro,NC,North Carolina,TRUE,,1432,9.7,37047,Columbus,"{""37047"": ""100""}",Columbus,37047,FALSE,FALSE,America/New_York
+28443,34.43991,-77.67196,Hampstead,NC,North Carolina,TRUE,,23266,78,37141,Pender,"{""37141"": ""100""}",Pender,37141,FALSE,FALSE,America/New_York
+28444,34.69175,-78.31961,Harrells,NC,North Carolina,TRUE,,2310,10,37163,Sampson,"{""37163"": ""59.14"", ""37017"": ""39.14"", ""37061"": ""1.73""}",Sampson|Bladen|Duplin,37163|37017|37061,FALSE,FALSE,America/New_York
+28445,34.51045,-77.54669,Holly Ridge,NC,North Carolina,TRUE,,7196,53.3,37133,Onslow,"{""37133"": ""67.62"", ""37141"": ""32.38""}",Onslow|Pender,37133|37141,FALSE,FALSE,America/New_York
+28447,34.60051,-78.25933,Ivanhoe,NC,North Carolina,TRUE,,1734,5.8,37163,Sampson,"{""37163"": ""42.34"", ""37017"": ""29.55"", ""37141"": ""28.11""}",Sampson|Bladen|Pender,37163|37017|37141,FALSE,FALSE,America/New_York
+28448,34.49223,-78.32202,Kelly,NC,North Carolina,TRUE,,902,3.7,37017,Bladen,"{""37017"": ""96.3"", ""37141"": ""3.7""}",Bladen|Pender,37017|37141,FALSE,FALSE,America/New_York
+28449,33.98155,-77.9275,Kure Beach,NC,North Carolina,TRUE,,1778,172.6,37129,New Hanover,"{""37129"": ""100""}",New Hanover,37129,FALSE,FALSE,America/New_York
+28450,34.32535,-78.51763,Lake Waccamaw,NC,North Carolina,TRUE,,2684,26.4,37047,Columbus,"{""37047"": ""100""}",Columbus,37047,FALSE,FALSE,America/New_York
+28451,34.23768,-78.09331,Leland,NC,North Carolina,TRUE,,35236,97.4,37019,Brunswick,"{""37019"": ""100""}",Brunswick,37019,FALSE,FALSE,America/New_York
+28452,33.99718,-78.55299,Longwood,NC,North Carolina,TRUE,,899,59.6,37019,Brunswick,"{""37019"": ""100""}",Brunswick,37019,FALSE,FALSE,America/New_York
+28453,34.88191,-78.07909,Magnolia,NC,North Carolina,TRUE,,3563,16.6,37061,Duplin,"{""37061"": ""91.98"", ""37163"": ""8.02""}",Duplin|Sampson,37061|37163,FALSE,FALSE,America/New_York
+28454,34.6783,-77.6509,Maple Hill,NC,North Carolina,TRUE,,2733,16.2,37133,Onslow,"{""37133"": ""64.64"", ""37141"": ""35.36""}",Onslow|Pender,37133|37141,FALSE,FALSE,America/New_York
+28455,34.11281,-78.63202,Nakina,NC,North Carolina,TRUE,,2500,12.7,37047,Columbus,"{""37047"": ""100""}",Columbus,37047,FALSE,FALSE,America/New_York
+28456,34.37595,-78.2803,Riegelwood,NC,North Carolina,TRUE,,3750,22.5,37047,Columbus,"{""37047"": ""62.71"", ""37017"": ""29.36"", ""37019"": ""7.93""}",Columbus|Bladen|Brunswick,37047|37017|37019,FALSE,FALSE,America/New_York
+28457,34.44759,-77.88907,Rocky Point,NC,North Carolina,TRUE,,10299,30.7,37141,Pender,"{""37141"": ""100""}",Pender,37141,FALSE,FALSE,America/New_York
+28458,34.81827,-78.08992,Rose Hill,NC,North Carolina,TRUE,,6761,23.6,37061,Duplin,"{""37061"": ""84.73"", ""37163"": ""15.27""}",Duplin|Sampson,37061|37163,FALSE,FALSE,America/New_York
+28460,34.53297,-77.424,Sneads Ferry,NC,North Carolina,TRUE,,10845,120.3,37133,Onslow,"{""37133"": ""100""}",Onslow,37133,FALSE,FALSE,America/New_York
+28461,33.96625,-78.03635,Southport,NC,North Carolina,TRUE,,20506,104.6,37019,Brunswick,"{""37019"": ""100""}",Brunswick,37019,FALSE,FALSE,America/New_York
+28462,34.02318,-78.2885,Supply,NC,North Carolina,TRUE,,12917,53.5,37019,Brunswick,"{""37019"": ""100""}",Brunswick,37019,FALSE,FALSE,America/New_York
+28463,34.10815,-78.78748,Tabor City,NC,North Carolina,TRUE,,9116,29.9,37047,Columbus,"{""37047"": ""100""}",Columbus,37047,FALSE,FALSE,America/New_York
+28464,34.77792,-78.01925,Teachey,NC,North Carolina,TRUE,,3031,51.3,37061,Duplin,"{""37061"": ""100""}",Duplin,37061,FALSE,FALSE,America/New_York
+28465,33.91255,-78.1033,Oak Island,NC,North Carolina,TRUE,,7432,271.1,37019,Brunswick,"{""37019"": ""100""}",Brunswick,37019,FALSE,FALSE,America/New_York
+28466,34.73526,-77.90114,Wallace,NC,North Carolina,TRUE,,9292,18.9,37061,Duplin,"{""37061"": ""93.15"", ""37141"": ""6.85""}",Duplin|Pender,37061|37141,FALSE,FALSE,America/New_York
+28467,33.91762,-78.58185,Calabash,NC,North Carolina,TRUE,,10688,229.2,37019,Brunswick,"{""37019"": ""100""}",Brunswick,37019,FALSE,FALSE,America/New_York
+28468,33.90232,-78.52122,Sunset Beach,NC,North Carolina,TRUE,,5235,114.9,37019,Brunswick,"{""37019"": ""100""}",Brunswick,37019,FALSE,FALSE,America/New_York
+28469,33.92705,-78.46877,Ocean Isle Beach,NC,North Carolina,TRUE,,6094,105.8,37019,Brunswick,"{""37019"": ""100""}",Brunswick,37019,FALSE,FALSE,America/New_York
+28470,33.96367,-78.40642,Shallotte,NC,North Carolina,TRUE,,12812,103.9,37019,Brunswick,"{""37019"": ""100""}",Brunswick,37019,FALSE,FALSE,America/New_York
+28472,34.30705,-78.68917,Whiteville,NC,North Carolina,TRUE,,18522,39.4,37047,Columbus,"{""37047"": ""100""}",Columbus,37047,FALSE,FALSE,America/New_York
+28478,34.64302,-78.03846,Willard,NC,North Carolina,TRUE,,4757,15.2,37141,Pender,"{""37141"": ""94.14"", ""37163"": ""5.71"", ""37061"": ""0.15""}",Pender|Sampson|Duplin,37141|37163|37061,FALSE,FALSE,America/New_York
+28479,34.09652,-78.01755,Winnabow,NC,North Carolina,TRUE,,7561,31.4,37019,Brunswick,"{""37019"": ""100""}",Brunswick,37019,FALSE,FALSE,America/New_York
+28480,34.22393,-77.79325,Wrightsville Beach,NC,North Carolina,TRUE,,2599,342.9,37129,New Hanover,"{""37129"": ""100""}",New Hanover,37129,FALSE,FALSE,America/New_York
+28501,35.24439,-77.5219,Kinston,NC,North Carolina,TRUE,,17772,64.6,37107,Lenoir,"{""37107"": ""96.84"", ""37103"": ""3.16""}",Lenoir|Jones,37107|37103,FALSE,FALSE,America/New_York
+28504,35.22496,-77.63538,Kinston,NC,North Carolina,TRUE,,21717,67.7,37107,Lenoir,"{""37107"": ""99.79"", ""37103"": ""0.21""}",Lenoir|Jones,37107|37103,FALSE,FALSE,America/New_York
+28508,35.10033,-77.82326,Albertson,NC,North Carolina,TRUE,,3093,33.8,37061,Duplin,"{""37061"": ""100""}",Duplin,37061,FALSE,FALSE,America/New_York
+28510,35.00388,-76.80688,Arapahoe,NC,North Carolina,TRUE,,1508,28.1,37137,Pamlico,"{""37137"": ""100""}",Pamlico,37137,FALSE,FALSE,America/New_York
+28511,34.8996,-76.35195,Atlantic,NC,North Carolina,TRUE,,626,29.6,37031,Carteret,"{""37031"": ""100""}",Carteret,37031,FALSE,FALSE,America/New_York
+28512,34.69926,-76.76783,Atlantic Beach,NC,North Carolina,TRUE,,3211,215.3,37031,Carteret,"{""37031"": ""100""}",Carteret,37031,FALSE,FALSE,America/New_York
+28513,35.4415,-77.38893,Ayden,NC,North Carolina,TRUE,,10339,44,37147,Pitt,"{""37147"": ""94.94"", ""37079"": ""5.06""}",Pitt|Greene,37147|37079,FALSE,FALSE,America/New_York
+28515,35.18605,-76.70616,Bayboro,NC,North Carolina,TRUE,,2606,18.3,37137,Pamlico,"{""37137"": ""100""}",Pamlico,37137,FALSE,FALSE,America/New_York
+28516,34.88857,-76.55466,Beaufort,NC,North Carolina,TRUE,,11455,21,37031,Carteret,"{""37031"": ""100""}",Carteret,37031,FALSE,FALSE,America/New_York
+28518,34.89644,-77.75658,Beulaville,NC,North Carolina,TRUE,,8912,36.1,37061,Duplin,"{""37061"": ""84.21"", ""37133"": ""15.79""}",Duplin|Onslow,37061|37133,FALSE,FALSE,America/New_York
+28519,35.12374,-77.02169,Bridgeton,NC,North Carolina,TRUE,,341,429.2,37049,Craven,"{""37049"": ""100""}",Craven,37049,FALSE,FALSE,America/New_York
+28520,34.97178,-76.32332,Cedar Island,NC,North Carolina,TRUE,,243,4.3,37031,Carteret,"{""37031"": ""100""}",Carteret,37031,FALSE,FALSE,America/New_York
+28521,34.8245,-77.7376,Chinquapin,NC,North Carolina,TRUE,,2769,25.5,37061,Duplin,"{""37061"": ""93.88"", ""37133"": ""6.12""}",Duplin|Onslow,37061|37133,FALSE,FALSE,America/New_York
+28523,35.20867,-77.29174,Cove City,NC,North Carolina,TRUE,,2196,15.1,37049,Craven,"{""37049"": ""100""}",Craven,37049,FALSE,FALSE,America/New_York
+28524,34.7996,-76.47021,Davis,NC,North Carolina,TRUE,,285,19.8,37031,Carteret,"{""37031"": ""100""}",Carteret,37031,FALSE,FALSE,America/New_York
+28525,35.12455,-77.69267,Deep Run,NC,North Carolina,TRUE,,2883,25.1,37107,Lenoir,"{""37107"": ""93.9"", ""37061"": ""6.1""}",Lenoir|Duplin,37107|37061,FALSE,FALSE,America/New_York
+28526,35.25087,-77.39745,Dover,NC,North Carolina,TRUE,,2797,12.6,37049,Craven,"{""37049"": ""78.71"", ""37103"": ""20.13"", ""37107"": ""1.17""}",Craven|Jones|Lenoir,37049|37103|37107,FALSE,FALSE,America/New_York
+28527,35.26609,-77.01715,Ernul,NC,North Carolina,TRUE,,788,5.5,37049,Craven,"{""37049"": ""100""}",Craven,37049,FALSE,FALSE,America/New_York
+28528,34.73775,-76.53945,Gloucester,NC,North Carolina,TRUE,,619,82.4,37031,Carteret,"{""37031"": ""100""}",Carteret,37031,FALSE,FALSE,America/New_York
+28529,35.08159,-76.86145,Grantsboro,NC,North Carolina,TRUE,,1920,17.5,37137,Pamlico,"{""37137"": ""100""}",Pamlico,37137,FALSE,FALSE,America/New_York
+28530,35.3727,-77.41187,Grifton,NC,North Carolina,TRUE,,6577,35.8,37147,Pitt,"{""37147"": ""52.32"", ""37107"": ""35.32"", ""37049"": ""8.65"", ""37079"": ""3.71""}",Pitt|Lenoir|Craven|Greene,37147|37107|37049|37079,FALSE,FALSE,America/New_York
+28531,34.70015,-76.56116,Harkers Island,NC,North Carolina,TRUE,,1260,217.1,37031,Carteret,"{""37031"": ""100""}",Carteret,37031,FALSE,FALSE,America/New_York
+28532,34.88813,-76.90891,Havelock,NC,North Carolina,TRUE,,22220,51.9,37049,Craven,"{""37049"": ""100""}",Craven,37049,FALSE,FALSE,America/New_York
+28533,34.90284,-76.90147,Cherry Point,NC,North Carolina,TRUE,,3331,2894.2,37049,Craven,"{""37049"": ""100""}",Craven,37049,FALSE,FALSE,America/New_York
+28537,35.24548,-76.54945,Hobucken,NC,North Carolina,TRUE,,90,1.4,37137,Pamlico,"{""37137"": ""100""}",Pamlico,37137,FALSE,FALSE,America/New_York
+28538,35.41919,-77.56436,Hookerton,NC,North Carolina,TRUE,,2008,26.8,37079,Greene,"{""37079"": ""88.18"", ""37107"": ""11.82""}",Greene|Lenoir,37079|37107,FALSE,FALSE,America/New_York
+28539,34.71336,-77.21704,Hubert,NC,North Carolina,TRUE,,16509,129.8,37133,Onslow,"{""37133"": ""100""}",Onslow,37133,FALSE,FALSE,America/New_York
+28540,34.75633,-77.50563,Jacksonville,NC,North Carolina,TRUE,,49144,183.8,37133,Onslow,"{""37133"": ""100""}",Onslow,37133,FALSE,FALSE,America/New_York
+28543,34.73361,-77.3788,Tarawa Terrace,NC,North Carolina,TRUE,,5180,978.2,37133,Onslow,"{""37133"": ""100""}",Onslow,37133,FALSE,FALSE,America/New_York
+28544,34.72129,-77.30735,Midway Park,NC,North Carolina,TRUE,,5917,201.2,37133,Onslow,"{""37133"": ""100""}",Onslow,37133,FALSE,FALSE,America/New_York
+28546,34.79662,-77.36104,Jacksonville,NC,North Carolina,TRUE,,46435,319.7,37133,Onslow,"{""37133"": ""100""}",Onslow,37133,FALSE,FALSE,America/New_York
+28547,34.6713,-77.37371,Camp Lejeune,NC,North Carolina,TRUE,,25354,377.1,37133,Onslow,"{""37133"": ""100""}",Onslow,37133,FALSE,FALSE,America/New_York
+28551,35.32188,-77.78151,La Grange,NC,North Carolina,TRUE,,14684,43,37107,Lenoir,"{""37107"": ""62.59"", ""37191"": ""28.48"", ""37079"": ""8.93""}",Lenoir|Wayne|Greene,37107|37191|37079,FALSE,FALSE,America/New_York
+28552,35.30146,-76.55464,Lowland,NC,North Carolina,TRUE,,169,4,37137,Pamlico,"{""37137"": ""100""}",Pamlico,37137,FALSE,FALSE,America/New_York
+28553,34.73223,-76.51345,Marshallberg,NC,North Carolina,TRUE,,402,126.2,37031,Carteret,"{""37031"": ""100""}",Carteret,37031,FALSE,FALSE,America/New_York
+28554,35.47849,-77.58598,Maury,NC,North Carolina,TRUE,,205,283.7,37079,Greene,"{""37079"": ""100""}",Greene,37079,FALSE,FALSE,America/New_York
+28555,34.87471,-77.22871,Maysville,NC,North Carolina,TRUE,,4571,11.5,37133,Onslow,"{""37133"": ""60.62"", ""37103"": ""39.38""}",Onslow|Jones,37133|37103,FALSE,FALSE,America/New_York
+28556,35.12436,-76.6651,Merritt,NC,North Carolina,TRUE,,1013,8.6,37137,Pamlico,"{""37137"": ""100""}",Pamlico,37137,FALSE,FALSE,America/New_York
+28557,34.74059,-76.74584,Morehead City,NC,North Carolina,TRUE,,15298,416.2,37031,Carteret,"{""37031"": ""100""}",Carteret,37031,FALSE,FALSE,America/New_York
+28560,35.13426,-76.98571,New Bern,NC,North Carolina,TRUE,,27458,90.3,37049,Craven,"{""37049"": ""93.29"", ""37137"": ""6.71""}",Craven|Pamlico,37049|37137,FALSE,FALSE,America/New_York
+28562,35.08049,-77.12678,New Bern,NC,North Carolina,TRUE,,38317,95.9,37049,Craven,"{""37049"": ""98.94"", ""37103"": ""1.06""}",Craven|Jones,37049|37103,FALSE,FALSE,America/New_York
+28570,34.78153,-76.85393,Newport,NC,North Carolina,TRUE,,21402,66.4,37031,Carteret,"{""37031"": ""100""}",Carteret,37031,FALSE,FALSE,America/New_York
+28571,35.05996,-76.71423,Oriental,NC,North Carolina,TRUE,,2474,18.5,37137,Pamlico,"{""37137"": ""100""}",Pamlico,37137,FALSE,FALSE,America/New_York
+28572,35.02305,-77.73025,Pink Hill,NC,North Carolina,TRUE,,6866,25,37061,Duplin,"{""37061"": ""55.99"", ""37107"": ""37.93"", ""37103"": ""5.83"", ""37133"": ""0.24""}",Duplin|Lenoir|Jones|Onslow,37061|37107|37103|37133,FALSE,FALSE,America/New_York
+28573,34.9965,-77.19904,Pollocksville,NC,North Carolina,TRUE,,1770,9.1,37103,Jones,"{""37103"": ""92.42"", ""37049"": ""7.58""}",Jones|Craven,37103|37049,FALSE,FALSE,America/New_York
+28574,34.87858,-77.59493,Richlands,NC,North Carolina,TRUE,,18448,55.6,37133,Onslow,"{""37133"": ""97.76"", ""37103"": ""1.36"", ""37061"": ""0.89""}",Onslow|Jones|Duplin,37133|37103|37061,FALSE,FALSE,America/New_York
+28575,34.68734,-76.89137,Salter Path,NC,North Carolina,TRUE,,481,309.5,37031,Carteret,"{""37031"": ""100""}",Carteret,37031,FALSE,FALSE,America/New_York
+28577,34.8762,-76.38518,Sealevel,NC,North Carolina,TRUE,,333,48.6,37031,Carteret,"{""37031"": ""100""}",Carteret,37031,FALSE,FALSE,America/New_York
+28578,35.20056,-77.86341,Seven Springs,NC,North Carolina,TRUE,,7504,45.4,37191,Wayne,"{""37191"": ""66.09"", ""37061"": ""18.09"", ""37107"": ""15.83""}",Wayne|Duplin|Lenoir,37191|37061|37107,FALSE,FALSE,America/New_York
+28579,34.76251,-76.51679,Smyrna,NC,North Carolina,TRUE,,639,64.3,37031,Carteret,"{""37031"": ""100""}",Carteret,37031,FALSE,FALSE,America/New_York
+28580,35.45271,-77.68335,Snow Hill,NC,North Carolina,TRUE,,13010,44.1,37079,Greene,"{""37079"": ""99.75"", ""37107"": ""0.25""}",Greene|Lenoir,37079|37107,FALSE,FALSE,America/New_York
+28581,34.85052,-76.43611,Stacy,NC,North Carolina,TRUE,,361,15.9,37031,Carteret,"{""37031"": ""100""}",Carteret,37031,FALSE,FALSE,America/New_York
+28582,34.75864,-77.15031,Stella,NC,North Carolina,TRUE,,2507,59.6,37133,Onslow,"{""37133"": ""53.78"", ""37031"": ""46.22""}",Onslow|Carteret,37133|37031,FALSE,FALSE,America/New_York
+28583,35.13707,-76.74056,Stonewall,NC,North Carolina,TRUE,,313,70.8,37137,Pamlico,"{""37137"": ""100""}",Pamlico,37137,FALSE,FALSE,America/New_York
+28584,34.74606,-77.06903,Swansboro,NC,North Carolina,TRUE,,12536,82.6,37031,Carteret,"{""37031"": ""55.16"", ""37133"": ""44.84""}",Carteret|Onslow,37031|37133,FALSE,FALSE,America/New_York
+28585,35.07395,-77.41455,Trenton,NC,North Carolina,TRUE,,3958,8.6,37103,Jones,"{""37103"": ""100""}",Jones,37103,FALSE,FALSE,America/New_York
+28586,35.31639,-77.16349,Vanceboro,NC,North Carolina,TRUE,,7808,23,37049,Craven,"{""37049"": ""93.75"", ""37013"": ""4.59"", ""37147"": ""1.67""}",Craven|Beaufort|Pitt,37049|37013|37147,FALSE,FALSE,America/New_York
+28587,35.19355,-76.6693,Vandemere,NC,North Carolina,TRUE,,263,29.8,37137,Pamlico,"{""37137"": ""100""}",Pamlico,37137,FALSE,FALSE,America/New_York
+28589,34.81049,-76.50511,Williston,NC,North Carolina,TRUE,,131,4.7,37031,Carteret,"{""37031"": ""100""}",Carteret,37031,FALSE,FALSE,America/New_York
+28590,35.52049,-77.41628,Winterville,NC,North Carolina,TRUE,,25032,231.4,37147,Pitt,"{""37147"": ""100""}",Pitt,37147,FALSE,FALSE,America/New_York
+28594,34.66485,-77.02923,Emerald Isle,NC,North Carolina,TRUE,,3702,249.6,37031,Carteret,"{""37031"": ""100""}",Carteret,37031,FALSE,FALSE,America/New_York
+28601,35.77253,-81.32634,Hickory,NC,North Carolina,TRUE,,51401,431.1,37035,Catawba,"{""37035"": ""83.13"", ""37023"": ""7.62"", ""37003"": ""5.39"", ""37027"": ""3.86""}",Catawba|Burke|Alexander|Caldwell,37035|37023|37003|37027,FALSE,FALSE,America/New_York
+28602,35.67609,-81.38615,Hickory,NC,North Carolina,TRUE,,28902,160.2,37035,Catawba,"{""37035"": ""86.36"", ""37023"": ""13.64""}",Catawba|Burke,37035|37023,FALSE,FALSE,America/New_York
+28604,36.1772,-81.8479,Banner Elk,NC,North Carolina,TRUE,,7227,42.5,37189,Watauga,"{""37189"": ""52.22"", ""37011"": ""47.78""}",Watauga|Avery,37189|37011,FALSE,FALSE,America/New_York
+28605,36.13548,-81.6996,Blowing Rock,NC,North Carolina,TRUE,,3312,44.2,37189,Watauga,"{""37189"": ""94.87"", ""37027"": ""3.81"", ""37011"": ""1.32""}",Watauga|Caldwell|Avery,37189|37027|37011,FALSE,FALSE,America/New_York
+28606,36.05343,-81.31883,Boomer,NC,North Carolina,TRUE,,1497,13.3,37193,Wilkes,"{""37193"": ""84.34"", ""37027"": ""15.66""}",Wilkes|Caldwell,37193|37027,FALSE,FALSE,America/New_York
+28607,36.21795,-81.65523,Boone,NC,North Carolina,TRUE,,36550,143,37189,Watauga,"{""37189"": ""100""}",Watauga,37189,FALSE,FALSE,America/New_York
+28609,35.67414,-81.05336,Catawba,NC,North Carolina,TRUE,,5615,48.7,37035,Catawba,"{""37035"": ""100""}",Catawba,37035,FALSE,FALSE,America/New_York
+28610,35.7323,-81.13683,Claremont,NC,North Carolina,TRUE,,10639,102,37035,Catawba,"{""37035"": ""100""}",Catawba,37035,FALSE,FALSE,America/New_York
+28611,36.01102,-81.73527,Collettsville,NC,North Carolina,TRUE,,1131,5.9,37027,Caldwell,"{""37027"": ""92.88"", ""37011"": ""7.12""}",Caldwell|Avery,37027|37011,FALSE,FALSE,America/New_York
+28612,35.66086,-81.54008,Connelly Springs,NC,North Carolina,TRUE,,12314,56.9,37023,Burke,"{""37023"": ""99.52"", ""37035"": ""0.48""}",Burke|Catawba,37023|37035,FALSE,FALSE,America/New_York
+28613,35.74082,-81.20915,Conover,NC,North Carolina,TRUE,,23353,210.9,37035,Catawba,"{""37035"": ""100""}",Catawba,37035,FALSE,FALSE,America/New_York
+28615,36.46267,-81.65856,Creston,NC,North Carolina,TRUE,,1811,10.5,37009,Ashe,"{""37009"": ""100""}",Ashe,37009,FALSE,FALSE,America/New_York
+28616,36.02313,-81.92013,Crossnore,NC,North Carolina,TRUE,,166,23.7,37011,Avery,"{""37011"": ""100""}",Avery,37011,FALSE,FALSE,America/New_York
+28617,36.48213,-81.38023,Crumpler,NC,North Carolina,TRUE,,1924,21.5,37009,Ashe,"{""37009"": ""100""}",Ashe,37009,FALSE,FALSE,America/New_York
+28618,36.20672,-81.5172,Deep Gap,NC,North Carolina,TRUE,,2561,25,37189,Watauga,"{""37189"": ""98.34"", ""37193"": ""1.66""}",Watauga|Wilkes,37189|37193,FALSE,FALSE,America/New_York
+28619,35.75855,-81.60243,Drexel,NC,North Carolina,TRUE,,1593,515.4,37023,Burke,"{""37023"": ""100""}",Burke,37023,FALSE,FALSE,America/New_York
+28621,36.30808,-80.83736,Elkin,NC,North Carolina,TRUE,,10637,58.6,37171,Surry,"{""37171"": ""68.43"", ""37193"": ""31.57""}",Surry|Wilkes,37171|37193,FALSE,FALSE,America/New_York
+28622,36.19264,-81.94743,Elk Park,NC,North Carolina,TRUE,,2189,27.3,37011,Avery,"{""37011"": ""100""}",Avery,37011,FALSE,FALSE,America/New_York
+28623,36.52964,-80.97076,Ennice,NC,North Carolina,TRUE,,1540,21,37005,Alleghany,"{""37005"": ""100""}",Alleghany,37005,FALSE,FALSE,America/New_York
+28624,36.12128,-81.42019,Ferguson,NC,North Carolina,TRUE,,1499,9.3,37193,Wilkes,"{""37193"": ""100""}",Wilkes,37193,FALSE,FALSE,America/New_York
+28625,35.86507,-80.88572,Statesville,NC,North Carolina,TRUE,,39559,78,37097,Iredell,"{""37097"": ""99.77"", ""37003"": ""0.23""}",Iredell|Alexander,37097|37003,FALSE,FALSE,America/New_York
+28626,36.2954,-81.50144,Fleetwood,NC,North Carolina,TRUE,,2693,32.1,37009,Ashe,"{""37009"": ""100""}",Ashe,37009,FALSE,FALSE,America/New_York
+28627,36.45785,-81.00585,Glade Valley,NC,North Carolina,TRUE,,1020,19.7,37005,Alleghany,"{""37005"": ""100""}",Alleghany,37005,FALSE,FALSE,America/New_York
+28628,35.72629,-81.78507,Glen Alpine,NC,North Carolina,TRUE,,476,356.6,37023,Burke,"{""37023"": ""100""}",Burke,37023,FALSE,FALSE,America/New_York
+28629,36.34017,-81.36516,Glendale Springs,NC,North Carolina,TRUE,,0,0,37009,Ashe,"{""37009"": ""100""}",Ashe,37009,FALSE,FALSE,America/New_York
+28630,35.82489,-81.42344,Granite Falls,NC,North Carolina,TRUE,,20262,130.4,37027,Caldwell,"{""37027"": ""99.08"", ""37003"": ""0.92""}",Caldwell|Alexander,37027|37003,FALSE,FALSE,America/New_York
+28631,36.5515,-81.41082,Grassy Creek,NC,North Carolina,TRUE,,758,11.7,37009,Ashe,"{""37009"": ""95.29"", ""37005"": ""4.71""}",Ashe|Alleghany,37009|37005,FALSE,FALSE,America/New_York
+28634,35.97155,-80.75388,Harmony,NC,North Carolina,TRUE,,4852,29.7,37097,Iredell,"{""37097"": ""91.94"", ""37059"": ""8.06""}",Iredell|Davie,37097|37059,FALSE,FALSE,America/New_York
+28635,36.30546,-81.12605,Hays,NC,North Carolina,TRUE,,3055,28,37193,Wilkes,"{""37193"": ""100""}",Wilkes,37193,FALSE,FALSE,America/New_York
+28636,35.94324,-81.06397,Hiddenite,NC,North Carolina,TRUE,,4901,31.8,37003,Alexander,"{""37003"": ""95.85"", ""37097"": ""4.15""}",Alexander|Iredell,37003|37097,FALSE,FALSE,America/New_York
+28637,35.71798,-81.41929,Hildebran,NC,North Carolina,TRUE,,1692,227.4,37023,Burke,"{""37023"": ""100""}",Burke,37023,FALSE,FALSE,America/New_York
+28638,35.8446,-81.47663,Hudson,NC,North Carolina,TRUE,,12277,234,37027,Caldwell,"{""37027"": ""100""}",Caldwell,37027,FALSE,FALSE,America/New_York
+28640,36.40345,-81.40751,Jefferson,NC,North Carolina,TRUE,,4985,49.5,37009,Ashe,"{""37009"": ""100""}",Ashe,37009,FALSE,FALSE,America/New_York
+28642,36.2194,-80.81964,Jonesville,NC,North Carolina,TRUE,,5881,62.3,37197,Yadkin,"{""37197"": ""94.85"", ""37193"": ""5.15""}",Yadkin|Wilkes,37197|37193,FALSE,FALSE,America/New_York
+28643,36.5296,-81.5344,Lansing,NC,North Carolina,TRUE,,3842,21.3,37009,Ashe,"{""37009"": ""100""}",Ashe,37009,FALSE,FALSE,America/New_York
+28644,36.4313,-81.26683,Laurel Springs,NC,North Carolina,TRUE,,1147,6.5,37005,Alleghany,"{""37005"": ""52.54"", ""37009"": ""47.26"", ""37193"": ""0.2""}",Alleghany|Ashe|Wilkes,37005|37009|37193,FALSE,FALSE,America/New_York
+28645,35.97735,-81.54417,Lenoir,NC,North Carolina,TRUE,,46232,54.1,37027,Caldwell,"{""37027"": ""99.19"", ""37023"": ""0.63"", ""37189"": ""0.18""}",Caldwell|Burke|Watauga,37027|37023|37189,FALSE,FALSE,America/New_York
+28646,36.07917,-81.8392,Linville,NC,North Carolina,TRUE,,310,5.5,37011,Avery,"{""37011"": ""100""}",Avery,37011,FALSE,FALSE,America/New_York
+28647,35.938,-81.973,Linville Falls,NC,North Carolina,TRUE,,16,1,37011,Avery,"{""37011"": ""100""}",Avery,37011,FALSE,FALSE,America/New_York
+28649,36.33683,-81.20101,McGrady,NC,North Carolina,TRUE,,868,9.6,37193,Wilkes,"{""37193"": ""100""}",Wilkes,37193,FALSE,FALSE,America/New_York
+28650,35.57214,-81.15196,Maiden,NC,North Carolina,TRUE,,10955,94.6,37035,Catawba,"{""37035"": ""79.82"", ""37109"": ""20.18""}",Catawba|Lincoln,37035|37109,FALSE,FALSE,America/New_York
+28651,36.27221,-81.2849,Millers Creek,NC,North Carolina,TRUE,,6820,30,37193,Wilkes,"{""37193"": ""100""}",Wilkes,37193,FALSE,FALSE,America/New_York
+28652,36.10008,-81.98729,Minneapolis,NC,North Carolina,TRUE,,0,0,37011,Avery,"{""37011"": ""100""}",Avery,37011,FALSE,FALSE,America/New_York
+28654,36.06185,-81.15149,Moravian Falls,NC,North Carolina,TRUE,,3268,20.1,37193,Wilkes,"{""37193"": ""94.45"", ""37003"": ""5.55""}",Wilkes|Alexander,37193|37003,FALSE,FALSE,America/New_York
+28655,35.75713,-81.74413,Morganton,NC,North Carolina,TRUE,,55009,66.8,37023,Burke,"{""37023"": ""99.92"", ""37111"": ""0.08""}",Burke|McDowell,37023|37111,FALSE,FALSE,America/New_York
+28657,36.03015,-81.94099,Newland,NC,North Carolina,TRUE,,8651,20.9,37011,Avery,"{""37011"": ""92.65"", ""37023"": ""7.15"", ""37111"": ""0.2""}",Avery|Burke|McDowell,37011|37023|37111,FALSE,FALSE,America/New_York
+28658,35.63586,-81.24087,Newton,NC,North Carolina,TRUE,,27688,145.1,37035,Catawba,"{""37035"": ""100""}",Catawba,37035,FALSE,FALSE,America/New_York
+28659,36.16602,-81.07622,North Wilkesboro,NC,North Carolina,TRUE,,21457,81.2,37193,Wilkes,"{""37193"": ""100""}",Wilkes,37193,FALSE,FALSE,America/New_York
+28660,35.96842,-80.85709,Olin,NC,North Carolina,TRUE,,2210,26.7,37097,Iredell,"{""37097"": ""100""}",Iredell,37097,FALSE,FALSE,America/New_York
+28662,36.0215,-81.89909,Pineola,NC,North Carolina,TRUE,,193,41.7,37011,Avery,"{""37011"": ""100""}",Avery,37011,FALSE,FALSE,America/New_York
+28663,36.53905,-81.30477,Piney Creek,NC,North Carolina,TRUE,,616,13.6,37005,Alleghany,"{""37005"": ""100""}",Alleghany,37005,FALSE,FALSE,America/New_York
+28665,36.20971,-81.37519,Purlear,NC,North Carolina,TRUE,,2376,14.6,37193,Wilkes,"{""37193"": ""100""}",Wilkes,37193,FALSE,FALSE,America/New_York
+28666,35.72506,-81.47052,Icard,NC,North Carolina,TRUE,,138,114.6,37023,Burke,"{""37023"": ""100""}",Burke,37023,FALSE,FALSE,America/New_York
+28667,35.77216,-81.42794,Rhodhiss,NC,North Carolina,TRUE,,360,231.3,37027,Caldwell,"{""37027"": ""59.21"", ""37023"": ""40.79""}",Caldwell|Burke,37027|37023,FALSE,FALSE,America/New_York
+28668,36.40737,-80.99129,Roaring Gap,NC,North Carolina,TRUE,,481,14.3,37005,Alleghany,"{""37005"": ""100""}",Alleghany,37005,FALSE,FALSE,America/New_York
+28669,36.22862,-80.99496,Roaring River,NC,North Carolina,TRUE,,2623,21.9,37193,Wilkes,"{""37193"": ""100""}",Wilkes,37193,FALSE,FALSE,America/New_York
+28670,36.19367,-80.92346,Ronda,NC,North Carolina,TRUE,,3649,37.9,37193,Wilkes,"{""37193"": ""100""}",Wilkes,37193,FALSE,FALSE,America/New_York
+28671,35.75273,-81.52787,Rutherford College,NC,North Carolina,TRUE,,545,283.8,37023,Burke,"{""37023"": ""100""}",Burke,37023,FALSE,FALSE,America/New_York
+28672,36.4833,-81.32758,Scottville,NC,North Carolina,TRUE,,15,3,37009,Ashe,"{""37009"": ""100""}",Ashe,37009,FALSE,FALSE,America/New_York
+28673,35.6076,-80.99923,Sherrills Ford,NC,North Carolina,TRUE,,6221,94.5,37035,Catawba,"{""37035"": ""98.33"", ""37109"": ""1.67""}",Catawba|Lincoln,37035|37109,FALSE,FALSE,America/New_York
+28675,36.50348,-81.13528,Sparta,NC,North Carolina,TRUE,,6707,22.3,37005,Alleghany,"{""37005"": ""100""}",Alleghany,37005,FALSE,FALSE,America/New_York
+28676,36.32907,-80.85746,State Road,NC,North Carolina,TRUE,,3788,51.1,37171,Surry,"{""37171"": ""72.04"", ""37193"": ""27.96""}",Surry|Wilkes,37171|37193,FALSE,FALSE,America/New_York
+28677,35.73728,-80.92343,Statesville,NC,North Carolina,TRUE,,34703,162.5,37097,Iredell,"{""37097"": ""100""}",Iredell,37097,FALSE,FALSE,America/New_York
+28678,35.83465,-81.06028,Stony Point,NC,North Carolina,TRUE,,5676,49,37003,Alexander,"{""37003"": ""52.81"", ""37097"": ""47.19""}",Alexander|Iredell,37003|37097,FALSE,FALSE,America/New_York
+28679,36.25934,-81.84268,Sugar Grove,NC,North Carolina,TRUE,,1609,23.8,37189,Watauga,"{""37189"": ""96.22"", ""37011"": ""3.78""}",Watauga|Avery,37189|37011,FALSE,FALSE,America/New_York
+28681,35.92094,-81.2221,Taylorsville,NC,North Carolina,TRUE,,26448,61,37003,Alexander,"{""37003"": ""100""}",Alexander,37003,FALSE,FALSE,America/New_York
+28682,35.58088,-80.96422,Terrell,NC,North Carolina,TRUE,,1474,175.3,37035,Catawba,"{""37035"": ""100""}",Catawba,37035,FALSE,FALSE,America/New_York
+28683,36.3892,-80.91181,Thurmond,NC,North Carolina,TRUE,,1232,14.2,37171,Surry,"{""37171"": ""54.51"", ""37193"": ""45.49""}",Surry|Wilkes,37171|37193,FALSE,FALSE,America/New_York
+28684,36.3384,-81.6146,Todd,NC,North Carolina,TRUE,,2038,14.9,37009,Ashe,"{""37009"": ""55.72"", ""37189"": ""44.28""}",Ashe|Watauga,37009|37189,FALSE,FALSE,America/New_York
+28685,36.36079,-81.05984,Traphill,NC,North Carolina,TRUE,,1854,11.7,37193,Wilkes,"{""37193"": ""100""}",Wilkes,37193,FALSE,FALSE,America/New_York
+28689,36.04317,-80.93531,Union Grove,NC,North Carolina,TRUE,,2586,22.3,37097,Iredell,"{""37097"": ""78.8"", ""37193"": ""11.33"", ""37197"": ""5.26"", ""37003"": ""4.61""}",Iredell|Wilkes|Yadkin|Alexander,37097|37193|37197|37003,FALSE,FALSE,America/New_York
+28690,35.73296,-81.57401,Valdese,NC,North Carolina,TRUE,,9189,164.3,37023,Burke,"{""37023"": ""100""}",Burke,37023,FALSE,FALSE,America/New_York
+28692,36.28003,-81.79529,Vilas,NC,North Carolina,TRUE,,4070,40.9,37189,Watauga,"{""37189"": ""100""}",Watauga,37189,FALSE,FALSE,America/New_York
+28693,36.46954,-81.56252,Warrensville,NC,North Carolina,TRUE,,1690,25.3,37009,Ashe,"{""37009"": ""100""}",Ashe,37009,FALSE,FALSE,America/New_York
+28694,36.36256,-81.47354,West Jefferson,NC,North Carolina,TRUE,,7719,45,37009,Ashe,"{""37009"": ""99.94"", ""37193"": ""0.06""}",Ashe|Wilkes,37009|37193,FALSE,FALSE,America/New_York
+28697,36.13612,-81.1651,Wilkesboro,NC,North Carolina,TRUE,,13833,84.1,37193,Wilkes,"{""37193"": ""100""}",Wilkes,37193,FALSE,FALSE,America/New_York
+28698,36.33938,-81.74011,Zionville,NC,North Carolina,TRUE,,2312,35.6,37189,Watauga,"{""37189"": ""94.02"", ""37009"": ""5.98""}",Watauga|Ashe,37189|37009,FALSE,FALSE,America/New_York
+28701,35.70239,-82.64105,Alexander,NC,North Carolina,TRUE,,3240,70.3,37021,Buncombe,"{""37021"": ""100""}",Buncombe,37021,FALSE,FALSE,America/New_York
+28702,35.39966,-83.62051,Almond,NC,North Carolina,TRUE,,456,8.9,37075,Graham,"{""37075"": ""78.69"", ""37173"": ""21.31""}",Graham|Swain,37075|37173,FALSE,FALSE,America/New_York
+28704,35.46135,-82.57753,Arden,NC,North Carolina,TRUE,,19261,224.8,37021,Buncombe,"{""37021"": ""97.68"", ""37089"": ""2.32""}",Buncombe|Henderson,37021|37089,FALSE,FALSE,America/New_York
+28705,36.04365,-82.15888,Bakersville,NC,North Carolina,TRUE,,6870,21.1,37121,Mitchell,"{""37121"": ""100""}",Mitchell,37121,FALSE,FALSE,America/New_York
+28707,35.39743,-83.06586,Balsam,NC,North Carolina,TRUE,,201,7,37099,Jackson,"{""37099"": ""100""}",Jackson,37099,FALSE,FALSE,America/New_York
+28708,35.2714,-82.86267,Balsam Grove,NC,North Carolina,TRUE,,318,2.5,37175,Transylvania,"{""37175"": ""100""}",Transylvania,37175,FALSE,FALSE,America/New_York
+28709,35.76386,-82.40612,Barnardsville,NC,North Carolina,TRUE,,2470,18.1,37021,Buncombe,"{""37021"": ""100""}",Buncombe,37021,FALSE,FALSE,America/New_York
+28711,35.59867,-82.2902,Black Mountain,NC,North Carolina,TRUE,,13269,51.3,37021,Buncombe,"{""37021"": ""98.57"", ""37161"": ""0.75"", ""37111"": ""0.58"", ""37089"": ""0.1""}",Buncombe|Rutherford|McDowell|Henderson,37021|37161|37111|37089,FALSE,FALSE,America/New_York
+28712,35.16965,-82.77103,Brevard,NC,North Carolina,TRUE,,19847,61,37175,Transylvania,"{""37175"": ""100""}",Transylvania,37175,FALSE,FALSE,America/New_York
+28713,35.36935,-83.50254,Bryson City,NC,North Carolina,TRUE,,8799,24.9,37173,Swain,"{""37173"": ""100""}",Swain,37173,FALSE,FALSE,America/New_York
+28714,35.89376,-82.31145,Burnsville,NC,North Carolina,TRUE,,16941,22.5,37199,Yancey,"{""37199"": ""100""}",Yancey,37199,FALSE,FALSE,America/New_York
+28715,35.51246,-82.71225,Candler,NC,North Carolina,TRUE,,26476,131.5,37021,Buncombe,"{""37021"": ""100""}",Buncombe,37021,FALSE,FALSE,America/New_York
+28716,35.43589,-82.86109,Canton,NC,North Carolina,TRUE,,17770,43.4,37087,Haywood,"{""37087"": ""100""}",Haywood,37087,FALSE,FALSE,America/New_York
+28717,35.08257,-83.09114,Cashiers,NC,North Carolina,TRUE,,1948,14.6,37099,Jackson,"{""37099"": ""100""}",Jackson,37099,FALSE,FALSE,America/New_York
+28718,35.16548,-82.6287,Cedar Mountain,NC,North Carolina,TRUE,,379,8.9,37175,Transylvania,"{""37175"": ""100""}",Transylvania,37175,FALSE,FALSE,America/New_York
+28719,35.51785,-83.33418,Cherokee,NC,North Carolina,TRUE,,7674,21.9,37173,Swain,"{""37173"": ""54.44"", ""37099"": ""45.56""}",Swain|Jackson,37173|37099,FALSE,FALSE,America/New_York
+28720,35.45103,-82.25356,Chimney Rock,NC,North Carolina,TRUE,,177,20.9,37161,Rutherford,"{""37161"": ""100""}",Rutherford,37161,FALSE,FALSE,America/New_York
+28721,35.64801,-82.9511,Clyde,NC,North Carolina,TRUE,,10401,36.4,37087,Haywood,"{""37087"": ""100""}",Haywood,37087,FALSE,FALSE,America/New_York
+28722,35.23413,-82.1247,Columbus,NC,North Carolina,TRUE,,6537,55.4,37149,Polk,"{""37149"": ""100""}",Polk,37149,FALSE,FALSE,America/New_York
+28723,35.2806,-83.12186,Cullowhee,NC,North Carolina,TRUE,,10918,37.7,37099,Jackson,"{""37099"": ""100""}",Jackson,37099,FALSE,FALSE,America/New_York
+28725,35.3727,-83.2603,Dillsboro,NC,North Carolina,TRUE,,26,36.8,37099,Jackson,"{""37099"": ""100""}",Jackson,37099,FALSE,FALSE,America/New_York
+28726,35.28118,-82.4182,East Flat Rock,NC,North Carolina,TRUE,,3701,599.5,37089,Henderson,"{""37089"": ""100""}",Henderson,37089,FALSE,FALSE,America/New_York
+28729,35.32007,-82.60234,Etowah,NC,North Carolina,TRUE,,3114,274.7,37089,Henderson,"{""37089"": ""100""}",Henderson,37089,FALSE,FALSE,America/New_York
+28730,35.52465,-82.37036,Fairview,NC,North Carolina,TRUE,,9221,71.8,37021,Buncombe,"{""37021"": ""100""}",Buncombe,37021,FALSE,FALSE,America/New_York
+28731,35.28894,-82.39353,Flat Rock,NC,North Carolina,TRUE,,8368,119.6,37089,Henderson,"{""37089"": ""100""}",Henderson,37089,FALSE,FALSE,America/New_York
+28732,35.44586,-82.46666,Fletcher,NC,North Carolina,TRUE,,18107,163.7,37089,Henderson,"{""37089"": ""72.57"", ""37021"": ""27.43""}",Henderson|Buncombe,37089|37021,FALSE,FALSE,America/New_York
+28733,35.43677,-83.80762,Fontana Dam,NC,North Carolina,TRUE,,27,1.3,37075,Graham,"{""37075"": ""100""}",Graham,37075,FALSE,FALSE,America/New_York
+28734,35.1828,-83.42108,Franklin,NC,North Carolina,TRUE,,27887,35.7,37113,Macon,"{""37113"": ""100""}",Macon,37113,FALSE,FALSE,America/New_York
+28735,35.47574,-82.35043,Gerton,NC,North Carolina,TRUE,,303,31.4,37089,Henderson,"{""37089"": ""100""}",Henderson,37089,FALSE,FALSE,America/New_York
+28736,35.18605,-83.08139,Glenville,NC,North Carolina,TRUE,,782,8.6,37099,Jackson,"{""37099"": ""100""}",Jackson,37099,FALSE,FALSE,America/New_York
+28739,35.2636,-82.5464,Hendersonville,NC,North Carolina,TRUE,,21492,123.7,37089,Henderson,"{""37089"": ""99.14"", ""37175"": ""0.86""}",Henderson|Transylvania,37089|37175,FALSE,FALSE,America/New_York
+28740,36.05004,-82.2842,Green Mountain,NC,North Carolina,TRUE,,849,5.9,37199,Yancey,"{""37199"": ""56.82"", ""37121"": ""43.18""}",Yancey|Mitchell,37199|37121,FALSE,FALSE,America/New_York
+28741,35.06147,-83.21069,Highlands,NC,North Carolina,TRUE,,3672,16.3,37113,Macon,"{""37113"": ""95.68"", ""37099"": ""4.32""}",Macon|Jackson,37113|37099,FALSE,FALSE,America/New_York
+28742,35.37582,-82.62471,Horse Shoe,NC,North Carolina,TRUE,,3155,49.8,37089,Henderson,"{""37089"": ""88.78"", ""37175"": ""11.22""}",Henderson|Transylvania,37089|37175,FALSE,FALSE,America/New_York
+28743,35.80819,-82.90049,Hot Springs,NC,North Carolina,TRUE,,1997,6.2,37115,Madison,"{""37115"": ""99.48"", ""37087"": ""0.52""}",Madison|Haywood,37115|37087,FALSE,FALSE,America/New_York
+28745,35.5259,-82.9704,Lake Junaluska,NC,North Carolina,TRUE,,417,258.1,37087,Haywood,"{""37087"": ""100""}",Haywood,37087,FALSE,FALSE,America/New_York
+28746,35.45947,-82.16648,Lake Lure,NC,North Carolina,TRUE,,2420,19.9,37161,Rutherford,"{""37161"": ""100""}",Rutherford,37161,FALSE,FALSE,America/New_York
+28747,35.15718,-82.92327,Lake Toxaway,NC,North Carolina,TRUE,,2297,16.8,37175,Transylvania,"{""37175"": ""99.82"", ""37099"": ""0.18""}",Transylvania|Jackson,37175|37099,FALSE,FALSE,America/New_York
+28748,35.64957,-82.75774,Leicester,NC,North Carolina,TRUE,,12606,57.6,37021,Buncombe,"{""37021"": ""99.49"", ""37115"": ""0.51""}",Buncombe|Madison,37021|37115,FALSE,FALSE,America/New_York
+28749,35.84058,-82.09877,Little Switzerland,NC,North Carolina,TRUE,,138,51.4,37111,McDowell,"{""37111"": ""78"", ""37121"": ""22""}",McDowell|Mitchell,37111|37121,FALSE,FALSE,America/New_York
+28751,35.505,-83.1207,Maggie Valley,NC,North Carolina,TRUE,,3473,29.9,37087,Haywood,"{""37087"": ""98.87"", ""37099"": ""1.13""}",Haywood|Jackson,37087|37099,FALSE,FALSE,America/New_York
+28752,35.71188,-82.03696,Marion,NC,North Carolina,TRUE,,30924,48.7,37111,McDowell,"{""37111"": ""100""}",McDowell,37111,FALSE,FALSE,America/New_York
+28753,35.86765,-82.70241,Marshall,NC,North Carolina,TRUE,,9671,14.1,37115,Madison,"{""37115"": ""90.46"", ""37021"": ""9.54""}",Madison|Buncombe,37115|37021,FALSE,FALSE,America/New_York
+28754,35.8756,-82.51568,Mars Hill,NC,North Carolina,TRUE,,10290,46,37115,Madison,"{""37115"": ""98.23"", ""37199"": ""1.77""}",Madison|Yancey,37115|37199,FALSE,FALSE,America/New_York
+28756,35.34733,-82.18106,Mill Spring,NC,North Carolina,TRUE,,4388,18.9,37149,Polk,"{""37149"": ""98.36"", ""37161"": ""1.64""}",Polk|Rutherford,37149|37161,FALSE,FALSE,America/New_York
+28757,35.64973,-82.30857,Montreat,NC,North Carolina,TRUE,,100,31.7,37021,Buncombe,"{""37021"": ""100""}",Buncombe,37021,FALSE,FALSE,America/New_York
+28759,35.3818,-82.58513,Mills River,NC,North Carolina,TRUE,,7456,123.9,37089,Henderson,"{""37089"": ""97.85"", ""37021"": ""2.15""}",Henderson|Buncombe,37089|37021,FALSE,FALSE,America/New_York
+28761,35.68636,-81.907,Nebo,NC,North Carolina,TRUE,,7194,25.8,37111,McDowell,"{""37111"": ""92.14"", ""37023"": ""7.86""}",McDowell|Burke,37111|37023,FALSE,FALSE,America/New_York
+28762,35.63368,-82.19075,Old Fort,NC,North Carolina,TRUE,,7054,27.3,37111,McDowell,"{""37111"": ""100""}",McDowell,37111,FALSE,FALSE,America/New_York
+28763,35.03818,-83.43227,Otto,NC,North Carolina,TRUE,,2419,16.9,37113,Macon,"{""37113"": ""100""}",Macon,37113,FALSE,FALSE,America/New_York
+28766,35.25102,-82.61987,Penrose,NC,North Carolina,TRUE,,1331,88.2,37175,Transylvania,"{""37175"": ""93.34"", ""37089"": ""6.66""}",Transylvania|Henderson,37175|37089,FALSE,FALSE,America/New_York
+28768,35.30434,-82.70935,Pisgah Forest,NC,North Carolina,TRUE,,7504,34.9,37175,Transylvania,"{""37175"": ""100""}",Transylvania,37175,FALSE,FALSE,America/New_York
+28771,35.34574,-83.8463,Robbinsville,NC,North Carolina,TRUE,,8069,11.5,37075,Graham,"{""37075"": ""99.93"", ""37173"": ""0.07""}",Graham|Swain,37075|37173,FALSE,FALSE,America/New_York
+28772,35.11698,-82.82724,Rosman,NC,North Carolina,TRUE,,1149,35.2,37175,Transylvania,"{""37175"": ""100""}",Transylvania,37175,FALSE,FALSE,America/New_York
+28773,35.25648,-82.31353,Saluda,NC,North Carolina,TRUE,,2973,20.6,37149,Polk,"{""37149"": ""62.79"", ""37089"": ""37.21""}",Polk|Henderson,37149|37089,FALSE,FALSE,America/New_York
+28774,35.09142,-82.99513,Sapphire,NC,North Carolina,TRUE,,924,7.9,37175,Transylvania,"{""37175"": ""53.11"", ""37099"": ""46.89""}",Transylvania|Jackson,37175|37099,FALSE,FALSE,America/New_York
+28775,35.0198,-83.32836,Scaly Mountain,NC,North Carolina,TRUE,,304,11.9,37113,Macon,"{""37113"": ""100""}",Macon,37113,FALSE,FALSE,America/New_York
+28777,35.90169,-82.06863,Spruce Pine,NC,North Carolina,TRUE,,10717,60.7,37121,Mitchell,"{""37121"": ""77.68"", ""37011"": ""20.65"", ""37199"": ""1.45"", ""37111"": ""0.22""}",Mitchell|Avery|Yancey|McDowell,37121|37011|37199|37111,FALSE,FALSE,America/New_York
+28778,35.61719,-82.40701,Swannanoa,NC,North Carolina,TRUE,,9584,107.6,37021,Buncombe,"{""37021"": ""100""}",Buncombe,37021,FALSE,FALSE,America/New_York
+28779,35.35521,-83.21134,Sylva,NC,North Carolina,TRUE,,18477,66.5,37099,Jackson,"{""37099"": ""100""}",Jackson,37099,FALSE,FALSE,America/New_York
+28781,35.21522,-83.64605,Topton,NC,North Carolina,TRUE,,781,3.8,37113,Macon,"{""37113"": ""85.41"", ""37039"": ""14.59""}",Macon|Cherokee,37113|37039,FALSE,FALSE,America/New_York
+28782,35.23587,-82.15041,Tryon,NC,North Carolina,TRUE,,6852,53.3,37149,Polk,"{""37149"": ""100""}",Polk,37149,FALSE,FALSE,America/New_York
+28783,35.25277,-83.02057,Tuckasegee,NC,North Carolina,TRUE,,1858,11.2,37099,Jackson,"{""37099"": ""100""}",Jackson,37099,FALSE,FALSE,America/New_York
+28785,35.63716,-83.09195,Waynesville,NC,North Carolina,TRUE,,7953,20.1,37087,Haywood,"{""37087"": ""100""}",Haywood,37087,FALSE,FALSE,America/New_York
+28786,35.46316,-82.99227,Waynesville,NC,North Carolina,TRUE,,21004,109,37087,Haywood,"{""37087"": ""100"", ""37099"": ""0""}",Haywood|Jackson,37087|37099,FALSE,FALSE,America/New_York
+28787,35.72596,-82.52324,Weaverville,NC,North Carolina,TRUE,,21533,104.5,37021,Buncombe,"{""37021"": ""97.5"", ""37115"": ""2.5""}",Buncombe|Madison,37021|37115,FALSE,FALSE,America/New_York
+28789,35.40656,-83.31736,Whittier,NC,North Carolina,TRUE,,5779,39.1,37099,Jackson,"{""37099"": ""83.72"", ""37173"": ""16.28""}",Jackson|Swain,37099|37173,FALSE,FALSE,America/New_York
+28790,35.20139,-82.48748,Zirconia,NC,North Carolina,TRUE,,3295,30.4,37089,Henderson,"{""37089"": ""100""}",Henderson,37089,FALSE,FALSE,America/New_York
+28791,35.35616,-82.50843,Hendersonville,NC,North Carolina,TRUE,,15528,364.7,37089,Henderson,"{""37089"": ""100""}",Henderson,37089,FALSE,FALSE,America/New_York
+28792,35.38983,-82.36891,Hendersonville,NC,North Carolina,TRUE,,34703,133.2,37089,Henderson,"{""37089"": ""99.98"", ""37149"": ""0.02""}",Henderson|Polk,37089|37149,FALSE,FALSE,America/New_York
+28801,35.59416,-82.55784,Asheville,NC,North Carolina,TRUE,,13790,1048.6,37021,Buncombe,"{""37021"": ""100""}",Buncombe,37021,FALSE,FALSE,America/New_York
+28803,35.52962,-82.52001,Asheville,NC,North Carolina,TRUE,,34491,347.4,37021,Buncombe,"{""37021"": ""100""}",Buncombe,37021,FALSE,FALSE,America/New_York
+28804,35.64772,-82.56459,Asheville,NC,North Carolina,TRUE,,22511,327,37021,Buncombe,"{""37021"": ""100""}",Buncombe,37021,FALSE,FALSE,America/New_York
+28805,35.61362,-82.48211,Asheville,NC,North Carolina,TRUE,,19952,296.6,37021,Buncombe,"{""37021"": ""100""}",Buncombe,37021,FALSE,FALSE,America/New_York
+28806,35.57236,-82.6143,Asheville,NC,North Carolina,TRUE,,43597,443.3,37021,Buncombe,"{""37021"": ""100""}",Buncombe,37021,FALSE,FALSE,America/New_York
+28901,35.19808,-83.81034,Andrews,NC,North Carolina,TRUE,,4927,30.1,37039,Cherokee,"{""37039"": ""100""}",Cherokee,37039,FALSE,FALSE,America/New_York
+28902,35.02609,-83.95661,Brasstown,NC,North Carolina,TRUE,,1419,24.2,37043,Clay,"{""37043"": ""74.58"", ""37039"": ""25.42""}",Clay|Cherokee,37043|37039,FALSE,FALSE,America/New_York
+28904,35.06241,-83.72757,Hayesville,NC,North Carolina,TRUE,,8969,18.2,37043,Clay,"{""37043"": ""100""}",Clay,37043,FALSE,FALSE,America/New_York
+28905,35.16395,-83.94009,Marble,NC,North Carolina,TRUE,,2863,24.6,37039,Cherokee,"{""37039"": ""100""}",Cherokee,37039,FALSE,FALSE,America/New_York
+28906,35.11873,-84.13326,Murphy,NC,North Carolina,TRUE,,19701,22.8,37039,Cherokee,"{""37039"": ""100""}",Cherokee,37039,FALSE,FALSE,America/New_York
+28909,35.00171,-83.90468,Warne,NC,North Carolina,TRUE,,993,38.9,37043,Clay,"{""37043"": ""100""}",Clay,37043,FALSE,FALSE,America/New_York

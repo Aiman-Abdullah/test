@@ -1,0 +1,33 @@
+{% extends 'base_layout.html' %}
+
+{% block content %}
+
+    <h1>Signup</h1>
+    <form class='site-form' action = "{% url 'dim_accounts:signup' %}" method="post">
+        {%csrf_token %}
+        {{form}}
+        <button type="submit" class = "btn btn-secondary btn-lg"> <i class="fas fa-database"> Signup </i>
+        
+    </form>
+    <nav>
+        <ul>
+            <li>
+                <form class = "logout-link" action = "{% url 'dim_accounts:login' %}" method ="POST">
+                    {%csrf_token %}
+                    <button type = "submit" class="btn btn-secondary btn-lg">Login<i class="fas fa-database">Log in</i>
+                </form>
+            </li>
+        </ul>
+    </nav>
+
+{% endblock %}
+
+{% block content2 %}
+
+<form class='logout-link' action = "{% url 'dim_accounts:logout' %}" method = "post">
+
+    {{form}}
+    <button type="submit" class="btn btn-secondary btn-lg"> <i class="fas fa-database"> Logout </i>
+</form>
+
+{% endblock %}

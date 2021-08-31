@@ -1,0 +1,177 @@
+Column1,Column2,zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone
+890,51%,93669,37.28276,-119.54215,Wishon,CA,California,TRUE,,238,13.5,6039,Madera,"{""06039"": ""100""}",Madera,6039,FALSE,FALSE,America/Los_Angeles
+891,51%,93673,36.45261,-119.48234,Traver,CA,California,TRUE,,754,350,6107,Tulare,"{""06107"": ""100""}",Tulare,6107,FALSE,FALSE,America/Los_Angeles
+892,51%,93675,36.72283,-119.19346,Squaw Valley,CA,California,TRUE,,3905,19.1,6019,Fresno,"{""06019"": ""100""}",Fresno,6019,FALSE,FALSE,America/Los_Angeles
+893,51%,93701,36.74968,-119.78766,Fresno,CA,California,TRUE,,10166,2590.7,6019,Fresno,"{""06019"": ""100""}",Fresno,6019,FALSE,FALSE,America/Los_Angeles
+894,51%,93702,36.73923,-119.75391,Fresno,CA,California,TRUE,,43601,3195.8,6019,Fresno,"{""06019"": ""100""}",Fresno,6019,FALSE,FALSE,America/Los_Angeles
+895,51%,93703,36.7689,-119.76245,Fresno,CA,California,TRUE,,32754,2675.2,6019,Fresno,"{""06019"": ""100""}",Fresno,6019,FALSE,FALSE,America/Los_Angeles
+896,51%,93704,36.79909,-119.8016,Fresno,CA,California,TRUE,,29740,2094.8,6019,Fresno,"{""06019"": ""100""}",Fresno,6019,FALSE,FALSE,America/Los_Angeles
+897,51%,93705,36.78671,-119.82832,Fresno,CA,California,TRUE,,36808,2923.5,6019,Fresno,"{""06019"": ""100""}",Fresno,6019,FALSE,FALSE,America/Los_Angeles
+898,51%,93706,36.65209,-119.90659,Fresno,CA,California,TRUE,,40586,95.9,6019,Fresno,"{""06019"": ""100""}",Fresno,6019,FALSE,FALSE,America/Los_Angeles
+899,51%,93710,36.82234,-119.76022,Fresno,CA,California,TRUE,,33448,1847.7,6019,Fresno,"{""06019"": ""100""}",Fresno,6019,FALSE,FALSE,America/Los_Angeles
+900,51%,93711,36.83459,-119.83117,Fresno,CA,California,TRUE,,38007,1301,6019,Fresno,"{""06019"": ""100""}",Fresno,6019,FALSE,FALSE,America/Los_Angeles
+901,51%,93720,36.86031,-119.76157,Fresno,CA,California,TRUE,,47081,1833.1,6019,Fresno,"{""06019"": ""100""}",Fresno,6019,FALSE,FALSE,America/Los_Angeles
+902,51%,93721,36.73291,-119.78374,Fresno,CA,California,TRUE,,7650,1440.7,6019,Fresno,"{""06019"": ""100""}",Fresno,6019,FALSE,FALSE,America/Los_Angeles
+903,51%,93722,36.80092,-119.87723,Fresno,CA,California,TRUE,,84621,1699,6019,Fresno,"{""06019"": ""100""}",Fresno,6019,FALSE,FALSE,America/Los_Angeles
+904,51%,93723,36.78624,-119.95324,Fresno,CA,California,TRUE,,13936,126.2,6019,Fresno,"{""06019"": ""100""}",Fresno,6019,FALSE,FALSE,America/Los_Angeles
+905,51%,93725,36.62534,-119.73651,Fresno,CA,California,TRUE,,27214,160.5,6019,Fresno,"{""06019"": ""100""}",Fresno,6019,FALSE,FALSE,America/Los_Angeles
+906,51%,93726,36.79367,-119.76145,Fresno,CA,California,TRUE,,42824,2626.7,6019,Fresno,"{""06019"": ""100""}",Fresno,6019,FALSE,FALSE,America/Los_Angeles
+907,52%,93727,36.75155,-119.6806,Fresno,CA,California,TRUE,,84449,1007.1,6019,Fresno,"{""06019"": ""100""}",Fresno,6019,FALSE,FALSE,America/Los_Angeles
+908,52%,93728,36.75727,-119.81834,Fresno,CA,California,TRUE,,16574,2092.1,6019,Fresno,"{""06019"": ""100""}",Fresno,6019,FALSE,FALSE,America/Los_Angeles
+909,52%,93730,36.90317,-119.75488,Fresno,CA,California,TRUE,,12770,618.7,6019,Fresno,"{""06019"": ""100""}",Fresno,6019,FALSE,FALSE,America/Los_Angeles
+910,52%,93901,36.63863,-121.62401,Salinas,CA,California,TRUE,,28194,744.7,6053,Monterey,"{""06053"": ""100""}",Monterey,6053,FALSE,FALSE,America/Los_Angeles
+911,52%,93905,36.68321,-121.60701,Salinas,CA,California,TRUE,,60531,2511.7,6053,Monterey,"{""06053"": ""100""}",Monterey,6053,FALSE,FALSE,America/Los_Angeles
+912,52%,93906,36.72258,-121.63228,Salinas,CA,California,TRUE,,64348,1900,6053,Monterey,"{""06053"": ""100""}",Monterey,6053,FALSE,FALSE,America/Los_Angeles
+913,52%,93907,36.76958,-121.66778,Salinas,CA,California,TRUE,,23299,166.7,6053,Monterey,"{""06053"": ""100""}",Monterey,6053,FALSE,FALSE,America/Los_Angeles
+914,52%,93908,36.63429,-121.60685,Salinas,CA,California,TRUE,,12398,22.3,6053,Monterey,"{""06053"": ""100""}",Monterey,6053,FALSE,FALSE,America/Los_Angeles
+915,52%,93920,36.11042,-121.56063,Big Sur,CA,California,TRUE,,1545,1.6,6053,Monterey,"{""06053"": ""100""}",Monterey,6053,FALSE,FALSE,America/Los_Angeles
+916,52%,93921,36.55396,-121.92296,Carmel By The Sea,CA,California,TRUE,,3316,1424.1,6053,Monterey,"{""06053"": ""100""}",Monterey,6053,FALSE,FALSE,America/Los_Angeles
+917,52%,93923,36.45757,-121.84387,Carmel,CA,California,TRUE,,12837,38.4,6053,Monterey,"{""06053"": ""100""}",Monterey,6053,FALSE,FALSE,America/Los_Angeles
+918,52%,93924,36.39891,-121.64066,Carmel Valley,CA,California,TRUE,,6514,13.2,6053,Monterey,"{""06053"": ""100""}",Monterey,6053,FALSE,FALSE,America/Los_Angeles
+919,52%,93925,36.60064,-121.43123,Chualar,CA,California,TRUE,,2073,14.7,6053,Monterey,"{""06053"": ""100""}",Monterey,6053,FALSE,FALSE,America/Los_Angeles
+920,52%,93926,36.52922,-121.40769,Gonzales,CA,California,TRUE,,9171,59.8,6053,Monterey,"{""06053"": ""100""}",Monterey,6053,FALSE,FALSE,America/Los_Angeles
+921,52%,93927,36.23358,-121.37717,Greenfield,CA,California,TRUE,,18812,27.5,6053,Monterey,"{""06053"": ""100""}",Monterey,6053,FALSE,FALSE,America/Los_Angeles
+922,52%,93928,36.03241,-121.23953,Jolon,CA,California,TRUE,,854,17.3,6053,Monterey,"{""06053"": ""100""}",Monterey,6053,FALSE,FALSE,America/Los_Angeles
+923,52%,93930,36.21475,-121.03097,King City,CA,California,TRUE,,17067,18.2,6053,Monterey,"{""06053"": ""99.67"", ""06069"": ""0.33""}",Monterey|San Benito,06053|06069,FALSE,FALSE,America/Los_Angeles
+924,52%,93932,35.99153,-121.06232,Lockwood,CA,California,TRUE,,709,2.7,6053,Monterey,"{""06053"": ""100""}",Monterey,6053,FALSE,FALSE,America/Los_Angeles
+925,53%,93933,36.68608,-121.787,Marina,CA,California,TRUE,,25442,763.7,6053,Monterey,"{""06053"": ""100""}",Monterey,6053,FALSE,FALSE,America/Los_Angeles
+926,53%,93940,36.57944,-121.84332,Monterey,CA,California,TRUE,,32236,607.4,6053,Monterey,"{""06053"": ""100""}",Monterey,6053,FALSE,FALSE,America/Los_Angeles
+927,53%,93943,36.59706,-121.87413,Monterey,CA,California,TRUE,,0,0,6053,Monterey,"{""06053"": ""100""}",Monterey,6053,FALSE,FALSE,America/Los_Angeles
+928,53%,93950,36.61901,-121.92547,Pacific Grove,CA,California,TRUE,,15547,2094.3,6053,Monterey,"{""06053"": ""100""}",Monterey,6053,FALSE,FALSE,America/Los_Angeles
+929,53%,93953,36.58571,-121.94389,Pebble Beach,CA,California,TRUE,,4028,193.4,6053,Monterey,"{""06053"": ""100""}",Monterey,6053,FALSE,FALSE,America/Los_Angeles
+930,53%,93954,36.13313,-120.94207,San Lucas,CA,California,TRUE,,551,5.8,6053,Monterey,"{""06053"": ""100""}",Monterey,6053,FALSE,FALSE,America/Los_Angeles
+931,53%,93955,36.62116,-121.79275,Seaside,CA,California,TRUE,,34566,472.6,6053,Monterey,"{""06053"": ""100""}",Monterey,6053,FALSE,FALSE,America/Los_Angeles
+932,53%,93960,36.39832,-121.34114,Soledad,CA,California,TRUE,,26966,51,6053,Monterey,"{""06053"": ""100""}",Monterey,6053,FALSE,FALSE,America/Los_Angeles
+933,53%,93962,36.62471,-121.64649,Spreckels,CA,California,TRUE,,414,1308.6,6053,Monterey,"{""06053"": ""100""}",Monterey,6053,FALSE,FALSE,America/Los_Angeles
+934,53%,94002,37.5135,-122.29905,Belmont,CA,California,TRUE,,27155,1852,6081,San Mateo,"{""06081"": ""100""}",San Mateo,6081,FALSE,FALSE,America/Los_Angeles
+935,53%,94005,37.68872,-122.40798,Brisbane,CA,California,TRUE,,4697,412.6,6081,San Mateo,"{""06081"": ""100""}",San Mateo,6081,FALSE,FALSE,America/Los_Angeles
+936,53%,94010,37.56932,-122.3653,Burlingame,CA,California,TRUE,,42760,1394.3,6081,San Mateo,"{""06081"": ""100""}",San Mateo,6081,FALSE,FALSE,America/Los_Angeles
+937,53%,94014,37.6909,-122.44745,Daly City,CA,California,TRUE,,49170,3013,6081,San Mateo,"{""06081"": ""100""}",San Mateo,6081,FALSE,FALSE,America/Los_Angeles
+938,53%,94015,37.68122,-122.48052,Daly City,CA,California,TRUE,,65041,4366.7,6081,San Mateo,"{""06081"": ""100""}",San Mateo,6081,FALSE,FALSE,America/Los_Angeles
+939,53%,94019,37.46472,-122.41624,Half Moon Bay,CA,California,TRUE,,20512,150.6,6081,San Mateo,"{""06081"": ""100""}",San Mateo,6081,FALSE,FALSE,America/Los_Angeles
+940,53%,94020,37.28423,-122.22832,La Honda,CA,California,TRUE,,1697,11.7,6081,San Mateo,"{""06081"": ""100""}",San Mateo,6081,FALSE,FALSE,America/Los_Angeles
+941,53%,94021,37.27091,-122.28065,Loma Mar,CA,California,TRUE,,511,43.5,6081,San Mateo,"{""06081"": ""100""}",San Mateo,6081,FALSE,FALSE,America/Los_Angeles
+942,53%,94022,37.35752,-122.14444,Los Altos,CA,California,TRUE,,19406,428.9,6085,Santa Clara,"{""06085"": ""100""}",Santa Clara,6085,FALSE,FALSE,America/Los_Angeles
+943,54%,94024,37.35221,-122.09438,Los Altos,CA,California,TRUE,,23675,1249.8,6085,Santa Clara,"{""06085"": ""100""}",Santa Clara,6085,FALSE,FALSE,America/Los_Angeles
+944,54%,94025,37.46321,-122.17249,Menlo Park,CA,California,TRUE,,43392,1399,6081,San Mateo,"{""06081"": ""100""}",San Mateo,6081,FALSE,FALSE,America/Los_Angeles
+945,54%,94027,37.45321,-122.20406,Atherton,CA,California,TRUE,,7415,550.9,6081,San Mateo,"{""06081"": ""100""}",San Mateo,6081,FALSE,FALSE,America/Los_Angeles
+946,54%,94028,37.37857,-122.21545,Portola Valley,CA,California,TRUE,,7125,180.6,6081,San Mateo,"{""06081"": ""98.42"", ""06085"": ""1.58""}",San Mateo|Santa Clara,06081|06085,FALSE,FALSE,America/Los_Angeles
+947,54%,94030,37.59972,-122.40305,Millbrae,CA,California,TRUE,,22625,2577.8,6081,San Mateo,"{""06081"": ""100""}",San Mateo,6081,FALSE,FALSE,America/Los_Angeles
+948,54%,94037,37.55433,-122.49667,Montara,CA,California,TRUE,,2504,167.5,6081,San Mateo,"{""06081"": ""100""}",San Mateo,6081,FALSE,FALSE,America/Los_Angeles
+949,54%,94038,37.52184,-122.50633,Moss Beach,CA,California,TRUE,,3450,845.2,6081,San Mateo,"{""06081"": ""100""}",San Mateo,6081,FALSE,FALSE,America/Los_Angeles
+950,54%,94040,37.38058,-122.08535,Mountain View,CA,California,TRUE,,36526,3824.5,6085,Santa Clara,"{""06085"": ""100""}",Santa Clara,6085,FALSE,FALSE,America/Los_Angeles
+951,54%,94041,37.38847,-122.07564,Mountain View,CA,California,TRUE,,14572,3674,6085,Santa Clara,"{""06085"": ""100""}",Santa Clara,6085,FALSE,FALSE,America/Los_Angeles
+952,54%,94043,37.41747,-122.07039,Mountain View,CA,California,TRUE,,31161,1126.8,6085,Santa Clara,"{""06085"": ""100""}",Santa Clara,6085,FALSE,FALSE,America/Los_Angeles
+953,54%,94044,37.60544,-122.48104,Pacifica,CA,California,TRUE,,38984,1025.7,6081,San Mateo,"{""06081"": ""100""}",San Mateo,6081,FALSE,FALSE,America/Los_Angeles
+954,54%,94060,37.22338,-122.33714,Pescadero,CA,California,TRUE,,926,4.9,6081,San Mateo,"{""06081"": ""100""}",San Mateo,6081,FALSE,FALSE,America/Los_Angeles
+955,54%,94061,37.46159,-122.2368,Redwood City,CA,California,TRUE,,39023,3902.8,6081,San Mateo,"{""06081"": ""100""}",San Mateo,6081,FALSE,FALSE,America/Los_Angeles
+956,54%,94062,37.42134,-122.30715,Redwood City,CA,California,TRUE,,28423,154.8,6081,San Mateo,"{""06081"": ""100""}",San Mateo,6081,FALSE,FALSE,America/Los_Angeles
+957,54%,94063,37.49484,-122.20804,Redwood City,CA,California,TRUE,,34867,2034.3,6081,San Mateo,"{""06081"": ""100""}",San Mateo,6081,FALSE,FALSE,America/Los_Angeles
+958,54%,94065,37.53542,-122.24673,Redwood City,CA,California,TRUE,,12461,2108.3,6081,San Mateo,"{""06081"": ""100""}",San Mateo,6081,FALSE,FALSE,America/Los_Angeles
+959,54%,94066,37.62508,-122.43358,San Bruno,CA,California,TRUE,,43101,2716.5,6081,San Mateo,"{""06081"": ""100""}",San Mateo,6081,FALSE,FALSE,America/Los_Angeles
+960,55%,94070,37.49764,-122.27003,San Carlos,CA,California,TRUE,,31074,1956.5,6081,San Mateo,"{""06081"": ""100""}",San Mateo,6081,FALSE,FALSE,America/Los_Angeles
+961,55%,94074,37.32588,-122.34979,San Gregorio,CA,California,TRUE,,170,3.5,6081,San Mateo,"{""06081"": ""100""}",San Mateo,6081,FALSE,FALSE,America/Los_Angeles
+962,55%,94080,37.65554,-122.42212,South San Francisco,CA,California,TRUE,,67600,2523.5,6081,San Mateo,"{""06081"": ""100""}",San Mateo,6081,FALSE,FALSE,America/Los_Angeles
+963,55%,94085,37.38854,-122.01776,Sunnyvale,CA,California,TRUE,,23223,2568.3,6085,Santa Clara,"{""06085"": ""100""}",Santa Clara,6085,FALSE,FALSE,America/Los_Angeles
+964,55%,94086,37.37165,-122.02306,Sunnyvale,CA,California,TRUE,,50477,4339.8,6085,Santa Clara,"{""06085"": ""100""}",Santa Clara,6085,FALSE,FALSE,America/Los_Angeles
+965,55%,94087,37.35154,-122.03688,Sunnyvale,CA,California,TRUE,,56668,3323.8,6085,Santa Clara,"{""06085"": ""100""}",Santa Clara,6085,FALSE,FALSE,America/Los_Angeles
+966,55%,94089,37.41154,-122.01404,Sunnyvale,CA,California,TRUE,,22882,1474.6,6085,Santa Clara,"{""06085"": ""100""}",Santa Clara,6085,FALSE,FALSE,America/Los_Angeles
+967,55%,94102,37.7797,-122.41924,San Francisco,CA,California,TRUE,,31392,18120.6,6075,San Francisco,"{""06075"": ""100""}",San Francisco,6075,FALSE,FALSE,America/Los_Angeles
+968,55%,94103,37.77323,-122.41114,San Francisco,CA,California,TRUE,,30703,8726.8,6075,San Francisco,"{""06075"": ""100""}",San Francisco,6075,FALSE,FALSE,America/Los_Angeles
+969,55%,94104,37.79146,-122.40207,San Francisco,CA,California,TRUE,,429,2135.8,6075,San Francisco,"{""06075"": ""100""}",San Francisco,6075,FALSE,FALSE,America/Los_Angeles
+970,55%,94105,37.78978,-122.39387,San Francisco,CA,California,TRUE,,10916,11587.8,6075,San Francisco,"{""06075"": ""100""}",San Francisco,6075,FALSE,FALSE,America/Los_Angeles
+971,55%,94107,37.76643,-122.39461,San Francisco,CA,California,TRUE,,31461,6769.2,6075,San Francisco,"{""06075"": ""100""}",San Francisco,6075,FALSE,FALSE,America/Los_Angeles
+972,55%,94108,37.79203,-122.40864,San Francisco,CA,California,TRUE,,14143,20257.7,6075,San Francisco,"{""06075"": ""100""}",San Francisco,6075,FALSE,FALSE,America/Los_Angeles
+973,55%,94109,37.7952,-122.4222,San Francisco,CA,California,TRUE,,57302,18618.2,6075,San Francisco,"{""06075"": ""100""}",San Francisco,6075,FALSE,FALSE,America/Los_Angeles
+974,55%,94110,37.74994,-122.41539,San Francisco,CA,California,TRUE,,72380,12023.4,6075,San Francisco,"{""06075"": ""100""}",San Francisco,6075,FALSE,FALSE,America/Los_Angeles
+975,55%,94111,37.79891,-122.39834,San Francisco,CA,California,TRUE,,3611,4052.1,6075,San Francisco,"{""06075"": ""100""}",San Francisco,6075,FALSE,FALSE,America/Los_Angeles
+976,55%,94112,37.72031,-122.4429,San Francisco,CA,California,TRUE,,84707,9713.9,6075,San Francisco,"{""06075"": ""100""}",San Francisco,6075,FALSE,FALSE,America/Los_Angeles
+977,55%,94114,37.75802,-122.43545,San Francisco,CA,California,TRUE,,34918,9456.4,6075,San Francisco,"{""06075"": ""100""}",San Francisco,6075,FALSE,FALSE,America/Los_Angeles
+978,56%,94115,37.78597,-122.43719,San Francisco,CA,California,TRUE,,34604,11974.5,6075,San Francisco,"{""06075"": ""100""}",San Francisco,6075,FALSE,FALSE,America/Los_Angeles
+979,56%,94116,37.74459,-122.48619,San Francisco,CA,California,TRUE,,47346,7067.6,6075,San Francisco,"{""06075"": ""100""}",San Francisco,6075,FALSE,FALSE,America/Los_Angeles
+980,56%,94117,37.76975,-122.44823,San Francisco,CA,California,TRUE,,44650,10210.2,6075,San Francisco,"{""06075"": ""100""}",San Francisco,6075,FALSE,FALSE,America/Los_Angeles
+981,56%,94118,37.7801,-122.46246,San Francisco,CA,California,TRUE,,42095,8339.4,6075,San Francisco,"{""06075"": ""100""}",San Francisco,6075,FALSE,FALSE,America/Los_Angeles
+982,56%,94121,37.77651,-122.49449,San Francisco,CA,California,TRUE,,43616,5465.6,6075,San Francisco,"{""06075"": ""100""}",San Francisco,6075,FALSE,FALSE,America/Los_Angeles
+983,56%,94122,37.75878,-122.48512,San Francisco,CA,California,TRUE,,62128,10143.6,6075,San Francisco,"{""06075"": ""100""}",San Francisco,6075,FALSE,FALSE,America/Los_Angeles
+984,56%,94123,37.80046,-122.43821,San Francisco,CA,California,TRUE,,25890,9782.4,6075,San Francisco,"{""06075"": ""100""}",San Francisco,6075,FALSE,FALSE,America/Los_Angeles
+985,56%,94124,37.73082,-122.38463,San Francisco,CA,California,TRUE,,35747,2801.6,6075,San Francisco,"{""06075"": ""100""}",San Francisco,6075,FALSE,FALSE,America/Los_Angeles
+986,56%,94127,37.7357,-122.45943,San Francisco,CA,California,TRUE,,21151,4612.4,6075,San Francisco,"{""06075"": ""100""}",San Francisco,6075,FALSE,FALSE,America/Los_Angeles
+987,56%,94128,37.62216,-122.38478,San Francisco,CA,California,TRUE,,146,16,6081,San Mateo,"{""06081"": ""100""}",San Mateo,6081,FALSE,FALSE,America/Los_Angeles
+988,56%,94129,37.79753,-122.46682,San Francisco,CA,California,TRUE,,4136,693,6075,San Francisco,"{""06075"": ""100""}",San Francisco,6075,FALSE,FALSE,America/Los_Angeles
+989,56%,94130,37.82048,-122.36952,San Francisco,CA,California,TRUE,,3008,1318.6,6075,San Francisco,"{""06075"": ""100""}",San Francisco,6075,FALSE,FALSE,America/Los_Angeles
+990,56%,94131,37.74543,-122.44291,San Francisco,CA,California,TRUE,,29523,5487.7,6075,San Francisco,"{""06075"": ""100""}",San Francisco,6075,FALSE,FALSE,America/Los_Angeles
+991,56%,94132,37.72213,-122.48481,San Francisco,CA,California,TRUE,,31436,3902.9,6075,San Francisco,"{""06075"": ""100""}",San Francisco,6075,FALSE,FALSE,America/Los_Angeles
+992,56%,94133,37.80381,-122.41073,San Francisco,CA,California,TRUE,,26796,13702.2,6075,San Francisco,"{""06075"": ""100""}",San Francisco,6075,FALSE,FALSE,America/Los_Angeles
+993,56%,94134,37.71941,-122.41178,San Francisco,CA,California,TRUE,,42418,6830,6075,San Francisco,"{""06075"": ""100""}",San Francisco,6075,FALSE,FALSE,America/Los_Angeles
+994,56%,94158,37.76976,-122.3876,San Francisco,CA,California,TRUE,,8455,4696.3,6075,San Francisco,"{""06075"": ""100""}",San Francisco,6075,FALSE,FALSE,America/Los_Angeles
+995,57%,94301,37.44412,-122.14995,Palo Alto,CA,California,TRUE,,16582,2699.9,6085,Santa Clara,"{""06085"": ""100""}",Santa Clara,6085,FALSE,FALSE,America/Los_Angeles
+996,57%,94303,37.45045,-122.11925,Palo Alto,CA,California,TRUE,,48244,2338.5,6081,San Mateo,"{""06081"": ""61.92"", ""06085"": ""38.08""}",San Mateo|Santa Clara,06081|06085,FALSE,FALSE,America/Los_Angeles
+997,57%,94304,37.38187,-122.17392,Palo Alto,CA,California,TRUE,,3852,228.8,6085,Santa Clara,"{""06085"": ""100""}",Santa Clara,6085,FALSE,FALSE,America/Los_Angeles
+998,57%,94305,37.41721,-122.17097,Stanford,CA,California,TRUE,,16397,1234.5,6085,Santa Clara,"{""06085"": ""100""}",Santa Clara,6085,FALSE,FALSE,America/Los_Angeles
+999,57%,94306,37.41571,-122.13078,Palo Alto,CA,California,TRUE,,27435,2526.1,6085,Santa Clara,"{""06085"": ""100""}",Santa Clara,6085,FALSE,FALSE,America/Los_Angeles
+1000,57%,94401,37.57432,-122.31831,San Mateo,CA,California,TRUE,,36001,4359.7,6081,San Mateo,"{""06081"": ""100""}",San Mateo,6081,FALSE,FALSE,America/Los_Angeles
+1001,57%,94402,37.54105,-122.33317,San Mateo,CA,California,TRUE,,25703,2040.6,6081,San Mateo,"{""06081"": ""100""}",San Mateo,6081,FALSE,FALSE,America/Los_Angeles
+1002,57%,94403,37.53847,-122.30452,San Mateo,CA,California,TRUE,,44408,3044.9,6081,San Mateo,"{""06081"": ""100""}",San Mateo,6081,FALSE,FALSE,America/Los_Angeles
+1003,57%,94404,37.556,-122.26892,San Mateo,CA,California,TRUE,,36985,3321.4,6081,San Mateo,"{""06081"": ""100""}",San Mateo,6081,FALSE,FALSE,America/Los_Angeles
+1004,57%,94501,37.77516,-122.2748,Alameda,CA,California,TRUE,,63821,3108.7,6001,Alameda,"{""06001"": ""100""}",Alameda,6001,FALSE,FALSE,America/Los_Angeles
+1005,57%,94502,37.73679,-122.24061,Alameda,CA,California,TRUE,,14701,2117.6,6001,Alameda,"{""06001"": ""100""}",Alameda,6001,FALSE,FALSE,America/Los_Angeles
+1006,57%,94503,38.18419,-122.26293,American Canyon,CA,California,TRUE,,20276,605.9,6055,Napa,"{""06055"": ""100""}",Napa,6055,FALSE,FALSE,America/Los_Angeles
+1007,57%,94505,37.86762,-121.58632,Discovery Bay,CA,California,TRUE,,16382,398.8,6013,Contra Costa,"{""06013"": ""99.45"", ""06001"": ""0.55""}",Contra Costa|Alameda,06013|06001,FALSE,FALSE,America/Los_Angeles
+1008,57%,94506,37.8081,-121.90636,Danville,CA,California,TRUE,,25240,520.2,6013,Contra Costa,"{""06013"": ""100""}",Contra Costa,6013,FALSE,FALSE,America/Los_Angeles
+1009,57%,94507,37.85042,-122.02108,Alamo,CA,California,TRUE,,15105,459.4,6013,Contra Costa,"{""06013"": ""100""}",Contra Costa,6013,FALSE,FALSE,America/Los_Angeles
+1010,57%,94508,38.57675,-122.4442,Angwin,CA,California,TRUE,,3935,87.1,6055,Napa,"{""06055"": ""100""}",Napa,6055,FALSE,FALSE,America/Los_Angeles
+1011,57%,94509,37.99679,-121.81259,Antioch,CA,California,TRUE,,68166,1607.5,6013,Contra Costa,"{""06013"": ""100""}",Contra Costa,6013,FALSE,FALSE,America/Los_Angeles
+1012,57%,94510,38.09404,-122.13197,Benicia,CA,California,TRUE,,28350,393.3,6095,Solano,"{""06095"": ""100""}",Solano,6095,FALSE,FALSE,America/Los_Angeles
+1013,58%,94511,38.02912,-121.64067,Bethel Island,CA,California,TRUE,,2161,159.3,6013,Contra Costa,"{""06013"": ""100""}",Contra Costa,6013,FALSE,FALSE,America/Los_Angeles
+1014,58%,94512,38.13282,-121.83822,Birds Landing,CA,California,TRUE,,16,0.3,6095,Solano,"{""06095"": ""100""}",Solano,6095,FALSE,FALSE,America/Los_Angeles
+1015,58%,94513,37.92338,-121.67505,Brentwood,CA,California,TRUE,,64313,327.6,6013,Contra Costa,"{""06013"": ""100""}",Contra Costa,6013,FALSE,FALSE,America/Los_Angeles
+1016,58%,94514,37.82537,-121.62355,Byron,CA,California,TRUE,,1475,19.8,6013,Contra Costa,"{""06013"": ""94.26"", ""06001"": ""5.74""}",Contra Costa|Alameda,06013|06001,FALSE,FALSE,America/Los_Angeles
+1017,58%,94515,38.62483,-122.61865,Calistoga,CA,California,TRUE,,7491,27.4,6055,Napa,"{""06055"": ""91.89"", ""06097"": ""8.11""}",Napa|Sonoma,06055|06097,FALSE,FALSE,America/Los_Angeles
+1018,58%,94516,37.83387,-122.16498,Canyon,CA,California,TRUE,,103,45.5,6013,Contra Costa,"{""06013"": ""100""}",Contra Costa,6013,FALSE,FALSE,America/Los_Angeles
+1019,58%,94517,37.89022,-121.87842,Clayton,CA,California,TRUE,,13687,92.3,6013,Contra Costa,"{""06013"": ""100""}",Contra Costa,6013,FALSE,FALSE,America/Los_Angeles
+1020,58%,94518,37.95041,-122.02205,Concord,CA,California,TRUE,,28734,2039.2,6013,Contra Costa,"{""06013"": ""100""}",Contra Costa,6013,FALSE,FALSE,America/Los_Angeles
+1021,58%,94519,37.98847,-122.01294,Concord,CA,California,TRUE,,20041,1763.6,6013,Contra Costa,"{""06013"": ""100""}",Contra Costa,6013,FALSE,FALSE,America/Los_Angeles
+1022,58%,94520,37.99547,-122.04057,Concord,CA,California,TRUE,,38753,1526.1,6013,Contra Costa,"{""06013"": ""100""}",Contra Costa,6013,FALSE,FALSE,America/Los_Angeles
+1023,58%,94521,37.95603,-121.95613,Concord,CA,California,TRUE,,43281,1288.1,6013,Contra Costa,"{""06013"": ""100""}",Contra Costa,6013,FALSE,FALSE,America/Los_Angeles
+1024,58%,94523,37.95408,-122.07615,Pleasant Hill,CA,California,TRUE,,35005,1867.6,6013,Contra Costa,"{""06013"": ""100""}",Contra Costa,6013,FALSE,FALSE,America/Los_Angeles
+1025,58%,94525,38.05278,-122.23117,Crockett,CA,California,TRUE,,3290,540.2,6013,Contra Costa,"{""06013"": ""100""}",Contra Costa,6013,FALSE,FALSE,America/Los_Angeles
+1026,58%,94526,37.81443,-121.99152,Danville,CA,California,TRUE,,33135,856.9,6013,Contra Costa,"{""06013"": ""100""}",Contra Costa,6013,FALSE,FALSE,America/Los_Angeles
+1027,58%,94528,37.84559,-121.95071,Diablo,CA,California,TRUE,,384,63.2,6013,Contra Costa,"{""06013"": ""100""}",Contra Costa,6013,FALSE,FALSE,America/Los_Angeles
+1028,58%,94530,37.92157,-122.29846,El Cerrito,CA,California,TRUE,,26145,2092.3,6013,Contra Costa,"{""06013"": ""100""}",Contra Costa,6013,FALSE,FALSE,America/Los_Angeles
+1029,58%,94531,37.96574,-121.77582,Antioch,CA,California,TRUE,,43022,1517.6,6013,Contra Costa,"{""06013"": ""100""}",Contra Costa,6013,FALSE,FALSE,America/Los_Angeles
+1030,58%,94533,38.2806,-122.0067,Fairfield,CA,California,TRUE,,75909,1356.7,6095,Solano,"{""06095"": ""100""}",Solano,6095,FALSE,FALSE,America/Los_Angeles
+1031,59%,94534,38.24227,-122.13138,Fairfield,CA,California,TRUE,,39239,191.4,6095,Solano,"{""06095"": ""100""}",Solano,6095,FALSE,FALSE,America/Los_Angeles
+1032,59%,94535,38.28467,-121.93269,Travis Afb,CA,California,TRUE,,3842,389.2,6095,Solano,"{""06095"": ""100""}",Solano,6095,FALSE,FALSE,America/Los_Angeles
+1033,59%,94536,37.57132,-121.9854,Fremont,CA,California,TRUE,,74837,1981.7,6001,Alameda,"{""06001"": ""100""}",Alameda,6001,FALSE,FALSE,America/Los_Angeles
+1034,59%,94538,37.50626,-121.96364,Fremont,CA,California,TRUE,,67474,1581.6,6001,Alameda,"{""06001"": ""100""}",Alameda,6001,FALSE,FALSE,America/Los_Angeles
+1035,59%,94539,37.51685,-121.91177,Fremont,CA,California,TRUE,,54982,835.4,6001,Alameda,"{""06001"": ""100""}",Alameda,6001,FALSE,FALSE,America/Los_Angeles
+1036,59%,94541,37.67434,-122.08515,Hayward,CA,California,TRUE,,65928,3428,6001,Alameda,"{""06001"": ""100""}",Alameda,6001,FALSE,FALSE,America/Los_Angeles
+1037,59%,94542,37.65984,-122.03717,Hayward,CA,California,TRUE,,14699,995.6,6001,Alameda,"{""06001"": ""100""}",Alameda,6001,FALSE,FALSE,America/Los_Angeles
+1038,59%,94544,37.63382,-122.05719,Hayward,CA,California,TRUE,,79747,2810.2,6001,Alameda,"{""06001"": ""100""}",Alameda,6001,FALSE,FALSE,America/Los_Angeles
+1039,59%,94545,37.6147,-122.11908,Hayward,CA,California,TRUE,,32724,586.2,6001,Alameda,"{""06001"": ""100""}",Alameda,6001,FALSE,FALSE,America/Los_Angeles
+1040,59%,94546,37.71498,-122.08002,Castro Valley,CA,California,TRUE,,44378,1795.9,6001,Alameda,"{""06001"": ""100""}",Alameda,6001,FALSE,FALSE,America/Los_Angeles
+1041,59%,94547,38.00655,-122.26146,Hercules,CA,California,TRUE,,25616,1815.7,6013,Contra Costa,"{""06013"": ""100""}",Contra Costa,6013,FALSE,FALSE,America/Los_Angeles
+1042,59%,94548,37.9735,-121.65354,Knightsen,CA,California,TRUE,,377,52.7,6013,Contra Costa,"{""06013"": ""100""}",Contra Costa,6013,FALSE,FALSE,America/Los_Angeles
+1043,59%,94549,37.89743,-122.1166,Lafayette,CA,California,TRUE,,29795,598.9,6013,Contra Costa,"{""06013"": ""100""}",Contra Costa,6013,FALSE,FALSE,America/Los_Angeles
+1044,59%,94550,37.52911,-121.60113,Livermore,CA,California,TRUE,,50374,83.6,6001,Alameda,"{""06001"": ""99.72"", ""06085"": ""0.28""}",Alameda|Santa Clara,06001|06085,FALSE,FALSE,America/Los_Angeles
+1045,59%,94551,37.75262,-121.77003,Livermore,CA,California,TRUE,,47227,231.8,6001,Alameda,"{""06001"": ""99.44"", ""06013"": ""0.56""}",Alameda|Contra Costa,06001|06013,FALSE,FALSE,America/Los_Angeles
+1046,59%,94552,37.7131,-122.01796,Castro Valley,CA,California,TRUE,,14938,128.3,6001,Alameda,"{""06001"": ""100""}",Alameda,6001,FALSE,FALSE,America/Los_Angeles
+1047,59%,94553,37.9954,-122.13499,Martinez,CA,California,TRUE,,49784,395.8,6013,Contra Costa,"{""06013"": ""100""}",Contra Costa,6013,FALSE,FALSE,America/Los_Angeles
+1048,60%,94555,37.55558,-122.08081,Fremont,CA,California,TRUE,,38478,1279.6,6001,Alameda,"{""06001"": ""100""}",Alameda,6001,FALSE,FALSE,America/Los_Angeles
+1049,60%,94556,37.84064,-122.11492,Moraga,CA,California,TRUE,,16428,519.1,6013,Contra Costa,"{""06013"": ""100""}",Contra Costa,6013,FALSE,FALSE,America/Los_Angeles
+1050,60%,94558,38.4549,-122.25643,Napa,CA,California,TRUE,,68315,74.1,6055,Napa,"{""06055"": ""100""}",Napa,6055,FALSE,FALSE,America/Los_Angeles
+1051,60%,94559,38.23297,-122.30795,Napa,CA,California,TRUE,,27593,291.3,6055,Napa,"{""06055"": ""100""}",Napa,6055,FALSE,FALSE,America/Los_Angeles
+1052,60%,94560,37.52037,-122.03099,Newark,CA,California,TRUE,,47171,1319.2,6001,Alameda,"{""06001"": ""100""}",Alameda,6001,FALSE,FALSE,America/Los_Angeles
+1053,60%,94561,37.99363,-121.69256,Oakley,CA,California,TRUE,,42473,964.6,6013,Contra Costa,"{""06013"": ""100""}",Contra Costa,6013,FALSE,FALSE,America/Los_Angeles
+1054,60%,94563,37.87967,-122.18458,Orinda,CA,California,TRUE,,19644,438.6,6013,Contra Costa,"{""06013"": ""100""}",Contra Costa,6013,FALSE,FALSE,America/Los_Angeles
+1055,60%,94564,37.99177,-122.27992,Pinole,CA,California,TRUE,,19260,1343.6,6013,Contra Costa,"{""06013"": ""100""}",Contra Costa,6013,FALSE,FALSE,America/Los_Angeles
+1056,60%,94565,38.01584,-121.90708,Pittsburg,CA,California,TRUE,,97671,1255.6,6013,Contra Costa,"{""06013"": ""100""}",Contra Costa,6013,FALSE,FALSE,America/Los_Angeles
+1057,60%,94566,37.64912,-121.8591,Pleasanton,CA,California,TRUE,,45893,902.7,6001,Alameda,"{""06001"": ""100""}",Alameda,6001,FALSE,FALSE,America/Los_Angeles
+1058,60%,94567,38.70583,-122.38603,Pope Valley,CA,California,TRUE,,658,1.9,6055,Napa,"{""06055"": ""100""}",Napa,6055,FALSE,FALSE,America/Los_Angeles
+1059,60%,94568,37.71525,-121.91467,Dublin,CA,California,TRUE,,55608,1404.3,6001,Alameda,"{""06001"": ""100""}",Alameda,6001,FALSE,FALSE,America/Los_Angeles
+1060,60%,94569,38.03508,-122.19244,Port Costa,CA,California,TRUE,,180,29.4,6013,Contra Costa,"{""06013"": ""100""}",Contra Costa,6013,FALSE,FALSE,America/Los_Angeles
+1061,60%,94571,38.15822,-121.74043,Rio Vista,CA,California,TRUE,,10605,34.8,6095,Solano,"{""06095"": ""96.94"", ""06067"": ""3.06""}",Solano|Sacramento,06095|06067,FALSE,FALSE,America/Los_Angeles
+1062,60%,94572,38.03198,-122.25077,Rodeo,CA,California,TRUE,,10384,924.7,6013,Contra Costa,"{""06013"": ""100""}",Contra Costa,6013,FALSE,FALSE,America/Los_Angeles
+1063,60%,94573,38.4556,-122.4261,Rutherford,CA,California,TRUE,,36,14,6055,Napa,"{""06055"": ""100""}",Napa,6055,FALSE,FALSE,America/Los_Angeles
+1064,60%,94574,38.53569,-122.39274,Saint Helena,CA,California,TRUE,,8757,26.5,6055,Napa,"{""06055"": ""100""}",Napa,6055,FALSE,FALSE,America/Los_Angeles
+1065,60%,94575,37.8419,-122.11042,Moraga,CA,California,TRUE,,1178,2725.6,6013,Contra Costa,"{""06013"": ""100""}",Contra Costa,6013,FALSE,FALSE,America/Los_Angeles

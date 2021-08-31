@@ -1,0 +1,201 @@
+,,zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone
+1,0.002469136,85003,33.45076,-112.07836,Phoenix,AZ,Arizona,TRUE,,8499,1772.5,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+2,0.004938272,85004,33.45155,-112.06986,Phoenix,AZ,Arizona,TRUE,,7164,1356,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+3,0.007407407,85006,33.46513,-112.04788,Phoenix,AZ,Arizona,TRUE,,27206,2690.9,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+4,0.009876543,85007,33.44713,-112.0912,Phoenix,AZ,Arizona,TRUE,,14428,1219.9,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+5,0.012345679,85008,33.46331,-111.98676,Phoenix,AZ,Arizona,TRUE,,62340,2297.8,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+6,0.014814815,85009,33.44281,-112.12823,Phoenix,AZ,Arizona,TRUE,,51711,1278.1,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+7,0.017283951,85012,33.50731,-112.07035,Phoenix,AZ,Arizona,TRUE,,7492,1318.4,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+8,0.019753086,85013,33.51007,-112.08287,Phoenix,AZ,Arizona,TRUE,,21028,2183.9,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+9,0.022222222,85014,33.5085,-112.05674,Phoenix,AZ,Arizona,TRUE,,27623,2551.8,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+10,0.024691358,85015,33.50918,-112.10179,Phoenix,AZ,Arizona,TRUE,,41895,3312.7,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+11,0.027160494,85016,33.51359,-112.02967,Phoenix,AZ,Arizona,TRUE,,35930,1535.9,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+12,0.02962963,85017,33.50909,-112.1237,Phoenix,AZ,Arizona,TRUE,,42656,3141.6,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+13,0.032098765,85018,33.50537,-111.98579,Phoenix,AZ,Arizona,TRUE,,38473,1336,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+14,0.034567901,85019,33.50918,-112.14299,Phoenix,AZ,Arizona,TRUE,,27813,2863.6,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+15,0.037037037,85020,33.56733,-112.05461,Phoenix,AZ,Arizona,TRUE,,35361,1535.6,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+16,0.039506173,85021,33.56004,-112.09398,Phoenix,AZ,Arizona,TRUE,,43378,2490.2,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+17,0.041975309,85022,33.62716,-112.05177,Phoenix,AZ,Arizona,TRUE,,51920,2145.4,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+18,0.044444444,85023,33.63155,-112.09466,Phoenix,AZ,Arizona,TRUE,,34268,1811.5,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+19,0.04691358,85024,33.73548,-112.03347,Phoenix,AZ,Arizona,TRUE,,24834,340.4,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+20,0.049382716,85027,33.6819,-112.0996,Phoenix,AZ,Arizona,TRUE,,37873,1040.1,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+21,0.051851852,85028,33.57555,-112.00911,Phoenix,AZ,Arizona,TRUE,,19334,744.8,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+22,0.054320988,85029,33.59504,-112.11027,Phoenix,AZ,Arizona,TRUE,,47080,1902.1,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+23,0.056790123,85031,33.49492,-112.16833,Phoenix,AZ,Arizona,TRUE,,33886,3228.9,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+24,0.059259259,85032,33.6263,-112.00381,Phoenix,AZ,Arizona,TRUE,,73203,2275,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+25,0.061728395,85033,33.49438,-112.21164,Phoenix,AZ,Arizona,TRUE,,64832,4106,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+26,0.064197531,85034,33.43489,-112.02005,Phoenix,AZ,Arizona,TRUE,,5045,170.5,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+27,0.066666667,85035,33.47144,-112.19466,Phoenix,AZ,Arizona,TRUE,,59660,4030.3,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+28,0.069135802,85037,33.49056,-112.26468,Phoenix,AZ,Arizona,TRUE,,54817,2585.4,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+29,0.071604938,85040,33.40613,-112.02657,Phoenix,AZ,Arizona,TRUE,,35204,1335.9,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+30,0.074074074,85041,33.38586,-112.10884,Phoenix,AZ,Arizona,TRUE,,62152,1511.9,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+31,0.07654321,85042,33.36882,-112.04246,Phoenix,AZ,Arizona,TRUE,,47957,1231.8,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+32,0.079012346,85043,33.43242,-112.19646,Phoenix,AZ,Arizona,TRUE,,38704,790.5,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+33,0.081481481,85044,33.34239,-112.00177,Phoenix,AZ,Arizona,TRUE,,41746,1118.5,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+34,0.083950617,85045,33.29917,-112.10853,Phoenix,AZ,Arizona,TRUE,,7008,747.9,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+35,0.086419753,85048,33.3126,-112.05578,Phoenix,AZ,Arizona,TRUE,,35765,700.3,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+36,0.088888889,85050,33.68633,-111.99631,Phoenix,AZ,Arizona,TRUE,,32039,847.9,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+37,0.091358025,85051,33.55908,-112.1332,Phoenix,AZ,Arizona,TRUE,,45313,2769.8,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+38,0.09382716,85053,33.62994,-112.1316,Phoenix,AZ,Arizona,TRUE,,30608,2268.7,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+39,0.096296296,85054,33.67311,-111.94612,Phoenix,AZ,Arizona,TRUE,,7785,334,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+40,0.098765432,85083,33.72456,-112.15854,Phoenix,AZ,Arizona,TRUE,,19923,781.4,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+41,0.101234568,85085,33.75295,-112.08931,Phoenix,AZ,Arizona,TRUE,,23700,357.3,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+42,0.103703704,85086,33.81546,-112.12019,Phoenix,AZ,Arizona,TRUE,,42179,279.2,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+43,0.10617284,85087,33.92352,-112.12793,New River,AZ,Arizona,TRUE,,7991,41.2,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+44,0.108641975,85118,33.3534,-111.35045,Gold Canyon,AZ,Arizona,TRUE,,13091,31.7,4021,Pinal,"{""04021"": ""100""}",Pinal,4021,FALSE,FALSE,America/Phoenix
+45,0.111111111,85119,33.40972,-111.50197,Apache Junction,AZ,Arizona,TRUE,,24255,212.5,4021,Pinal,"{""04021"": ""100""}",Pinal,4021,FALSE,FALSE,America/Phoenix
+46,0.113580247,85120,33.40301,-111.56787,Apache Junction,AZ,Arizona,TRUE,,31842,688.8,4021,Pinal,"{""04021"": ""83.77"", ""04013"": ""16.23""}",Pinal|Maricopa,04021|04013,FALSE,FALSE,America/Phoenix
+47,0.116049383,85121,33.14345,-111.92129,Bapchule,AZ,Arizona,TRUE,,1499,7.9,4021,Pinal,"{""04021"": ""100""}",Pinal,4021,FALSE,FALSE,America/Phoenix
+48,0.118518519,85122,32.91719,-111.74422,Casa Grande,AZ,Arizona,TRUE,,58724,453.3,4021,Pinal,"{""04021"": ""100""}",Pinal,4021,FALSE,FALSE,America/Phoenix
+49,0.120987654,85123,32.71578,-111.69557,Arizona City,AZ,Arizona,TRUE,,11265,163.5,4021,Pinal,"{""04021"": ""100""}",Pinal,4021,FALSE,FALSE,America/Phoenix
+50,0.12345679,85128,32.99049,-111.53802,Coolidge,AZ,Arizona,TRUE,,17053,40.3,4021,Pinal,"{""04021"": ""100""}",Pinal,4021,FALSE,FALSE,America/Phoenix
+51,0.125925926,85131,32.6739,-111.55013,Eloy,AZ,Arizona,TRUE,,20055,28.7,4021,Pinal,"{""04021"": ""100""}",Pinal,4021,FALSE,FALSE,America/Phoenix
+52,0.128395062,85132,32.93339,-111.20446,Florence,AZ,Arizona,TRUE,,39903,25.5,4021,Pinal,"{""04021"": ""100""}",Pinal,4021,FALSE,FALSE,America/Phoenix
+53,0.130864198,85135,33.00418,-110.786,Hayden,AZ,Arizona,TRUE,,490,429.2,4007,Gila,"{""04007"": ""100""}",Gila,4007,FALSE,FALSE,America/Phoenix
+54,0.133333333,85137,33.13733,-111.00194,Kearny,AZ,Arizona,TRUE,,2535,4.7,4021,Pinal,"{""04021"": ""100""}",Pinal,4021,FALSE,FALSE,America/Phoenix
+55,0.135802469,85138,33.00685,-111.98908,Maricopa,AZ,Arizona,TRUE,,38446,200.4,4021,Pinal,"{""04021"": ""100""}",Pinal,4021,FALSE,FALSE,America/Phoenix
+56,0.138271605,85139,32.97591,-112.14611,Maricopa,AZ,Arizona,TRUE,,17939,35.8,4021,Pinal,"{""04021"": ""99.31"", ""04013"": ""0.69""}",Pinal|Maricopa,04021|04013,FALSE,FALSE,America/Phoenix
+57,0.140740741,85140,33.24451,-111.54379,San Tan Valley,AZ,Arizona,TRUE,,47244,544.1,4021,Pinal,"{""04021"": ""100""}",Pinal,4021,FALSE,FALSE,America/Phoenix
+58,0.143209877,85141,32.67333,-111.45436,Picacho,AZ,Arizona,TRUE,,430,4,4021,Pinal,"{""04021"": ""100""}",Pinal,4021,FALSE,FALSE,America/Phoenix
+59,0.145679012,85142,33.19866,-111.63814,Queen Creek,AZ,Arizona,TRUE,,71423,388.2,4013,Maricopa,"{""04013"": ""66.26"", ""04021"": ""33.74""}",Maricopa|Pinal,04013|04021,FALSE,FALSE,America/Phoenix
+60,0.148148148,85143,33.15864,-111.51902,San Tan Valley,AZ,Arizona,TRUE,,39153,420.4,4021,Pinal,"{""04021"": ""100""}",Pinal,4021,FALSE,FALSE,America/Phoenix
+61,0.150617284,85145,32.55751,-111.36787,Red Rock,AZ,Arizona,TRUE,,4203,73,4021,Pinal,"{""04021"": ""100""}",Pinal,4021,FALSE,FALSE,America/Phoenix
+62,0.15308642,85147,33.12587,-111.73723,Sacaton,AZ,Arizona,TRUE,,3644,19.7,4021,Pinal,"{""04021"": ""100""}",Pinal,4021,FALSE,FALSE,America/Phoenix
+63,0.155555556,85172,32.88608,-111.95379,Stanfield,AZ,Arizona,TRUE,,1991,11.7,4021,Pinal,"{""04021"": ""100""}",Pinal,4021,FALSE,FALSE,America/Phoenix
+64,0.158024691,85173,33.27017,-111.12336,Superior,AZ,Arizona,TRUE,,3098,32.1,4021,Pinal,"{""04021"": ""100""}",Pinal,4021,FALSE,FALSE,America/Phoenix
+65,0.160493827,85192,32.96052,-110.68867,Winkelman,AZ,Arizona,TRUE,,2616,2.8,4021,Pinal,"{""04021"": ""67.26"", ""04007"": ""32.74""}",Pinal|Gila,04021|04007,FALSE,FALSE,America/Phoenix
+66,0.162962963,85193,32.79406,-111.82023,Casa Grande,AZ,Arizona,TRUE,,6142,9.2,4021,Pinal,"{""04021"": ""100""}",Pinal,4021,FALSE,FALSE,America/Phoenix
+67,0.165432099,85194,32.89835,-111.62605,Casa Grande,AZ,Arizona,TRUE,,7948,40.4,4021,Pinal,"{""04021"": ""100""}",Pinal,4021,FALSE,FALSE,America/Phoenix
+68,0.167901235,85201,33.43387,-111.85023,Mesa,AZ,Arizona,TRUE,,54110,2237.6,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+69,0.17037037,85202,33.38249,-111.87447,Mesa,AZ,Arizona,TRUE,,40364,2478.1,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+70,0.172839506,85203,33.45005,-111.804,Mesa,AZ,Arizona,TRUE,,39797,1677.1,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+71,0.175308642,85204,33.39679,-111.7881,Mesa,AZ,Arizona,TRUE,,67924,2647.4,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+72,0.177777778,85205,33.43232,-111.7187,Mesa,AZ,Arizona,TRUE,,43135,1701.5,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+73,0.180246914,85206,33.39667,-111.71772,Mesa,AZ,Arizona,TRUE,,37230,1506.9,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+74,0.182716049,85207,33.4535,-111.63683,Mesa,AZ,Arizona,TRUE,,49863,644.9,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+75,0.185185185,85208,33.40161,-111.62826,Mesa,AZ,Arizona,TRUE,,37109,1595.2,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+76,0.187654321,85209,33.37832,-111.63763,Mesa,AZ,Arizona,TRUE,,41407,1442.1,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+77,0.190123457,85210,33.38986,-111.84321,Mesa,AZ,Arizona,TRUE,,41073,2408.8,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+78,0.192592593,85212,33.32214,-111.63542,Mesa,AZ,Arizona,TRUE,,37204,405.4,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+79,0.195061728,85213,33.44847,-111.77,Mesa,AZ,Arizona,TRUE,,36916,1505,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+80,0.197530864,85215,33.51106,-111.57882,Mesa,AZ,Arizona,TRUE,,16471,76.8,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+81,0.2,85224,33.32365,-111.87643,Chandler,AZ,Arizona,TRUE,,43834,1813.8,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+82,0.202469136,85225,33.3174,-111.83218,Chandler,AZ,Arizona,TRUE,,70356,2120,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+83,0.204938272,85226,33.259,-112.00763,Chandler,AZ,Arizona,TRUE,,39157,188.8,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+84,0.207407407,85233,33.35211,-111.81134,Gilbert,AZ,Arizona,TRUE,,35640,1414.2,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+85,0.209876543,85234,33.36455,-111.73943,Gilbert,AZ,Arizona,TRUE,,49056,1594.5,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+86,0.212345679,85248,33.21797,-111.86962,Chandler,AZ,Arizona,TRUE,,35040,447.1,4013,Maricopa,"{""04013"": ""97.55"", ""04021"": ""2.45""}",Maricopa|Pinal,04013|04021,FALSE,FALSE,America/Phoenix
+87,0.214814815,85249,33.22551,-111.79707,Chandler,AZ,Arizona,TRUE,,39618,1107.4,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+88,0.217283951,85250,33.53583,-111.88853,Scottsdale,AZ,Arizona,TRUE,,17688,725.2,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+89,0.219753086,85251,33.49393,-111.91954,Scottsdale,AZ,Arizona,TRUE,,41102,2153.5,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+90,0.222222222,85253,33.54501,-111.95854,Paradise Valley,AZ,Arizona,TRUE,,18811,403.9,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+91,0.224691358,85254,33.61504,-111.95198,Scottsdale,AZ,Arizona,TRUE,,47185,1335.7,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+92,0.227160494,85255,33.68316,-111.82109,Scottsdale,AZ,Arizona,TRUE,,43956,193.8,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+93,0.22962963,85256,33.50196,-111.84066,Scottsdale,AZ,Arizona,TRUE,,6173,72.2,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+94,0.232098765,85257,33.46417,-111.91592,Scottsdale,AZ,Arizona,TRUE,,33392,1966.8,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+95,0.234567901,85258,33.56466,-111.89566,Scottsdale,AZ,Arizona,TRUE,,25755,1159.6,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+96,0.237037037,85259,33.60112,-111.80949,Scottsdale,AZ,Arizona,TRUE,,23364,440.4,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+97,0.239506173,85260,33.60959,-111.89159,Scottsdale,AZ,Arizona,TRUE,,39861,1060.6,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+98,0.241975309,85262,33.83185,-111.81058,Scottsdale,AZ,Arizona,TRUE,,11872,36.2,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+99,0.244444444,85263,33.82693,-111.51454,Rio Verde,AZ,Arizona,TRUE,,2907,3.3,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+100,0.24691358,85264,33.63083,-111.5326,Fort Mcdowell,AZ,Arizona,TRUE,,1345,2.4,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+101,0.249382716,85266,33.76695,-111.91825,Scottsdale,AZ,Arizona,TRUE,,13253,298.7,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+102,0.251851852,85268,33.60699,-111.74005,Fountain Hills,AZ,Arizona,TRUE,,25022,469.1,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+103,0.254320988,85281,33.42815,-111.93115,Tempe,AZ,Arizona,TRUE,,66833,1931.8,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+104,0.256790123,85282,33.39414,-111.93184,Tempe,AZ,Arizona,TRUE,,55664,1923.6,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+105,0.259259259,85283,33.36461,-111.93212,Tempe,AZ,Arizona,TRUE,,51495,2260.4,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+106,0.261728395,85284,33.33717,-111.93424,Tempe,AZ,Arizona,TRUE,,19909,989.5,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+107,0.264197531,85286,33.27106,-111.83122,Chandler,AZ,Arizona,TRUE,,44885,1066.6,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+108,0.266666667,85295,33.30544,-111.74085,Gilbert,AZ,Arizona,TRUE,,47791,1459.8,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+109,0.269135802,85296,33.33539,-111.74059,Gilbert,AZ,Arizona,TRUE,,44564,1519.7,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+110,0.271604938,85297,33.2778,-111.7335,Gilbert,AZ,Arizona,TRUE,,33868,1239,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+111,0.274074074,85298,33.24188,-111.72573,Gilbert,AZ,Arizona,TRUE,,31593,852.4,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+112,0.27654321,85301,33.53177,-112.17799,Glendale,AZ,Arizona,TRUE,,68579,2856.1,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+113,0.279012346,85302,33.56796,-112.17795,Glendale,AZ,Arizona,TRUE,,40186,2542.7,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+114,0.281481481,85303,33.5327,-112.22112,Glendale,AZ,Arizona,TRUE,,35142,2142.8,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+115,0.283950617,85304,33.59646,-112.17698,Glendale,AZ,Arizona,TRUE,,28113,1949.5,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+116,0.286419753,85305,33.53079,-112.25636,Glendale,AZ,Arizona,TRUE,,13370,814.7,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+117,0.288888889,85306,33.62394,-112.17639,Glendale,AZ,Arizona,TRUE,,25520,1757.9,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+118,0.291358025,85307,33.53756,-112.31365,Glendale,AZ,Arizona,TRUE,,11108,344.6,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+119,0.29382716,85308,33.66051,-112.18462,Glendale,AZ,Arizona,TRUE,,66706,1507.9,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+120,0.296296296,85309,33.53551,-112.37668,Luke Air Force Base,AZ,Arizona,TRUE,,678,76.3,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+121,0.298765432,85310,33.69578,-112.1719,Glendale,AZ,Arizona,TRUE,,20267,858.5,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+122,0.301234568,85320,33.91846,-113.21363,Aguila,AZ,Arizona,TRUE,,1207,0.9,4013,Maricopa,"{""04013"": ""98.66"", ""04025"": ""1.34""}",Maricopa|Yavapai,04013|04025,FALSE,FALSE,America/Phoenix
+123,0.303703704,85321,32.22945,-112.65431,Ajo,AZ,Arizona,TRUE,,4009,1,4019,Pima,"{""04019"": ""96.6"", ""04013"": ""3.4""}",Pima|Maricopa,04019|04013,FALSE,FALSE,America/Phoenix
+124,0.30617284,85322,33.1741,-112.85102,Arlington,AZ,Arizona,TRUE,,670,0.8,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+125,0.308641975,85323,33.41939,-112.32606,Avondale,AZ,Arizona,TRUE,,43968,913.3,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+126,0.311111111,85324,34.11916,-112.04426,Black Canyon City,AZ,Arizona,TRUE,,2825,3.7,4025,Yavapai,"{""04025"": ""100""}",Yavapai,4025,FALSE,FALSE,America/Phoenix
+127,0.313580247,85325,33.99884,-113.90161,Bouse,AZ,Arizona,TRUE,,1288,0.6,4012,La Paz,"{""04012"": ""100""}",La Paz,4012,FALSE,FALSE,America/Phoenix
+128,0.316049383,85326,33.28904,-112.57796,Buckeye,AZ,Arizona,TRUE,,63317,66.3,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+129,0.318518519,85328,33.22631,-114.63446,Cibola,AZ,Arizona,TRUE,,367,0.8,4012,La Paz,"{""04012"": ""100""}",La Paz,4012,FALSE,FALSE,America/Phoenix
+130,0.320987654,85331,33.88506,-111.93494,Cave Creek,AZ,Arizona,TRUE,,30727,105.6,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+131,0.32345679,85332,34.19082,-112.90464,Congress,AZ,Arizona,TRUE,,1747,1.6,4025,Yavapai,"{""04025"": ""100""}",Yavapai,4025,FALSE,FALSE,America/Phoenix
+132,0.325925926,85333,33.02343,-113.28105,Dateland,AZ,Arizona,TRUE,,565,0.3,4027,Yuma,"{""04027"": ""90.25"", ""04013"": ""9.75""}",Yuma|Maricopa,04027|04013,FALSE,FALSE,America/Phoenix
+133,0.328395062,85334,33.52216,-114.53383,Ehrenberg,AZ,Arizona,TRUE,,1160,6.9,4012,La Paz,"{""04012"": ""100""}",La Paz,4012,FALSE,FALSE,America/Phoenix
+134,0.330864198,85335,33.59191,-112.32664,El Mirage,AZ,Arizona,TRUE,,35333,1367.4,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+135,0.333333333,85336,32.54533,-114.78951,San Luis,AZ,Arizona,TRUE,,510,51.6,4027,Yuma,"{""04027"": ""100""}",Yuma,4027,FALSE,FALSE,America/Phoenix
+136,0.335802469,85337,32.95961,-112.7033,Gila Bend,AZ,Arizona,TRUE,,2626,1.8,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+137,0.338271605,85338,33.3735,-112.40794,Goodyear,AZ,Arizona,TRUE,,50122,262.1,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+138,0.340740741,85339,33.23775,-112.16077,Laveen,AZ,Arizona,TRUE,,47958,87.1,4013,Maricopa,"{""04013"": ""99.85"", ""04021"": ""0.15""}",Maricopa|Pinal,04013|04021,FALSE,FALSE,America/Phoenix
+139,0.343209877,85340,33.50984,-112.41317,Litchfield Park,AZ,Arizona,TRUE,,35316,452.6,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+140,0.345679012,85341,31.87377,-112.78476,Lukeville,AZ,Arizona,TRUE,,0,0,4019,Pima,"{""04019"": ""100""}",Pima,4019,FALSE,FALSE,America/Phoenix
+141,0.348148148,85342,33.94479,-112.45305,Morristown,AZ,Arizona,TRUE,,1637,1.4,4013,Maricopa,"{""04013"": ""97.21"", ""04025"": ""2.79""}",Maricopa|Yavapai,04013|04025,FALSE,FALSE,America/Phoenix
+142,0.350617284,85343,33.33909,-112.6891,Palo Verde,AZ,Arizona,TRUE,,205,9.9,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+143,0.35308642,85344,34.07552,-114.22197,Parker,AZ,Arizona,TRUE,,10495,9.5,4012,La Paz,"{""04012"": ""100""}",La Paz,4012,FALSE,FALSE,America/Phoenix
+144,0.355555556,85345,33.57196,-112.24617,Peoria,AZ,Arizona,TRUE,,57351,1696.4,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+145,0.358024691,85346,33.63625,-114.14619,Quartzsite,AZ,Arizona,TRUE,,4248,2.6,4012,La Paz,"{""04012"": ""100""}",La Paz,4012,FALSE,FALSE,America/Phoenix
+146,0.360493827,85347,32.79743,-113.78962,Roll,AZ,Arizona,TRUE,,608,1.1,4027,Yuma,"{""04027"": ""100""}",Yuma,4027,FALSE,FALSE,America/Phoenix
+147,0.362962963,85348,33.70873,-113.71442,Salome,AZ,Arizona,TRUE,,2537,2.2,4012,La Paz,"{""04012"": ""100""}",La Paz,4012,FALSE,FALSE,America/Phoenix
+148,0.365432099,85349,32.49738,-114.7524,San Luis,AZ,Arizona,TRUE,,31488,677.5,4027,Yuma,"{""04027"": ""100""}",Yuma,4027,FALSE,FALSE,America/Phoenix
+149,0.367901235,85350,32.55352,-114.6974,Somerton,AZ,Arizona,TRUE,,22593,88.6,4027,Yuma,"{""04027"": ""100""}",Yuma,4027,FALSE,FALSE,America/Phoenix
+150,0.37037037,85351,33.60645,-112.2821,Sun City,AZ,Arizona,TRUE,,28528,1014.3,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+151,0.372839506,85352,32.71939,-113.83951,Tacna,AZ,Arizona,TRUE,,500,3.1,4027,Yuma,"{""04027"": ""100""}",Yuma,4027,FALSE,FALSE,America/Phoenix
+152,0.375308642,85353,33.41824,-112.27288,Tolleson,AZ,Arizona,TRUE,,42801,762.1,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+153,0.377777778,85354,33.43316,-113.04897,Tonopah,AZ,Arizona,TRUE,,7719,5,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+154,0.380246914,85355,33.57623,-112.45385,Waddell,AZ,Arizona,TRUE,,12998,142.7,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+155,0.382716049,85356,32.68901,-114.16228,Wellton,AZ,Arizona,TRUE,,5191,12.1,4027,Yuma,"{""04027"": ""100""}",Yuma,4027,FALSE,FALSE,America/Phoenix
+156,0.385185185,85357,33.97768,-113.50324,Wenden,AZ,Arizona,TRUE,,408,0.3,4012,La Paz,"{""04012"": ""100""}",La Paz,4012,FALSE,FALSE,America/Phoenix
+157,0.387654321,85360,34.70927,-113.56826,Wikieup,AZ,Arizona,TRUE,,128,0.1,4015,Mohave,"{""04015"": ""100""}",Mohave,4015,FALSE,FALSE,America/Phoenix
+158,0.390123457,85361,33.76398,-112.61468,Wittmann,AZ,Arizona,TRUE,,6368,20.7,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+159,0.392592593,85362,34.27995,-112.83475,Yarnell,AZ,Arizona,TRUE,,739,4,4025,Yavapai,"{""04025"": ""100""}",Yavapai,4025,FALSE,FALSE,America/Phoenix
+160,0.395061728,85363,33.58446,-112.30505,Youngtown,AZ,Arizona,TRUE,,6802,1652.7,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+161,0.397530864,85364,32.70312,-114.65882,Yuma,AZ,Arizona,TRUE,,74333,727.4,4027,Yuma,"{""04027"": ""100""}",Yuma,4027,FALSE,FALSE,America/Phoenix
+162,0.4,85365,33.07894,-114.15047,Yuma,AZ,Arizona,TRUE,,50865,14.3,4027,Yuma,"{""04027"": ""100""}",Yuma,4027,FALSE,FALSE,America/Phoenix
+163,0.402469136,85367,32.67173,-114.39553,Yuma,AZ,Arizona,TRUE,,22897,194.9,4027,Yuma,"{""04027"": ""100""}",Yuma,4027,FALSE,FALSE,America/Phoenix
+164,0.404938272,85371,33.82863,-114.37582,Poston,AZ,Arizona,TRUE,,290,0.6,4012,La Paz,"{""04012"": ""100""}",La Paz,4012,FALSE,FALSE,America/Phoenix
+165,0.407407407,85373,33.67381,-112.29959,Sun City,AZ,Arizona,TRUE,,19360,656,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+166,0.409876543,85374,33.64402,-112.37672,Surprise,AZ,Arizona,TRUE,,48430,1151.2,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+167,0.412345679,85375,33.68563,-112.36604,Sun City West,AZ,Arizona,TRUE,,29452,617.8,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+168,0.414814815,85377,33.82433,-111.91526,Carefree,AZ,Arizona,TRUE,,3333,152,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+169,0.417283951,85379,33.6021,-112.37355,Surprise,AZ,Arizona,TRUE,,47663,1710.3,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+170,0.419753086,85381,33.60956,-112.23168,Peoria,AZ,Arizona,TRUE,,24997,1451.5,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+171,0.422222222,85382,33.65509,-112.24747,Peoria,AZ,Arizona,TRUE,,38890,1517.2,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+172,0.424691358,85383,33.80236,-112.247,Peoria,AZ,Arizona,TRUE,,55327,223.2,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+173,0.427160494,85387,33.7128,-112.43806,Surprise,AZ,Arizona,TRUE,,10512,74.3,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+174,0.42962963,85388,33.6079,-112.43383,Surprise,AZ,Arizona,TRUE,,30817,907,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+175,0.432098765,85390,33.89445,-112.86018,Wickenburg,AZ,Arizona,TRUE,,9314,6.1,4013,Maricopa,"{""04013"": ""91.66"", ""04025"": ""8.34""}",Maricopa|Yavapai,04013|04025,FALSE,FALSE,America/Phoenix
+176,0.434567901,85392,33.4778,-112.30938,Avondale,AZ,Arizona,TRUE,,39054,1593.2,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+177,0.437037037,85395,33.47907,-112.39452,Goodyear,AZ,Arizona,TRUE,,30491,824.6,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+178,0.439506173,85396,33.52694,-112.65073,Buckeye,AZ,Arizona,TRUE,,20905,97.6,4013,Maricopa,"{""04013"": ""100""}",Maricopa,4013,FALSE,FALSE,America/Phoenix
+179,0.441975309,85501,33.5391,-110.75344,Globe,AZ,Arizona,TRUE,,12805,8.8,4007,Gila,"{""04007"": ""100""}",Gila,4007,FALSE,FALSE,America/Phoenix
+180,0.444444444,85530,33.1062,-110.23732,Bylas,AZ,Arizona,TRUE,,1771,1.6,4009,Graham,"{""04009"": ""100""}",Graham,4009,FALSE,FALSE,America/Phoenix
+181,0.44691358,85531,32.87715,-109.78936,Central,AZ,Arizona,TRUE,,323,29.9,4009,Graham,"{""04009"": ""100""}",Graham,4009,FALSE,FALSE,America/Phoenix
+182,0.449382716,85533,33.32098,-109.38563,Clifton,AZ,Arizona,TRUE,,3361,1.1,4011,Greenlee,"{""04011"": ""99.69"", ""04009"": ""0.31""}",Greenlee|Graham,04011|04009,FALSE,FALSE,America/Phoenix
+183,0.451851852,85534,32.75427,-109.14059,Duncan,AZ,Arizona,TRUE,,2753,2.4,4011,Greenlee,"{""04011"": ""100""}",Greenlee,4011,FALSE,FALSE,America/Phoenix
+184,0.454320988,85535,32.98992,-109.91384,Eden,AZ,Arizona,TRUE,,0,0,4009,Graham,"{""04009"": ""100""}",Graham,4009,FALSE,FALSE,America/Phoenix
+185,0.456790123,85536,33.13902,-110.00261,Fort Thomas,AZ,Arizona,TRUE,,440,1.2,4009,Graham,"{""04009"": ""100""}",Graham,4009,FALSE,FALSE,America/Phoenix
+186,0.459259259,85539,33.36098,-110.913,Miami,AZ,Arizona,TRUE,,4424,30.4,4007,Gila,"{""04007"": ""94.89"", ""04021"": ""5.11""}",Gila|Pinal,04007|04021,FALSE,FALSE,America/Phoenix
+187,0.461728395,85540,32.97739,-109.35748,Morenci,AZ,Arizona,TRUE,,3380,13,4011,Greenlee,"{""04011"": ""100""}",Greenlee,4011,FALSE,FALSE,America/Phoenix
+188,0.464197531,85541,34.19483,-111.3052,Payson,AZ,Arizona,TRUE,,21661,10.7,4007,Gila,"{""04007"": ""100""}",Gila,4007,FALSE,FALSE,America/Phoenix
+189,0.466666667,85542,33.29655,-110.30316,Peridot,AZ,Arizona,TRUE,,3700,6.5,4009,Graham,"{""04009"": ""84.42"", ""04007"": ""15.58""}",Graham|Gila,04009|04007,FALSE,FALSE,America/Phoenix
+190,0.469135802,85543,32.98253,-109.96759,Pima,AZ,Arizona,TRUE,,3552,2.3,4009,Graham,"{""04009"": ""100""}",Graham,4009,FALSE,FALSE,America/Phoenix
+191,0.471604938,85544,34.34353,-111.53529,Pine,AZ,Arizona,TRUE,,2763,6.4,4007,Gila,"{""04007"": ""100""}",Gila,4007,FALSE,FALSE,America/Phoenix
+192,0.474074074,85545,33.54555,-111.12486,Roosevelt,AZ,Arizona,TRUE,,540,0.5,4007,Gila,"{""04007"": ""97.43"", ""04013"": ""2.57""}",Gila|Maricopa,04007|04013,FALSE,FALSE,America/Phoenix
+193,0.47654321,85546,32.7113,-109.58411,Safford,AZ,Arizona,TRUE,,20610,11.8,4009,Graham,"{""04009"": ""100""}",Graham,4009,FALSE,FALSE,America/Phoenix
+194,0.479012346,85550,33.5311,-110.48326,San Carlos,AZ,Arizona,TRUE,,5239,3.6,4007,Gila,"{""04007"": ""100""}",Gila,4007,FALSE,FALSE,America/Phoenix
+195,0.481481481,85551,32.72087,-109.58365,Solomon,AZ,Arizona,TRUE,,447,3.2,4009,Graham,"{""04009"": ""100""}",Graham,4009,FALSE,FALSE,America/Phoenix
+196,0.483950617,85552,32.82182,-109.76941,Thatcher,AZ,Arizona,TRUE,,6671,107.5,4009,Graham,"{""04009"": ""100""}",Graham,4009,FALSE,FALSE,America/Phoenix
+197,0.486419753,85553,33.81552,-111.22885,Tonto Basin,AZ,Arizona,TRUE,,1791,2.3,4007,Gila,"{""04007"": ""100""}",Gila,4007,FALSE,FALSE,America/Phoenix
+198,0.488888889,85554,33.98597,-110.95425,Young,AZ,Arizona,TRUE,,581,0.3,4007,Gila,"{""04007"": ""100""}",Gila,4007,FALSE,FALSE,America/Phoenix
+199,0.491358025,85601,31.5884,-111.31589,Arivaca,AZ,Arizona,TRUE,,723,2.3,4019,Pima,"{""04019"": ""100""}",Pima,4019,FALSE,FALSE,America/Phoenix
+200,0.49382716,85602,32.17427,-110.37703,Benson,AZ,Arizona,TRUE,,9051,4.7,4003,Cochise,"{""04003"": ""90.16"", ""04019"": ""9.84""}",Cochise|Pima,04003|04019,FALSE,FALSE,America/Phoenix

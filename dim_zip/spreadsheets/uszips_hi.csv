@@ -1,0 +1,95 @@
+,zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone
+1,96701,21.39682,-157.89771,Aiea,HI,Hawaii,TRUE,,40857,834.4,15003,Honolulu,"{""15003"": ""100""}",Honolulu,15003,FALSE,FALSE,Pacific/Honolulu
+2,96703,22.15145,-159.3502,Anahola,HI,Hawaii,TRUE,,2245,46.3,15007,Kauai,"{""15007"": ""100""}",Kauai,15007,FALSE,FALSE,Pacific/Honolulu
+3,96704,19.32065,-155.81007,Captain Cook,HI,Hawaii,TRUE,,8049,10.9,15001,Hawaii,"{""15001"": ""100""}",Hawaii,15001,FALSE,FALSE,Pacific/Honolulu
+4,96705,21.89982,-159.56548,Eleele,HI,Hawaii,TRUE,,3081,408.9,15007,Kauai,"{""15007"": ""100""}",Kauai,15007,FALSE,FALSE,Pacific/Honolulu
+5,96706,21.3403,-158.01708,Ewa Beach,HI,Hawaii,TRUE,,74592,1686.1,15003,Honolulu,"{""15003"": ""100""}",Honolulu,15003,FALSE,FALSE,Pacific/Honolulu
+6,96707,21.36453,-158.08142,Kapolei,HI,Hawaii,TRUE,,46928,417.7,15003,Honolulu,"{""15003"": ""100""}",Honolulu,15003,FALSE,FALSE,Pacific/Honolulu
+7,96708,20.85231,-156.2229,Haiku,HI,Hawaii,TRUE,,11059,43.7,15009,Maui,"{""15009"": ""100""}",Maui,15009,FALSE,FALSE,Pacific/Honolulu
+8,96710,19.85432,-155.21809,Hakalau,HI,Hawaii,TRUE,,277,2.8,15001,Hawaii,"{""15001"": ""100""}",Hawaii,15001,FALSE,FALSE,Pacific/Honolulu
+9,96712,21.62927,-158.04855,Haleiwa,HI,Hawaii,TRUE,,7407,138.1,15003,Honolulu,"{""15003"": ""100""}",Honolulu,15003,FALSE,FALSE,Pacific/Honolulu
+10,96713,20.73387,-156.07377,Hana,HI,Hawaii,TRUE,,1160,4.3,15009,Maui,"{""15009"": ""100""}",Maui,15009,FALSE,FALSE,Pacific/Honolulu
+11,96714,22.15738,-159.54468,Hanalei,HI,Hawaii,TRUE,,896,4.4,15007,Kauai,"{""15007"": ""100""}",Kauai,15007,FALSE,FALSE,Pacific/Honolulu
+12,96716,22.0336,-159.58999,Hanapepe,HI,Hawaii,TRUE,,2995,10.8,15007,Kauai,"{""15007"": ""100""}",Kauai,15007,FALSE,FALSE,Pacific/Honolulu
+13,96717,21.55604,-157.89624,Hauula,HI,Hawaii,TRUE,,4708,73.1,15003,Honolulu,"{""15003"": ""100""}",Honolulu,15003,FALSE,FALSE,Pacific/Honolulu
+14,96719,20.18621,-155.82212,Hawi,HI,Hawaii,TRUE,,1440,27.2,15001,Hawaii,"{""15001"": ""100""}",Hawaii,15001,FALSE,FALSE,Pacific/Honolulu
+15,96720,19.67306,-155.2228,Hilo,HI,Hawaii,TRUE,,48339,62.3,15001,Hawaii,"{""15001"": ""100""}",Hawaii,15001,FALSE,FALSE,Pacific/Honolulu
+16,96722,22.20374,-159.46963,Princeville,HI,Hawaii,TRUE,,1908,132.3,15007,Kauai,"{""15007"": ""100""}",Kauai,15007,FALSE,FALSE,Pacific/Honolulu
+17,96725,19.62925,-155.89767,Holualoa,HI,Hawaii,TRUE,,2888,14.2,15001,Hawaii,"{""15001"": ""100""}",Hawaii,15001,FALSE,FALSE,Pacific/Honolulu
+18,96726,19.42816,-155.82098,Honaunau,HI,Hawaii,TRUE,,475,6.1,15001,Hawaii,"{""15001"": ""100""}",Hawaii,15001,FALSE,FALSE,Pacific/Honolulu
+19,96727,20.05515,-155.54362,Honokaa,HI,Hawaii,TRUE,,4540,13.9,15001,Hawaii,"{""15001"": ""100""}",Hawaii,15001,FALSE,FALSE,Pacific/Honolulu
+20,96728,19.85809,-155.12928,Honomu,HI,Hawaii,TRUE,,520,54.7,15001,Hawaii,"{""15001"": ""100""}",Hawaii,15001,FALSE,FALSE,Pacific/Honolulu
+21,96729,21.16773,-157.11424,Hoolehua,HI,Hawaii,TRUE,,1190,11,15009,Maui,"{""15009"": ""100""}",Maui,15009,FALSE,FALSE,Pacific/Honolulu
+22,96730,21.54614,-157.85111,Kaaawa,HI,Hawaii,TRUE,,1270,463.7,15003,Honolulu,"{""15003"": ""100""}",Honolulu,15003,FALSE,FALSE,Pacific/Honolulu
+23,96731,21.67075,-157.97674,Kahuku,HI,Hawaii,TRUE,,2960,58.9,15003,Honolulu,"{""15003"": ""100""}",Honolulu,15003,FALSE,FALSE,Pacific/Honolulu
+24,96732,20.88125,-156.4612,Kahului,HI,Hawaii,TRUE,,29075,1156.7,15009,Maui,"{""15009"": ""100""}",Maui,15009,FALSE,FALSE,Pacific/Honolulu
+25,96734,21.38884,-157.75325,Kailua,HI,Hawaii,TRUE,,51511,913.9,15003,Honolulu,"{""15003"": ""100""}",Honolulu,15003,FALSE,FALSE,Pacific/Honolulu
+26,96737,19.07026,-155.77587,Ocean View,HI,Hawaii,TRUE,,5011,15,15001,Hawaii,"{""15001"": ""100""}",Hawaii,15001,FALSE,FALSE,Pacific/Honolulu
+27,96738,19.90914,-155.78419,Waikoloa,HI,Hawaii,TRUE,,7001,30.2,15001,Hawaii,"{""15001"": ""100""}",Hawaii,15001,FALSE,FALSE,Pacific/Honolulu
+28,96740,19.7452,-155.90131,Kailua Kona,HI,Hawaii,TRUE,,42069,68.7,15001,Hawaii,"{""15001"": ""100""}",Hawaii,15001,FALSE,FALSE,Pacific/Honolulu
+29,96741,21.95578,-159.51629,Kalaheo,HI,Hawaii,TRUE,,6377,89.3,15007,Kauai,"{""15007"": ""100""}",Kauai,15007,FALSE,FALSE,Pacific/Honolulu
+30,96742,21.17087,-156.94743,Kalaupapa,HI,Hawaii,TRUE,,66,2.1,15005,Kalawao,"{""15005"": ""100""}",Kalawao,15005,FALSE,FALSE,Pacific/Honolulu
+31,96743,19.97485,-155.68644,Kamuela,HI,Hawaii,TRUE,,14856,15.4,15001,Hawaii,"{""15001"": ""100""}",Hawaii,15001,FALSE,FALSE,Pacific/Honolulu
+32,96744,21.44323,-157.83141,Kaneohe,HI,Hawaii,TRUE,,51601,577.7,15003,Honolulu,"{""15003"": ""100""}",Honolulu,15003,FALSE,FALSE,Pacific/Honolulu
+33,96746,22.09267,-159.38128,Kapaa,HI,Hawaii,TRUE,,19729,148.5,15007,Kauai,"{""15007"": ""100""}",Kauai,15007,FALSE,FALSE,Pacific/Honolulu
+34,96747,21.92434,-159.62455,Kaumakani,HI,Hawaii,TRUE,,975,145.4,15007,Kauai,"{""15007"": ""100""}",Kauai,15007,FALSE,FALSE,Pacific/Honolulu
+35,96748,21.11381,-156.87944,Kaunakakai,HI,Hawaii,TRUE,,3892,12.2,15009,Maui,"{""15009"": ""100""}",Maui,15009,FALSE,FALSE,Pacific/Honolulu
+36,96749,19.60753,-155.00156,Keaau,HI,Hawaii,TRUE,,17308,106.3,15001,Hawaii,"{""15001"": ""100""}",Hawaii,15001,FALSE,FALSE,Pacific/Honolulu
+37,96750,19.53819,-155.74884,Kealakekua,HI,Hawaii,TRUE,,3428,7.1,15001,Hawaii,"{""15001"": ""100""}",Hawaii,15001,FALSE,FALSE,Pacific/Honolulu
+38,96751,22.10489,-159.30252,Kealia,HI,Hawaii,TRUE,,103,103,15007,Kauai,"{""15007"": ""100""}",Kauai,15007,FALSE,FALSE,Pacific/Honolulu
+39,96752,21.98271,-159.73902,Kekaha,HI,Hawaii,TRUE,,3559,341.6,15007,Kauai,"{""15007"": ""100""}",Kauai,15007,FALSE,FALSE,Pacific/Honolulu
+40,96753,20.72067,-156.43534,Kihei,HI,Hawaii,TRUE,,28737,340.1,15009,Maui,"{""15009"": ""100""}",Maui,15009,FALSE,FALSE,Pacific/Honolulu
+41,96754,22.17561,-159.41264,Kilauea,HI,Hawaii,TRUE,,3269,30.4,15007,Kauai,"{""15007"": ""100""}",Kauai,15007,FALSE,FALSE,Pacific/Honolulu
+42,96755,20.19659,-155.7876,Kapaau,HI,Hawaii,TRUE,,3018,20.1,15001,Hawaii,"{""15001"": ""100""}",Hawaii,15001,FALSE,FALSE,Pacific/Honolulu
+43,96756,21.90957,-159.45386,Koloa,HI,Hawaii,TRUE,,6285,98.3,15007,Kauai,"{""15007"": ""100""}",Kauai,15007,FALSE,FALSE,Pacific/Honolulu
+44,96757,21.15538,-156.99495,Kualapuu,HI,Hawaii,TRUE,,503,12.6,15009,Maui,"{""15009"": ""100""}",Maui,15009,FALSE,FALSE,Pacific/Honolulu
+45,96759,21.46741,-158.07241,Kunia,HI,Hawaii,TRUE,,315,20.4,15003,Honolulu,"{""15003"": ""100""}",Honolulu,15003,FALSE,FALSE,Pacific/Honolulu
+46,96760,19.55478,-155.05612,Kurtistown,HI,Hawaii,TRUE,,2998,66.7,15001,Hawaii,"{""15001"": ""100""}",Hawaii,15001,FALSE,FALSE,Pacific/Honolulu
+47,96761,20.90573,-156.61649,Lahaina,HI,Hawaii,TRUE,,22301,111.4,15009,Maui,"{""15009"": ""100""}",Maui,15009,FALSE,FALSE,Pacific/Honolulu
+48,96762,21.62417,-157.94242,Laie,HI,Hawaii,TRUE,,6182,198,15003,Honolulu,"{""15003"": ""100""}",Honolulu,15003,FALSE,FALSE,Pacific/Honolulu
+49,96763,20.83512,-156.92717,Lanai City,HI,Hawaii,TRUE,,2730,7.5,15009,Maui,"{""15009"": ""100""}",Maui,15009,FALSE,FALSE,Pacific/Honolulu
+50,96764,19.92796,-155.2731,Laupahoehoe,HI,Hawaii,TRUE,,609,5.3,15001,Hawaii,"{""15001"": ""100""}",Hawaii,15001,FALSE,FALSE,Pacific/Honolulu
+51,96765,21.92154,-159.49217,Lawai,HI,Hawaii,TRUE,,201,72.8,15007,Kauai,"{""15007"": ""100""}",Kauai,15007,FALSE,FALSE,Pacific/Honolulu
+52,96766,21.9976,-159.41505,Lihue,HI,Hawaii,TRUE,,17929,81.5,15007,Kauai,"{""15007"": ""100""}",Kauai,15007,FALSE,FALSE,Pacific/Honolulu
+53,96768,20.83202,-156.29768,Makawao,HI,Hawaii,TRUE,,18529,167.6,15009,Maui,"{""15009"": ""100""}",Maui,15009,FALSE,FALSE,Pacific/Honolulu
+54,96769,21.9012,-160.10469,Makaweli,HI,Hawaii,TRUE,,352,1.8,15007,Kauai,"{""15007"": ""100""}",Kauai,15007,FALSE,FALSE,Pacific/Honolulu
+55,96770,21.13514,-157.21044,Maunaloa,HI,Hawaii,TRUE,,624,3.5,15009,Maui,"{""15009"": ""100""}",Maui,15009,FALSE,FALSE,Pacific/Honolulu
+56,96771,19.52402,-155.13342,Mountain View,HI,Hawaii,TRUE,,7968,33.4,15001,Hawaii,"{""15001"": ""100""}",Hawaii,15001,FALSE,FALSE,Pacific/Honolulu
+57,96772,19.19037,-155.6299,Naalehu,HI,Hawaii,TRUE,,2835,3.4,15001,Hawaii,"{""15001"": ""100""}",Hawaii,15001,FALSE,FALSE,Pacific/Honolulu
+58,96773,19.89025,-155.22474,Ninole,HI,Hawaii,TRUE,,125,1.4,15001,Hawaii,"{""15001"": ""100""}",Hawaii,15001,FALSE,FALSE,Pacific/Honolulu
+59,96774,19.95288,-155.33413,Ookala,HI,Hawaii,TRUE,,281,2.8,15001,Hawaii,"{""15001"": ""100""}",Hawaii,15001,FALSE,FALSE,Pacific/Honolulu
+60,96776,19.98691,-155.39649,Paauilo,HI,Hawaii,TRUE,,1458,8.3,15001,Hawaii,"{""15001"": ""100""}",Hawaii,15001,FALSE,FALSE,Pacific/Honolulu
+61,96777,19.24992,-155.4646,Pahala,HI,Hawaii,TRUE,,2026,4.5,15001,Hawaii,"{""15001"": ""100""}",Hawaii,15001,FALSE,FALSE,Pacific/Honolulu
+62,96778,19.42816,-155.02053,Pahoa,HI,Hawaii,TRUE,,14885,21.4,15001,Hawaii,"{""15001"": ""100""}",Hawaii,15001,FALSE,FALSE,Pacific/Honolulu
+63,96779,20.90557,-156.37745,Paia,HI,Hawaii,TRUE,,2522,115.8,15009,Maui,"{""15009"": ""100""}",Maui,15009,FALSE,FALSE,Pacific/Honolulu
+64,96780,19.96532,-155.21943,Papaaloa,HI,Hawaii,TRUE,,607,78.6,15001,Hawaii,"{""15001"": ""100""}",Hawaii,15001,FALSE,FALSE,Pacific/Honolulu
+65,96781,19.79317,-155.18285,Papaikou,HI,Hawaii,TRUE,,1258,12.1,15001,Hawaii,"{""15001"": ""100""}",Hawaii,15001,FALSE,FALSE,Pacific/Honolulu
+66,96782,21.41746,-157.93176,Pearl City,HI,Hawaii,TRUE,,38000,834.7,15003,Honolulu,"{""15003"": ""100""}",Honolulu,15003,FALSE,FALSE,Pacific/Honolulu
+67,96783,19.83136,-155.1478,Pepeekeo,HI,Hawaii,TRUE,,1568,31,15001,Hawaii,"{""15001"": ""100""}",Hawaii,15001,FALSE,FALSE,Pacific/Honolulu
+68,96785,19.45367,-155.40743,Volcano,HI,Hawaii,TRUE,,3622,5.4,15001,Hawaii,"{""15001"": ""100""}",Hawaii,15001,FALSE,FALSE,Pacific/Honolulu
+69,96786,21.55748,-158.01149,Wahiawa,HI,Hawaii,TRUE,,43488,204.8,15003,Honolulu,"{""15003"": ""100""}",Honolulu,15003,FALSE,FALSE,Pacific/Honolulu
+70,96789,21.47829,-157.97472,Mililani,HI,Hawaii,TRUE,,53485,757,15003,Honolulu,"{""15003"": ""100""}",Honolulu,15003,FALSE,FALSE,Pacific/Honolulu
+71,96790,20.69227,-156.29746,Kula,HI,Hawaii,TRUE,,9613,16.4,15009,Maui,"{""15009"": ""100""}",Maui,15009,FALSE,FALSE,Pacific/Honolulu
+72,96791,21.55079,-158.15725,Waialua,HI,Hawaii,TRUE,,7350,76.1,15003,Honolulu,"{""15003"": ""100""}",Honolulu,15003,FALSE,FALSE,Pacific/Honolulu
+73,96792,21.46307,-158.16416,Waianae,HI,Hawaii,TRUE,,49971,316.2,15003,Honolulu,"{""15003"": ""100""}",Honolulu,15003,FALSE,FALSE,Pacific/Honolulu
+74,96793,20.89769,-156.53765,Wailuku,HI,Hawaii,TRUE,,34036,191.3,15009,Maui,"{""15009"": ""100""}",Maui,15009,FALSE,FALSE,Pacific/Honolulu
+75,96795,21.34033,-157.71822,Waimanalo,HI,Hawaii,TRUE,,9642,333.7,15003,Honolulu,"{""15003"": ""100""}",Honolulu,15003,FALSE,FALSE,Pacific/Honolulu
+76,96796,22.09046,-159.68899,Waimea,HI,Hawaii,TRUE,,1865,15.6,15007,Kauai,"{""15007"": ""100""}",Kauai,15007,FALSE,FALSE,Pacific/Honolulu
+77,96797,21.42424,-157.97898,Waipahu,HI,Hawaii,TRUE,,73579,827.7,15003,Honolulu,"{""15003"": ""100""}",Honolulu,15003,FALSE,FALSE,Pacific/Honolulu
+78,96813,21.31704,-157.84338,Honolulu,HI,Hawaii,TRUE,,25446,2857.2,15003,Honolulu,"{""15003"": ""100""}",Honolulu,15003,FALSE,FALSE,Pacific/Honolulu
+79,96814,21.29399,-157.84693,Honolulu,HI,Hawaii,TRUE,,20035,6211.6,15003,Honolulu,"{""15003"": ""100""}",Honolulu,15003,FALSE,FALSE,Pacific/Honolulu
+80,96815,21.27557,-157.82262,Honolulu,HI,Hawaii,TRUE,,25261,5089.5,15003,Honolulu,"{""15003"": ""100""}",Honolulu,15003,FALSE,FALSE,Pacific/Honolulu
+81,96816,21.29278,-157.79071,Honolulu,HI,Hawaii,TRUE,,49834,1945.5,15003,Honolulu,"{""15003"": ""100""}",Honolulu,15003,FALSE,FALSE,Pacific/Honolulu
+82,96817,21.33981,-157.83799,Honolulu,HI,Hawaii,TRUE,,56144,2334.5,15003,Honolulu,"{""15003"": ""100""}",Honolulu,15003,FALSE,FALSE,Pacific/Honolulu
+83,96818,21.34756,-157.93857,Honolulu,HI,Hawaii,TRUE,,59679,2008.9,15003,Honolulu,"{""15003"": ""100""}",Honolulu,15003,FALSE,FALSE,Pacific/Honolulu
+84,96819,21.34984,-157.8753,Honolulu,HI,Hawaii,TRUE,,52981,935,15003,Honolulu,"{""15003"": ""100""}",Honolulu,15003,FALSE,FALSE,Pacific/Honolulu
+85,96821,21.29954,-157.75006,Honolulu,HI,Hawaii,TRUE,,18599,622.3,15003,Honolulu,"{""15003"": ""100""}",Honolulu,15003,FALSE,FALSE,Pacific/Honolulu
+86,96822,21.32018,-157.81079,Honolulu,HI,Hawaii,TRUE,,46690,2198.2,15003,Honolulu,"{""15003"": ""100""}",Honolulu,15003,FALSE,FALSE,Pacific/Honolulu
+87,96825,21.29601,-157.69129,Honolulu,HI,Hawaii,TRUE,,29066,1000.8,15003,Honolulu,"{""15003"": ""100""}",Honolulu,15003,FALSE,FALSE,Pacific/Honolulu
+88,96826,21.29159,-157.82698,Honolulu,HI,Hawaii,TRUE,,31445,11390.4,15003,Honolulu,"{""15003"": ""100""}",Honolulu,15003,FALSE,FALSE,Pacific/Honolulu
+89,96850,21.30376,-157.86266,Honolulu,HI,Hawaii,TRUE,,0,0,15003,Honolulu,"{""15003"": ""0""}",Honolulu,15003,FALSE,FALSE,Pacific/Honolulu
+90,96853,21.3348,-157.93444,Jbphh,HI,Hawaii,TRUE,,606,2525.5,15003,Honolulu,"{""15003"": ""100""}",Honolulu,15003,FALSE,FALSE,Pacific/Honolulu
+91,96857,21.48673,-158.05148,Schofield Barracks,HI,Hawaii,TRUE,,2826,2335.1,15003,Honolulu,"{""15003"": ""100""}",Honolulu,15003,FALSE,FALSE,Pacific/Honolulu
+92,96859,21.36046,-157.89064,Tripler Army Medical Center,HI,Hawaii,TRUE,,102,346.2,15003,Honolulu,"{""15003"": ""100""}",Honolulu,15003,FALSE,FALSE,Pacific/Honolulu
+93,96860,21.35382,-157.9394,Jbphh,HI,Hawaii,TRUE,,2214,2558.9,15003,Honolulu,"{""15003"": ""100""}",Honolulu,15003,FALSE,FALSE,Pacific/Honolulu
+94,96863,21.44845,-157.76232,Mcbh Kaneohe Bay,HI,Hawaii,TRUE,,47,641.2,15003,Honolulu,"{""15003"": ""100""}",Honolulu,15003,FALSE,FALSE,Pacific/Honolulu

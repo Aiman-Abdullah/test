@@ -1,0 +1,80 @@
+---------------------------------------------------------------------------------
+/* Creating Stage Tables */
+---------------------------------------------------------------------------------
+
+/* Create table jcwf_stage_product_group */
+--DROP TABLE jcwf_stage_product_group;
+
+
+CREATE TABLE jcwf_stage_product_group (
+   product_group    TEXT  NOT NULL
+,  product_group_description    TEXT  
+,  product    TEXT
+,  product_description  TEXT   
+,  product_type  TEXT   
+,  dealer  TEXT  
+,  oe  TEXT   
+);
+
+
+SELECT * FROM jcwf_stage_product_group;
+
+---------------------------------------------------------------------------------
+/* Creating Transform Tables */
+---------------------------------------------------------------------------------
+
+/* Create table jcwf_tran_product_group*/
+-- DROP TABLE jcwf_tran_product_group;
+
+CREATE TABLE jcwf_tran_product_group (
+   product_group  int  
+,  product_group_description  TEXT  
+,  product  TEXT
+,  product_description  TEXT   
+,  product_type  TEXT  
+,  dealer  TEXT 
+,  oe  TEXT   
+
+,  row_is_current  VARCHAR(1)   
+,  row_start_date  TIMESTAMP   
+,  row_end_date  TIMESTAMP 
+,  row_change_reason  VARCHAR(200)   
+,  CONSTRAINT Unique_stage_product_group_id UNIQUE (product_group)
+);
+
+
+SELECT * FROM jcwf_tran_product_group;
+
+---------------------------------------------------------------------------------
+/* Creating Data Warehouse Dimension Tables */
+---------------------------------------------------------------------------------
+
+/* Create table jcwf_dim_product_group */
+-- DROP TABLE jcwf_dim_product_group;
+
+CREATE TABLE jcwf_dim_product_group (
+   
+   product_group_key  SERIAL  NOT NULL
+
+,  product_group  int 
+,  product_group_description  TEXT 
+,  product  TEXT
+,  product_description  TEXT 
+,  product_type  TEXT
+,  dealer  TEXT 
+,  oe  TEXT   
+
+
+,  row_is_current  VARCHAR(1) NOT NULL
+,  row_start_date  TIMESTAMP NOT NULL
+,  row_end_date  TIMESTAMP NOT NULL
+,  row_change_reason  VARCHAR(200) NOT NULL
+,  import_version VARCHAR(200) NOT NULL
+,  import_batch SERIAL NOT NULL
+,  import_user VARCHAR(200) NOT NULL
+,  CONSTRAINT pk_dim_product_group PRIMARY KEY (product_group_key)
+,  CONSTRAINT Unique_product__groupID UNIQUE (product_group)
+);
+
+
+SELECT * FROM jcwf_dim_product_group;

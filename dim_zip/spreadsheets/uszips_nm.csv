@@ -1,0 +1,369 @@
+zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone
+87001,35.38884,-106.3516,Algodones,NM,New Mexico,TRUE,,3639,11.7,35043,Sandoval,"{""35043"": ""100""}",Sandoval,35043,FALSE,FALSE,America/Denver
+87002,34.60272,-106.6599,Belen,NM,New Mexico,TRUE,,21993,24.6,35061,Valencia,"{""35061"": ""100""}",Valencia,35061,FALSE,FALSE,America/Denver
+87004,35.35824,-106.58333,Bernalillo,NM,New Mexico,TRUE,,11673,79,35043,Sandoval,"{""35043"": ""100""}",Sandoval,35043,FALSE,FALSE,America/Denver
+87005,35.26424,-107.97682,Bluewater,NM,New Mexico,TRUE,,219,2.8,35006,Cibola,"{""35006"": ""100""}",Cibola,35006,FALSE,FALSE,America/Denver
+87006,34.49195,-106.84311,Bosque,NM,New Mexico,TRUE,,1549,10.4,35053,Socorro,"{""35053"": ""59.6"", ""35061"": ""40.4""}",Socorro|Valencia,35053|35061,FALSE,FALSE,America/Denver
+87007,35.03773,-107.50292,Casa Blanca,NM,New Mexico,TRUE,,1020,16.5,35006,Cibola,"{""35006"": ""100""}",Cibola,35006,FALSE,FALSE,America/Denver
+87008,35.14572,-106.3918,Cedar Crest,NM,New Mexico,TRUE,,2464,33.6,35001,Bernalillo,"{""35001"": ""100""}",Bernalillo,35001,FALSE,FALSE,America/Denver
+87010,35.39865,-106.12888,Cerrillos,NM,New Mexico,TRUE,,1059,2.5,35049,Santa Fe,"{""35049"": ""100""}",Santa Fe,35049,FALSE,FALSE,America/Denver
+87011,34.06453,-105.94955,Claunch,NM,New Mexico,TRUE,,48,0,35027,Lincoln,"{""35027"": ""57.14"", ""35053"": ""42.86""}",Lincoln|Socorro,35027|35053,FALSE,FALSE,America/Denver
+87012,36.1018,-106.66923,Coyote,NM,New Mexico,TRUE,,226,0.9,35039,Rio Arriba,"{""35039"": ""100""}",Rio Arriba,35039,FALSE,FALSE,America/Denver
+87013,35.90924,-107.39226,Cuba,NM,New Mexico,TRUE,,5556,1.2,35043,Sandoval,"{""35043"": ""67.73"", ""35031"": ""26.56"", ""35039"": ""3.73"", ""35045"": ""1.98""}",Sandoval|McKinley|Rio Arriba|San Juan,35043|35031|35039|35045,FALSE,FALSE,America/Denver
+87014,35.21926,-107.38687,Cubero,NM,New Mexico,TRUE,,613,1.1,35006,Cibola,"{""35006"": ""99.69"", ""35043"": ""0.31""}",Cibola|Sandoval,35006|35043,FALSE,FALSE,America/Denver
+87015,35.07419,-106.18002,Edgewood,NM,New Mexico,TRUE,,13399,34.4,35049,Santa Fe,"{""35049"": ""67.66"", ""35057"": ""17.99"", ""35001"": ""14.35""}",Santa Fe|Torrance|Bernalillo,35049|35057|35001,FALSE,FALSE,America/Denver
+87016,34.77803,-105.92203,Estancia,NM,New Mexico,TRUE,,3184,1.6,35057,Torrance,"{""35057"": ""100""}",Torrance,35057,FALSE,FALSE,America/Denver
+87017,36.32022,-106.76865,Gallina,NM,New Mexico,TRUE,,322,0.7,35039,Rio Arriba,"{""35039"": ""100""}",Rio Arriba,35039,FALSE,FALSE,America/Denver
+87018,36.13061,-107.5115,Counselor,NM,New Mexico,TRUE,,589,1.9,35043,Sandoval,"{""35043"": ""100""}",Sandoval,35043,FALSE,FALSE,America/Denver
+87020,34.93005,-107.93988,Grants,NM,New Mexico,TRUE,,11069,4.1,35006,Cibola,"{""35006"": ""100""}",Cibola,35006,FALSE,FALSE,America/Denver
+87021,35.19137,-107.88389,Milan,NM,New Mexico,TRUE,,3421,171.1,35006,Cibola,"{""35006"": ""100""}",Cibola,35006,FALSE,FALSE,America/Denver
+87022,34.89774,-106.70539,Isleta,NM,New Mexico,TRUE,,778,146.2,35001,Bernalillo,"{""35001"": ""100""}",Bernalillo,35001,FALSE,FALSE,America/Denver
+87023,34.59821,-106.76059,Jarales,NM,New Mexico,TRUE,,529,65.4,35061,Valencia,"{""35061"": ""100""}",Valencia,35061,FALSE,FALSE,America/Denver
+87024,35.68399,-106.73,Jemez Pueblo,NM,New Mexico,TRUE,,2334,10.4,35043,Sandoval,"{""35043"": ""100""}",Sandoval,35043,FALSE,FALSE,America/Denver
+87025,35.83959,-106.63483,Jemez Springs,NM,New Mexico,TRUE,,1242,1.4,35043,Sandoval,"{""35043"": ""100""}",Sandoval,35043,FALSE,FALSE,America/Denver
+87026,34.96242,-107.23255,Laguna,NM,New Mexico,TRUE,,4090,3.1,35006,Cibola,"{""35006"": ""46.54"", ""35001"": ""37.98"", ""35061"": ""15.48""}",Cibola|Bernalillo|Valencia,35006|35001|35061,FALSE,FALSE,America/Denver
+87027,36.12632,-106.94777,La Jara,NM,New Mexico,TRUE,,341,3.7,35043,Sandoval,"{""35043"": ""100""}",Sandoval,35043,FALSE,FALSE,America/Denver
+87028,34.3621,-106.77283,La Joya,NM,New Mexico,TRUE,,612,3.4,35053,Socorro,"{""35053"": ""100""}",Socorro,35053,FALSE,FALSE,America/Denver
+87029,36.39636,-106.99763,Lindrith,NM,New Mexico,TRUE,,276,0.3,35039,Rio Arriba,"{""35039"": ""100""}",Rio Arriba,35039,FALSE,FALSE,America/Denver
+87031,34.73181,-106.88782,Los Lunas,NM,New Mexico,TRUE,,44364,33.7,35061,Valencia,"{""35061"": ""100""}",Valencia,35061,FALSE,FALSE,America/Denver
+87032,34.85126,-106.01138,Mcintosh,NM,New Mexico,TRUE,,253,6.1,35057,Torrance,"{""35057"": ""100""}",Torrance,35057,FALSE,FALSE,America/Denver
+87034,34.78174,-107.5614,Pueblo Of Acoma,NM,New Mexico,TRUE,,1821,0.8,35006,Cibola,"{""35006"": ""100""}",Cibola,35006,FALSE,FALSE,America/Denver
+87035,34.95997,-105.98054,Moriarty,NM,New Mexico,TRUE,,7512,13.2,35057,Torrance,"{""35057"": ""98.6"", ""35049"": ""1.4""}",Torrance|Santa Fe,35057|35049,FALSE,FALSE,America/Denver
+87036,34.37816,-106.25927,Mountainair,NM,New Mexico,TRUE,,1548,0.6,35057,Torrance,"{""35057"": ""98.82"", ""35053"": ""1.18""}",Torrance|Socorro,35057|35053,FALSE,FALSE,America/Denver
+87037,36.15984,-107.76644,Nageezi,NM,New Mexico,TRUE,,537,0.7,35045,San Juan,"{""35045"": ""100""}",San Juan,35045,FALSE,FALSE,America/Denver
+87038,35.08945,-107.4352,New Laguna,NM,New Mexico,TRUE,,710,10.7,35006,Cibola,"{""35006"": ""100""}",Cibola,35006,FALSE,FALSE,America/Denver
+87040,35.12356,-107.39163,Paguate,NM,New Mexico,TRUE,,432,9.3,35006,Cibola,"{""35006"": ""100""}",Cibola,35006,FALSE,FALSE,America/Denver
+87041,35.68785,-106.32989,Pena Blanca,NM,New Mexico,TRUE,,874,2.4,35043,Sandoval,"{""35043"": ""100""}",Sandoval,35043,FALSE,FALSE,America/Denver
+87042,34.82798,-106.68653,Peralta,NM,New Mexico,TRUE,,3576,305,35061,Valencia,"{""35061"": ""100""}",Valencia,35061,FALSE,FALSE,America/Denver
+87043,35.28806,-106.46606,Placitas,NM,New Mexico,TRUE,,4686,21.1,35043,Sandoval,"{""35043"": ""100""}",Sandoval,35043,FALSE,FALSE,America/Denver
+87044,35.66552,-106.64425,Ponderosa,NM,New Mexico,TRUE,,255,7,35043,Sandoval,"{""35043"": ""100""}",Sandoval,35043,FALSE,FALSE,America/Denver
+87045,35.39241,-108.02154,Prewitt,NM,New Mexico,TRUE,,1572,3.8,35031,McKinley,"{""35031"": ""97.54"", ""35006"": ""2.46""}",McKinley|Cibola,35031|35006,FALSE,FALSE,America/Denver
+87046,36.24694,-106.91609,Regina,NM,New Mexico,TRUE,,230,1.5,35043,Sandoval,"{""35043"": ""74.19"", ""35039"": ""25.81""}",Sandoval|Rio Arriba,35043|35039,FALSE,FALSE,America/Denver
+87047,35.24327,-106.28953,Sandia Park,NM,New Mexico,TRUE,,4665,13.6,35001,Bernalillo,"{""35001"": ""82.75"", ""35043"": ""12.85"", ""35049"": ""4.39""}",Bernalillo|Sandoval|Santa Fe,35001|35043|35049,FALSE,FALSE,America/Denver
+87048,35.23602,-106.62004,Corrales,NM,New Mexico,TRUE,,9072,317.2,35043,Sandoval,"{""35043"": ""95.76"", ""35001"": ""4.24""}",Sandoval|Bernalillo,35043|35001,FALSE,FALSE,America/Denver
+87049,35.12405,-107.59336,San Fidel,NM,New Mexico,TRUE,,1600,9.7,35006,Cibola,"{""35006"": ""100""}",Cibola,35006,FALSE,FALSE,America/Denver
+87051,35.04865,-107.83409,San Rafael,NM,New Mexico,TRUE,,1413,8.7,35006,Cibola,"{""35006"": ""100""}",Cibola,35006,FALSE,FALSE,America/Denver
+87052,35.50479,-106.30689,Santo Domingo Pueblo,NM,New Mexico,TRUE,,2858,28.2,35043,Sandoval,"{""35043"": ""100""}",Sandoval,35043,FALSE,FALSE,America/Denver
+87053,35.65124,-107.03361,San Ysidro,NM,New Mexico,TRUE,,1405,1.9,35043,Sandoval,"{""35043"": ""100""}",Sandoval,35043,FALSE,FALSE,America/Denver
+87056,35.18882,-105.88649,Stanley,NM,New Mexico,TRUE,,1063,0.8,35049,Santa Fe,"{""35049"": ""98.53"", ""35047"": ""1.47""}",Santa Fe|San Miguel,35049|35047,FALSE,FALSE,America/Denver
+87059,34.99401,-106.29716,Tijeras,NM,New Mexico,TRUE,,10488,28.4,35001,Bernalillo,"{""35001"": ""100""}",Bernalillo,35001,FALSE,FALSE,America/Denver
+87061,34.73119,-106.37961,Torreon,NM,New Mexico,TRUE,,320,0.9,35057,Torrance,"{""35057"": ""100""}",Torrance,35057,FALSE,FALSE,America/Denver
+87062,34.43995,-106.65882,Veguita,NM,New Mexico,TRUE,,1621,4.8,35053,Socorro,"{""35053"": ""100""}",Socorro,35053,FALSE,FALSE,America/Denver
+87063,34.5011,-105.85749,Willard,NM,New Mexico,TRUE,,252,0.3,35057,Torrance,"{""35057"": ""100""}",Torrance,35057,FALSE,FALSE,America/Denver
+87064,36.1862,-106.57686,Youngsville,NM,New Mexico,TRUE,,73,0.2,35039,Rio Arriba,"{""35039"": ""100""}",Rio Arriba,35039,FALSE,FALSE,America/Denver
+87068,34.86111,-106.57306,Bosque Farms,NM,New Mexico,TRUE,,4897,20.4,35061,Valencia,"{""35061"": ""100""}",Valencia,35061,FALSE,FALSE,America/Denver
+87070,35.0219,-105.77764,Clines Corners,NM,New Mexico,TRUE,,180,2.6,35057,Torrance,"{""35057"": ""100""}",Torrance,35057,FALSE,FALSE,America/Denver
+87072,35.61197,-106.38808,Cochiti Pueblo,NM,New Mexico,TRUE,,669,11.7,35043,Sandoval,"{""35043"": ""100""}",Sandoval,35043,FALSE,FALSE,America/Denver
+87083,35.64844,-106.34271,Cochiti Lake,NM,New Mexico,TRUE,,487,141.7,35043,Sandoval,"{""35043"": ""100""}",Sandoval,35043,FALSE,FALSE,America/Denver
+87102,35.08098,-106.64664,Albuquerque,NM,New Mexico,TRUE,,19191,1139.3,35001,Bernalillo,"{""35001"": ""100""}",Bernalillo,35001,FALSE,FALSE,America/Denver
+87104,35.10338,-106.67537,Albuquerque,NM,New Mexico,TRUE,,13534,1229.1,35001,Bernalillo,"{""35001"": ""100""}",Bernalillo,35001,FALSE,FALSE,America/Denver
+87105,34.96917,-106.63094,Albuquerque,NM,New Mexico,TRUE,,58119,239.4,35001,Bernalillo,"{""35001"": ""100""}",Bernalillo,35001,FALSE,FALSE,America/Denver
+87106,35.0582,-106.6216,Albuquerque,NM,New Mexico,TRUE,,26025,951,35001,Bernalillo,"{""35001"": ""100""}",Bernalillo,35001,FALSE,FALSE,America/Denver
+87107,35.1374,-106.64303,Albuquerque,NM,New Mexico,TRUE,,30831,805.2,35001,Bernalillo,"{""35001"": ""100""}",Bernalillo,35001,FALSE,FALSE,America/Denver
+87108,35.07254,-106.5784,Albuquerque,NM,New Mexico,TRUE,,37438,2460.4,35001,Bernalillo,"{""35001"": ""100""}",Bernalillo,35001,FALSE,FALSE,America/Denver
+87109,35.15297,-106.57541,Albuquerque,NM,New Mexico,TRUE,,38967,1482.8,35001,Bernalillo,"{""35001"": ""100""}",Bernalillo,35001,FALSE,FALSE,America/Denver
+87110,35.10811,-106.5781,Albuquerque,NM,New Mexico,TRUE,,38495,1720.8,35001,Bernalillo,"{""35001"": ""100""}",Bernalillo,35001,FALSE,FALSE,America/Denver
+87111,35.14382,-106.4862,Albuquerque,NM,New Mexico,TRUE,,57108,1015.6,35001,Bernalillo,"{""35001"": ""100""}",Bernalillo,35001,FALSE,FALSE,America/Denver
+87112,35.10108,-106.51629,Albuquerque,NM,New Mexico,TRUE,,42256,2019.2,35001,Bernalillo,"{""35001"": ""100""}",Bernalillo,35001,FALSE,FALSE,America/Denver
+87113,35.18356,-106.59231,Albuquerque,NM,New Mexico,TRUE,,15712,674.1,35001,Bernalillo,"{""35001"": ""100""}",Bernalillo,35001,FALSE,FALSE,America/Denver
+87114,35.19711,-106.68401,Albuquerque,NM,New Mexico,TRUE,,68789,1252.4,35001,Bernalillo,"{""35001"": ""100""}",Bernalillo,35001,FALSE,FALSE,America/Denver
+87116,35.052,-106.57174,Albuquerque,NM,New Mexico,TRUE,,3919,460.6,35001,Bernalillo,"{""35001"": ""100""}",Bernalillo,35001,FALSE,FALSE,America/Denver
+87117,35.02011,-106.55005,Kirtland Afb,NM,New Mexico,TRUE,,370,7.3,35001,Bernalillo,"{""35001"": ""100""}",Bernalillo,35001,FALSE,FALSE,America/Denver
+87120,35.13508,-106.73708,Albuquerque,NM,New Mexico,TRUE,,63884,641.3,35001,Bernalillo,"{""35001"": ""100""}",Bernalillo,35001,FALSE,FALSE,America/Denver
+87121,35.05852,-106.87791,Albuquerque,NM,New Mexico,TRUE,,78276,118,35001,Bernalillo,"{""35001"": ""100""}",Bernalillo,35001,FALSE,FALSE,America/Denver
+87122,35.19069,-106.49886,Albuquerque,NM,New Mexico,TRUE,,18546,268.6,35001,Bernalillo,"{""35001"": ""100""}",Bernalillo,35001,FALSE,FALSE,America/Denver
+87123,35.07105,-106.46794,Albuquerque,NM,New Mexico,TRUE,,44367,495.3,35001,Bernalillo,"{""35001"": ""100""}",Bernalillo,35001,FALSE,FALSE,America/Denver
+87124,35.26775,-106.78288,Rio Rancho,NM,New Mexico,TRUE,,55173,302.3,35043,Sandoval,"{""35043"": ""100""}",Sandoval,35043,FALSE,FALSE,America/Denver
+87144,35.32392,-106.70973,Rio Rancho,NM,New Mexico,TRUE,,43651,189,35043,Sandoval,"{""35043"": ""100""}",Sandoval,35043,FALSE,FALSE,America/Denver
+87301,35.47483,-108.83461,Gallup,NM,New Mexico,TRUE,,24592,115.1,35031,McKinley,"{""35031"": ""100""}",McKinley,35031,FALSE,FALSE,America/Denver
+87305,35.3839,-108.80091,Gallup,NM,New Mexico,TRUE,,3209,5.4,35031,McKinley,"{""35031"": ""100""}",McKinley,35031,FALSE,FALSE,America/Denver
+87310,35.79415,-108.53908,Brimhall,NM,New Mexico,TRUE,,1081,2.3,35031,McKinley,"{""35031"": ""100""}",McKinley,35031,FALSE,FALSE,America/Denver
+87311,35.6101,-108.51293,Church Rock,NM,New Mexico,TRUE,,4084,8.1,35031,McKinley,"{""35031"": ""100""}",McKinley,35031,FALSE,FALSE,America/Denver
+87312,35.42263,-108.32303,Continental Divide,NM,New Mexico,TRUE,,439,3.4,35031,McKinley,"{""35031"": ""100""}",McKinley,35031,FALSE,FALSE,America/Denver
+87313,35.8141,-108.07867,Crownpoint,NM,New Mexico,TRUE,,5967,2.4,35031,McKinley,"{""35031"": ""94.44"", ""35045"": ""5.56""}",McKinley|San Juan,35031|35045,FALSE,FALSE,America/Denver
+87315,34.74291,-108.68277,Fence Lake,NM,New Mexico,TRUE,,190,0.1,35006,Cibola,"{""35006"": ""100""}",Cibola,35006,FALSE,FALSE,America/Denver
+87316,35.4396,-108.45318,Fort Wingate,NM,New Mexico,TRUE,,1086,3.4,35031,McKinley,"{""35031"": ""100""}",McKinley,35031,FALSE,FALSE,America/Denver
+87317,35.58757,-108.76101,Gamerco,NM,New Mexico,TRUE,,1778,29.4,35031,McKinley,"{""35031"": ""100""}",McKinley,35031,FALSE,FALSE,America/Denver
+87319,35.47231,-108.9505,Mentmore,NM,New Mexico,TRUE,,2014,4.6,35031,McKinley,"{""35031"": ""100""}",McKinley,35031,FALSE,FALSE,America/Denver
+87320,35.80791,-108.87611,Mexican Springs,NM,New Mexico,TRUE,,519,2.4,35031,McKinley,"{""35031"": ""100""}",McKinley,35031,FALSE,FALSE,America/Denver
+87321,35.00127,-108.37074,Ramah,NM,New Mexico,TRUE,,2431,1.5,35006,Cibola,"{""35006"": ""72.87"", ""35031"": ""27.13""}",Cibola|McKinley,35006|35031,FALSE,FALSE,America/Denver
+87322,35.52603,-108.65311,Rehoboth,NM,New Mexico,TRUE,,276,57.5,35031,McKinley,"{""35031"": ""100""}",McKinley,35031,FALSE,FALSE,America/Denver
+87323,35.455,-108.1991,Thoreau,NM,New Mexico,TRUE,,4015,5.3,35031,McKinley,"{""35031"": ""94.32"", ""35006"": ""5.68""}",McKinley|Cibola,35031|35006,FALSE,FALSE,America/Denver
+87325,36.00208,-108.62286,Tohatchi,NM,New Mexico,TRUE,,3110,2.1,35031,McKinley,"{""35031"": ""56.49"", ""35045"": ""43.51""}",McKinley|San Juan,35031|35045,FALSE,FALSE,America/Denver
+87326,35.26584,-108.83133,Vanderwagen,NM,New Mexico,TRUE,,1690,3.8,35031,McKinley,"{""35031"": ""100""}",McKinley,35031,FALSE,FALSE,America/Denver
+87327,34.98022,-108.78819,Zuni,NM,New Mexico,TRUE,,9002,6,35031,McKinley,"{""35031"": ""99.92"", ""35006"": ""0.08""}",McKinley|Cibola,35031|35006,FALSE,FALSE,America/Denver
+87328,35.97473,-108.98609,Navajo,NM,New Mexico,TRUE,,2372,4.9,35031,McKinley,"{""35031"": ""77.47"", ""35045"": ""15.59"", ""04001"": ""6.93""}",McKinley|San Juan|Apache,35031|35045|04001,FALSE,FALSE,America/Denver
+87347,35.42727,-108.44644,Jamestown,NM,New Mexico,TRUE,,160,1.8,35031,McKinley,"{""35031"": ""100""}",McKinley,35031,FALSE,FALSE,America/Denver
+87357,34.94704,-108.3587,Pinehill,NM,New Mexico,TRUE,,769,4.4,35006,Cibola,"{""35006"": ""100""}",Cibola,35006,FALSE,FALSE,America/Denver
+87364,36.14192,-108.70648,Sheep Springs,NM,New Mexico,TRUE,,1026,2.6,35045,San Juan,"{""35045"": ""100""}",San Juan,35045,FALSE,FALSE,America/Denver
+87375,35.67201,-108.75616,Yatahey,NM,New Mexico,TRUE,,3390,13.7,35031,McKinley,"{""35031"": ""100""}",McKinley,35031,FALSE,FALSE,America/Denver
+87401,36.74121,-108.17992,Farmington,NM,New Mexico,TRUE,,46614,137.8,35045,San Juan,"{""35045"": ""100""}",San Juan,35045,FALSE,FALSE,America/Denver
+87402,36.78065,-108.14402,Farmington,NM,New Mexico,TRUE,,10089,339.6,35045,San Juan,"{""35045"": ""100""}",San Juan,35045,FALSE,FALSE,America/Denver
+87410,36.86691,-107.87985,Aztec,NM,New Mexico,TRUE,,16766,24.1,35045,San Juan,"{""35045"": ""100""}",San Juan,35045,FALSE,FALSE,America/Denver
+87412,36.69881,-107.47851,Blanco,NM,New Mexico,TRUE,,1384,1.1,35045,San Juan,"{""35045"": ""93.89"", ""35039"": ""6.11""}",San Juan|Rio Arriba,35045|35039,FALSE,FALSE,America/Denver
+87413,36.41515,-107.97672,Bloomfield,NM,New Mexico,TRUE,,16917,10.1,35045,San Juan,"{""35045"": ""100""}",San Juan,35045,FALSE,FALSE,America/Denver
+87415,36.81831,-108.09743,Flora Vista,NM,New Mexico,TRUE,,1715,60.3,35045,San Juan,"{""35045"": ""100""}",San Juan,35045,FALSE,FALSE,America/Denver
+87416,36.69316,-108.4212,Fruitland,NM,New Mexico,TRUE,,5111,20.1,35045,San Juan,"{""35045"": ""100""}",San Juan,35045,FALSE,FALSE,America/Denver
+87417,36.74406,-108.345,Kirtland,NM,New Mexico,TRUE,,5704,185,35045,San Juan,"{""35045"": ""100""}",San Juan,35045,FALSE,FALSE,America/Denver
+87418,36.95199,-108.15521,La Plata,NM,New Mexico,TRUE,,986,6.2,35045,San Juan,"{""35045"": ""100""}",San Juan,35045,FALSE,FALSE,America/Denver
+87419,36.88504,-107.50236,Navajo Dam,NM,New Mexico,TRUE,,359,0.5,35045,San Juan,"{""35045"": ""96.12"", ""35039"": ""3.88""}",San Juan|Rio Arriba,35045|35039,FALSE,FALSE,America/Denver
+87420,36.69066,-108.84928,Shiprock,NM,New Mexico,TRUE,,12179,8.7,35045,San Juan,"{""35045"": ""100""}",San Juan,35045,FALSE,FALSE,America/Denver
+87421,36.76368,-108.51858,Waterflow,NM,New Mexico,TRUE,,1626,15.6,35045,San Juan,"{""35045"": ""100""}",San Juan,35045,FALSE,FALSE,America/Denver
+87455,36.3244,-108.64179,Newcomb,NM,New Mexico,TRUE,,1714,1.9,35045,San Juan,"{""35045"": ""100""}",San Juan,35045,FALSE,FALSE,America/Denver
+87461,36.33533,-108.92874,Sanostee,NM,New Mexico,TRUE,,1384,1.8,35045,San Juan,"{""35045"": ""100""}",San Juan,35045,FALSE,FALSE,America/Denver
+87499,36.34902,-108.21084,Farmington,NM,New Mexico,TRUE,,482,0.7,35045,San Juan,"{""35045"": ""100""}",San Juan,35045,FALSE,FALSE,America/Denver
+87501,35.74235,-105.84143,Santa Fe,NM,New Mexico,TRUE,,15308,74.1,35049,Santa Fe,"{""35049"": ""100""}",Santa Fe,35049,FALSE,FALSE,America/Denver
+87505,35.62193,-105.86873,Santa Fe,NM,New Mexico,TRUE,,30502,170.1,35049,Santa Fe,"{""35049"": ""100""}",Santa Fe,35049,FALSE,FALSE,America/Denver
+87506,35.81952,-105.98861,Santa Fe,NM,New Mexico,TRUE,,13784,26.9,35049,Santa Fe,"{""35049"": ""100""}",Santa Fe,35049,FALSE,FALSE,America/Denver
+87507,35.59345,-106.10777,Santa Fe,NM,New Mexico,TRUE,,49451,229.5,35049,Santa Fe,"{""35049"": ""100""}",Santa Fe,35049,FALSE,FALSE,America/Denver
+87508,35.52744,-105.96873,Santa Fe,NM,New Mexico,TRUE,,19447,50.8,35049,Santa Fe,"{""35049"": ""100""}",Santa Fe,35049,FALSE,FALSE,America/Denver
+87510,36.29328,-106.41423,Abiquiu,NM,New Mexico,TRUE,,987,0.9,35039,Rio Arriba,"{""35039"": ""100""}",Rio Arriba,35039,FALSE,FALSE,America/Denver
+87511,36.10226,-105.92584,Alcalde,NM,New Mexico,TRUE,,2328,16.3,35039,Rio Arriba,"{""35039"": ""100""}",Rio Arriba,35039,FALSE,FALSE,America/Denver
+87512,36.90902,-105.37427,Amalia,NM,New Mexico,TRUE,,66,0.1,35055,Taos,"{""35055"": ""100""}",Taos,35055,FALSE,FALSE,America/Denver
+87513,36.57957,-105.68733,Arroyo Hondo,NM,New Mexico,TRUE,,884,10.3,35055,Taos,"{""35055"": ""100""}",Taos,35055,FALSE,FALSE,America/Denver
+87514,36.54126,-105.52521,Arroyo Seco,NM,New Mexico,TRUE,,894,19.7,35055,Taos,"{""35055"": ""100""}",Taos,35055,FALSE,FALSE,America/Denver
+87515,36.50231,-106.37718,Canjilon,NM,New Mexico,TRUE,,337,1,35039,Rio Arriba,"{""35039"": ""100""}",Rio Arriba,35039,FALSE,FALSE,America/Denver
+87516,36.16236,-106.46572,Canones,NM,New Mexico,TRUE,,149,1.1,35039,Rio Arriba,"{""35039"": ""100""}",Rio Arriba,35039,FALSE,FALSE,America/Denver
+87517,36.3949,-105.78756,Carson,NM,New Mexico,TRUE,,340,1.7,35055,Taos,"{""35055"": ""100""}",Taos,35055,FALSE,FALSE,America/Denver
+87518,36.50733,-106.56265,Cebolla,NM,New Mexico,TRUE,,0,0,35039,Rio Arriba,"{""35039"": ""100""}",Rio Arriba,35039,FALSE,FALSE,America/Denver
+87519,36.76989,-105.62796,Cerro,NM,New Mexico,TRUE,,467,7.9,35055,Taos,"{""35055"": ""100""}",Taos,35055,FALSE,FALSE,America/Denver
+87520,36.88271,-106.62705,Chama,NM,New Mexico,TRUE,,1376,2,35039,Rio Arriba,"{""35039"": ""100""}",Rio Arriba,35039,FALSE,FALSE,America/Denver
+87521,36.07629,-105.69802,Chamisal,NM,New Mexico,TRUE,,723,2.8,35055,Taos,"{""35055"": ""76.37"", ""35039"": ""23.63""}",Taos|Rio Arriba,35055|35039,FALSE,FALSE,America/Denver
+87522,35.93801,-105.83647,Chimayo,NM,New Mexico,TRUE,,2715,6.7,35039,Rio Arriba,"{""35039"": ""75.3"", ""35049"": ""24.7""}",Rio Arriba|Santa Fe,35039|35049,FALSE,FALSE,America/Denver
+87523,36.01364,-105.84268,Cordova,NM,New Mexico,TRUE,,704,37.7,35039,Rio Arriba,"{""35039"": ""100""}",Rio Arriba,35039,FALSE,FALSE,America/Denver
+87524,36.93242,-105.67231,Costilla,NM,New Mexico,TRUE,,92,0.3,35055,Taos,"{""35055"": ""100""}",Taos,35055,FALSE,FALSE,America/Denver
+87525,36.58686,-105.46136,Taos Ski Valley,NM,New Mexico,TRUE,,56,1,35055,Taos,"{""35055"": ""100""}",Taos,35055,FALSE,FALSE,America/Denver
+87527,36.16447,-105.8627,Dixon,NM,New Mexico,TRUE,,356,3.8,35039,Rio Arriba,"{""35039"": ""100""}",Rio Arriba,35039,FALSE,FALSE,America/Denver
+87528,36.66881,-106.98213,Dulce,NM,New Mexico,TRUE,,3546,1.8,35039,Rio Arriba,"{""35039"": ""100""}",Rio Arriba,35039,FALSE,FALSE,America/Denver
+87529,36.47006,-105.62274,El Prado,NM,New Mexico,TRUE,,5116,77.8,35055,Taos,"{""35055"": ""100""}",Taos,35055,FALSE,FALSE,America/Denver
+87530,36.34928,-106.19133,El Rito,NM,New Mexico,TRUE,,808,2.2,35039,Rio Arriba,"{""35039"": ""100""}",Rio Arriba,35039,FALSE,FALSE,America/Denver
+87531,36.24753,-105.8509,Embudo,NM,New Mexico,TRUE,,478,5.2,35039,Rio Arriba,"{""35039"": ""66.58"", ""35055"": ""33.42""}",Rio Arriba|Taos,35039|35055,FALSE,FALSE,America/Denver
+87532,35.99328,-106.08987,Espanola,NM,New Mexico,TRUE,,18641,63.2,35039,Rio Arriba,"{""35039"": ""69.69"", ""35049"": ""30.31""}",Rio Arriba|Santa Fe,35039|35049,FALSE,FALSE,America/Denver
+87533,36.02388,-106.06493,Espanola,NM,New Mexico,TRUE,,154,2870.8,35039,Rio Arriba,"{""35039"": ""100""}",Rio Arriba,35039,FALSE,FALSE,America/Denver
+87535,35.52874,-105.74774,Glorieta,NM,New Mexico,TRUE,,1258,7.6,35049,Santa Fe,"{""35049"": ""77.64"", ""35047"": ""22.36""}",Santa Fe|San Miguel,35049|35047,FALSE,FALSE,America/Denver
+87537,36.04961,-106.18535,Hernandez,NM,New Mexico,TRUE,,2698,17.5,35039,Rio Arriba,"{""35039"": ""100""}",Rio Arriba,35039,FALSE,FALSE,America/Denver
+87538,35.49455,-105.57126,Ilfeld,NM,New Mexico,TRUE,,425,2.1,35047,San Miguel,"{""35047"": ""100""}",San Miguel,35047,FALSE,FALSE,America/Denver
+87539,36.38171,-106.03924,La Madera,NM,New Mexico,TRUE,,25,0.1,35039,Rio Arriba,"{""35039"": ""100""}",Rio Arriba,35039,FALSE,FALSE,America/Denver
+87540,35.44515,-105.90366,Lamy,NM,New Mexico,TRUE,,792,3.6,35049,Santa Fe,"{""35049"": ""100""}",Santa Fe,35049,FALSE,FALSE,America/Denver
+87543,36.107,-105.6612,Llano,NM,New Mexico,TRUE,,97,1.9,35055,Taos,"{""35055"": ""100""}",Taos,35055,FALSE,FALSE,America/Denver
+87544,35.84233,-106.29079,Los Alamos,NM,New Mexico,TRUE,,18625,128.9,35028,Los Alamos,"{""35028"": ""100""}",Los Alamos,35028,FALSE,FALSE,America/Denver
+87548,36.18298,-106.15596,Medanales,NM,New Mexico,TRUE,,1295,14.9,35039,Rio Arriba,"{""35039"": ""100""}",Rio Arriba,35039,FALSE,FALSE,America/Denver
+87549,36.2414,-106.01215,Ojo Caliente,NM,New Mexico,TRUE,,662,2.7,35039,Rio Arriba,"{""35039"": ""87.66"", ""35055"": ""12.34""}",Rio Arriba|Taos,35039|35055,FALSE,FALSE,America/Denver
+87551,36.69507,-106.66806,Los Ojos,NM,New Mexico,TRUE,,295,3.7,35039,Rio Arriba,"{""35039"": ""100""}",Rio Arriba,35039,FALSE,FALSE,America/Denver
+87552,35.64618,-105.60163,Pecos,NM,New Mexico,TRUE,,3459,9,35047,San Miguel,"{""35047"": ""100""}",San Miguel,35047,FALSE,FALSE,America/Denver
+87553,36.20595,-105.70695,Penasco,NM,New Mexico,TRUE,,1386,26.1,35055,Taos,"{""35055"": ""100""}",Taos,35055,FALSE,FALSE,America/Denver
+87554,36.48752,-106.02537,Petaca,NM,New Mexico,TRUE,,0,0,35039,Rio Arriba,"{""35039"": ""100""}",Rio Arriba,35039,FALSE,FALSE,America/Denver
+87556,36.76309,-105.53864,Questa,NM,New Mexico,TRUE,,2370,4.5,35055,Taos,"{""35055"": ""100""}",Taos,35055,FALSE,FALSE,America/Denver
+87557,36.28667,-105.6835,Ranchos De Taos,NM,New Mexico,TRUE,,5980,22.8,35055,Taos,"{""35055"": ""100""}",Taos,35055,FALSE,FALSE,America/Denver
+87558,36.68695,-105.39021,Red River,NM,New Mexico,TRUE,,465,1.4,35055,Taos,"{""35055"": ""100""}",Taos,35055,FALSE,FALSE,America/Denver
+87560,35.22435,-105.50236,Ribera,NM,New Mexico,TRUE,,1427,1.2,35047,San Miguel,"{""35047"": ""100""}",San Miguel,35047,FALSE,FALSE,America/Denver
+87562,35.41692,-105.68447,Rowe,NM,New Mexico,TRUE,,361,2.4,35047,San Miguel,"{""35047"": ""100""}",San Miguel,35047,FALSE,FALSE,America/Denver
+87564,36.60798,-105.62786,San Cristobal,NM,New Mexico,TRUE,,203,3.2,35055,Taos,"{""35055"": ""100""}",Taos,35055,FALSE,FALSE,America/Denver
+87565,35.45598,-105.49284,San Jose,NM,New Mexico,TRUE,,368,2.9,35047,San Miguel,"{""35047"": ""100""}",San Miguel,35047,FALSE,FALSE,America/Denver
+87566,36.07121,-106.07011,Ohkay Owingeh,NM,New Mexico,TRUE,,3128,58,35039,Rio Arriba,"{""35039"": ""100""}",Rio Arriba,35039,FALSE,FALSE,America/Denver
+87567,35.9939,-106.02023,Santa Cruz,NM,New Mexico,TRUE,,1157,137.5,35049,Santa Fe,"{""35049"": ""100""}",Santa Fe,35049,FALSE,FALSE,America/Denver
+87569,35.3464,-105.30068,Serafina,NM,New Mexico,TRUE,,438,2.1,35047,San Miguel,"{""35047"": ""100""}",San Miguel,35047,FALSE,FALSE,America/Denver
+87571,36.39918,-105.53627,Taos,NM,New Mexico,TRUE,,12197,31,35055,Taos,"{""35055"": ""100""}",Taos,35055,FALSE,FALSE,America/Denver
+87573,35.77291,-105.67126,Tererro,NM,New Mexico,TRUE,,32,0.1,35047,San Miguel,"{""35047"": ""88.89"", ""35049"": ""11.11""}",San Miguel|Santa Fe,35047|35049,FALSE,FALSE,America/Denver
+87574,35.81671,-105.88857,Tesuque,NM,New Mexico,TRUE,,123,15.8,35049,Santa Fe,"{""35049"": ""100""}",Santa Fe,35049,FALSE,FALSE,America/Denver
+87575,36.74607,-106.38491,Tierra Amarilla,NM,New Mexico,TRUE,,899,0.6,35039,Rio Arriba,"{""35039"": ""100""}",Rio Arriba,35039,FALSE,FALSE,America/Denver
+87577,36.67246,-105.98125,Tres Piedras,NM,New Mexico,TRUE,,363,0.4,35055,Taos,"{""35055"": ""86.34"", ""35039"": ""13.66""}",Taos|Rio Arriba,35055|35039,FALSE,FALSE,America/Denver
+87578,36.03903,-105.7653,Truchas,NM,New Mexico,TRUE,,185,1.6,35039,Rio Arriba,"{""35039"": ""100""}",Rio Arriba,35039,FALSE,FALSE,America/Denver
+87579,36.12477,-105.55659,Vadito,NM,New Mexico,TRUE,,930,2.9,35055,Taos,"{""35055"": ""100""}",Taos,35055,FALSE,FALSE,America/Denver
+87580,36.57008,-105.56577,Valdez,NM,New Mexico,TRUE,,432,7.1,35055,Taos,"{""35055"": ""100""}",Taos,35055,FALSE,FALSE,America/Denver
+87581,36.52862,-106.14479,Vallecitos,NM,New Mexico,TRUE,,33,0.1,35039,Rio Arriba,"{""35039"": ""100""}",Rio Arriba,35039,FALSE,FALSE,America/Denver
+87582,36.15503,-106.01298,Velarde,NM,New Mexico,TRUE,,717,14.8,35039,Rio Arriba,"{""35039"": ""100""}",Rio Arriba,35039,FALSE,FALSE,America/Denver
+87583,35.2313,-105.33623,Villanueva,NM,New Mexico,TRUE,,204,2.7,35047,San Miguel,"{""35047"": ""100""}",San Miguel,35047,FALSE,FALSE,America/Denver
+87701,35.53869,-104.92699,Las Vegas,NM,New Mexico,TRUE,,19020,4.5,35047,San Miguel,"{""35047"": ""100""}",San Miguel,35047,FALSE,FALSE,America/Denver
+87710,36.3847,-105.24389,Angel Fire,NM,New Mexico,TRUE,,1454,3.6,35007,Colfax,"{""35007"": ""100""}",Colfax,35007,FALSE,FALSE,America/Denver
+87711,35.22451,-105.10452,Anton Chico,NM,New Mexico,TRUE,,567,0.9,35019,Guadalupe,"{""35019"": ""64.94"", ""35047"": ""35.06""}",Guadalupe|San Miguel,35019|35047,FALSE,FALSE,America/Denver
+87712,35.86843,-105.17042,Buena Vista,NM,New Mexico,TRUE,,296,1.7,35033,Mora,"{""35033"": ""100""}",Mora,35033,FALSE,FALSE,America/Denver
+87713,36.16713,-105.36485,Chacon,NM,New Mexico,TRUE,,249,1.4,35033,Mora,"{""35033"": ""100""}",Mora,35033,FALSE,FALSE,America/Denver
+87714,36.51452,-105.03183,Cimarron,NM,New Mexico,TRUE,,1099,1,35007,Colfax,"{""35007"": ""100""}",Colfax,35007,FALSE,FALSE,America/Denver
+87715,36.01816,-105.42581,Cleveland,NM,New Mexico,TRUE,,394,3.6,35033,Mora,"{""35033"": ""100""}",Mora,35033,FALSE,FALSE,America/Denver
+87718,36.59004,-105.29664,Eagle Nest,NM,New Mexico,TRUE,,381,1.6,35007,Colfax,"{""35007"": ""100""}",Colfax,35007,FALSE,FALSE,America/Denver
+87722,36.15243,-105.24648,Guadalupita,NM,New Mexico,TRUE,,925,4.1,35033,Mora,"{""35033"": ""100""}",Mora,35033,FALSE,FALSE,America/Denver
+87723,36.05875,-105.37558,Holman,NM,New Mexico,TRUE,,344,6.7,35033,Mora,"{""35033"": ""100""}",Mora,35033,FALSE,FALSE,America/Denver
+87724,35.17355,-105.07814,La Loma,NM,New Mexico,TRUE,,27,1.8,35019,Guadalupe,"{""35019"": ""100""}",Guadalupe,35019,FALSE,FALSE,America/Denver
+87728,36.59629,-104.61989,Maxwell,NM,New Mexico,TRUE,,439,1.3,35007,Colfax,"{""35007"": ""100""}",Colfax,35007,FALSE,FALSE,America/Denver
+87729,36.33255,-104.8006,Miami,NM,New Mexico,TRUE,,43,0.2,35007,Colfax,"{""35007"": ""100""}",Colfax,35007,FALSE,FALSE,America/Denver
+87730,36.14842,-104.21107,Mills,NM,New Mexico,TRUE,,22,0,35021,Harding,"{""35021"": ""100""}",Harding,35021,FALSE,FALSE,America/Denver
+87731,35.73196,-105.41386,Montezuma,NM,New Mexico,TRUE,,250,1.1,35047,San Miguel,"{""35047"": ""100""}",San Miguel,35047,FALSE,FALSE,America/Denver
+87732,35.9634,-105.3675,Mora,NM,New Mexico,TRUE,,1251,3.1,35033,Mora,"{""35033"": ""100""}",Mora,35033,FALSE,FALSE,America/Denver
+87733,35.80997,-103.82487,Mosquero,NM,New Mexico,TRUE,,108,0.1,35021,Harding,"{""35021"": ""100""}",Harding,35021,FALSE,FALSE,America/Denver
+87734,36.16938,-105.07791,Ocate,NM,New Mexico,TRUE,,316,0.8,35033,Mora,"{""35033"": ""98.9"", ""35007"": ""1.1""}",Mora|Colfax,35033|35007,FALSE,FALSE,America/Denver
+87735,36.07344,-105.1471,Ojo Feliz,NM,New Mexico,TRUE,,77,0.9,35033,Mora,"{""35033"": ""100""}",Mora,35033,FALSE,FALSE,America/Denver
+87736,35.98112,-105.19545,Rainsville,NM,New Mexico,TRUE,,118,1.8,35033,Mora,"{""35033"": ""100""}",Mora,35033,FALSE,FALSE,America/Denver
+87740,36.75538,-104.41045,Raton,NM,New Mexico,TRUE,,7007,2.2,35007,Colfax,"{""35007"": ""100""}",Colfax,35007,FALSE,FALSE,America/Denver
+87742,35.8884,-105.51851,Rociada,NM,New Mexico,TRUE,,494,1.5,35047,San Miguel,"{""35047"": ""83.25"", ""35033"": ""16.75""}",San Miguel|Mora,35047|35033,FALSE,FALSE,America/Denver
+87743,35.98141,-104.08691,Roy,NM,New Mexico,TRUE,,257,0.2,35021,Harding,"{""35021"": ""100""}",Harding,35021,FALSE,FALSE,America/Denver
+87745,35.78161,-105.24435,Sapello,NM,New Mexico,TRUE,,877,2.6,35047,San Miguel,"{""35047"": ""95.87"", ""35033"": ""4.13""}",San Miguel|Mora,35047|35033,FALSE,FALSE,America/Denver
+87746,35.64111,-104.23613,Solano,NM,New Mexico,TRUE,,55,0,35047,San Miguel,"{""35047"": ""85.83"", ""35021"": ""14.17""}",San Miguel|Harding,35047|35021,FALSE,FALSE,America/Denver
+87747,36.36658,-104.46312,Springer,NM,New Mexico,TRUE,,1518,0.8,35007,Colfax,"{""35007"": ""100""}",Colfax,35007,FALSE,FALSE,America/Denver
+87749,36.54831,-105.08379,Ute Park,NM,New Mexico,TRUE,,205,1.6,35007,Colfax,"{""35007"": ""100""}",Colfax,35007,FALSE,FALSE,America/Denver
+87750,35.82539,-104.92706,Valmora,NM,New Mexico,TRUE,,0,0,35033,Mora,"{""35033"": ""100""}",Mora,35033,FALSE,FALSE,America/Denver
+87752,36.01907,-104.64816,Wagon Mound,NM,New Mexico,TRUE,,374,0.2,35033,Mora,"{""35033"": ""100""}",Mora,35033,FALSE,FALSE,America/Denver
+87753,35.85806,-104.96389,Watrous,NM,New Mexico,TRUE,,130,0.3,35033,Mora,"{""35033"": ""100""}",Mora,35033,FALSE,FALSE,America/Denver
+87801,34.13037,-106.84601,Socorro,NM,New Mexico,TRUE,,9373,25.3,35053,Socorro,"{""35053"": ""100""}",Socorro,35053,FALSE,FALSE,America/Denver
+87820,33.89521,-108.54735,Aragon,NM,New Mexico,TRUE,,93,0.2,35003,Catron,"{""35003"": ""100""}",Catron,35003,FALSE,FALSE,America/Denver
+87821,33.97948,-108.05949,Datil,NM,New Mexico,TRUE,,586,0.1,35003,Catron,"{""35003"": ""100""}",Catron,35003,FALSE,FALSE,America/Denver
+87823,34.19268,-106.9488,Lemitar,NM,New Mexico,TRUE,,878,5.7,35053,Socorro,"{""35053"": ""100""}",Socorro,35053,FALSE,FALSE,America/Denver
+87824,33.82744,-108.97822,Luna,NM,New Mexico,TRUE,,61,0.2,35003,Catron,"{""35003"": ""100""}",Catron,35003,FALSE,FALSE,America/Denver
+87825,33.8756,-107.63263,Magdalena,NM,New Mexico,TRUE,,2260,0.3,35053,Socorro,"{""35053"": ""98.73"", ""35003"": ""1.27""}",Socorro|Catron,35053|35003,FALSE,FALSE,America/Denver
+87827,34.40185,-108.10286,Pie Town,NM,New Mexico,TRUE,,146,0.1,35003,Catron,"{""35003"": ""100""}",Catron,35003,FALSE,FALSE,America/Denver
+87828,34.20595,-106.91672,Polvadera,NM,New Mexico,TRUE,,338,65.8,35053,Socorro,"{""35053"": ""100""}",Socorro,35053,FALSE,FALSE,America/Denver
+87829,34.32592,-108.65876,Quemado,NM,New Mexico,TRUE,,778,0.2,35003,Catron,"{""35003"": ""98.05"", ""35006"": ""1.95""}",Catron|Cibola,35003|35006,FALSE,FALSE,America/Denver
+87830,33.7196,-108.73952,Reserve,NM,New Mexico,TRUE,,1268,0.6,35003,Catron,"{""35003"": ""100""}",Catron,35003,FALSE,FALSE,America/Denver
+87831,34.26503,-106.93317,San Acacia,NM,New Mexico,TRUE,,221,6.5,35053,Socorro,"{""35053"": ""100""}",Socorro,35053,FALSE,FALSE,America/Denver
+87832,33.8189,-106.8284,San Antonio,NM,New Mexico,TRUE,,199,0.1,35053,Socorro,"{""35053"": ""100""}",Socorro,35053,FALSE,FALSE,America/Denver
+87901,33.19995,-107.14359,Truth Or Consequences,NM,New Mexico,TRUE,,6224,3,35051,Sierra,"{""35051"": ""100""}",Sierra,35051,FALSE,FALSE,America/Denver
+87930,32.83387,-107.43342,Arrey,NM,New Mexico,TRUE,,759,2,35051,Sierra,"{""35051"": ""100""}",Sierra,35051,FALSE,FALSE,America/Denver
+87931,32.96411,-107.41022,Caballo,NM,New Mexico,TRUE,,889,3.1,35051,Sierra,"{""35051"": ""100""}",Sierra,35051,FALSE,FALSE,America/Denver
+87933,32.79024,-107.27793,Derry,NM,New Mexico,TRUE,,149,47.1,35051,Sierra,"{""35051"": ""100""}",Sierra,35051,FALSE,FALSE,America/Denver
+87935,33.25398,-107.22754,Elephant Butte,NM,New Mexico,TRUE,,1422,15.1,35051,Sierra,"{""35051"": ""100""}",Sierra,35051,FALSE,FALSE,America/Denver
+87936,32.7532,-107.26365,Garfield,NM,New Mexico,TRUE,,191,6.1,35013,Doña Ana,"{""35013"": ""88.54"", ""35051"": ""11.46""}",Doña Ana|Sierra,35013|35051,FALSE,FALSE,America/Denver
+87937,32.5998,-107.19131,Hatch,NM,New Mexico,TRUE,,3404,7.3,35013,Doña Ana,"{""35013"": ""100""}",Doña Ana,35013,FALSE,FALSE,America/Denver
+87939,33.41286,-107.48874,Monticello,NM,New Mexico,TRUE,,100,0.3,35051,Sierra,"{""35051"": ""100""}",Sierra,35051,FALSE,FALSE,America/Denver
+87940,32.61067,-106.99736,Rincon,NM,New Mexico,TRUE,,759,4.6,35013,Doña Ana,"{""35013"": ""100""}",Doña Ana,35013,FALSE,FALSE,America/Denver
+87941,32.71095,-107.22014,Salem,NM,New Mexico,TRUE,,832,40.7,35013,Doña Ana,"{""35013"": ""100""}",Doña Ana,35013,FALSE,FALSE,America/Denver
+87942,33.09827,-107.43514,Williamsburg,NM,New Mexico,TRUE,,1008,2.6,35051,Sierra,"{""35051"": ""100""}",Sierra,35051,FALSE,FALSE,America/Denver
+87943,33.39161,-107.73215,Winston,NM,New Mexico,TRUE,,172,0.1,35051,Sierra,"{""35051"": ""77.19"", ""35053"": ""15.79"", ""35003"": ""7.02""}",Sierra|Socorro|Catron,35051|35053|35003,FALSE,FALSE,America/Denver
+88001,32.2901,-106.75394,Las Cruces,NM,New Mexico,TRUE,,36050,1225,35013,Doña Ana,"{""35013"": ""100""}",Doña Ana,35013,FALSE,FALSE,America/Denver
+88002,32.46284,-106.48007,White Sands Missile Range,NM,New Mexico,TRUE,,1277,2.7,35013,Doña Ana,"{""35013"": ""100""}",Doña Ana,35013,FALSE,FALSE,America/Denver
+88003,32.28103,-106.74589,Las Cruces,NM,New Mexico,TRUE,,581,677.9,35013,Doña Ana,"{""35013"": ""100""}",Doña Ana,35013,FALSE,FALSE,America/Denver
+88004,32.2231,-106.98744,Las Cruces,NM,New Mexico,TRUE,,857,8.5,35013,Doña Ana,"{""35013"": ""100""}",Doña Ana,35013,FALSE,FALSE,America/Denver
+88005,32.2581,-106.82185,Las Cruces,NM,New Mexico,TRUE,,26940,211.3,35013,Doña Ana,"{""35013"": ""100""}",Doña Ana,35013,FALSE,FALSE,America/Denver
+88007,32.31084,-107.02653,Las Cruces,NM,New Mexico,TRUE,,23410,24.3,35013,Doña Ana,"{""35013"": ""100""}",Doña Ana,35013,FALSE,FALSE,America/Denver
+88008,31.83928,-106.68173,Santa Teresa,NM,New Mexico,TRUE,,8552,66.8,35013,Doña Ana,"{""35013"": ""100""}",Doña Ana,35013,FALSE,FALSE,America/Denver
+88009,32.01011,-108.59661,Playas,NM,New Mexico,TRUE,,60,0.1,35023,Hidalgo,"{""35023"": ""100""}",Hidalgo,35023,FALSE,FALSE,America/Denver
+88011,32.31585,-106.6437,Las Cruces,NM,New Mexico,TRUE,,30308,79.9,35013,Doña Ana,"{""35013"": ""100""}",Doña Ana,35013,FALSE,FALSE,America/Denver
+88012,32.58346,-106.77146,Las Cruces,NM,New Mexico,TRUE,,30500,32.3,35013,Doña Ana,"{""35013"": ""100""}",Doña Ana,35013,FALSE,FALSE,America/Denver
+88020,31.77074,-108.82822,Animas,NM,New Mexico,TRUE,,683,0.2,35023,Hidalgo,"{""35023"": ""100""}",Hidalgo,35023,FALSE,FALSE,America/Denver
+88021,31.95488,-107.01802,Anthony,NM,New Mexico,TRUE,,19623,9.5,35013,Doña Ana,"{""35013"": ""100""}",Doña Ana,35013,FALSE,FALSE,America/Denver
+88022,32.79981,-108.17998,Arenas Valley,NM,New Mexico,TRUE,,1241,40.9,35017,Grant,"{""35017"": ""100""}",Grant,35017,FALSE,FALSE,America/Denver
+88023,32.75127,-108.1324,Bayard,NM,New Mexico,TRUE,,2465,135.2,35017,Grant,"{""35017"": ""100""}",Grant,35017,FALSE,FALSE,America/Denver
+88024,32.0706,-106.63951,Berino,NM,New Mexico,TRUE,,162,84.3,35013,Doña Ana,"{""35013"": ""100""}",Doña Ana,35013,FALSE,FALSE,America/Denver
+88025,33.04515,-108.75149,Buckhorn,NM,New Mexico,TRUE,,191,0.3,35017,Grant,"{""35017"": ""100""}",Grant,35017,FALSE,FALSE,America/Denver
+88026,32.7596,-108.15742,Santa Clara,NM,New Mexico,TRUE,,1384,105,35017,Grant,"{""35017"": ""100""}",Grant,35017,FALSE,FALSE,America/Denver
+88027,32.04414,-106.78959,Chamberino,NM,New Mexico,TRUE,,271,1.4,35013,Doña Ana,"{""35013"": ""100""}",Doña Ana,35013,FALSE,FALSE,America/Denver
+88028,32.93289,-108.63592,Cliff,NM,New Mexico,TRUE,,253,0.7,35017,Grant,"{""35017"": ""100""}",Grant,35017,FALSE,FALSE,America/Denver
+88029,31.8459,-107.69127,Columbus,NM,New Mexico,TRUE,,1201,2.6,35029,Luna,"{""35029"": ""100""}",Luna,35029,FALSE,FALSE,America/Denver
+88030,32.18773,-107.72945,Deming,NM,New Mexico,TRUE,,22882,3.4,35029,Luna,"{""35029"": ""100""}",Luna,35029,FALSE,FALSE,America/Denver
+88032,32.39614,-106.81614,Dona Ana,NM,New Mexico,TRUE,,271,612.2,35013,Doña Ana,"{""35013"": ""100""}",Doña Ana,35013,FALSE,FALSE,America/Denver
+88033,32.31953,-107.02885,Fairacres,NM,New Mexico,TRUE,,0,0,35013,Doña Ana,"{""35013"": ""100""}",Doña Ana,35013,FALSE,FALSE,America/Denver
+88034,32.60966,-107.93929,Faywood,NM,New Mexico,TRUE,,46,0.2,35017,Grant,"{""35017"": ""100""}",Grant,35017,FALSE,FALSE,America/Denver
+88038,33.07212,-108.42651,Gila,NM,New Mexico,TRUE,,226,0.2,35017,Grant,"{""35017"": ""100""}",Grant,35017,FALSE,FALSE,America/Denver
+88039,33.34884,-108.72204,Glenwood,NM,New Mexico,TRUE,,584,0.3,35003,Catron,"{""35003"": ""100""}",Catron,35003,FALSE,FALSE,America/Denver
+88040,31.61683,-108.43763,Hachita,NM,New Mexico,TRUE,,114,0,35017,Grant,"{""35017"": ""63.79"", ""35023"": ""36.21""}",Grant|Hidalgo,35017|35023,FALSE,FALSE,America/Denver
+88041,32.7907,-107.91398,Hanover,NM,New Mexico,TRUE,,1186,1,35017,Grant,"{""35017"": ""100""}",Grant,35017,FALSE,FALSE,America/Denver
+88042,32.80696,-107.58906,Hillsboro,NM,New Mexico,TRUE,,253,0.2,35051,Sierra,"{""35051"": ""100""}",Sierra,35051,FALSE,FALSE,America/Denver
+88043,32.62091,-108.11154,Hurley,NM,New Mexico,TRUE,,1482,9,35017,Grant,"{""35017"": ""100""}",Grant,35017,FALSE,FALSE,America/Denver
+88044,32.13825,-106.79987,La Mesa,NM,New Mexico,TRUE,,3299,10.8,35013,Doña Ana,"{""35013"": ""100""}",Doña Ana,35013,FALSE,FALSE,America/Denver
+88045,32.3796,-108.77269,Lordsburg,NM,New Mexico,TRUE,,3350,1.2,35023,Hidalgo,"{""35023"": ""99.65"", ""35017"": ""0.35""}",Hidalgo|Grant,35023|35017,FALSE,FALSE,America/Denver
+88046,32.25,-106.8023,Mesilla,NM,New Mexico,TRUE,,765,123.8,35013,Doña Ana,"{""35013"": ""100""}",Doña Ana,35013,FALSE,FALSE,America/Denver
+88047,32.21003,-106.71473,Mesilla Park,NM,New Mexico,TRUE,,2132,112.9,35013,Doña Ana,"{""35013"": ""100""}",Doña Ana,35013,FALSE,FALSE,America/Denver
+88048,32.16352,-106.65918,Mesquite,NM,New Mexico,TRUE,,2402,47.4,35013,Doña Ana,"{""35013"": ""100""}",Doña Ana,35013,FALSE,FALSE,America/Denver
+88049,33.05048,-107.96276,Mimbres,NM,New Mexico,TRUE,,325,0.7,35017,Grant,"{""35017"": ""100""}",Grant,35017,FALSE,FALSE,America/Denver
+88051,33.01613,-108.94876,Mule Creek,NM,New Mexico,TRUE,,113,0.1,35017,Grant,"{""35017"": ""100""}",Grant,35017,FALSE,FALSE,America/Denver
+88052,32.42536,-106.59941,Organ,NM,New Mexico,TRUE,,185,70.1,35013,Doña Ana,"{""35013"": ""100""}",Doña Ana,35013,FALSE,FALSE,America/Denver
+88053,32.9025,-108.20595,Pinos Altos,NM,New Mexico,TRUE,,208,7.4,35017,Grant,"{""35017"": ""100""}",Grant,35017,FALSE,FALSE,America/Denver
+88055,32.73817,-108.73398,Redrock,NM,New Mexico,TRUE,,48,0.1,35017,Grant,"{""35017"": ""100""}",Grant,35017,FALSE,FALSE,America/Denver
+88056,31.84421,-108.98254,Rodeo,NM,New Mexico,TRUE,,194,0.6,35023,Hidalgo,"{""35023"": ""100""}",Hidalgo,35023,FALSE,FALSE,America/Denver
+88061,32.64983,-108.33017,Silver City,NM,New Mexico,TRUE,,17736,4.8,35017,Grant,"{""35017"": ""100""}",Grant,35017,FALSE,FALSE,America/Denver
+88063,31.81825,-106.5994,Sunland Park,NM,New Mexico,TRUE,,14044,476.4,35013,Doña Ana,"{""35013"": ""99.79"", ""48141"": ""0.21""}",Doña Ana|El Paso,35013|48141,FALSE,FALSE,America/Denver
+88065,32.685,-108.32017,Tyrone,NM,New Mexico,TRUE,,661,180.2,35017,Grant,"{""35017"": ""100""}",Grant,35017,FALSE,FALSE,America/Denver
+88072,32.14052,-106.61286,Vado,NM,New Mexico,TRUE,,2572,40.7,35013,Doña Ana,"{""35013"": ""100""}",Doña Ana,35013,FALSE,FALSE,America/Denver
+88081,32.22412,-106.26298,Chaparral,NM,New Mexico,TRUE,,16829,16.4,35035,Otero,"{""35035"": ""55.66"", ""35013"": ""44.34""}",Otero|Doña Ana,35035|35013,FALSE,FALSE,America/Denver
+88101,34.4987,-103.2838,Clovis,NM,New Mexico,TRUE,,46510,33.7,35009,Curry,"{""35009"": ""100""}",Curry,35009,FALSE,FALSE,America/Denver
+88103,34.38412,-103.31544,Cannon Afb,NM,New Mexico,TRUE,,298,25.9,35009,Curry,"{""35009"": ""100""}",Curry,35009,FALSE,FALSE,America/Denver
+88112,34.86451,-103.17105,Broadview,NM,New Mexico,TRUE,,231,0.5,35009,Curry,"{""35009"": ""100""}",Curry,35009,FALSE,FALSE,America/Denver
+88113,33.77807,-103.08654,Causey,NM,New Mexico,TRUE,,124,0.6,35041,Roosevelt,"{""35041"": ""100""}",Roosevelt,35041,FALSE,FALSE,America/Denver
+88114,33.51844,-103.28904,Crossroads,NM,New Mexico,TRUE,,34,0.1,35025,Lea,"{""35025"": ""100""}",Lea,35025,FALSE,FALSE,America/Denver
+88115,33.92314,-103.34251,Dora,NM,New Mexico,TRUE,,81,19.4,35041,Roosevelt,"{""35041"": ""100""}",Roosevelt,35041,FALSE,FALSE,America/Denver
+88116,33.91829,-103.87993,Elida,NM,New Mexico,TRUE,,438,0.1,35041,Roosevelt,"{""35041"": ""94.29"", ""35005"": ""5.71""}",Roosevelt|Chaves,35041|35005,FALSE,FALSE,America/Denver
+88118,34.21924,-103.67162,Floyd,NM,New Mexico,TRUE,,317,0.7,35041,Roosevelt,"{""35041"": ""100""}",Roosevelt,35041,FALSE,FALSE,America/Denver
+88119,34.32303,-104.40797,Fort Sumner,NM,New Mexico,TRUE,,1964,0.4,35011,De Baca,"{""35011"": ""100""}",De Baca,35011,FALSE,FALSE,America/Denver
+88120,34.87865,-103.4542,Grady,NM,New Mexico,TRUE,,277,0.3,35009,Curry,"{""35009"": ""80.33"", ""35037"": ""19.67""}",Curry|Quay,35009|35037,FALSE,FALSE,America/Denver
+88121,34.71464,-103.98069,House,NM,New Mexico,TRUE,,126,0.2,35037,Quay,"{""35037"": ""100""}",Quay,35037,FALSE,FALSE,America/Denver
+88124,34.54625,-103.65358,Melrose,NM,New Mexico,TRUE,,1178,0.5,35009,Curry,"{""35009"": ""88.5"", ""35037"": ""6.18"", ""35041"": ""5.32""}",Curry|Quay|Roosevelt,35009|35037|35041,FALSE,FALSE,America/Denver
+88125,33.68518,-103.28026,Milnesand,NM,New Mexico,TRUE,,58,0.1,35041,Roosevelt,"{""35041"": ""100""}",Roosevelt,35041,FALSE,FALSE,America/Denver
+88126,33.83096,-103.37685,Pep,NM,New Mexico,TRUE,,44,0.3,35041,Roosevelt,"{""35041"": ""100""}",Roosevelt,35041,FALSE,FALSE,America/Denver
+88130,34.13556,-103.31049,Portales,NM,New Mexico,TRUE,,17476,10.8,35041,Roosevelt,"{""35041"": ""100""}",Roosevelt,35041,FALSE,FALSE,America/Denver
+88132,33.92431,-103.19459,Rogers,NM,New Mexico,TRUE,,244,0.5,35041,Roosevelt,"{""35041"": ""100""}",Roosevelt,35041,FALSE,FALSE,America/Denver
+88134,34.32702,-104.01581,Taiban,NM,New Mexico,TRUE,,50,0.1,35011,De Baca,"{""35011"": ""100""}",De Baca,35011,FALSE,FALSE,America/Denver
+88135,34.5867,-103.09334,Texico,NM,New Mexico,TRUE,,1369,3.1,35009,Curry,"{""35009"": ""96.78"", ""35041"": ""3.22""}",Curry|Roosevelt,35009|35041,FALSE,FALSE,America/Denver
+88136,34.45503,-104.74524,Yeso,NM,New Mexico,TRUE,,26,0,35011,De Baca,"{""35011"": ""100""}",De Baca,35011,FALSE,FALSE,America/Denver
+88201,33.63974,-104.37492,Roswell,NM,New Mexico,TRUE,,26485,4.5,35005,Chaves,"{""35005"": ""100""}",Chaves,35005,FALSE,FALSE,America/Denver
+88203,33.18609,-104.34426,Roswell,NM,New Mexico,TRUE,,30463,8,35005,Chaves,"{""35005"": ""100""}",Chaves,35005,FALSE,FALSE,America/Denver
+88210,32.77172,-104.21957,Artesia,NM,New Mexico,TRUE,,18097,5.5,35015,Eddy,"{""35015"": ""100""}",Eddy,35015,FALSE,FALSE,America/Denver
+88220,32.29635,-104.41326,Carlsbad,NM,New Mexico,TRUE,,37329,7,35015,Eddy,"{""35015"": ""99.99"", ""48109"": ""0.01""}",Eddy|Culberson,35015|48109,FALSE,FALSE,America/Denver
+88230,33.21777,-104.39873,Dexter,NM,New Mexico,TRUE,,4972,7.8,35005,Chaves,"{""35005"": ""100""}",Chaves,35005,FALSE,FALSE,America/Denver
+88231,32.44904,-103.25497,Eunice,NM,New Mexico,TRUE,,3584,3.8,35025,Lea,"{""35025"": ""100""}",Lea,35025,FALSE,FALSE,America/Denver
+88232,33.07947,-104.45942,Hagerman,NM,New Mexico,TRUE,,2161,4.4,35005,Chaves,"{""35005"": ""100""}",Chaves,35005,FALSE,FALSE,America/Denver
+88240,32.70781,-103.47152,Hobbs,NM,New Mexico,TRUE,,40944,25.3,35025,Lea,"{""35025"": ""100""}",Lea,35025,FALSE,FALSE,America/Denver
+88242,32.81047,-103.15864,Hobbs,NM,New Mexico,TRUE,,7439,51.9,35025,Lea,"{""35025"": ""100""}",Lea,35025,FALSE,FALSE,America/Denver
+88250,32.72828,-104.91836,Hope,NM,New Mexico,TRUE,,272,0.2,35015,Eddy,"{""35015"": ""81.85"", ""35005"": ""18.15""}",Eddy|Chaves,35015|35005,FALSE,FALSE,America/Denver
+88252,32.1693,-103.38987,Jal,NM,New Mexico,TRUE,,2039,0.9,35025,Lea,"{""35025"": ""100""}",Lea,35025,FALSE,FALSE,America/Denver
+88253,32.98609,-104.45485,Lake Arthur,NM,New Mexico,TRUE,,985,2,35005,Chaves,"{""35005"": ""73.9"", ""35015"": ""26.1""}",Chaves|Eddy,35005|35015,FALSE,FALSE,America/Denver
+88254,32.60872,-104.4489,Lakewood,NM,New Mexico,TRUE,,57,0.4,35015,Eddy,"{""35015"": ""100""}",Eddy,35015,FALSE,FALSE,America/Denver
+88255,32.81422,-103.99645,Loco Hills,NM,New Mexico,TRUE,,24,1.4,35015,Eddy,"{""35015"": ""100""}",Eddy,35015,FALSE,FALSE,America/Denver
+88256,32.19587,-103.89273,Loving,NM,New Mexico,TRUE,,1696,1.3,35015,Eddy,"{""35015"": ""100""}",Eddy,35015,FALSE,FALSE,America/Denver
+88260,32.99151,-103.39911,Lovington,NM,New Mexico,TRUE,,14869,7.6,35025,Lea,"{""35025"": ""100""}",Lea,35025,FALSE,FALSE,America/Denver
+88262,33.13287,-103.42588,Mcdonald,NM,New Mexico,TRUE,,11,0.1,35025,Lea,"{""35025"": ""100""}",Lea,35025,FALSE,FALSE,America/Denver
+88263,32.09407,-104.07823,Malaga,NM,New Mexico,TRUE,,136,0.5,35015,Eddy,"{""35015"": ""100""}",Eddy,35015,FALSE,FALSE,America/Denver
+88264,32.89768,-103.70224,Maljamar,NM,New Mexico,TRUE,,32,0.1,35025,Lea,"{""35025"": ""100""}",Lea,35025,FALSE,FALSE,America/Denver
+88265,32.62045,-103.3029,Monument,NM,New Mexico,TRUE,,187,0.9,35025,Lea,"{""35025"": ""100""}",Lea,35025,FALSE,FALSE,America/Denver
+88267,33.33191,-103.42182,Tatum,NM,New Mexico,TRUE,,1138,0.5,35025,Lea,"{""35025"": ""100""}",Lea,35025,FALSE,FALSE,America/Denver
+88268,32.17619,-104.37953,Whites City,NM,New Mexico,TRUE,,85,220.4,35015,Eddy,"{""35015"": ""100""}",Eddy,35015,FALSE,FALSE,America/Denver
+88301,33.79263,-105.78565,Carrizozo,NM,New Mexico,TRUE,,982,0.4,35027,Lincoln,"{""35027"": ""97.19"", ""35057"": ""2.81""}",Lincoln|Torrance,35027|35057,FALSE,FALSE,America/Denver
+88310,32.70076,-106.00576,Alamogordo,NM,New Mexico,TRUE,,36707,33.2,35035,Otero,"{""35035"": ""100""}",Otero,35035,FALSE,FALSE,America/Denver
+88311,32.80751,-105.98864,Alamogordo,NM,New Mexico,TRUE,,1384,227.1,35035,Otero,"{""35035"": ""100""}",Otero,35035,FALSE,FALSE,America/Denver
+88312,33.43147,-105.67741,Alto,NM,New Mexico,TRUE,,2919,11.7,35027,Lincoln,"{""35027"": ""100""}",Lincoln,35027,FALSE,FALSE,America/Denver
+88314,33.10073,-105.86726,Bent,NM,New Mexico,TRUE,,62,0.5,35035,Otero,"{""35035"": ""100""}",Otero,35035,FALSE,FALSE,America/Denver
+88316,33.79595,-105.31892,Capitan,NM,New Mexico,TRUE,,2195,0.8,35027,Lincoln,"{""35027"": ""100""}",Lincoln,35027,FALSE,FALSE,America/Denver
+88317,32.9157,-105.63923,Cloudcroft,NM,New Mexico,TRUE,,1656,2.7,35035,Otero,"{""35035"": ""100""}",Otero,35035,FALSE,FALSE,America/Denver
+88318,34.20837,-105.3855,Corona,NM,New Mexico,TRUE,,358,0.1,35027,Lincoln,"{""35027"": ""84.78"", ""35057"": ""15.22""}",Lincoln|Torrance,35027|35057,FALSE,FALSE,America/Denver
+88321,34.76222,-105.44878,Encino,NM,New Mexico,TRUE,,117,0.1,35057,Torrance,"{""35057"": ""85.56"", ""35019"": ""14.44""}",Torrance|Guadalupe,35057|35019,FALSE,FALSE,America/Denver
+88323,33.49479,-105.52745,Fort Stanton,NM,New Mexico,TRUE,,0,0,35027,Lincoln,"{""35027"": ""100""}",Lincoln,35027,FALSE,FALSE,America/Denver
+88324,33.38988,-105.43913,Glencoe,NM,New Mexico,TRUE,,198,2,35027,Lincoln,"{""35027"": ""100""}",Lincoln,35027,FALSE,FALSE,America/Denver
+88325,32.85121,-105.8626,High Rolls Mountain Park,NM,New Mexico,TRUE,,954,3.6,35035,Otero,"{""35035"": ""100""}",Otero,35035,FALSE,FALSE,America/Denver
+88330,32.83659,-106.07738,Holloman Air Force Base,NM,New Mexico,TRUE,,4096,1145,35035,Otero,"{""35035"": ""100""}",Otero,35035,FALSE,FALSE,America/Denver
+88336,33.3182,-105.29484,Hondo,NM,New Mexico,TRUE,,323,1,35027,Lincoln,"{""35027"": ""100""}",Lincoln,35027,FALSE,FALSE,America/Denver
+88337,32.99129,-105.89153,La Luz,NM,New Mexico,TRUE,,1706,16.4,35035,Otero,"{""35035"": ""100""}",Otero,35035,FALSE,FALSE,America/Denver
+88338,33.4869,-105.38177,Lincoln,NM,New Mexico,TRUE,,57,0.2,35027,Lincoln,"{""35027"": ""100""}",Lincoln,35027,FALSE,FALSE,America/Denver
+88339,32.93508,-105.25424,Mayhill,NM,New Mexico,TRUE,,632,0.5,35035,Otero,"{""35035"": ""92.39"", ""35005"": ""7.61""}",Otero|Chaves,35035|35005,FALSE,FALSE,America/Denver
+88340,33.17829,-105.6119,Mescalero,NM,New Mexico,TRUE,,3834,2.1,35035,Otero,"{""35035"": ""100""}",Otero,35035,FALSE,FALSE,America/Denver
+88341,33.49517,-105.78799,Nogal,NM,New Mexico,TRUE,,735,2.9,35027,Lincoln,"{""35027"": ""100""}",Lincoln,35027,FALSE,FALSE,America/Denver
+88342,32.38792,-106.10153,Orogrande,NM,New Mexico,TRUE,,41,2.7,35035,Otero,"{""35035"": ""100""}",Otero,35035,FALSE,FALSE,America/Denver
+88343,33.2258,-105.07714,Picacho,NM,New Mexico,TRUE,,4,0,35027,Lincoln,"{""35027"": ""100""}",Lincoln,35027,FALSE,FALSE,America/Denver
+88344,32.5699,-105.31133,Pinon,NM,New Mexico,TRUE,,23,0,35035,Otero,"{""35035"": ""51.57"", ""35005"": ""48.43""}",Otero|Chaves,35035|35005,FALSE,FALSE,America/Denver
+88345,33.34798,-105.68001,Ruidoso,NM,New Mexico,TRUE,,8546,100,35027,Lincoln,"{""35027"": ""100""}",Lincoln,35027,FALSE,FALSE,America/Denver
+88346,33.35376,-105.54007,Ruidoso Downs,NM,New Mexico,TRUE,,2728,17.6,35027,Lincoln,"{""35027"": ""100""}",Lincoln,35027,FALSE,FALSE,America/Denver
+88347,32.76768,-105.65711,Sacramento,NM,New Mexico,TRUE,,86,0.9,35035,Otero,"{""35035"": ""100""}",Otero,35035,FALSE,FALSE,America/Denver
+88348,33.39619,-105.35842,San Patricio,NM,New Mexico,TRUE,,318,12,35027,Lincoln,"{""35027"": ""100""}",Lincoln,35027,FALSE,FALSE,America/Denver
+88349,32.76434,-105.78603,Sunspot,NM,New Mexico,TRUE,,12,0.2,35035,Otero,"{""35035"": ""100""}",Otero,35035,FALSE,FALSE,America/Denver
+88350,32.64305,-105.67741,Timberon,NM,New Mexico,TRUE,,275,0.7,35035,Otero,"{""35035"": ""100""}",Otero,35035,FALSE,FALSE,America/Denver
+88351,33.54952,-105.08763,Tinnie,NM,New Mexico,TRUE,,159,0.1,35027,Lincoln,"{""35027"": ""100""}",Lincoln,35027,FALSE,FALSE,America/Denver
+88352,33.03756,-106.10175,Tularosa,NM,New Mexico,TRUE,,4605,3.6,35035,Otero,"{""35035"": ""100""}",Otero,35035,FALSE,FALSE,America/Denver
+88353,34.57144,-105.11609,Vaughn,NM,New Mexico,TRUE,,306,0.2,35019,Guadalupe,"{""35019"": ""100""}",Guadalupe,35019,FALSE,FALSE,America/Denver
+88354,32.74362,-105.51458,Weed,NM,New Mexico,TRUE,,31,0.1,35035,Otero,"{""35035"": ""100""}",Otero,35035,FALSE,FALSE,America/Denver
+88355,33.36303,-105.66826,Ruidoso,NM,New Mexico,TRUE,,0,0,35027,Lincoln,"{""35027"": ""100""}",Lincoln,35027,FALSE,FALSE,America/Denver
+88401,35.11258,-103.83173,Tucumcari,NM,New Mexico,TRUE,,6611,2.4,35037,Quay,"{""35037"": ""99.76"", ""35047"": ""0.24""}",Quay|San Miguel,35037|35047,FALSE,FALSE,America/Denver
+88410,35.87396,-103.29185,Amistad,NM,New Mexico,TRUE,,145,0.1,35059,Union,"{""35059"": ""89.15"", ""35021"": ""10.85""}",Union|Harding,35059|35021,FALSE,FALSE,America/Denver
+88411,35.13678,-103.16049,Bard,NM,New Mexico,TRUE,,48,0.1,35037,Quay,"{""35037"": ""100""}",Quay,35037,FALSE,FALSE,America/Denver
+88414,36.77852,-103.99843,Capulin,NM,New Mexico,TRUE,,34,3,35059,Union,"{""35059"": ""100""}",Union,35059,FALSE,FALSE,America/Denver
+88415,36.31373,-103.32582,Clayton,NM,New Mexico,TRUE,,3468,1.1,35059,Union,"{""35059"": ""99.27"", ""35021"": ""0.73""}",Union|Harding,35059|35021,FALSE,FALSE,America/Denver
+88416,35.31347,-104.20726,Conchas Dam,NM,New Mexico,TRUE,,33,0.2,35047,San Miguel,"{""35047"": ""100""}",San Miguel,35047,FALSE,FALSE,America/Denver
+88417,35.05147,-104.39122,Cuervo,NM,New Mexico,TRUE,,0,0,35019,Guadalupe,"{""35019"": ""100""}",Guadalupe,35019,FALSE,FALSE,America/Denver
+88418,36.72511,-103.68341,Des Moines,NM,New Mexico,TRUE,,238,0.2,35059,Union,"{""35059"": ""100""}",Union,35059,FALSE,FALSE,America/Denver
+88419,36.88276,-103.53903,Folsom,NM,New Mexico,TRUE,,98,0,35059,Union,"{""35059"": ""91.27"", ""35007"": ""8.73""}",Union|Colfax,35059|35007,FALSE,FALSE,America/Denver
+88421,35.29834,-104.48127,Garita,NM,New Mexico,TRUE,,0,0,35047,San Miguel,"{""35047"": ""100""}",San Miguel,35047,FALSE,FALSE,America/Denver
+88422,36.34694,-103.99939,Gladstone,NM,New Mexico,TRUE,,80,0.1,35059,Union,"{""35059"": ""52.94"", ""35007"": ""47.06""}",Union|Colfax,35059|35007,FALSE,FALSE,America/Denver
+88424,36.40931,-103.661,Grenville,NM,New Mexico,TRUE,,33,0,35059,Union,"{""35059"": ""100""}",Union,35059,FALSE,FALSE,America/Denver
+88426,35.53808,-103.51084,Logan,NM,New Mexico,TRUE,,735,0.4,35037,Quay,"{""35037"": ""92.41"", ""35021"": ""7.59""}",Quay|Harding,35037|35021,FALSE,FALSE,America/Denver
+88427,34.77048,-103.77441,Mcalister,NM,New Mexico,TRUE,,239,0.4,35037,Quay,"{""35037"": ""100""}",Quay,35037,FALSE,FALSE,America/Denver
+88430,35.59028,-103.18118,Nara Visa,NM,New Mexico,TRUE,,98,0.1,35037,Quay,"{""35037"": ""94.44"", ""48359"": ""5.56""}",Quay|Oldham,35037|48359,FALSE,FALSE,America/Denver
+88431,35.17599,-104.27799,Newkirk,NM,New Mexico,TRUE,,55,0.1,35019,Guadalupe,"{""35019"": ""53.06"", ""35047"": ""46.94""}",Guadalupe|San Miguel,35019|35047,FALSE,FALSE,America/Denver
+88434,35.18597,-103.30237,San Jon,NM,New Mexico,TRUE,,469,0.5,35037,Quay,"{""35037"": ""100""}",Quay,35037,FALSE,FALSE,America/Denver
+88435,34.91298,-104.69767,Santa Rosa,NM,New Mexico,TRUE,,3707,0.8,35019,Guadalupe,"{""35019"": ""100""}",Guadalupe,35019,FALSE,FALSE,America/Denver
+88436,36.13154,-103.12165,Sedan,NM,New Mexico,TRUE,,66,0.2,35059,Union,"{""35059"": ""100""}",Union,35059,FALSE,FALSE,America/Denver

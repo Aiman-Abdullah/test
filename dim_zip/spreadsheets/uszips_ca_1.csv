@@ -1,0 +1,185 @@
+Column1,Column2,zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone
+1,0%,90001,33.97398,-118.24955,Los Angeles,CA,California,TRUE,,59832,6595.9,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+2,0%,90002,33.94901,-118.24674,Los Angeles,CA,California,TRUE,,53302,6721.1,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+3,0%,90003,33.96411,-118.2737,Los Angeles,CA,California,TRUE,,73730,8016.2,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+4,0%,90004,34.07621,-118.31084,Los Angeles,CA,California,TRUE,,60541,7668.7,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+5,0%,90005,34.05912,-118.30654,Los Angeles,CA,California,TRUE,,39732,14151.8,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+6,0%,90006,34.04801,-118.29418,Los Angeles,CA,California,TRUE,,59576,11981.7,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+7,0%,90007,34.02809,-118.28489,Los Angeles,CA,California,TRUE,,42433,6640.7,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+8,0%,90008,34.00956,-118.34706,Los Angeles,CA,California,TRUE,,31754,3337.9,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+9,1%,90010,34.06211,-118.31577,Los Angeles,CA,California,TRUE,,3822,3226.8,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+10,1%,90011,34.00714,-118.25874,Los Angeles,CA,California,TRUE,,111165,10014.5,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+11,1%,90012,34.06599,-118.23821,Los Angeles,CA,California,TRUE,,36552,4361.8,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+12,1%,90013,34.04481,-118.24033,Los Angeles,CA,California,TRUE,,12559,7227.4,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+13,1%,90014,34.04308,-118.25169,Los Angeles,CA,California,TRUE,,8688,11845.8,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+14,1%,90015,34.03939,-118.26645,Los Angeles,CA,California,TRUE,,22651,5112.6,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+15,1%,90016,34.02872,-118.3546,Los Angeles,CA,California,TRUE,,45899,4886,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+16,1%,90017,34.05291,-118.2643,Los Angeles,CA,California,TRUE,,27723,14737.8,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+17,1%,90018,34.02887,-118.3172,Los Angeles,CA,California,TRUE,,53490,7131.7,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+18,1%,90019,34.04864,-118.33868,Los Angeles,CA,California,TRUE,,64534,6408.5,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+19,1%,90020,34.06639,-118.3099,Los Angeles,CA,California,TRUE,,39189,13386.6,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+20,1%,90021,34.02931,-118.23873,Los Angeles,CA,California,TRUE,,2945,549.2,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+21,1%,90022,34.02453,-118.15609,Los Angeles,CA,California,TRUE,,67014,5905.2,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+22,1%,90023,34.02276,-118.19989,Los Angeles,CA,California,TRUE,,46680,4266.7,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+23,1%,90024,34.06568,-118.43502,Los Angeles,CA,California,TRUE,,51627,6788.2,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+24,1%,90025,34.04544,-118.44586,Los Angeles,CA,California,TRUE,,46883,7045.4,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+25,1%,90026,34.07928,-118.263,Los Angeles,CA,California,TRUE,,68906,6298.5,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+26,1%,90027,34.12521,-118.29057,Los Angeles,CA,California,TRUE,,44770,2125.2,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+27,2%,90028,34.09989,-118.32691,Los Angeles,CA,California,TRUE,,29774,7541.8,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+28,2%,90029,34.08984,-118.29471,Los Angeles,CA,California,TRUE,,36668,10396.7,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+29,2%,90031,34.08022,-118.21073,Los Angeles,CA,California,TRUE,,39916,4462.7,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+30,2%,90032,34.07956,-118.17807,Los Angeles,CA,California,TRUE,,48031,3890,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+31,2%,90033,34.05105,-118.21163,Los Angeles,CA,California,TRUE,,49155,5808.6,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+32,2%,90034,34.03068,-118.39953,Los Angeles,CA,California,TRUE,,53861,6682.9,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+33,2%,90035,34.05182,-118.38351,Los Angeles,CA,California,TRUE,,27272,5141.5,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+34,2%,90036,34.07016,-118.34987,Los Angeles,CA,California,TRUE,,37965,5933.8,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+35,2%,90037,34.00268,-118.28748,Los Angeles,CA,California,TRUE,,67640,9205,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+36,2%,90038,34.08876,-118.32652,Los Angeles,CA,California,TRUE,,28580,7044.2,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+37,2%,90039,34.1118,-118.26001,Los Angeles,CA,California,TRUE,,29510,3022,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+38,2%,90040,33.99353,-118.14907,Los Angeles,CA,California,TRUE,,12328,852.8,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+39,2%,90041,34.13765,-118.20762,Los Angeles,CA,California,TRUE,,29090,3113.3,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+40,2%,90042,34.11462,-118.19202,Los Angeles,CA,California,TRUE,,63193,5250,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+41,2%,90043,33.98886,-118.33517,Los Angeles,CA,California,TRUE,,45873,4284.9,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+42,2%,90044,33.95278,-118.29188,Los Angeles,CA,California,TRUE,,99443,7474.9,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+43,2%,90045,33.95297,-118.40014,Los Angeles,CA,California,TRUE,,40567,1459.6,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+44,2%,90046,34.10746,-118.36525,Los Angeles,CA,California,TRUE,,50900,3397.6,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+45,3%,90047,33.9545,-118.309,Los Angeles,CA,California,TRUE,,51411,4196.1,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+46,3%,90048,34.07297,-118.37265,Los Angeles,CA,California,TRUE,,21489,4399.8,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+47,3%,90049,34.08718,-118.48925,Los Angeles,CA,California,TRUE,,36418,936.2,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+48,3%,90056,33.98809,-118.37033,Los Angeles,CA,California,TRUE,,7649,1869.7,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+49,3%,90057,34.06224,-118.27716,Los Angeles,CA,California,TRUE,,50152,21865,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+50,3%,90058,34.00244,-118.21392,Los Angeles,CA,California,TRUE,,2718,180.7,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+51,3%,90059,33.92621,-118.24964,Los Angeles,CA,California,TRUE,,46185,5381.7,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+52,3%,90061,33.92045,-118.27403,Los Angeles,CA,California,TRUE,,27873,4043.1,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+53,3%,90062,34.00376,-118.30875,Los Angeles,CA,California,TRUE,,35916,7171.2,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+54,3%,90063,34.0451,-118.18597,Los Angeles,CA,California,TRUE,,53980,6368.9,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+55,3%,90064,34.03702,-118.42492,Los Angeles,CA,California,TRUE,,25925,2495.5,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+56,3%,90065,34.10889,-118.22759,Los Angeles,CA,California,TRUE,,46461,3398.2,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+57,3%,90066,34.00127,-118.43065,Los Angeles,CA,California,TRUE,,59167,4642,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+58,3%,90067,34.0577,-118.41402,Los Angeles,CA,California,TRUE,,2428,2856.8,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+59,3%,90068,34.12837,-118.32828,Los Angeles,CA,California,TRUE,,21092,1051.1,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+60,3%,90069,34.09386,-118.38171,West Hollywood,CA,California,TRUE,,20230,3694.5,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+61,3%,90071,34.05278,-118.25482,Los Angeles,CA,California,TRUE,,126,394.8,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+62,4%,90073,34.05453,-118.45696,Los Angeles,CA,California,TRUE,,953,1085.1,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+63,4%,90077,34.10546,-118.45615,Los Angeles,CA,California,TRUE,,8382,441.4,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+64,4%,90079,34.04059,-118.2554,Los Angeles,CA,California,TRUE,,0,0,6037,Los Angeles,"{""06037"": ""0""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+65,4%,90089,34.02442,-118.28033,Los Angeles,CA,California,TRUE,,3786,5097.2,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+66,4%,90090,34.07282,-118.24099,Dodgertown,CA,California,TRUE,,0,0,6037,Los Angeles,"{""06037"": ""0""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+67,4%,90094,33.97539,-118.417,Playa Vista,CA,California,TRUE,,9827,6223.7,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+68,4%,90095,34.07119,-118.44335,Los Angeles,CA,California,TRUE,,0,0,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+69,4%,90201,33.97072,-118.17079,Bell Gardens,CA,California,TRUE,,101965,6630.7,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+70,4%,90210,34.10103,-118.41475,Beverly Hills,CA,California,TRUE,,19314,736.5,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+71,4%,90211,34.06502,-118.38304,Beverly Hills,CA,California,TRUE,,8019,4420.7,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+72,4%,90212,34.06217,-118.40194,Beverly Hills,CA,California,TRUE,,13314,5381,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+73,4%,90220,33.88078,-118.23607,Compton,CA,California,TRUE,,52817,2950.9,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+74,4%,90221,33.88614,-118.20595,Compton,CA,California,TRUE,,51688,3743,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+75,4%,90222,33.91238,-118.2365,Compton,CA,California,TRUE,,33200,4981.8,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+76,4%,90230,33.9972,-118.39458,Culver City,CA,California,TRUE,,32687,2798.8,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+77,4%,90232,34.01879,-118.39182,Culver City,CA,California,TRUE,,14780,2709.5,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+78,4%,90240,33.9568,-118.11869,Downey,CA,California,TRUE,,26413,3464.1,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+79,4%,90241,33.94084,-118.12924,Downey,CA,California,TRUE,,43215,3388.6,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+80,5%,90242,33.92213,-118.14148,Downey,CA,California,TRUE,,42694,3621.8,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+81,5%,90245,33.91695,-118.40206,El Segundo,CA,California,TRUE,,16731,1182.5,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+82,5%,90247,33.8914,-118.29737,Gardena,CA,California,TRUE,,48293,4966.6,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+83,5%,90248,33.87669,-118.2835,Gardena,CA,California,TRUE,,11607,954.7,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+84,5%,90249,33.9015,-118.31708,Gardena,CA,California,TRUE,,26429,3426.7,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+85,5%,90250,33.91436,-118.34931,Hawthorne,CA,California,TRUE,,97072,5598.4,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+86,5%,90254,33.86546,-118.39665,Hermosa Beach,CA,California,TRUE,,19539,5287.7,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+87,5%,90255,33.97695,-118.21718,Huntington Park,CA,California,TRUE,,75019,7789.9,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+88,5%,90260,33.88828,-118.35122,Lawndale,CA,California,TRUE,,34827,5017.3,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+89,5%,90262,33.92365,-118.20053,Lynwood,CA,California,TRUE,,70536,5635,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+90,5%,90263,34.03892,-118.70792,Malibu,CA,California,TRUE,,1838,3141.2,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+91,5%,90265,34.07191,-118.84989,Malibu,CA,California,TRUE,,17954,64.3,6037,Los Angeles,"{""06037"": ""96.68"", ""06111"": ""3.32""}",Los Angeles|Ventura,06037|06111,FALSE,FALSE,America/Los_Angeles
+92,5%,90266,33.8895,-118.39718,Manhattan Beach,CA,California,TRUE,,35500,3482.1,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+93,5%,90270,33.98797,-118.18592,Maywood,CA,California,TRUE,,27287,8350.2,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+94,5%,90272,34.07991,-118.54219,Pacific Palisades,CA,California,TRUE,,21629,365.8,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+95,5%,90274,33.77734,-118.36893,Palos Verdes Peninsula,CA,California,TRUE,,25061,807.8,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+96,5%,90275,33.75545,-118.36393,Rancho Palos Verdes,CA,California,TRUE,,42146,1203.4,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+97,6%,90277,33.83073,-118.3846,Redondo Beach,CA,California,TRUE,,34827,3754.1,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+98,6%,90278,33.87325,-118.37037,Redondo Beach,CA,California,TRUE,,40252,4312.9,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+99,6%,90280,33.9446,-118.19262,South Gate,CA,California,TRUE,,94642,5002.2,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+100,6%,90290,34.09588,-118.60707,Topanga,CA,California,TRUE,,5681,109.4,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+101,6%,90291,33.99437,-118.46344,Venice,CA,California,TRUE,,26950,4164.8,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+102,6%,90292,33.97831,-118.44761,Marina Del Rey,CA,California,TRUE,,23549,4466.1,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+103,6%,90293,33.95033,-118.43721,Playa Del Rey,CA,California,TRUE,,12728,1719.1,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+104,6%,90301,33.95652,-118.35864,Inglewood,CA,California,TRUE,,38234,5958.4,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+105,6%,90302,33.97472,-118.35551,Inglewood,CA,California,TRUE,,30017,6121.4,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+106,6%,90303,33.93809,-118.33232,Inglewood,CA,California,TRUE,,24374,4226.1,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+107,6%,90304,33.93799,-118.35857,Inglewood,CA,California,TRUE,,25946,6394.5,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+108,6%,90305,33.95959,-118.33015,Inglewood,CA,California,TRUE,,15042,2512.7,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+109,6%,90401,34.01545,-118.49248,Santa Monica,CA,California,TRUE,,7111,3235.2,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+110,6%,90402,34.03561,-118.50364,Santa Monica,CA,California,TRUE,,11882,2289.4,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+111,6%,90403,34.03106,-118.4901,Santa Monica,CA,California,TRUE,,23902,6464.7,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+112,6%,90404,34.02662,-118.47364,Santa Monica,CA,California,TRUE,,22929,4442.7,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+113,6%,90405,34.01179,-118.46821,Santa Monica,CA,California,TRUE,,28156,4108.6,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+114,6%,90501,33.8334,-118.31426,Torrance,CA,California,TRUE,,41975,2863.3,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+115,7%,90502,33.83499,-118.29292,Torrance,CA,California,TRUE,,17778,3070.9,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+116,7%,90503,33.84074,-118.35361,Torrance,CA,California,TRUE,,44605,3246.3,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+117,7%,90504,33.86682,-118.33115,Torrance,CA,California,TRUE,,33410,2898.2,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+118,7%,90505,33.80887,-118.34802,Torrance,CA,California,TRUE,,37220,2480.4,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+119,7%,90506,33.88491,-118.33033,Torrance,CA,California,TRUE,,0,0,6037,Los Angeles,"{""06037"": ""0""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+120,7%,90601,34.00833,-118.03135,Whittier,CA,California,TRUE,,32053,1090.7,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+121,7%,90602,33.972,-118.02227,Whittier,CA,California,TRUE,,25581,2661.7,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+122,7%,90603,33.94541,-117.99253,Whittier,CA,California,TRUE,,21584,2549,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+123,7%,90604,33.93012,-118.01225,Whittier,CA,California,TRUE,,42911,3888.1,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+124,7%,90605,33.94984,-118.02328,Whittier,CA,California,TRUE,,40192,2745.7,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+125,7%,90606,33.97766,-118.06579,Whittier,CA,California,TRUE,,32987,3366.8,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+126,7%,90620,33.84612,-118.01169,Buena Park,CA,California,TRUE,,46414,2802.5,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+127,7%,90621,33.87428,-117.99351,Buena Park,CA,California,TRUE,,35598,3311.4,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+128,7%,90623,33.85045,-118.04072,La Palma,CA,California,TRUE,,15662,3332,6059,Orange,"{""06059"": ""99.23"", ""06037"": ""0.77""}",Orange|Los Angeles,06059|06037,FALSE,FALSE,America/Los_Angeles
+129,7%,90630,33.81814,-118.03816,Cypress,CA,California,TRUE,,49205,3100.9,6059,Orange,"{""06059"": ""99.61"", ""06037"": ""0.39""}",Orange|Los Angeles,06059|06037,FALSE,FALSE,America/Los_Angeles
+130,7%,90631,33.94248,-117.95134,La Habra,CA,California,TRUE,,69064,1918.8,6059,Orange,"{""06059"": ""91.08"", ""06037"": ""8.92""}",Orange|Los Angeles,06059|06037,FALSE,FALSE,America/Los_Angeles
+131,7%,90638,33.90241,-118.0092,La Mirada,CA,California,TRUE,,49227,2415.3,6037,Los Angeles,"{""06037"": ""99.02"", ""06059"": ""0.98""}",Los Angeles|Orange,06037|06059,FALSE,FALSE,America/Los_Angeles
+132,7%,90640,34.01507,-118.11073,Montebello,CA,California,TRUE,,62730,2852.6,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+133,8%,90650,33.90685,-118.08263,Norwalk,CA,California,TRUE,,105304,4144.5,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+134,8%,90660,33.98882,-118.09063,Pico Rivera,CA,California,TRUE,,63001,3138.8,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+135,8%,90670,33.93301,-118.06264,Santa Fe Springs,CA,California,TRUE,,16700,761.9,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+136,8%,90680,33.80118,-117.99495,Stanton,CA,California,TRUE,,30531,4365,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+137,8%,90701,33.86763,-118.08062,Artesia,CA,California,TRUE,,16801,3979.5,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+138,8%,90703,33.86785,-118.06871,Cerritos,CA,California,TRUE,,50589,2225.4,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+139,8%,90704,33.38251,-118.43439,Avalon,CA,California,TRUE,,3979,20.5,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+140,8%,90706,33.88802,-118.12706,Bellflower,CA,California,TRUE,,77195,4878.4,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+141,8%,90710,33.79809,-118.29907,Harbor City,CA,California,TRUE,,28045,4599.8,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+142,8%,90712,33.84901,-118.14672,Lakewood,CA,California,TRUE,,31217,2814.2,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+143,8%,90713,33.84798,-118.11265,Lakewood,CA,California,TRUE,,28202,3208.4,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+144,8%,90715,33.84035,-118.07886,Lakewood,CA,California,TRUE,,20256,4599.3,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+145,8%,90716,33.83049,-118.07302,Hawaiian Gardens,CA,California,TRUE,,14285,5922.9,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+146,8%,90717,33.79383,-118.3172,Lomita,CA,California,TRUE,,21508,4191.7,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+147,8%,90720,33.79557,-118.0636,Los Alamitos,CA,California,TRUE,,22261,1403.3,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+148,8%,90723,33.89743,-118.16482,Paramount,CA,California,TRUE,,54513,4492.9,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+149,8%,90731,33.73334,-118.27433,San Pedro,CA,California,TRUE,,60659,2557.2,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+150,9%,90732,33.74507,-118.31012,San Pedro,CA,California,TRUE,,22780,2566.9,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+151,9%,90740,33.75962,-118.07346,Seal Beach,CA,California,TRUE,,24307,1068.8,6059,Orange,"{""06059"": ""99.94"", ""06037"": ""0.06""}",Orange|Los Angeles,06059|06037,FALSE,FALSE,America/Los_Angeles
+152,9%,90742,33.71792,-118.07155,Sunset Beach,CA,California,TRUE,,692,1449.7,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+153,9%,90743,33.72709,-118.08284,Surfside,CA,California,TRUE,,236,1099.7,6059,Orange,"{""06059"": ""100""}",Orange,6059,FALSE,FALSE,America/Los_Angeles
+154,9%,90744,33.77865,-118.26167,Wilmington,CA,California,TRUE,,56880,2616,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+155,9%,90745,33.82124,-118.26441,Carson,CA,California,TRUE,,56930,2646,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+156,9%,90746,33.85888,-118.25526,Carson,CA,California,TRUE,,27075,1792.2,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+157,9%,90747,33.86298,-118.25131,Carson,CA,California,TRUE,,0,0,6037,Los Angeles,"{""06037"": ""0""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+158,9%,90755,33.80289,-118.16772,Signal Hill,CA,California,TRUE,,11545,2045.7,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+159,9%,90802,33.75021,-118.2114,Long Beach,CA,California,TRUE,,38962,2319.2,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+160,9%,90803,33.76162,-118.12219,Long Beach,CA,California,TRUE,,32126,3075.7,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+161,9%,90804,33.78185,-118.14863,Long Beach,CA,California,TRUE,,39239,7165.8,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+162,9%,90805,33.86493,-118.18055,Long Beach,CA,California,TRUE,,95995,5030.7,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+163,9%,90806,33.8045,-118.18762,Long Beach,CA,California,TRUE,,41990,4710.2,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+164,9%,90807,33.82795,-118.1746,Long Beach,CA,California,TRUE,,32202,2129.8,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+165,9%,90808,33.82406,-118.11239,Long Beach,CA,California,TRUE,,39330,2210,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+166,9%,90810,33.81894,-118.2211,Long Beach,CA,California,TRUE,,37251,2147.9,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+167,9%,90813,33.78237,-118.19686,Long Beach,CA,California,TRUE,,58380,7023.3,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+168,10%,90814,33.77163,-118.14362,Long Beach,CA,California,TRUE,,19685,5611.3,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+169,10%,90815,33.79581,-118.11626,Long Beach,CA,California,TRUE,,41312,2240.2,6037,Los Angeles,"{""06037"": ""99.77"", ""06059"": ""0.23""}",Los Angeles|Orange,06037|06059,FALSE,FALSE,America/Los_Angeles
+170,10%,90822,33.77844,-118.11863,Long Beach,CA,California,TRUE,,133,316,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+171,10%,90831,33.76829,-118.2017,Long Beach,CA,California,TRUE,,0,0,6037,Los Angeles,"{""06037"": ""0""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+172,10%,91001,34.19544,-118.13796,Altadena,CA,California,TRUE,,37818,1768.6,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+173,10%,91006,34.13603,-118.02679,Arcadia,CA,California,TRUE,,32958,2014.1,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+174,10%,91007,34.1286,-118.04825,Arcadia,CA,California,TRUE,,34116,2369.6,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+175,10%,91008,34.15344,-117.96821,Duarte,CA,California,TRUE,,1084,206.5,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+176,10%,91010,34.14073,-117.9567,Duarte,CA,California,TRUE,,26380,1446.8,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+177,10%,91011,34.22161,-118.20516,La Canada Flintridge,CA,California,TRUE,,20301,661.3,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+178,10%,91016,34.15209,-118.0007,Monrovia,CA,California,TRUE,,41105,1869.5,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+179,10%,91020,34.21129,-118.23072,Montrose,CA,California,TRUE,,8633,4432.3,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+180,10%,91024,34.16871,-118.05036,Sierra Madre,CA,California,TRUE,,10932,1429.6,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+181,10%,91030,34.1102,-118.15735,South Pasadena,CA,California,TRUE,,25637,2901.9,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+182,10%,91040,34.26177,-118.33715,Sunland,CA,California,TRUE,,20049,943.7,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+183,10%,91042,34.31653,-118.24912,Tujunga,CA,California,TRUE,,26966,208.7,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles
+184,10%,91046,34.21145,-118.24104,Verdugo City,CA,California,TRUE,,158,6097.1,6037,Los Angeles,"{""06037"": ""100""}",Los Angeles,6037,FALSE,FALSE,America/Los_Angeles

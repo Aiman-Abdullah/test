@@ -1,0 +1,177 @@
+Column1,Column2,zip,lat,lng,city,state_id,state_name,zcta,parent_zcta,population,density,county_fips,county_name,county_weights,county_names_all,county_fips_all,imprecise,military,timezone
+1418,81%,95550,40.77331,-123.81846,Korbel,CA,California,TRUE,,94,0.3,6023,Humboldt,"{""06023"": ""100""}",Humboldt,6023,FALSE,FALSE,America/Los_Angeles
+1419,81%,95551,40.66757,-124.21872,Loleta,CA,California,TRUE,,1416,12.8,6023,Humboldt,"{""06023"": ""100""}",Humboldt,6023,FALSE,FALSE,America/Los_Angeles
+1420,81%,95552,40.19843,-123.23113,Mad River,CA,California,TRUE,,750,0.5,6105,Trinity,"{""06105"": ""100""}",Trinity,6105,FALSE,FALSE,America/Los_Angeles
+1421,81%,95553,40.24435,-123.89617,Miranda,CA,California,TRUE,,767,5,6023,Humboldt,"{""06023"": ""100""}",Humboldt,6023,FALSE,FALSE,America/Los_Angeles
+1422,81%,95554,40.28413,-123.79454,Myers Flat,CA,California,TRUE,,508,3.9,6023,Humboldt,"{""06023"": ""100""}",Humboldt,6023,FALSE,FALSE,America/Los_Angeles
+1423,81%,95555,41.3011,-123.99042,Orick,CA,California,TRUE,,437,2,6023,Humboldt,"{""06023"": ""100""}",Humboldt,6023,FALSE,FALSE,America/Los_Angeles
+1424,81%,95556,41.30078,-123.58461,Orleans,CA,California,TRUE,,598,1.7,6023,Humboldt,"{""06023"": ""100""}",Humboldt,6023,FALSE,FALSE,America/Los_Angeles
+1425,81%,95558,40.2961,-124.23457,Petrolia,CA,California,TRUE,,416,0.8,6023,Humboldt,"{""06023"": ""100""}",Humboldt,6023,FALSE,FALSE,America/Los_Angeles
+1426,81%,95559,40.1859,-123.74824,Phillipsville,CA,California,TRUE,,70,1.5,6023,Humboldt,"{""06023"": ""100""}",Humboldt,6023,FALSE,FALSE,America/Los_Angeles
+1427,81%,95560,40.16453,-123.83859,Redway,CA,California,TRUE,,1615,18.7,6023,Humboldt,"{""06023"": ""100""}",Humboldt,6023,FALSE,FALSE,America/Los_Angeles
+1428,81%,95562,40.4624,-124.12516,Rio Dell,CA,California,TRUE,,3401,53.4,6023,Humboldt,"{""06023"": ""100""}",Humboldt,6023,FALSE,FALSE,America/Los_Angeles
+1429,81%,95563,40.87625,-123.49847,Salyer,CA,California,TRUE,,665,4.3,6105,Trinity,"{""06105"": ""100""}",Trinity,6105,FALSE,FALSE,America/Los_Angeles
+1430,81%,95564,40.7899,-124.20339,Samoa,CA,California,TRUE,,389,45.5,6023,Humboldt,"{""06023"": ""100""}",Humboldt,6023,FALSE,FALSE,America/Los_Angeles
+1431,81%,95565,40.45778,-124.01098,Scotia,CA,California,TRUE,,762,8.8,6023,Humboldt,"{""06023"": ""100""}",Humboldt,6023,FALSE,FALSE,America/Los_Angeles
+1432,81%,95567,41.94978,-124.11187,Smith River,CA,California,TRUE,,1802,11.1,6015,Del Norte,"{""06015"": ""100""}",Del Norte,6015,FALSE,FALSE,America/Los_Angeles
+1433,81%,95568,41.45328,-123.46342,Somes Bar,CA,California,TRUE,,274,1.3,6093,Siskiyou,"{""06093"": ""100""}",Siskiyou,6093,FALSE,FALSE,America/Los_Angeles
+1434,81%,95569,40.36748,-123.85533,Redcrest,CA,California,TRUE,,371,2.3,6023,Humboldt,"{""06023"": ""100""}",Humboldt,6023,FALSE,FALSE,America/Los_Angeles
+1435,81%,95570,41.12116,-124.11375,Trinidad,CA,California,TRUE,,2338,38.1,6023,Humboldt,"{""06023"": ""100""}",Humboldt,6023,FALSE,FALSE,America/Los_Angeles
+1436,82%,95571,40.32248,-123.92055,Weott,CA,California,TRUE,,304,155.9,6023,Humboldt,"{""06023"": ""100""}",Humboldt,6023,FALSE,FALSE,America/Los_Angeles
+1437,82%,95573,40.88934,-123.66097,Willow Creek,CA,California,TRUE,,1568,5,6023,Humboldt,"{""06023"": ""100""}",Humboldt,6023,FALSE,FALSE,America/Los_Angeles
+1438,82%,95585,39.84467,-123.65699,Leggett,CA,California,TRUE,,457,3.2,6045,Mendocino,"{""06045"": ""100""}",Mendocino,6045,FALSE,FALSE,America/Los_Angeles
+1439,82%,95587,39.96325,-123.77574,Piercy,CA,California,TRUE,,51,1.5,6045,Mendocino,"{""06045"": ""100""}",Mendocino,6045,FALSE,FALSE,America/Los_Angeles
+1440,82%,95589,40.05662,-123.97052,Whitethorn,CA,California,TRUE,,963,2,6023,Humboldt,"{""06023"": ""94.48"", ""06045"": ""5.52""}",Humboldt|Mendocino,06023|06045,FALSE,FALSE,America/Los_Angeles
+1441,82%,95595,40.11671,-123.42455,Zenia,CA,California,TRUE,,139,0.2,6105,Trinity,"{""06105"": ""100""}",Trinity,6105,FALSE,FALSE,America/Los_Angeles
+1442,82%,95601,38.42592,-120.82501,Amador City,CA,California,TRUE,,151,33.3,6005,Amador,"{""06005"": ""100""}",Amador,6005,FALSE,FALSE,America/Los_Angeles
+1443,82%,95602,38.99059,-121.11038,Auburn,CA,California,TRUE,,17557,137.3,6061,Placer,"{""06061"": ""67.18"", ""06057"": ""32.82""}",Placer|Nevada,06061|06057,FALSE,FALSE,America/Los_Angeles
+1444,82%,95603,38.917,-121.08045,Auburn,CA,California,TRUE,,29474,291.6,6061,Placer,"{""06061"": ""100""}",Placer,6061,FALSE,FALSE,America/Los_Angeles
+1445,82%,95604,39.24336,-120.07154,Auburn,CA,California,TRUE,,85,81.9,6061,Placer,"{""06061"": ""100""}",Placer,6061,FALSE,FALSE,America/Los_Angeles
+1446,82%,95605,38.59294,-121.5391,West Sacramento,CA,California,TRUE,,14493,1435,6113,Yolo,"{""06113"": ""100""}",Yolo,6113,FALSE,FALSE,America/Los_Angeles
+1447,82%,95606,38.75605,-122.19543,Brooks,CA,California,TRUE,,249,2.6,6113,Yolo,"{""06113"": ""100""}",Yolo,6113,FALSE,FALSE,America/Los_Angeles
+1448,82%,95607,38.79135,-122.12724,Capay,CA,California,TRUE,,389,1.1,6113,Yolo,"{""06113"": ""100""}",Yolo,6113,FALSE,FALSE,America/Los_Angeles
+1449,82%,95608,38.62583,-121.32829,Carmichael,CA,California,TRUE,,62539,1855.9,6067,Sacramento,"{""06067"": ""100""}",Sacramento,6067,FALSE,FALSE,America/Los_Angeles
+1450,82%,95610,38.69491,-121.27176,Citrus Heights,CA,California,TRUE,,46305,2283.9,6067,Sacramento,"{""06067"": ""100""}",Sacramento,6067,FALSE,FALSE,America/Los_Angeles
+1451,82%,95612,38.39227,-121.57571,Clarksburg,CA,California,TRUE,,1321,9.2,6113,Yolo,"{""06113"": ""98.39"", ""06095"": ""1.61""}",Yolo|Solano,06113|06095,FALSE,FALSE,America/Los_Angeles
+1452,82%,95614,38.88376,-120.98287,Cool,CA,California,TRUE,,4359,47.4,6017,El Dorado,"{""06017"": ""100""}",El Dorado,6017,FALSE,FALSE,America/Los_Angeles
+1453,83%,95615,38.31429,-121.54646,Courtland,CA,California,TRUE,,704,11.7,6067,Sacramento,"{""06067"": ""98.2"", ""06113"": ""1.8""}",Sacramento|Yolo,06067|06113,FALSE,FALSE,America/Los_Angeles
+1454,83%,95616,38.55932,-121.7977,Davis,CA,California,TRUE,,52212,731.5,6113,Yolo,"{""06113"": ""100""}",Yolo,6113,FALSE,FALSE,America/Los_Angeles
+1455,83%,95618,38.54067,-121.68305,Davis,CA,California,TRUE,,27519,304.2,6113,Yolo,"{""06113"": ""99.66"", ""06095"": ""0.34""}",Yolo|Solano,06113|06095,FALSE,FALSE,America/Los_Angeles
+1456,83%,95619,38.6831,-120.81563,Diamond Springs,CA,California,TRUE,,5718,367.4,6017,El Dorado,"{""06017"": ""100""}",El Dorado,6017,FALSE,FALSE,America/Los_Angeles
+1457,83%,95620,38.40971,-121.75299,Dixon,CA,California,TRUE,,21954,35.2,6095,Solano,"{""06095"": ""99.52"", ""06113"": ""0.48""}",Solano|Yolo,06095|06113,FALSE,FALSE,America/Los_Angeles
+1458,83%,95621,38.69576,-121.30829,Citrus Heights,CA,California,TRUE,,41740,2371.5,6067,Sacramento,"{""06067"": ""100""}",Sacramento,6067,FALSE,FALSE,America/Los_Angeles
+1459,83%,95623,38.59673,-120.85855,El Dorado,CA,California,TRUE,,3665,27,6017,El Dorado,"{""06017"": ""100""}",El Dorado,6017,FALSE,FALSE,America/Los_Angeles
+1460,83%,95624,38.43039,-121.30913,Elk Grove,CA,California,TRUE,,65948,578.9,6067,Sacramento,"{""06067"": ""100""}",Sacramento,6067,FALSE,FALSE,America/Los_Angeles
+1461,83%,95625,38.35811,-121.91151,Elmira,CA,California,TRUE,,74,24.7,6095,Solano,"{""06095"": ""100""}",Solano,6095,FALSE,FALSE,America/Los_Angeles
+1462,83%,95626,38.73297,-121.46801,Elverta,CA,California,TRUE,,6065,101.2,6067,Sacramento,"{""06067"": ""89.62"", ""06061"": ""8.54"", ""06101"": ""1.84""}",Sacramento|Placer|Sutter,06067|06061|06101,FALSE,FALSE,America/Los_Angeles
+1463,83%,95627,38.72619,-122.01421,Esparto,CA,California,TRUE,,3802,28.5,6113,Yolo,"{""06113"": ""100""}",Yolo,6113,FALSE,FALSE,America/Los_Angeles
+1464,83%,95628,38.65199,-121.25426,Fair Oaks,CA,California,TRUE,,40855,1228.9,6067,Sacramento,"{""06067"": ""100""}",Sacramento,6067,FALSE,FALSE,America/Los_Angeles
+1465,83%,95629,38.51645,-120.6885,Fiddletown,CA,California,TRUE,,940,7.8,6005,Amador,"{""06005"": ""78.25"", ""06017"": ""21.75""}",Amador|El Dorado,06005|06017,FALSE,FALSE,America/Los_Angeles
+1466,83%,95630,38.66708,-121.14181,Folsom,CA,California,TRUE,,78159,1090.1,6067,Sacramento,"{""06067"": ""100""}",Sacramento,6067,FALSE,FALSE,America/Los_Angeles
+1467,83%,95631,39.05606,-120.79093,Foresthill,CA,California,TRUE,,6851,17.4,6061,Placer,"{""06061"": ""100""}",Placer,6061,FALSE,FALSE,America/Los_Angeles
+1468,83%,95632,38.27435,-121.25963,Galt,CA,California,TRUE,,31911,111.1,6067,Sacramento,"{""06067"": ""96.4"", ""06077"": ""3.6""}",Sacramento|San Joaquin,06067|06077,FALSE,FALSE,America/Los_Angeles
+1469,83%,95633,38.84782,-120.82584,Garden Valley,CA,California,TRUE,,4188,39.2,6017,El Dorado,"{""06017"": ""100""}",El Dorado,6017,FALSE,FALSE,America/Los_Angeles
+1470,83%,95634,38.93581,-120.77167,Georgetown,CA,California,TRUE,,3559,16.9,6017,El Dorado,"{""06017"": ""100""}",El Dorado,6017,FALSE,FALSE,America/Los_Angeles
+1471,84%,95635,38.90496,-120.90861,Greenwood,CA,California,TRUE,,1058,20.1,6017,El Dorado,"{""06017"": ""100""}",El Dorado,6017,FALSE,FALSE,America/Los_Angeles
+1472,84%,95636,38.62126,-120.38326,Grizzly Flats,CA,California,TRUE,,1195,4,6017,El Dorado,"{""06017"": ""100""}",El Dorado,6017,FALSE,FALSE,America/Los_Angeles
+1473,84%,95637,38.83411,-122.23689,Guinda,CA,California,TRUE,,268,4.9,6113,Yolo,"{""06113"": ""100""}",Yolo,6113,FALSE,FALSE,America/Los_Angeles
+1474,84%,95638,38.33437,-121.1226,Herald,CA,California,TRUE,,2126,10.4,6067,Sacramento,"{""06067"": ""100""}",Sacramento,6067,FALSE,FALSE,America/Los_Angeles
+1475,84%,95639,38.3903,-121.50015,Hood,CA,California,TRUE,,335,28.6,6067,Sacramento,"{""06067"": ""100""}",Sacramento,6067,FALSE,FALSE,America/Los_Angeles
+1476,84%,95640,38.32956,-120.94261,Ione,CA,California,TRUE,,11598,38.8,6005,Amador,"{""06005"": ""100""}",Amador,6005,FALSE,FALSE,America/Los_Angeles
+1477,84%,95641,38.141,-121.59025,Isleton,CA,California,TRUE,,1489,12.9,6067,Sacramento,"{""06067"": ""98.44"", ""06077"": ""1.56""}",Sacramento|San Joaquin,06067|06077,FALSE,FALSE,America/Los_Angeles
+1478,84%,95642,38.34262,-120.76101,Jackson,CA,California,TRUE,,7101,41.4,6005,Amador,"{""06005"": ""100""}",Amador,6005,FALSE,FALSE,America/Los_Angeles
+1479,84%,95645,38.88664,-121.78688,Knights Landing,CA,California,TRUE,,1881,5.7,6113,Yolo,"{""06113"": ""55.57"", ""06101"": ""39.27"", ""06011"": ""5.15""}",Yolo|Sutter|Colusa,06113|06101|06011,FALSE,FALSE,America/Los_Angeles
+1480,84%,95646,38.69154,-120.06181,Kirkwood,CA,California,TRUE,,80,8.1,6003,Alpine,"{""06003"": ""61.39"", ""06005"": ""38.61""}",Alpine|Amador,06003|06005,FALSE,FALSE,America/Los_Angeles
+1481,84%,95648,38.9254,-121.31167,Lincoln,CA,California,TRUE,,52949,144.3,6061,Placer,"{""06061"": ""100""}",Placer,6061,FALSE,FALSE,America/Los_Angeles
+1482,84%,95650,38.81283,-121.17077,Loomis,CA,California,TRUE,,14808,231.9,6061,Placer,"{""06061"": ""100""}",Placer,6061,FALSE,FALSE,America/Los_Angeles
+1483,84%,95651,38.81781,-120.92925,Lotus,CA,California,TRUE,,624,20.8,6017,El Dorado,"{""06017"": ""100""}",El Dorado,6017,FALSE,FALSE,America/Los_Angeles
+1484,84%,95652,38.66309,-121.40115,Mcclellan,CA,California,TRUE,,789,80.3,6067,Sacramento,"{""06067"": ""100""}",Sacramento,6067,FALSE,FALSE,America/Los_Angeles
+1485,84%,95653,38.69343,-121.97767,Madison,CA,California,TRUE,,581,43.6,6113,Yolo,"{""06113"": ""100""}",Yolo,6113,FALSE,FALSE,America/Los_Angeles
+1486,84%,95655,38.54957,-121.27931,Mather,CA,California,TRUE,,4156,168.6,6067,Sacramento,"{""06067"": ""100""}",Sacramento,6067,FALSE,FALSE,America/Los_Angeles
+1487,84%,95658,38.87953,-121.15382,Newcastle,CA,California,TRUE,,6837,106.4,6061,Placer,"{""06061"": ""100""}",Placer,6061,FALSE,FALSE,America/Los_Angeles
+1488,84%,95659,38.83993,-121.57134,Nicolaus,CA,California,TRUE,,932,7.2,6101,Sutter,"{""06101"": ""100""}",Sutter,6101,FALSE,FALSE,America/Los_Angeles
+1489,85%,95660,38.67854,-121.37999,North Highlands,CA,California,TRUE,,35461,2197.1,6067,Sacramento,"{""06067"": ""100""}",Sacramento,6067,FALSE,FALSE,America/Los_Angeles
+1490,85%,95661,38.74132,-121.24908,Roseville,CA,California,TRUE,,31315,1342.2,6061,Placer,"{""06061"": ""100""}",Placer,6061,FALSE,FALSE,America/Los_Angeles
+1491,85%,95662,38.68917,-121.21983,Orangevale,CA,California,TRUE,,32172,1149.9,6067,Sacramento,"{""06067"": ""100""}",Sacramento,6067,FALSE,FALSE,America/Los_Angeles
+1492,85%,95663,38.85575,-121.18231,Penryn,CA,California,TRUE,,2493,120.4,6061,Placer,"{""06061"": ""100""}",Placer,6061,FALSE,FALSE,America/Los_Angeles
+1493,85%,95664,38.79899,-121.05067,Pilot Hill,CA,California,TRUE,,1603,16.4,6017,El Dorado,"{""06017"": ""100""}",El Dorado,6017,FALSE,FALSE,America/Los_Angeles
+1494,85%,95665,38.40208,-120.65144,Pine Grove,CA,California,TRUE,,4303,81.9,6005,Amador,"{""06005"": ""100""}",Amador,6005,FALSE,FALSE,America/Los_Angeles
+1495,85%,95666,38.53205,-120.36845,Pioneer,CA,California,TRUE,,5164,35.8,6005,Amador,"{""06005"": ""100""}",Amador,6005,FALSE,FALSE,America/Los_Angeles
+1496,85%,95667,38.73526,-120.78985,Placerville,CA,California,TRUE,,36487,81.3,6017,El Dorado,"{""06017"": ""100""}",El Dorado,6017,FALSE,FALSE,America/Los_Angeles
+1497,85%,95668,38.82844,-121.49253,Pleasant Grove,CA,California,TRUE,,664,4.2,6101,Sutter,"{""06101"": ""83.19"", ""06061"": ""16.81""}",Sutter|Placer,06101|06061,FALSE,FALSE,America/Los_Angeles
+1498,85%,95669,38.48221,-120.89838,Plymouth,CA,California,TRUE,,2315,10.1,6005,Amador,"{""06005"": ""100""}",Amador,6005,FALSE,FALSE,America/Los_Angeles
+1499,85%,95670,38.60475,-121.28001,Rancho Cordova,CA,California,TRUE,,55558,1699,6067,Sacramento,"{""06067"": ""100""}",Sacramento,6067,FALSE,FALSE,America/Los_Angeles
+1500,85%,95672,38.72527,-120.99801,Rescue,CA,California,TRUE,,5266,90.4,6017,El Dorado,"{""06017"": ""100""}",El Dorado,6017,FALSE,FALSE,America/Los_Angeles
+1501,85%,95673,38.68969,-121.46143,Rio Linda,CA,California,TRUE,,16636,396.9,6067,Sacramento,"{""06067"": ""100""}",Sacramento,6067,FALSE,FALSE,America/Los_Angeles
+1502,85%,95674,38.95417,-121.48186,Rio Oso,CA,California,TRUE,,767,9.2,6101,Sutter,"{""06101"": ""100""}",Sutter,6101,FALSE,FALSE,America/Los_Angeles
+1503,85%,95675,38.54471,-120.74052,River Pines,CA,California,TRUE,,566,317,6005,Amador,"{""06005"": ""100""}",Amador,6005,FALSE,FALSE,America/Los_Angeles
+1504,85%,95677,38.79134,-121.2344,Rocklin,CA,California,TRUE,,25477,1109.6,6061,Placer,"{""06061"": ""100""}",Placer,6061,FALSE,FALSE,America/Los_Angeles
+1505,85%,95678,38.76395,-121.28752,Roseville,CA,California,TRUE,,42053,1498.2,6061,Placer,"{""06061"": ""100""}",Placer,6061,FALSE,FALSE,America/Los_Angeles
+1506,86%,95679,38.88594,-122.3272,Rumsey,CA,California,TRUE,,56,0.5,6113,Yolo,"{""06113"": ""100""}",Yolo,6113,FALSE,FALSE,America/Los_Angeles
+1507,86%,95680,38.23978,-121.58454,Ryde,CA,California,TRUE,,10,1.9,6067,Sacramento,"{""06067"": ""100""}",Sacramento,6067,FALSE,FALSE,America/Los_Angeles
+1508,86%,95681,38.99797,-121.35289,Sheridan,CA,California,TRUE,,1246,27.9,6061,Placer,"{""06061"": ""100""}",Placer,6061,FALSE,FALSE,America/Los_Angeles
+1509,86%,95682,38.61109,-120.96638,Shingle Springs,CA,California,TRUE,,30314,144.2,6017,El Dorado,"{""06017"": ""100""}",El Dorado,6017,FALSE,FALSE,America/Los_Angeles
+1510,86%,95683,38.50764,-121.10153,Sloughhouse,CA,California,TRUE,,6326,26.9,6067,Sacramento,"{""06067"": ""100""}",Sacramento,6067,FALSE,FALSE,America/Los_Angeles
+1511,86%,95684,38.59699,-120.58455,Somerset,CA,California,TRUE,,3129,8.3,6017,El Dorado,"{""06017"": ""100""}",El Dorado,6017,FALSE,FALSE,America/Los_Angeles
+1512,86%,95685,38.43107,-120.76783,Sutter Creek,CA,California,TRUE,,4665,36.5,6005,Amador,"{""06005"": ""100""}",Amador,6005,FALSE,FALSE,America/Los_Angeles
+1513,86%,95686,38.19165,-121.48916,Thornton,CA,California,TRUE,,1262,17.9,6077,San Joaquin,"{""06077"": ""100""}",San Joaquin,6077,FALSE,FALSE,America/Los_Angeles
+1514,86%,95687,38.33691,-121.9204,Vacaville,CA,California,TRUE,,69060,612.8,6095,Solano,"{""06095"": ""100""}",Solano,6095,FALSE,FALSE,America/Los_Angeles
+1515,86%,95688,38.40915,-122.02266,Vacaville,CA,California,TRUE,,37260,177.2,6095,Solano,"{""06095"": ""100""}",Solano,6095,FALSE,FALSE,America/Los_Angeles
+1516,86%,95689,38.47885,-120.61202,Volcano,CA,California,TRUE,,1698,23.6,6005,Amador,"{""06005"": ""100""}",Amador,6005,FALSE,FALSE,America/Los_Angeles
+1517,86%,95690,38.2361,-121.5785,Walnut Grove,CA,California,TRUE,,2215,14.9,6067,Sacramento,"{""06067"": ""86.74"", ""06095"": ""13.26""}",Sacramento|Solano,06067|06095,FALSE,FALSE,America/Los_Angeles
+1518,86%,95691,38.61708,-121.58234,West Sacramento,CA,California,TRUE,,38690,359.4,6113,Yolo,"{""06113"": ""100""}",Yolo,6113,FALSE,FALSE,America/Los_Angeles
+1519,86%,95692,39.04589,-121.40381,Wheatland,CA,California,TRUE,,5251,37.3,6115,Yuba,"{""06115"": ""99.54"", ""06101"": ""0.46""}",Yuba|Sutter,06115|06101,FALSE,FALSE,America/Los_Angeles
+1520,86%,95693,38.39999,-121.21256,Wilton,CA,California,TRUE,,7037,43.2,6067,Sacramento,"{""06067"": ""100""}",Sacramento,6067,FALSE,FALSE,America/Los_Angeles
+1521,86%,95694,38.55591,-122.00675,Winters,CA,California,TRUE,,10495,27.2,6113,Yolo,"{""06113"": ""87.75"", ""06095"": ""12.25""}",Yolo|Solano,06113|06095,FALSE,FALSE,America/Los_Angeles
+1522,86%,95695,38.6871,-121.85704,Woodland,CA,California,TRUE,,41278,112.1,6113,Yolo,"{""06113"": ""100""}",Yolo,6113,FALSE,FALSE,America/Los_Angeles
+1523,86%,95697,38.73244,-121.81016,Yolo,CA,California,TRUE,,183,304.9,6113,Yolo,"{""06113"": ""100""}",Yolo,6113,FALSE,FALSE,America/Los_Angeles
+1524,87%,95698,38.81752,-121.91213,Zamora,CA,California,TRUE,,148,1.3,6113,Yolo,"{""06113"": ""100""}",Yolo,6113,FALSE,FALSE,America/Los_Angeles
+1525,87%,95699,38.4354,-120.85948,Drytown,CA,California,TRUE,,21,2,6005,Amador,"{""06005"": ""100""}",Amador,6005,FALSE,FALSE,America/Los_Angeles
+1526,87%,95701,39.22737,-120.76634,Alta,CA,California,TRUE,,915,10.6,6061,Placer,"{""06061"": ""100""}",Placer,6061,FALSE,FALSE,America/Los_Angeles
+1527,87%,95703,38.9908,-120.98528,Applegate,CA,California,TRUE,,831,72.1,6061,Placer,"{""06061"": ""100""}",Placer,6061,FALSE,FALSE,America/Los_Angeles
+1528,87%,95709,38.74883,-120.67938,Camino,CA,California,TRUE,,5498,95.1,6017,El Dorado,"{""06017"": ""100""}",El Dorado,6017,FALSE,FALSE,America/Los_Angeles
+1529,87%,95713,39.08996,-120.91606,Colfax,CA,California,TRUE,,10472,56.8,6061,Placer,"{""06061"": ""100""}",Placer,6061,FALSE,FALSE,America/Los_Angeles
+1530,87%,95714,39.20125,-120.83932,Dutch Flat,CA,California,TRUE,,522,59.9,6061,Placer,"{""06061"": ""100""}",Placer,6061,FALSE,FALSE,America/Los_Angeles
+1531,87%,95715,39.26433,-120.67621,Emigrant Gap,CA,California,TRUE,,104,1.5,6061,Placer,"{""06061"": ""93.04"", ""06057"": ""6.96""}",Placer|Nevada,06061|06057,FALSE,FALSE,America/Los_Angeles
+1532,87%,95717,39.14458,-120.85264,Gold Run,CA,California,TRUE,,176,6.7,6061,Placer,"{""06061"": ""100""}",Placer,6061,FALSE,FALSE,America/Los_Angeles
+1533,87%,95720,38.76708,-120.2265,Kyburz,CA,California,TRUE,,103,0.3,6017,El Dorado,"{""06017"": ""100""}",El Dorado,6017,FALSE,FALSE,America/Los_Angeles
+1534,87%,95721,38.83448,-120.08184,Echo Lake,CA,California,TRUE,,0,0,6017,El Dorado,"{""06017"": ""100""}",El Dorado,6017,FALSE,FALSE,America/Los_Angeles
+1535,87%,95722,39.00591,-121.02842,Meadow Vista,CA,California,TRUE,,5123,181,6061,Placer,"{""06061"": ""100""}",Placer,6061,FALSE,FALSE,America/Los_Angeles
+1536,87%,95724,39.31171,-120.32804,Norden,CA,California,TRUE,,22,7.1,6061,Placer,"{""06061"": ""100""}",Placer,6061,FALSE,FALSE,America/Los_Angeles
+1537,87%,95726,38.80334,-120.51647,Pollock Pines,CA,California,TRUE,,8449,43.9,6017,El Dorado,"{""06017"": ""100""}",El Dorado,6017,FALSE,FALSE,America/Los_Angeles
+1538,87%,95728,39.317,-120.42589,Soda Springs,CA,California,TRUE,,231,7.2,6061,Placer,"{""06061"": ""72.02"", ""06057"": ""27.98""}",Placer|Nevada,06061|06057,FALSE,FALSE,America/Los_Angeles
+1539,87%,95735,38.82061,-120.15228,Twin Bridges,CA,California,TRUE,,12,0.2,6017,El Dorado,"{""06017"": ""100""}",El Dorado,6017,FALSE,FALSE,America/Los_Angeles
+1540,87%,95736,39.03885,-120.97747,Weimar,CA,California,TRUE,,289,445.8,6061,Placer,"{""06061"": ""100""}",Placer,6061,FALSE,FALSE,America/Los_Angeles
+1541,88%,95742,38.57508,-121.19836,Rancho Cordova,CA,California,TRUE,,12472,96.8,6067,Sacramento,"{""06067"": ""100""}",Sacramento,6067,FALSE,FALSE,America/Los_Angeles
+1542,88%,95746,38.75126,-121.18106,Granite Bay,CA,California,TRUE,,23934,523.9,6061,Placer,"{""06061"": ""100""}",Placer,6061,FALSE,FALSE,America/Los_Angeles
+1543,88%,95747,38.78145,-121.37295,Roseville,CA,California,TRUE,,66931,552.9,6061,Placer,"{""06061"": ""100""}",Placer,6061,FALSE,FALSE,America/Los_Angeles
+1544,88%,95757,38.34332,-121.43365,Elk Grove,CA,California,TRUE,,50727,324,6067,Sacramento,"{""06067"": ""100""}",Sacramento,6067,FALSE,FALSE,America/Los_Angeles
+1545,88%,95758,38.42788,-121.44343,Elk Grove,CA,California,TRUE,,65811,1974,6067,Sacramento,"{""06067"": ""100""}",Sacramento,6067,FALSE,FALSE,America/Los_Angeles
+1546,88%,95762,38.6764,-121.05773,El Dorado Hills,CA,California,TRUE,,43052,401.9,6017,El Dorado,"{""06017"": ""100""}",El Dorado,6017,FALSE,FALSE,America/Los_Angeles
+1547,88%,95765,38.81861,-121.27807,Rocklin,CA,California,TRUE,,39214,1228.6,6061,Placer,"{""06061"": ""100""}",Placer,6061,FALSE,FALSE,America/Los_Angeles
+1548,88%,95776,38.6825,-121.70563,Woodland,CA,California,TRUE,,23911,99.9,6113,Yolo,"{""06113"": ""100""}",Yolo,6113,FALSE,FALSE,America/Los_Angeles
+1549,88%,95811,38.58747,-121.48516,Sacramento,CA,California,TRUE,,6294,854.8,6067,Sacramento,"{""06067"": ""100""}",Sacramento,6067,FALSE,FALSE,America/Los_Angeles
+1550,88%,95814,38.58045,-121.49498,Sacramento,CA,California,TRUE,,11908,3292.3,6067,Sacramento,"{""06067"": ""100""}",Sacramento,6067,FALSE,FALSE,America/Los_Angeles
+1551,88%,95815,38.60548,-121.4473,Sacramento,CA,California,TRUE,,25673,1254.4,6067,Sacramento,"{""06067"": ""100""}",Sacramento,6067,FALSE,FALSE,America/Los_Angeles
+1552,88%,95816,38.57163,-121.46691,Sacramento,CA,California,TRUE,,17199,3244.3,6067,Sacramento,"{""06067"": ""100""}",Sacramento,6067,FALSE,FALSE,America/Los_Angeles
+1553,88%,95817,38.55059,-121.45643,Sacramento,CA,California,TRUE,,13758,2318.5,6067,Sacramento,"{""06067"": ""100""}",Sacramento,6067,FALSE,FALSE,America/Los_Angeles
+1554,88%,95818,38.55588,-121.49664,Sacramento,CA,California,TRUE,,21625,2184,6067,Sacramento,"{""06067"": ""100""}",Sacramento,6067,FALSE,FALSE,America/Los_Angeles
+1555,88%,95819,38.56964,-121.43974,Sacramento,CA,California,TRUE,,19890,2246.1,6067,Sacramento,"{""06067"": ""100""}",Sacramento,6067,FALSE,FALSE,America/Los_Angeles
+1556,88%,95820,38.53486,-121.44438,Sacramento,CA,California,TRUE,,36437,2708.4,6067,Sacramento,"{""06067"": ""100""}",Sacramento,6067,FALSE,FALSE,America/Los_Angeles
+1557,88%,95821,38.6259,-121.3845,Sacramento,CA,California,TRUE,,35812,1933.5,6067,Sacramento,"{""06067"": ""100""}",Sacramento,6067,FALSE,FALSE,America/Los_Angeles
+1558,88%,95822,38.51275,-121.4956,Sacramento,CA,California,TRUE,,44741,2043.7,6067,Sacramento,"{""06067"": ""100""}",Sacramento,6067,FALSE,FALSE,America/Los_Angeles
+1559,89%,95823,38.47408,-121.44347,Sacramento,CA,California,TRUE,,79440,2598.5,6067,Sacramento,"{""06067"": ""100""}",Sacramento,6067,FALSE,FALSE,America/Los_Angeles
+1560,89%,95824,38.51759,-121.44075,Sacramento,CA,California,TRUE,,30296,2880.3,6067,Sacramento,"{""06067"": ""100""}",Sacramento,6067,FALSE,FALSE,America/Los_Angeles
+1561,89%,95825,38.59036,-121.40641,Sacramento,CA,California,TRUE,,37473,3068.4,6067,Sacramento,"{""06067"": ""100""}",Sacramento,6067,FALSE,FALSE,America/Los_Angeles
+1562,89%,95826,38.54511,-121.37914,Sacramento,CA,California,TRUE,,39145,1323.4,6067,Sacramento,"{""06067"": ""100""}",Sacramento,6067,FALSE,FALSE,America/Los_Angeles
+1563,89%,95827,38.55504,-121.32555,Sacramento,CA,California,TRUE,,20666,1034.7,6067,Sacramento,"{""06067"": ""100""}",Sacramento,6067,FALSE,FALSE,America/Los_Angeles
+1564,89%,95828,38.48879,-121.39587,Sacramento,CA,California,TRUE,,58717,1840.1,6067,Sacramento,"{""06067"": ""100""}",Sacramento,6067,FALSE,FALSE,America/Los_Angeles
+1565,89%,95829,38.48924,-121.33249,Sacramento,CA,California,TRUE,,28264,525.1,6067,Sacramento,"{""06067"": ""100""}",Sacramento,6067,FALSE,FALSE,America/Los_Angeles
+1566,89%,95830,38.49402,-121.27235,Sacramento,CA,California,TRUE,,734,21.9,6067,Sacramento,"{""06067"": ""100""}",Sacramento,6067,FALSE,FALSE,America/Los_Angeles
+1567,89%,95831,38.49593,-121.52936,Sacramento,CA,California,TRUE,,43094,2367.9,6067,Sacramento,"{""06067"": ""100""}",Sacramento,6067,FALSE,FALSE,America/Los_Angeles
+1568,89%,95832,38.44506,-121.49648,Sacramento,CA,California,TRUE,,12114,559.5,6067,Sacramento,"{""06067"": ""100""}",Sacramento,6067,FALSE,FALSE,America/Los_Angeles
+1569,89%,95833,38.61564,-121.51585,Sacramento,CA,California,TRUE,,39905,1988.1,6067,Sacramento,"{""06067"": ""100""}",Sacramento,6067,FALSE,FALSE,America/Los_Angeles
+1570,89%,95834,38.64203,-121.52027,Sacramento,CA,California,TRUE,,30076,1166.5,6067,Sacramento,"{""06067"": ""100""}",Sacramento,6067,FALSE,FALSE,America/Los_Angeles
+1571,89%,95835,38.67075,-121.52581,Sacramento,CA,California,TRUE,,40170,1736.6,6067,Sacramento,"{""06067"": ""100""}",Sacramento,6067,FALSE,FALSE,America/Los_Angeles
+1572,89%,95837,38.70046,-121.5915,Sacramento,CA,California,TRUE,,300,6.4,6067,Sacramento,"{""06067"": ""66.98"", ""06101"": ""33.02""}",Sacramento|Sutter,06067|06101,FALSE,FALSE,America/Los_Angeles
+1573,89%,95838,38.64679,-121.44495,Sacramento,CA,California,TRUE,,39053,1659.8,6067,Sacramento,"{""06067"": ""100""}",Sacramento,6067,FALSE,FALSE,America/Los_Angeles
+1574,89%,95841,38.66035,-121.34742,Sacramento,CA,California,TRUE,,21229,2011,6067,Sacramento,"{""06067"": ""100""}",Sacramento,6067,FALSE,FALSE,America/Los_Angeles
+1575,89%,95842,38.68673,-121.34919,Sacramento,CA,California,TRUE,,33522,3300.6,6067,Sacramento,"{""06067"": ""100""}",Sacramento,6067,FALSE,FALSE,America/Los_Angeles
+1576,89%,95843,38.71546,-121.36338,Antelope,CA,California,TRUE,,47823,2863.4,6067,Sacramento,"{""06067"": ""100""}",Sacramento,6067,FALSE,FALSE,America/Los_Angeles
+1577,90%,95864,38.5853,-121.37627,Sacramento,CA,California,TRUE,,23352,1424.1,6067,Sacramento,"{""06067"": ""100""}",Sacramento,6067,FALSE,FALSE,America/Los_Angeles
+1578,90%,95901,39.22185,-121.49156,Marysville,CA,California,TRUE,,33455,65.7,6115,Yuba,"{""06115"": ""98.95"", ""06007"": ""1.05""}",Yuba|Butte,06115|06007,FALSE,FALSE,America/Los_Angeles
+1579,90%,95903,39.10251,-121.36833,Beale Afb,CA,California,TRUE,,1653,43.8,6115,Yuba,"{""06115"": ""100""}",Yuba,6115,FALSE,FALSE,America/Los_Angeles
+1580,90%,95910,39.47444,-120.82258,Alleghany,CA,California,TRUE,,123,1.4,6091,Sierra,"{""06091"": ""100""}",Sierra,6091,FALSE,FALSE,America/Los_Angeles
+1581,90%,95912,39.01635,-122.06195,Arbuckle,CA,California,TRUE,,5380,11.5,6011,Colusa,"{""06011"": ""97.4"", ""06113"": ""2.6""}",Colusa|Yolo,06011|06113,FALSE,FALSE,America/Los_Angeles
+1582,90%,95914,39.40999,-121.36326,Bangor,CA,California,TRUE,,752,19.8,6007,Butte,"{""06007"": ""60.21"", ""06115"": ""39.79""}",Butte|Yuba,06007|06115,FALSE,FALSE,America/Los_Angeles
+1583,90%,95915,39.97548,-121.20866,Belden,CA,California,TRUE,,0,0,6063,Plumas,"{""06063"": ""100""}",Plumas,6063,FALSE,FALSE,America/Los_Angeles
+1584,90%,95916,39.66073,-121.36357,Berry Creek,CA,California,TRUE,,1359,5.4,6007,Butte,"{""06007"": ""100""}",Butte,6007,FALSE,FALSE,America/Los_Angeles
+1585,90%,95917,39.41906,-121.76252,Biggs,CA,California,TRUE,,3717,20.8,6007,Butte,"{""06007"": ""100""}",Butte,6007,FALSE,FALSE,America/Los_Angeles
+1586,90%,95918,39.29654,-121.3334,Browns Valley,CA,California,TRUE,,2915,16.3,6115,Yuba,"{""06115"": ""100""}",Yuba,6115,FALSE,FALSE,America/Los_Angeles
+1587,90%,95919,39.43289,-121.26113,Brownsville,CA,California,TRUE,,971,15.2,6115,Yuba,"{""06115"": ""100""}",Yuba,6115,FALSE,FALSE,America/Los_Angeles
+1588,90%,95920,39.46072,-121.93702,Butte City,CA,California,TRUE,,315,1.8,6021,Glenn,"{""06021"": ""100""}",Glenn,6021,FALSE,FALSE,America/Los_Angeles
+1589,90%,95922,39.48489,-121.07192,Camptonville,CA,California,TRUE,,831,5.1,6115,Yuba,"{""06115"": ""97.67"", ""06091"": ""2.33""}",Yuba|Sierra,06115|06091,FALSE,FALSE,America/Los_Angeles
+1590,90%,95923,40.15792,-121.1155,Canyon Dam,CA,California,TRUE,,28,1.1,6063,Plumas,"{""06063"": ""100""}",Plumas,6063,FALSE,FALSE,America/Los_Angeles
+1591,90%,95925,39.4689,-121.17952,Challenge,CA,California,TRUE,,276,3.2,6115,Yuba,"{""06115"": ""100""}",Yuba,6115,FALSE,FALSE,America/Los_Angeles
+1592,90%,95926,39.7456,-121.84388,Chico,CA,California,TRUE,,40000,2018.6,6007,Butte,"{""06007"": ""100""}",Butte,6007,FALSE,FALSE,America/Los_Angeles
+1593,90%,95928,39.68377,-121.84454,Chico,CA,California,TRUE,,37735,106,6007,Butte,"{""06007"": ""100""}",Butte,6007,FALSE,FALSE,America/Los_Angeles
