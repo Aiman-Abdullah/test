@@ -118,30 +118,30 @@ SESSION_SAVE_EVERY_REQUEST = True
 # }
 
 
-# adding local postgres database connection 
-DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'postgres',
-        'USER':'postgres',
-        'PASSWORD':'Darkknight17',
-        'HOST':'localhost',
-        'PORT':'5432',
-    }
-}
-
-
-# # adding azure postgres database connection
+# # adding local postgres database connection 
 # DATABASES = {
 #     'default': {
 #         'ENGINE': 'django.db.backends.postgresql_psycopg2',
 #         'NAME': 'postgres',
-#         'USER':'Christopher@econometricdatasolutionsdb',
-#         'PASSWORD':'Darkknight17!',
-#         'HOST':'econometricdatasolutionsdb.postgres.database.azure.com',
+#         'USER':'postgres',
+#         'PASSWORD':'Darkknight17',
+#         'HOST':'localhost',
 #         'PORT':'5432',
 #     }
 # }
+
+# test
+# adding azure postgres database connection
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        'NAME': 'postgres',
+        'USER':'Christopher@econometricdatasolutionsdb',
+        'PASSWORD':'Darkknight17!',
+        'HOST':'econometricdatasolutionsdb.postgres.database.azure.com',
+        'PORT':'5432',
+    }
+}
 
 # Password validation
 # https://docs.djangoproject.com/en/3.1/ref/settings/#auth-password-validators
