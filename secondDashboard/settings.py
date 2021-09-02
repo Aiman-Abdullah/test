@@ -140,6 +140,7 @@ DATABASES = {
         'PASSWORD':'Darkknight17!',
         'HOST':'econometricdatasolutionsdb.postgres.database.azure.com',
         'PORT':'5432',
+        'OPTIONS': {'sslmode': 'require'},
     }
 }
 
