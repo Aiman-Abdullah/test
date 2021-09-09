@@ -20,7 +20,7 @@ jobs:
     - name: Set up Python version
       uses: actions/setup-python@v1
       with:
-        python-version: '3.8'
+        python-version: '3.7'
 
     - name: Create and start virtual environment
       run: |
@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'EconometricDataSolutions'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_5d1cb83d7960450ead3786dfc82cdeb3 }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_ba84101e1de64bcaaf7741eb91c1420c }}
