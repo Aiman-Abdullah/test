@@ -26,7 +26,9 @@ DEBUG = True
 # SECURITY session expire at browser close
 SESSION_EXPIRE_AT_BROWSER_CLOSE = True
 
-ALLOWED_HOSTS = [] #['econometricdatasolutionsdb.postgres.database.azure.com'] # '*' # []
+# ALLOWED_HOSTS = [] #['econometricdatasolutionsdb.postgres.database.azure.com'] # '*' # []
+ALLOWED_HOSTS = ['econometricdatasolutions.azurewebsites.net'] #['econometricdatasolutionsdb.postgres.database.azure.com'] # '*' # []
+
 
 # Application definition
 
