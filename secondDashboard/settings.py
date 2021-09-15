@@ -73,7 +73,7 @@ MIDDLEWARE = [
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
-    'whitenoise.middleware.WhiteNoiseMiddleware'
+#    'whitenoise.middleware.WhiteNoiseMiddleware'
 ]
 
 SESSION_SECURITY_EXPIRE_AFTER=180000
@@ -216,11 +216,11 @@ STATICFILES_LOCATION ='static'
 STATIC_URL ='/static/'
 
 # use for deployement
-STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage' 
-STATIC_ROOT =BASE_DIR/'static' 
+# STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage' 
+# STATIC_ROOT =BASE_DIR/'static' 
 
 # use for local
-# STATIC_ROOT ='static' 
+STATIC_ROOT ='static' 
 
 STATISFILES_DIRS = [
     os.path.join(BASE_DIR, 'secondDashboard/static')  
