@@ -4,7 +4,7 @@ from django_pandas.io import read_frame
 from firstUI.models import Tempcolor
 
 df3=pd.read_json('https://cdn.jsdelivr.net/gh/highcharts/highcharts@v7.0.0/samples/data/world-population-density.json')
-
+# could not change time at 9:21
 def indexPage(request):
 
     confirmedGlobal= pd.read_csv('https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv',encoding='utf-8',na_values=None)
