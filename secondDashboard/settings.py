@@ -20,8 +20,8 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = '-q8b(4reb$*r5#j!yjo5(a=$9)okcjk7$#jscd*_qyfuo(s1f0'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-# DEBUG = True
-DEBUG = False
+DEBUG = True
+# DEBUG = False
 
 # SECURITY session expire at browser close
 SESSION_EXPIRE_AT_BROWSER_CLOSE = True
