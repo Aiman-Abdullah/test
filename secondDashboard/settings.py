@@ -27,7 +27,7 @@ DEBUG = True
 SESSION_EXPIRE_AT_BROWSER_CLOSE = True
 
 # ALLOWED_HOSTS = [] #['econometricdatasolutionsdb.postgres.database.azure.com'] # '*' # []
-ALLOWED_HOSTS = ['econometricdatasolutions.azurewebsites.net', '127.0.0.1'] #['econometricdatasolutionsdb.postgres.database.azure.com'] # '*' # []
+ALLOWED_HOSTS = ['econometricdatasolutions.azurewebsites.net'] #['econometricdatasolutionsdb.postgres.database.azure.com'] # '*' # []
 
 
 # Application definition
