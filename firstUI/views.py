@@ -6,11 +6,12 @@ from firstUI.models import Tempcolor
 df3=pd.read_json('https://cdn.jsdelivr.net/gh/highcharts/highcharts@v7.0.0/samples/data/world-population-density.json')
 # could not change time at 9:21
 # could change time at 10:15
+# could change time at 10:00
 def indexPage(request):
 
     confirmedGlobal= pd.read_csv('https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv',encoding='utf-8',na_values=None)
     totalCount = confirmedGlobal[confirmedGlobal.columns[-1]].sum()
-    barPlotData = confirmedGlobal[['Country/Region',confirmedGlobal.columns[-1]]].groupby('Country/Region').sum().sort_values(by='9/15/21',ascending=False)
+    barPlotData = confirmedGlobal[['Country/Region',confirmedGlobal.columns[-1]]].groupby('Country/Region').sum().sort_values(by='9/16/21',ascending=False)
     barPlotData = barPlotData.reset_index()
     barPlotData.columns = ['Country/Region','values']
     barPlotData = barPlotData.sort_values(by='values',ascending=False)
@@ -64,7 +65,7 @@ def indiCountryData(request):
     qs = Tempcolor.objects.all()
     totalCount = read_frame(qs)
     totalCount = totalCount.columns[-1]
-    barPlotData = confirmedGlobal[['Country/Region',confirmedGlobal.columns[-1]]].groupby('Country/Region').sum().sort_values(by='9/15/21',ascending=False)
+    barPlotData = confirmedGlobal[['Country/Region',confirmedGlobal.columns[-1]]].groupby('Country/Region').sum().sort_values(by='9/16/21',ascending=False)
     barPlotData = barPlotData.reset_index()
     barPlotData.columns = ['Country/Region','values'] 
     barPlotData = barPlotData.sort_values(by='values',ascending=False)
