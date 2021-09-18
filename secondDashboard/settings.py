@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles', 
     'firstUI',
+    'home_page',
     'import_export',
     'my_django_app',
     'employee_register',

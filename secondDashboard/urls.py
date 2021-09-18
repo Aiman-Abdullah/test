@@ -21,7 +21,8 @@ from django.urls import path
 
 from dim_accounts import views as accounts_views 
 from employee_register import views as employee_register_views
-from firstUI import views as firstUI_views
+# from firstUI import views as firstUI_views
+from home_page import views as home_page_views
 from my_django_app import views as my_django_app_views
 from dim_customer import views as dim_customer_views
 from dim_date import views as dim_date_views
@@ -48,10 +49,11 @@ urlpatterns = [
     path('plotlyDash/', plotlyDash_views.plotlyDash),
     path('django_plotly_dash/', include('django_plotly_dash.urls')),
     
-    url('^$', firstUI_views.indexPage, name = 'index'),
-    url('selectCountry', firstUI_views.indiCountryData, name='indiCountryData'),
+    url('contact_us', home_page_views.contact_us, name = 'home_page'),
+    url('^$', home_page_views.homePage, name = 'home_page'),
+    # url('selectCountry', firstUI_views.indiCountryData, name='indiCountryData'),
     url(r'^my_django_app/', include('my_django_app.urls')),
-    url(r'^firstUI/', include('firstUI.urls')),
+    # url(r'^firstUI/', include('firstUI.urls')),
     url(r'^employee/', include('employee_register.urls'), name='employee_register'),
     path('dim_accounts/', include('dim_accounts.urls')),
     path('signup/', include('dim_accounts.urls')),
@@ -63,6 +65,8 @@ urlpatterns = [
     path('dim_product/', include('dim_product.urls')),
     path('dim_product_group/', include('dim_product_group.urls')),
     path('dim_table/', include('dim_table.urls')),
+    path('home_page/', include('home_page.urls')),
+    path('home_page/', home_page_views.homePage),
     path('login/', include('dim_accounts.urls')),
     path('logout/', include('dim_accounts.urls')),
     url(r'session_security/', include('session_security.urls')),

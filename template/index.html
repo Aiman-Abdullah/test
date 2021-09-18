@@ -1,258 +1,72 @@
-<html>
-    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+{% extends 'base_layout.html' %}
 
-    <script src="https://code.highcharts.com/maps/highmaps.js"></script>
-    <script src="https://code.highcharts.com/modules/data.js"></script>
-    <script src="https://code.highcharts.com/modules/exporting.js"></script>
-    <script src="https://code.highcharts.com/modules/offline-exporting.js"></script>
-    <script src="https://code.highcharts.com/mapdata/custom/world.js"></script>
-       
-    <link rel = "stylesheet" type="text/css" href="//github.com/downloads/lafeber/world-flags-sprite/flags32.css">
-
-    <style>
-        /*Add some padding on document's body to prevent the content
-        to go underneath the header and footer*/
-        body{
-            padding-top: 60px;
-            padding-bottom: 40px;
-        }
-        .fixed-header, .fixed-footer{
-            width:100%;
-            position: fixed;
-            background: #333;
-            padding: 10px 0;
-            color: #fff;
-        }
-        .fixed-header{
-            top:0;
-        }
-        .fixed-footer{
-            bottom: 0;
-        }
-        .container{
-            width: 80%;
-            margin: 0 auto; /* Center the DIV horizontally */
-        }
-        nav a{
-            color: #fff;
-            text-decoration: none;
-            padding: 7px 25px;
-            display: inline-block;
-        }
-    </style>
-
-<body>
-    <div class = "fixed-header">
-        <div class>
-            <nav>
-                <a hfer = "/"><span style="font-size: 40px;">COVID-19 DashBoard :)</span></a>
-
-            </nav>
-        </div>
-    </div>
-    <div>
-        <div  class="col-lg-3" style="float: left; max-height: 650px; max-width: 400px; overflow: scroll; overflow-x: hidden;">
-            <div><h1>Total Infected Count: {{totalCount}}</h1></div>
-            <div class ="col-lg-12" style="float: left;">
-                <div class ="col-lg-4" style = "float: left;">
-                    <form method = "post" enctype="multipart/form-data" action="selectCountry">
-                        {% csrf_token %}
-                        {% for con in countryNames %}
-                        <input type = "submit" value = {{con}} name = "countryName" style ="width:100px;"><br>
-
-                        {% endfor %}
-                    </form>
-                </div>
-                <div class ="col-lg-8" style = "float: left;">
-
-                <canvas id="myChart" style="width: 250px; height: 4100px;"></canvas>  
-            </div>
-        </div>
-        </div>
-        <div  class="col-lg-6" style = "float: left;">
-        <br>
-                    <br>
-                    <br>
-                    <br>
-            {% if showMap == 'True' %} 
-              <div id="mapChart" style="height: 650px; width: 800px;"> </div>
-            {% elif showMap == 'False' %}
-            <h2 style="text-align: center;">Analysis on {{countryName}}</h2><br>
-            <canvas id="lineChart" style="height: 450;"></canvas>
-            {%endif%}</div>
-        <div  class="col-lg-3"></div>
+{% block content %}
 
 
-    </div>
+<form>
+    <div class="form-row">
+      <div class="col-7" style="margin: 0 1.5%;">
+
+      <h1>Econometric Data Solutions </h1>
+
+
+      </div>
+      <div class="col">
+        <h1>
+            <form class = "form-inline" action = "{% url 'dim_accounts:login' %}" method ="POST" style="margin: 0 10.5%; float: left;" display = "inline-block;">
+                                                        
+                
+            </form>
+        </h1>
+        <form class = "site-form" action = "{% url 'dim_accounts:login' %}" method ="POST" style="margin: 0 10.5%; float: left;" display = "inline-block;">
+            {%csrf_token %}     
+            {{form}}     
+            {% if request.GET.next%} 
+            <input type =  "hidden" name="next" value ="{{ reqeust.GET.next}}">
+            {% endif %}                                                       
+            <button type = "submit" class="btn btn-outline-success btn-lg">Login<i class="fas fa-database" style="margin: 0 50.5%; float: right;"></i>
+        </form>
+      </div>
+
+
+      <div class="col">
  
+      </div>
+
+      
+    </div>
+</form>
 
 
-</body>
-
-<script>
-
-
-var ctx = document.getElementById('myChart').getContext('2d');
-
-var chartOptions = {    indexAxis: 'y',
-                        legend:{
-                            display: false
-                            //position='right',
-                                },
-                        scales: {
-                            xAxes: [{
-                                barPercentage:1
-                            }],
-                            yAxes: [
-                                    // {barPercentage: 1},
-                                    // {gridLines:{drawBorder: false}},
-                                    {ticks: {display:false}},
-                                    // {ticks: {mirror: true}},
-                                    {display: false},
-                                    
-                                    ],
-                        elements: {
-                            rectangle: {
-                            borderSkipped: 'left',
-                            }
-                        }
-                        }
-                    };
+<div class="card">
+<div class="col-7" style="margin: 0 1.5%;">
+<img class="card-img-top" src="https://i.ibb.co/VmJKgBF/Electric-Green.jpg" alt="Card image cap">
+<div class="card-body">
+    <h4 class="card-title">Easy to use analysis</h4>
+    <p class="card-text">
+    Custom Data Wearhousing, and Business Intellegence. Begin your free consultation today.
+    </p>
+    <nav>
+        <form class = "logout-link" action = "{% url 'home_page' %}" method ="POST">
+            {%csrf_token %}
+            <button type = "submit" class="btn btn-secondary btn-lg">Contact us<i class="fas fa-database"></i>
+        </form>
+    </nav>
+</div>
+</div>
+</div>
 
 
-var chart = new Chart(ctx,{
-    // The type of chart we want to create
-    type: 'bar',
-
-    // The data for our dataset
-    data: {
-        labels:{{countryNames|safe}},
-        datasets:[{
-            /*label: 'Latest Infected Count',*/
-            backgroundColor: 'rgb(255,99,132)',
-            borderColor: 'rgb(255,99,132)',
-            data:{{barPlotVals|safe}},
-            legend:{display: false},
-        }]
-    },
-    // Configuration options go here
-    options: chartOptions
-});
-
-</script> 
-
-<script >
-var data2 = {{dataForMap|safe}};
-Highcharts.getJSON('https://cdn.jsdelivr.net/gh/highcharts/highcharts@v7.0.0/samples/data/world-population-density.json',function(data) {
 
 
-//Prevent logarithmic errors in calculation
-data.forEach(function(p){
-    p.value=(p.value < 1 ? 1: p.value);
-});
+{% endblock %}
 
+{% block content2 %}
 
-// Initiate the chart
-Highcharts.mapChart('mapChart', {
+<form class='logout-link' action = "{% url 'dim_accounts:logout' %}" method = "post">
 
-    chart: {
-        map: 'custom/world'
-    },
+    {{form}}
+    <button type="submit" class="btn btn-secondary btn-lg"> <i class="fas fa-database"> Logout </i>
+</form>
 
-    title: {
-        text: 'Infected Map Graph of World'
-    },
-
-        legend: {
-            title:{
-                text: 'Population density per km',
-                style: {
-                    color:( //theme
-                    Highcharts.defualtOptions &&
-                    Highcharts.defualtOptions.legend &&
-                    Highcharts.defualtOptions.legend.title &&
-                    Highcharts.defualtOptions.legend.title.style &&
-                    Highcharts.defualtOptions.legend.title.style.color
-                ) || 'black'
-            }
-        }
-    },
-
-    mapNavigation:{
-        enable: true,
-        buttonOptions: {
-            verticalAlign: 'bottom'
-        }
-    },
-
-    tooltip: {
-        backgroundColor: 'none',
-        borderWidth: 0,
-        shadow: false,
-        useHTML: true,
-        padding: 0,
-        pointFormat: '<span class="f32"><span class="flag {point.properties.hc-key}">' + 
-            '</span></span> {point.name}<br>' +
-            '<span style="font-size:30px">{point.value}<span></span>',
-        positioner: function() {
-            return {x:0, y:250};
-
-        }
-    },
-
-    colorAxis: {
-        min: 1,
-        max: 1000,
-        type: 'logarithmic'
-    },
-    series:[{
-        data:data2,
-        joinBy: ['iso-a3', 'code3'],
-        name: 'Infected Population',
-        states: {
-            hover: {
-                color: '#a4edba'
-            }
-        }
-    }]
-});
-});
-
-
-</script>
-
-<script>
-    var data2 ={{datasetsForLine|safe}};
-    var chartOptions2 = {
-            legend: {
-                display: true
-                    },
-                    scales:{
-                        yAxes: [{
-                            type: 'liner', // only linear but allow scale type registration. This allows extentions to exist solely 
-                            display: true,
-                            position: 'left',
-                            id: ' y-axis-1',
-                        }, {
-                            type: 'linear', // only linear but allow scale type registration. This allows extentions to exist solely 
-                            display: true,
-                            position: 'right',
-                            id: 'y-axis-2',
-
-                            // grid line settings
-                            gridLines: {
-                                drawOnChartArea:false, // only want the grid lines for one axis to show up
-                            },
-                        }],
-                    },
-        };
-    var ctx2 = document.getElementById('lineChart').getContext('2d');
-    var myLineChart = new Chart(ctx2, {
-        type: 'line',
-        data: {labels:{{axisvalues|safe}},datasets:data2,},
-        options: chartOptions2
-    });
-</script>
-
-
-</html> 
+{% endblock %}

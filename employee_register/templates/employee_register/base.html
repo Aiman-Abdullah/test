@@ -13,7 +13,7 @@
     <nav>
         <ul>
             {% if user.is_authenticated %}
-            <p>Welcome, {{ user.get_username }}. Thanks for logging in.</p>
+            <p>Welcome, {{ user.get_username }}. Nice to see you.</p>
             <li>
                 <form class = "logout-link" action = "{% url 'dim_accounts:logout' %}" method ="POST">
                     {%csrf_token %}

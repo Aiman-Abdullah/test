@@ -9,7 +9,17 @@ df3=pd.read_json('https://cdn.jsdelivr.net/gh/highcharts/highcharts@v7.0.0/sampl
 # could change time at 10:00
 # could change time at 9:53
 
+def homePage(request):
 
+    return render(request,'index.html')
+
+def contact_us(request):
+
+    return render(request,'contact_us.html')
+
+    
+# Create your views here.
+# test comment
 
 
 def indexPage(request):
