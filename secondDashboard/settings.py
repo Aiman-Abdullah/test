@@ -29,6 +29,7 @@ SESSION_EXPIRE_AT_BROWSER_CLOSE = True
 # ALLOWED_HOSTS = [] #['econometricdatasolutionsdb.postgres.database.azure.com'] # '*' # []
 ALLOWED_HOSTS = ['econometricdatasolutions.azurewebsites.net'] #['econometricdatasolutionsdb.postgres.database.azure.com'] # '*' # []
 
+#Super User: ChristopherAdmin
 
 # Application definition
 
@@ -79,7 +80,7 @@ MIDDLEWARE = [
 #    'whitenoise.middleware.WhiteNoiseMiddleware'
 ]
 
-SESSION_SECURITY_EXPIRE_AFTER=180000
+# SESSION_SECURITY_EXPIRE_AFTER=180000
 
 ROOT_URLCONF = 'secondDashboard.urls'
 
