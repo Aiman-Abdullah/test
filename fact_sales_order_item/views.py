@@ -25,6 +25,7 @@ from django.contrib.auth.decorators import login_required
 import psycopg2
 import pandas as pd
 from pandas import DataFrame
+import time
 
 # Create your views here.
 app_start_time = datetime.now()
@@ -80,7 +81,7 @@ def simple_upload(request):
         	value.save()       
 
 
-
+        time.sleep(60)
         # importing data from the data warehouse using psycopg2
         conn = psycopg2.connect("host='econometricdatasolutionsdb.postgres.database.azure.com' dbname=postgres user='Christopher@econometricdatasolutionsdb' password='Darkknight17!'")
         cur = conn.cursor()
@@ -282,12 +283,8 @@ def simple_upload(request):
         SELECT * FROM jcwf_fact_sales_order_item;
 
         """
-
-
-
-
-
         )
+        
         print('testing out psycopg2 speed')
 
 
