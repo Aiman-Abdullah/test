@@ -46,7 +46,7 @@ for discount_name in df.discount_name:
 app.layout = dbc.Container([
     dbc.Row([
         dbc.Col(
-                html.H1("""Select Color Description""",
+                html.H1("""Select Discount Description""",
                     className = 'm-0 text-left text-dark'
                     #style={'margin-right': '3em'}
                 ),

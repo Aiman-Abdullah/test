@@ -13,7 +13,7 @@
     <nav>
         <ul>
             {% if user.is_authenticated %}
-            <p>Welcome, {{ user.get_username }}. Nice to see you.</p>
+            <p>Welcome, {{ user.get_username }}. </p>
             <li>
                 <form class = "logout-link" action = "{% url 'dim_accounts:logout' %}" method ="POST">
                     {%csrf_token %}
@@ -66,31 +66,7 @@
             <i class="fas fa-stream"></i> Sales order items table
         </a>
     </div>
-    <div class="col-md-4">
-        <a href ="{% url 'dim_product'%}" class="btn btn-secondary btn-block btn-lg">
-            <i class="fas fa-stream"></i> Product table
-        </a>
-    </div>
-    <div class="col-md-4">
-        <a href ="{% url 'dim_product'%}" class="btn btn-secondary btn-block btn-lg">
-            <i class="fas fa-stream"></i> Product table
-        </a>
-    </div>
-    <div class="col-md-4">
-        <a href ="{% url 'dim_product'%}" class="btn btn-secondary btn-block btn-lg">
-            <i class="fas fa-stream"></i> Product table
-        </a>
-    </div>
-    <div class="col-md-4">
-        <a href ="{% url 'dim_product'%}" class="btn btn-secondary btn-block btn-lg">
-            <i class="fas fa-stream"></i> Product table
-        </a>
-    </div>
-    <div class="col-md-4">
-        <a href ="{% url 'dim_product'%}" class="btn btn-secondary btn-block btn-lg">
-            <i class="fas fa-stream"></i> Product table
-        </a>
-    </div>
+
 <!--
     <div class ="container">
         <div class="col-md-10 offset-md-1 mt-5">

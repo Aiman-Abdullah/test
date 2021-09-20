@@ -46,7 +46,7 @@ for sales_order_item_order_items in df.sales_order_item_order_item:
 app.layout = dbc.Container([
     dbc.Row([
         dbc.Col(
-                html.H1("""Select Color Description""",
+                html.H1("""Select Sales Order Item Description""",
                     className = 'm-0 text-left text-dark'
                     #style={'margin-right': '3em'}
                 ),

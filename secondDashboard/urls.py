@@ -30,6 +30,7 @@ from dim_discount import views as dim_discount_views
 from dim_product import views as dim_product_views
 from dim_product_group import views as dim_product_group_views
 from dim_table import views as dim_table_views 
+from fact_sales_order_item import views as fact_sales_order_item_views 
 from plotlyDash import views as plotlyDash_views
 
 urlpatterns = [
@@ -43,6 +44,7 @@ urlpatterns = [
     path('dim_product/', dim_product_views.simple_upload),
     path('dim_product_group/', dim_product_group_views.simple_upload),
     path('dim_table/', dim_table_views.simple_upload),
+    path('fact_sales_order_item/', fact_sales_order_item_views.simple_upload),
     path('', include("django.contrib.auth.urls")),
     path('login/', accounts_views.login_view),
     path('logout/', accounts_views.login_view),
@@ -65,6 +67,7 @@ urlpatterns = [
     path('dim_product/', include('dim_product.urls')),
     path('dim_product_group/', include('dim_product_group.urls')),
     path('dim_table/', include('dim_table.urls')),
+    path('fact_sales_order_item/', include('fact_sales_order_item.urls')),
     path('home_page/', include('home_page.urls')),
     path('home_page/', home_page_views.homePage),
     path('login/', include('dim_accounts.urls')),

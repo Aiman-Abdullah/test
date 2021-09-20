@@ -31,6 +31,7 @@ def simple_upload(request):
         stage_product_groups = Stage_product_group.objects.all()
         #stage_products.delete()
         imported_data = dataset.load(new_stage_product_groups.read(),format='xlsx')
+        
         #print(imported_data)
         for data in imported_data:
         	print(data[1])
@@ -171,21 +172,21 @@ def simple_upload(request):
     # ---------------------------------------------------------------------------------------------------------------------------------------------
     # Use this block after table is added to dim_table
 
-    last_import_time = last_import_time[number_of_records_imported-1].row_end_date
-    table = Dim_table.objects.filter(table_name='jcwf_dim_product_group')
-    tablename = Dim_table.objects.get(table_name='jcwf_dim_product_group').table_name
-    table.update(number_of_records_imported=number_of_records_imported, row_end_date=last_import_time
-               , row_change_reason = 'normal update')
+    # last_import_time = last_import_time[number_of_records_imported-1].row_end_date
+    # table = Dim_table.objects.filter(table_name='jcwf_dim_product_group')
+    # tablename = Dim_table.objects.get(table_name='jcwf_dim_product_group').table_name
+    # table.update(number_of_records_imported=number_of_records_imported, row_end_date=last_import_time
+    #            , row_change_reason = 'normal update')
 
-    last_import_time = Dim_table.objects.get(table_name='jcwf_dim_product_group').row_end_date 
-    total_records = Dim_table.objects.get(table_name='jcwf_dim_product_group').number_of_records_imported 
+    # last_import_time = Dim_table.objects.get(table_name='jcwf_dim_product_group').row_end_date 
+    # total_records = Dim_table.objects.get(table_name='jcwf_dim_product_group').number_of_records_imported 
 
     # ---------------------------------------------------------------------------------------------------------------------------------------------
     # Use this block before table is added to dim_table
 
-    # tablename = 'test'
-    # last_import_time = '8/3/2021'
-    # total_records = 'test'
+    tablename = 'test'
+    last_import_time = '8/3/2021'
+    total_records = 'test'
 
     # ---------------------------------------------------------------------------------------------------------------------------------------------
     #dim_products_df = pd.DataFrame(list(Dim_product.objects.all().values()))

@@ -46,7 +46,7 @@
 <nav>
     <ul>
         <li>
-            <form class = "logout-link" action = "{% url 'accounts:logout' %}" method ="POST">
+            <form class = "logout-link" action = "{% url 'dim_accounts:logout' %}" method ="POST">
                 {%csrf_token %}
                 <button type = "submit">Logout</button>
             </form>

@@ -70,12 +70,12 @@ class Tran_sales_order_item(models.Model):
     sales_order_item_site = models.CharField(max_length=100, null=True)
     sales_order_item_status = models.CharField(max_length=100, null=True)
     sales_order_item_product = models.CharField(max_length=100, null=False)
-    sales_order_item_product_foreign_key = models.IntegerField()
+    sales_order_item_product_foreign_key = models.CharField(max_length=100, null=True) #models.IntegerField()
     sales_order_item_terms = models.CharField(max_length=100, null=True)
     sales_order_item_order_item = models.CharField(max_length=100, null=False, primary_key=True) # primary key
     sales_order_item_po = models.CharField(max_length=100, null=True)
     sales_order_item_customer_id = models.CharField(max_length=100, null=True)
-    sales_order_item_customer_id_foreign_key = models.IntegerField()
+    sales_order_item_customer_id_foreign_key = models.CharField(max_length=100, null=True) #models.IntegerField()
     sales_order_item_customer_name = models.CharField(max_length=100, null=True)
     sales_order_item_sidemark = models.CharField(max_length=100, null=True)
     sales_order_item_entered = models.CharField(max_length=100, null=True)
@@ -88,7 +88,7 @@ class Tran_sales_order_item(models.Model):
     sales_order_item_canceled = models.CharField(max_length=100, null=True)
     sales_order_item_model = models.CharField(max_length=100, null=True)
     sales_order_item_color_style = models.CharField(max_length=100, null=True)
-    sales_order_item_color_foreign_key = models.IntegerField()
+    sales_order_item_color_foreign_key = models.CharField(max_length=100, null=True) #models.IntegerField()
     sales_order_item_width = models.CharField(max_length=100, null=True)
     sales_order_item_height = models.CharField(max_length=100, null=True)
     sales_order_item_ordered = models.CharField(max_length=100, null=True)
@@ -117,17 +117,26 @@ class Fact_sales_order_item(models.Model):
     sales_order_item_warehouse = models.CharField(max_length=100, null=True)
     sales_order_item_site = models.CharField(max_length=100, null=True)
     sales_order_item_status = models.CharField(max_length=100, null=True)
-    sales_order_item_product_foreign_key = models.ForeignKey(
-        'dim_product.Dim_product',
-        on_delete=models.PROTECT,
-    )
+
+
+    sales_order_item_product_foreign_key = models.CharField(max_length=100, null=True)
+
+    # sales_order_item_product_foreign_key = models.ForeignKey(
+    #     'dim_product.Dim_product',
+    #     on_delete=models.PROTECT,
+    # )
+
     sales_order_item_terms = models.CharField(max_length=100, null=True)
     sales_order_item_order_item = models.CharField(max_length=100, null=True)
     sales_order_item_po = models.CharField(max_length=100, null=True)
-    sales_order_item_customer_id_foreign_key = models.ForeignKey(
-        'dim_customer.Dim_customer',
-        on_delete=models.PROTECT,
-    )
+
+    sales_order_item_customer_id_foreign_key = models.CharField(max_length=100, null=True)
+   
+    # sales_order_item_customer_id_foreign_key = models.ForeignKey(
+    #     'dim_customer.Dim_customer',
+    #     on_delete=models.PROTECT,
+    # )
+
     sales_order_item_sidemark = models.CharField(max_length=100, null=True)
     sales_order_item_entered = models.CharField(max_length=100, null=True)
     sales_order_item_credit_ok = models.CharField(max_length=100, null=True)
@@ -138,10 +147,14 @@ class Fact_sales_order_item(models.Model):
     sales_order_item_required = models.CharField(max_length=100, null=True)
     sales_order_item_canceled = models.CharField(max_length=100, null=True)
     sales_order_item_model = models.CharField(max_length=100, null=True)
-    sales_order_item_color_foreign_key = models.ForeignKey(
-        'dim_color.Dim_color',
-        on_delete=models.PROTECT,
-    )
+
+    sales_order_item_color_foreign_key = models.CharField(max_length=100, null=True)
+
+    # sales_order_item_color_foreign_key = models.ForeignKey(
+    #     'dim_color.Dim_color',
+    #     on_delete=models.PROTECT,
+    # )
+
     sales_order_item_width = models.CharField(max_length=100, null=True)
     sales_order_item_height = models.CharField(max_length=100, null=True)
     sales_order_item_ordered = models.CharField(max_length=100, null=True)

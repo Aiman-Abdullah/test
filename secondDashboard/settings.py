@@ -26,8 +26,9 @@ DEBUG = True
 # SECURITY session expire at browser close
 SESSION_EXPIRE_AT_BROWSER_CLOSE = True
 
+ALLOWED_HOSTS = ['127.0.0.1','econometricdatasolutionsdb.postgres.database.azure.com'] #['econometricdatasolutionsdb.postgres.database.azure.com'] # '*' # []
 # ALLOWED_HOSTS = [] #['econometricdatasolutionsdb.postgres.database.azure.com'] # '*' # []
-ALLOWED_HOSTS = ['econometricdatasolutions.azurewebsites.net'] #['econometricdatasolutionsdb.postgres.database.azure.com'] # '*' # []
+# ALLOWED_HOSTS = ['econometricdatasolutions.azurewebsites.net'] #['econometricdatasolutionsdb.postgres.database.azure.com'] # '*' # []
 
 #Super User: ChristopherAdmin
 
@@ -108,7 +109,7 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'secondDashboard.wsgi.application'
 
-SESSION_COOKIE_AGE = 36
+# SESSION_COOKIE_AGE = 36
 SESSION_SAVE_EVERY_REQUEST = True
 
 # # Database example
