@@ -67,7 +67,6 @@ CREATE TABLE jcwf_dim_product (
 ,  product_discontinued VARCHAR(1)
 ,  product_col  TEXT   NOT NULL
 
-
 ,  row_is_current  VARCHAR(1) NOT NULL
 ,  row_start_date  TIMESTAMP NOT NULL
 ,  row_end_date  TIMESTAMP NOT NULL

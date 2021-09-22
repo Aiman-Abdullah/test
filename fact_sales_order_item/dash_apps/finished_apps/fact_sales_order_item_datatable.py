@@ -31,6 +31,8 @@ app = DjangoDash('fact_sales_order_item_datatable', external_stylesheets=[dbc.th
 fact_sales_order_item_df = Fact_sales_order_item.objects.all()
 fact_sales_order_item_df = read_frame(fact_sales_order_item_df)
 df = fact_sales_order_item_df
+
+# column_list = 
 #df["product_group"] = df["product_group"].astype(str).astype(int)
 
 now_year = dt.today().strftime('%Y'),
@@ -255,10 +257,11 @@ app.layout = dbc.Container([
 
                         style_data={
                             'whiteSpace': 'normal',
-                            'width': 'auto',
+                            # 'width': 'auto',
                             'height': 'auto',
                             'lineHeight': '15px'
                         },
+                        
                         #------------------------------------------------------------------------------------------------
                         # Vertical Scroll with fixed header
                         #------------------------------------------------------------------------------------------------
@@ -269,19 +272,24 @@ app.layout = dbc.Container([
                             'overflowY': 'auto', #'scroll'
                             'overflowX': 'auto'
                             }, 
+
                         style_cell={
                             # all three widths are needed
-                            'minWidth': '180px', 'width': '180px', 'maxWidth': '180px',
+                            'width': '300px', #'300px', 'auto',
+                            # 'minWidth': '180px', 'width': '300px', 'maxWidth': '600px',
                             'overflow': 'hidden',
                             'textOverflow': 'ellipsis',
                             'textAlign':'Right',
                         },
-                        # style_cell_conditional=[
-                        #     {
-                        #         'if':{'column_id': c},
-                        #         'textAlign': 'left'
-                        #     } for c in ['description']
-                        # ],
+                            
+                        style_cell_conditional=[
+                            {
+                                'if':{'column_id': c},
+                                'width': len(c)*12,
+                                # 'textAlign': 'left'
+                            } for c in df.columns
+                        ],
+
                         #------------------------------------------------------------------------------------------------
                         # Table as list (without vertical grid lines)
                         #------------------------------------------------------------------------------------------------
