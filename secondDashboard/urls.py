@@ -20,7 +20,7 @@ from django.contrib import admin
 from django.urls import path
 
 from dim_accounts import views as accounts_views 
-from employee_register import views as employee_register_views
+from jcwf_data_center import views as jcwf_data_center_views
 # from firstUI import views as firstUI_views
 from home_page import views as home_page_views
 from my_django_app import views as my_django_app_views
@@ -37,7 +37,7 @@ urlpatterns = [
     path('signup/', accounts_views.signup_view),
     path('admin/', admin.site.urls), 
     path('upload/', my_django_app_views.simple_upload),
-    path('employee/', employee_register_views.employee_list),
+    path('employee/', jcwf_data_center_views.employee_list),
     path('dim_customer/', dim_customer_views.simple_upload),
     path('dim_date/', dim_date_views.simple_upload),
     path('dim_discount/', dim_discount_views.simple_upload),
@@ -56,10 +56,10 @@ urlpatterns = [
     # url('selectCountry', firstUI_views.indiCountryData, name='indiCountryData'),
     url(r'^my_django_app/', include('my_django_app.urls')),
     # url(r'^firstUI/', include('firstUI.urls')),
-    url(r'^employee/', include('employee_register.urls'), name='employee_register'),
+    url(r'^employee/', include('jcwf_data_center.urls'), name='jcwf_data_center'),
     path('dim_accounts/', include('dim_accounts.urls')),
     path('signup/', include('dim_accounts.urls')),
-    path('employee/', include('employee_register.urls')),
+    path('employee/', include('jcwf_data_center.urls')),
     path('dim_date/', include('dim_date.urls')),
     path('dim_discount/', include('dim_discount.urls')),
     path('dim_color/', include('dim_color.urls')),

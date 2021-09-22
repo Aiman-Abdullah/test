@@ -46,7 +46,7 @@ INSTALLED_APPS = [
     'home_page',
     'import_export',
     'my_django_app',
-    'employee_register',
+    'jcwf_data_center',
     'crispy_forms',
     'dim_audit',
     'dim_customer',

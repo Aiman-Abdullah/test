@@ -2,7 +2,7 @@
 from django.conf.urls import url, include
 from django.contrib import admin
 from django.urls import path
-from dimProduct import views 
+from dim_product import views 
 
 
  

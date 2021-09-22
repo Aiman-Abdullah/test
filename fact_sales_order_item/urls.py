@@ -3,17 +3,19 @@ from django.conf.urls import url, include
 from django.contrib import admin
 from django.urls import path
 from fact_sales_order_item import views 
-from employee_register import views as employee_register_views
+from jcwf_data_center import views as jcwf_data_center_views
 
 from .dash_apps.finished_apps import fact_sales_order_item_datatable 
 
-#app_name = 'employee_register'
+#app_name = ''
 
 urlpatterns = [
-    url('employee/', employee_register_views.employee_list, name='employee_register'),
+    url('employee/', jcwf_data_center_views.employee_list, name='jcwf_data_center'),
     path('fact_sales_order_item_upload/', views.simple_upload),
-    #path('employee/', employee_register_views.employee_list, name='employee_register'),
-    #path('employee/', include('employee_register.urls')),
+    #path('employee/', jcwf_data_center_views.employee_list, name='jcwf_data_center'),
+    #path('employee/', include('jcwf_data_center.urls')),
 
 ]
+ 
+
  

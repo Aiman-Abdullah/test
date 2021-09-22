@@ -44,7 +44,7 @@ def fact_sales_order_item(request):
 @login_required(login_url="/accounts/login/")
 def employee_list(request):
     context = {'employee_list':Employee.objects.all()}
-    return render(request, "employee_register/employee_list.html",context)
+    return render(request, "jcwf_data_center/employee_list.html",context)
 
 @login_required(login_url="/accounts/login/")
 def employee_form(request, id=0):
@@ -54,7 +54,7 @@ def employee_form(request, id=0):
         else:
             employee = Employee.objects.get(pk=id)
             form = EmployeeForm(instance=employee)
-        return render(request, "employee_register/employee_form.html", {'form':form})
+        return render(request, "jcwf_data_center/employee_form.html", {'form':form})
     else:
         if id == 0:
             form = EmployeeForm (request.POST)

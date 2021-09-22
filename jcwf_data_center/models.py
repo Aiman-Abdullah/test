@@ -19,9 +19,9 @@ class Employee(models.Model):
 # Use the three commands below to migrate models into database
 
 '''
-python manage.py makemigrations employee_register
+python manage.py makemigrations jcwf_data_center
 
-python manage.py sqlmigrate employee_register 0001
+python manage.py sqlmigrate jcwf_data_center 0001
 
 python manage.py migrate
 
