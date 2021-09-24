@@ -698,7 +698,8 @@ def simple_upload(request):
 
     
     context = {'tablename':tablename, 'last_import_time':last_import_time
-             , 'total_records':total_records, 'sales_order_items_names':sales_order_items_names, 'sales_order_items_ids':sales_order_items_ids}
+             , 'total_records':total_records, 'sales_order_items_names':sales_order_items_names
+             , 'sales_order_items_ids':sales_order_items_ids}
              
     
     # #print(datetime.now() - app_start_time)

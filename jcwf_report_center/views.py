@@ -54,7 +54,7 @@ def employee_form(request, id=0):
         else:
             employee = Employee.objects.get(pk=id)
             form = EmployeeForm(instance=employee)
-        return render(request, "jcwf_data_center/employee_form.html", {'form':form})
+        return render(request, "jcwf_report_center/employee_form.html", {'form':form})
     else:
         if id == 0:
             form = EmployeeForm (request.POST)
@@ -70,32 +70,3 @@ def employee_delete(request, id):
     employee = Employee.objects.get(pk=id)
     employee.delete()
     return redirect('/employee/list')
-
-
-'''
-
-def simple_upload(request):
-if request.method == 'POST':
-    person_resource = PersonResource()
-    dataset = Dataset()
-    new_persons = request.FILES['myfile']
-
-    imported_data = dataset.load(new_persons.read(),format='xlsx')
-    #print(imported_data)
-    for data in imported_data:
-        print(data[1])
-        value = Person(
-            data[0],
-            data[1],
-                data[2],
-                data[3]
-            )
-        value.save()       
-    
-    #result = person_resource.import_data(dataset, dry_run=True)  # Test the data import
-
-    #if not result.has_errors():
-    #    person_resource.import_data(dataset, dry_run=False)  # Actually import now
-
-return render(request, 'input.html')
-'''

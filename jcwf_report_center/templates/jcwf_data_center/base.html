@@ -14,7 +14,7 @@
         <ul>
             {% if user.is_authenticated %}
             <p>Welcome, {{ user.get_username }}. </p>
-            <p> Report Center</p>
+            <p> Data Center</p>
             <li>
                 <form class = "logout-link" action = "{% url 'dim_accounts:logout' %}" method ="POST">
                     {%csrf_token %}

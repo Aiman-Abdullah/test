@@ -590,7 +590,7 @@ def update_table(interval, start_date, end_date, value):
     df = fact_sales_order_items_df
 
     if value:
-        df = df[df['sales_order_item_order_items'].isin(value)]
+        df = df[df['sales_order_item_order_item'].isin(value)]
     else:
         pass
     # start_date = start_date.to_datetime()
