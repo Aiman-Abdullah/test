@@ -1,0 +1,20 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-gap: 20px;
+    grid-template-areas:none;
+    color: blue;
+}
+
+.grid-item-1 {
+    grid-column: 1 / -1;
+}
+
+.grid-item-2 {
+    grid-row-start: 2;
+    grid-row-end: 4;
+}
+
+.grid-item-3 {
+    grid-row-start: 2;
+    grid-row-end: 4;

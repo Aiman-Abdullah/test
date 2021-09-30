@@ -12,6 +12,7 @@ def do_something():
     cur.execute("""
     
     /* Updating transformation table */
+    DELETE FROM jcwf_tran_sales_order_item;
     insert INTO jcwf_tran_sales_order_item (
 
     sales_order_item_product_category  

@@ -32,6 +32,7 @@ from dim_product_group import views as dim_product_group_views
 from dim_table import views as dim_table_views 
 from fact_sales_order_item import views as fact_sales_order_item_views 
 from plotlyDash import views as plotlyDash_views
+from test_page import views as test_page_views
 
 urlpatterns = [
     path('signup/', accounts_views.signup_view),
@@ -70,6 +71,8 @@ urlpatterns = [
     path('fact_sales_order_item/', include('fact_sales_order_item.urls')),
     path('home_page/', include('home_page.urls')),
     path('home_page/', home_page_views.homePage),
+    path('test_page/', include('test_page.urls')),
+    path('test_page/', test_page_views.testPage),
     path('login/', include('dim_accounts.urls')),
     path('logout/', include('dim_accounts.urls')),
     url(r'session_security/', include('session_security.urls')),

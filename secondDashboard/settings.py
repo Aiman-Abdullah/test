@@ -60,6 +60,7 @@ INSTALLED_APPS = [
     'django_extensions',
     'django_plotly_dash.apps.DjangoPlotlyDashConfig',
     'plotlyDash',
+    'test_page',
     'channels',
     'channels_redis',
     'session_security',
