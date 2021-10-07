@@ -1,20 +1,86 @@
-.grid-container {
+
+.container {
     display: grid;
-    grid-template-columns: 2fr 1fr;
-    grid-gap: 20px;
-    grid-template-areas:none;
-    color: blue;
+    height: 100%;
+    width: 100%;
+    grid-template-columns: 50px auto auto auto auto auto auto auto auto auto auto 50px;
+    grid-template-rows: minmax(auto, 50px) 400px auto 50px;
+    grid-template-areas: 
+        "m h h h h h h h l l l n"
+        "m i i i i i i i i i i n"
+        "m j j j j j j j j j j n"
+        "m f f f f f f f f f f n"
+        ;
+    grid-gap: 3px;
+    background: lightgray;
+    border: black solid;
+    border-style: groove;
+    color:blueviolet;
 }
 
-.grid-item-1 {
-    grid-column: 1 / -1;
+.header{
+    /*grid-column-start: 1; */
+    /*grid-column-end: -1; */
+    grid-area: h;
+    color:#5F6D74;
+    border: black solid;
+    border-style: double;
+    border-width: 1px;
 }
 
-.grid-item-2 {
-    grid-row-start: 2;
-    grid-row-end: 4;
+.menu{
+    grid-area: m;
 }
 
-.grid-item-3 {
-    grid-row-start: 2;
-    grid-row-end: 4;
+.right-margin{
+    color:tan;
+}
+
+.login-area{
+    color:tan;
+    grid-area: l;
+}
+
+.image-cell{
+    color:tan;
+    grid-area: i;
+    /* grid-column: 2/ -1; */
+    border: black solid;
+    border-style: double;
+    border-width: 1px;
+    /* align-self: center; */
+    text-align: center;
+    background-image: url("https://i.ibb.co/PMrCPtP/Electric-Green.jpg");
+}
+
+.intro-cell{
+    color:#5F6D74;
+    background-color: #EEEEEE;
+    grid-area: j;
+    /* grid-column: 2/ -1; */
+    border: black solid;
+    border-style: double;
+    border-width: 1px;
+    /* align-self: center; */
+    text-align: left;
+}
+
+.content{
+    color:tan;
+    grid-area: c;
+    /* grid-column: 2/ -1; */
+    border: black solid;
+    border-style: double;
+    border-width: 1px;
+    /* align-self: center; */
+    text-align: center;
+}
+
+.footer{
+    grid-area: f;
+    color:tan;
+    border: black solid;
+    border-style: double;
+    border-width: 1px;
+    /* grid-column: 1 / -1; */
+}

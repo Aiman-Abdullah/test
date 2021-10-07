@@ -1,0 +1,72 @@
+{% extends 'base_layout.html' %}
+
+{% block content %}
+
+
+<form>
+    <div class="form-row">
+      <div class="col-7" style="margin: 0 1.5%;">
+
+      <h1>Econometric Data Solutions </h1>
+
+
+      </div>
+      <div class="col">
+        <h1>
+            <form class = "form-inline" action = "{% url 'dim_accounts:login' %}" method ="POST" style="margin: 0 10.5%; float: left;" display = "inline-block;">
+                                                        
+                
+            </form>
+        </h1>
+        <form class = "site-form" action = "{% url 'dim_accounts:login' %}" method ="POST" style="margin: 0 10.5%; float: left;" display = "inline-block;">
+            {%csrf_token %}     
+            {{form}}     
+            {% if request.GET.next%} 
+            <input type =  "hidden" name="next" value ="{{ reqeust.GET.next}}">
+            {% endif %}                                                       
+            <button type = "submit" class="btn btn-outline-success btn-lg">Login<i class="fas fa-database" style="margin: 0 50.5%; float: right;"></i>
+        </form>
+      </div>
+
+
+      <div class="col">
+ 
+      </div>
+
+      
+    </div>
+</form>
+
+
+<div class="card">
+<div class="col-7" style="margin: 0 1.5%;">
+<img class="card-img-top" src="https://i.ibb.co/PMrCPtP/Electric-Green.jpg" alt="Card image cap">
+<div class="card-body">
+    <h4 class="card-title">Easy to use analysis</h4>
+    <p class="card-text">
+    Custom Data Wearhousing, and Business Intellegence. Begin your free consultation today.
+    </p>
+    <nav>
+        <form class = "logout-link" action = "{% url 'home_page' %}" method ="POST">
+            {%csrf_token %}
+            <button type = "submit" class="btn btn-secondary btn-lg">Contact us<i class="fas fa-database"></i>
+        </form>
+    </nav>
+</div>
+</div>
+</div>
+
+
+
+
+{% endblock %}
+
+{% block content2 %}
+
+<form class='logout-link' action = "{% url 'dim_accounts:logout' %}" method = "post">
+
+    {{form}}
+    <button type="submit" class="btn btn-secondary btn-lg"> <i class="fas fa-database"> Logout </i>
+</form>
+
+{% endblock %}
