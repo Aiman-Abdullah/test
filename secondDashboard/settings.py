@@ -223,10 +223,10 @@ STATIC_URL ='/static/'
 
 # use for deployement
 # STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage' 
-# STATIC_ROOT =BASE_DIR/'static' 
+STATIC_ROOT =BASE_DIR/'static' 
 
 # use for local
-STATIC_ROOT ='static' 
+# STATIC_ROOT ='static' 
 
 STATISFILES_DIRS = [
     os.path.join(BASE_DIR, 'secondDashboard/static')  
