@@ -35,19 +35,8 @@ ALLOWED_HOSTS = ['127.0.0.1','econometricdatasolutions.azurewebsites.net'] #['ec
 # Application definition
 
 INSTALLED_APPS = [
+    # internal
     'dim_accounts',
-    'django.contrib.admin',
-    'django.contrib.auth',
-    'django.contrib.contenttypes',
-    'django.contrib.sessions',
-    'django.contrib.messages',
-    'django.contrib.staticfiles', 
-    'firstUI',
-    'home_page',
-    'import_export',
-    'my_django_app',
-    'jcwf_data_center',
-    'crispy_forms',
     'dim_audit',
     'dim_customer',
     'dim_color',
@@ -57,14 +46,28 @@ INSTALLED_APPS = [
     'dim_product_group',
     'dim_table',
     'fact_sales_order_item',
+    'firstUI',
+    'home_page',
+    'my_django_app',
+    'jcwf_data_center',
+    'test_page',
+
+    # third-party
+    'django.contrib.admin',
+    'django.contrib.auth',
+    'django.contrib.contenttypes',
+    'django.contrib.sessions',
+    'django.contrib.messages',
+    'django.contrib.staticfiles', 
     'django_extensions',
     'django_plotly_dash.apps.DjangoPlotlyDashConfig',
-    'plotlyDash',
-    'test_page',
+    'crispy_forms',
     'channels',
     'channels_redis',
+    'import_export',
+    'plotlyDash',
     'session_security',
-
+    'storages'
 ]
 
 
@@ -225,6 +228,7 @@ STATIC_URL ='/static/'
 # STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage' 
 # STATIC_ROOT =BASE_DIR/'static' # previous local
 STATIC_ROOT =BASE_DIR/'staticfiles-cdn' # in production we want cdn 
+from .cdn.conf import * #noqa
 
 # use for local
 # STATIC_ROOT ='static' 
@@ -242,3 +246,15 @@ STATISFILES_DIRS = [
 
 # os.environ['AWS_ACCESS_KEY_ID'] = 'OPO72XFPGGFLAUPXGUQU' 
 # os.environ['AWS_SECRET_ACCESS_KEY'] = 'yqV8ieGG6dUvDxWXkSHDtyi9cTjUS/+q5pMSxIc0bLU' 
+
+AWS_ACCESS_KEY_ID = 'OPO72XFPGGFLAUPXGUQU' 
+AWS_SECRET_ACCESS_KEY = 'yqV8ieGG6dUvDxWXkSHDtyi9cTjUS/+q5pMSxIc0bLU' 
+AWS_STORAGE_BUCKET_NAME="econometricdatasolutions"
+AWS_S3_ENDPOINT_URL='https://sfo3.digitaloceanspaces.com'
+
+AWS_LOCATION="https://econometricdatasolutions.sfo3.digitaloceanspaces.com"
+
+DEFAULT_FILE_STORAGE = "secondDashboard.cdn.backends.MediaRootS3Boto3Storage"
+
+STATICFILES_STORAGE = "secondDashboard.cdn.backends.StaticRootS3BotoStorage"
+
