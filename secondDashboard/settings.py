@@ -223,7 +223,8 @@ STATIC_URL ='/static/'
 
 # use for deployement
 # STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage' 
-STATIC_ROOT =BASE_DIR/'static' 
+# STATIC_ROOT =BASE_DIR/'static' # previous local
+STATIC_ROOT =BASE_DIR/'staticfiles-cdn' # in production we want cdn 
 
 # use for local
 # STATIC_ROOT ='static' 
@@ -231,3 +232,13 @@ STATIC_ROOT =BASE_DIR/'static'
 STATISFILES_DIRS = [
     os.path.join(BASE_DIR, 'secondDashboard/static')  
 ]
+
+# instructions for setting up static server at: https://www.codingforentrepreneurs.com/blog/django-static-files-digitalocean-spaces
+# https://econometricdatasolutions.sfo3.digitaloceanspaces.com 
+
+
+# os.environ['AWS_ACCESS_KEY_ID'] = 'RPSM56K7PU3SOZ6ZW5XI' 
+# os.environ['AWS_SECRET_ACCESS_KEY'] = 'NiVrDglKVuEY7DdWNi3WYE4PyvNKARrUO5pc9lYQ7f4' 
+
+# os.environ['AWS_ACCESS_KEY_ID'] = 'OPO72XFPGGFLAUPXGUQU' 
+# os.environ['AWS_SECRET_ACCESS_KEY'] = 'yqV8ieGG6dUvDxWXkSHDtyi9cTjUS/+q5pMSxIc0bLU' 
