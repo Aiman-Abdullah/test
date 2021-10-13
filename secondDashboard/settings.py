@@ -185,7 +185,7 @@ USE_L10N = True
 
 USE_TZ = True
 
-CRISPY_TEMPLATE_PACK = "bootstap4"
+# CRISPY_TEMPLATE_PACK = "bootstap4" #commented out for serving static from digitalocean
 
 ASGI_APPLICATION = 'secondDashboard.routing.application'
 
@@ -252,9 +252,14 @@ AWS_SECRET_ACCESS_KEY = 'yqV8ieGG6dUvDxWXkSHDtyi9cTjUS/+q5pMSxIc0bLU'
 AWS_STORAGE_BUCKET_NAME="econometricdatasolutions"
 AWS_S3_ENDPOINT_URL='https://sfo3.digitaloceanspaces.com'
 
+AWS_S3_OBJECT_PARAMETERS = {
+    'CacheControl': 'max-age=86400',
+}
+
 AWS_LOCATION="https://econometricdatasolutions.sfo3.digitaloceanspaces.com"
 
 DEFAULT_FILE_STORAGE = "secondDashboard.cdn.backends.MediaRootS3Boto3Storage"
 
 STATICFILES_STORAGE = "secondDashboard.cdn.backends.StaticRootS3BotoStorage"
 
+ 

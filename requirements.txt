@@ -41,6 +41,7 @@ django-pandas==0.6.4
 django-plotly-dash==1.6.4
 django-redis==4.12.1
 django-session-security==2.6.6
+django-storages boto3
 dpd-components==0.1.0
 entrypoints==0.3
 et-xmlfile==1.1.0
