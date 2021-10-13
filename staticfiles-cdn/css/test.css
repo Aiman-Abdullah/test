@@ -1,0 +1,109 @@
+
+.container {
+    display: grid;
+    height: 100%;
+    width: 100%;
+    grid-template-columns: minmax(5px, auto) minmax(auto, 600px) minmax(auto, 600px) minmax(5px, auto);
+    grid-template-rows: minmax(auto, 55px) 380px auto 50px;
+    grid-template-areas: 
+        "m h l n"
+        "m i i n"
+        "m j j n"
+        "m f f n"
+        ;
+    grid-gap: 3px;
+    background: lightgray;
+    border: black solid;
+    border-style: groove;
+    color:blueviolet;
+}
+
+.header{
+    /*grid-column-start: 1; */
+    /*grid-column-end: -1; */
+    grid-area: h;
+    color:#5F6D74;
+    border: lightgray solid;
+    border-style: double;
+    border-width: 1px;
+    text-align-last: left;
+    text-justify: left;
+    justify-items: center;
+    align-self: center;
+
+}
+
+.menu{
+    grid-area: m;
+    color:tan;
+    border: lightgray solid;
+    border-style: double;
+    border-width: 1px;
+}
+
+.right-margin{
+    background: lightgray;
+    grid-area: n;
+    color:white;
+    border: lightgray solid;
+    border-style: double;
+    border-width: 1px;
+
+}
+
+.login-area{
+    padding-right: 30px;
+    color:tan;
+    grid-area: l;
+    align-self: center;
+    justify-self: right;
+}
+
+.image-cell{
+    color:tan;
+    grid-area: i;
+    /* grid-column: 2/ -1; */
+    border: black solid;
+    border-style: double;
+    border-width: 1px;
+    /* align-self: center; */
+    text-align: center;
+    background-image: url("https://i.ibb.co/PMrCPtP/Electric-Green.jpg");
+}
+
+.intro-cell{
+    color:#5F6D74;
+    background-color: #lightgray;
+    grid-area: j;
+    /* grid-column: 2/ -1; */
+    border: lightgray solid;
+    border-style: double;
+    border-width: 1px;
+    /* align-self: center; */
+    text-align: left;
+}
+
+.content{
+    color:tan;
+    grid-area: c;
+    /* grid-column: 2/ -1; */
+    border: black solid;
+    border-style: double;
+    border-width: 1px;
+    /* align-self: center; */
+    text-align: center;
+}
+
+.footer{
+    grid-area: f;
+    color:tan;
+    border: black solid;
+    border-style: double;
+    border-width: 1px;
+    /* grid-column: 1 / -1; */
+}
+
+.btn-test {
+    border-radius: 2px;
+    font-size: 0.9rem;
+}
