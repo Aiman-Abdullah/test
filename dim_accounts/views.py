@@ -5,9 +5,9 @@ from django.shortcuts import render
 from django.shortcuts import render, redirect
 from django.contrib.auth.forms import UserCreationForm, AuthenticationForm
 from django.contrib.auth import login, logout
+from secondDashboard.decorators import unauthenticated_user, allowed_users
 
-#test
-# Create your views here:
+@unauthenticated_user
 def signup_view(request):
     if request.method =='POST':
         form = UserCreationForm(request.POST)
@@ -21,6 +21,7 @@ def signup_view(request):
         form = UserCreationForm()
     return render(request, 'dim_accounts/signup.html', {'form':form})
         
+@unauthenticated_user
 def login_view(request): 
     if request.method == 'POST':
         form = AuthenticationForm(data = request.POST)
@@ -32,7 +33,7 @@ def login_view(request):
             #     return redirect(request.POST.get('next'))
             # else:
             #     return redirect('/employee/list/')
-            return redirect('/employee/list/')
+            return redirect('/jcwf_data_center/list/') #'/employee/list/'
     else:
          form = AuthenticationForm()
     return render(request, 'dim_accounts/login.html', {'form':form})
@@ -40,5 +41,4 @@ def login_view(request):
 def logout_view(request):
     if request.method == 'POST':
         logout(request)
-        return redirect('/dim_accounts/signup/')
-
+        return render(request,'index.html') 

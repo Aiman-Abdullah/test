@@ -4,7 +4,7 @@ from .forms import EmployeeForm
 from .models import Employee
 
 from django.contrib.auth.decorators import login_required
-
+from secondDashboard.decorators import unauthenticated_user, allowed_users
 # Create your views here.
 
 # USE request.user.get_username() to get username in views
@@ -13,40 +13,52 @@ from django.contrib.auth.decorators import login_required
 # def dimProduct(request):
 #     return HttpResponseRedirect("/dim_product")
 
+
 @login_required(login_url="/accounts/login/")
+@allowed_users(allowed_roles=['jcwf_customer_service'])
 def dim_color(request):
     return redirect(request,'/dim_color')
 
 @login_required(login_url="/accounts/login/")
+@allowed_users(allowed_roles=['jcwf_customer_service'])
 def dim_customer(request):
     return redirect(request,'/dim_customer')
 
+
 @login_required(login_url="/accounts/login/")
+@allowed_users(allowed_roles=['jcwf_customer_service'])
 def dim_date(request):
     return redirect(request,'/dim_date')
 
 @login_required(login_url="/accounts/login/")
+@allowed_users(allowed_roles=['jcwf_customer_service'])
 def dim_discount(request):
     return redirect(request,'/dim_discount')
 
 @login_required(login_url="/accounts/login/")
+@allowed_users(allowed_roles=['jcwf_customer_service'])
 def dim_product(request):
     return redirect(request,'/dim_product')
 
 @login_required(login_url="/accounts/login/")
+@allowed_users(allowed_roles=['jcwf_customer_service'])
 def dim_product_group(request):
     return redirect(request,'/dim_product_group')
 
 @login_required(login_url="/accounts/login/")
+@allowed_users(allowed_roles=['jcwf_customer_service'])
 def fact_sales_order_item(request):
     return redirect(request,'/fact_sales_order_item')
 
+
 @login_required(login_url="/accounts/login/")
+@allowed_users(allowed_roles=['jcwf_customer_service'])
 def employee_list(request):
     context = {'employee_list':Employee.objects.all()}
     return render(request, "jcwf_data_center/employee_list.html",context)
 
 @login_required(login_url="/accounts/login/")
+@allowed_users(allowed_roles=['jcwf_customer_service'])
 def employee_form(request, id=0):
     if request.method == 'GET':
         if id == 0:
@@ -66,6 +78,7 @@ def employee_form(request, id=0):
         return redirect('')
 
 @login_required(login_url="/accounts/login/")
+@allowed_users(allowed_roles=['jcwf_customer_service'])
 def employee_delete(request, id):
     employee = Employee.objects.get(pk=id)
     employee.delete()
