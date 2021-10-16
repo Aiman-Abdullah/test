@@ -12,7 +12,8 @@ def do_something():
     cur.execute("""
     
     /* Updating transformation table */
-    DELETE FROM jcwf_tran_sales_order_item;
+    TRUNCATE jcwf_tran_sales_order_item;
+
     insert INTO jcwf_tran_sales_order_item (
 
     sales_order_item_product_category  
@@ -203,19 +204,19 @@ def do_something():
     , sales_order_item_net_sale = excluded.sales_order_item_net_sale
     , sales_order_item_cost_of_good_sold = excluded.sales_order_item_cost_of_good_sold;
 
-    SELECT * FROM jcwf_fact_sales_order_item;
+
 
     """
     )
 
 
-    rows = cur.fetchall()
+    # rows = cur.fetchall()
 
-    print ("\nShow me the databases:\n")
-    for row in rows:
-        print ("   ", row)
+    # print ("\nShow me the databases:\n")
+    # for row in rows:
+    #     print ("   ", row)
 
-    df = DataFrame(rows) # ,columns=[
+    # df = DataFrame(rows) # ,columns=[
         
     #   'outsourceditemskey', 'outsourceditemsid', 'Status', 'Product', 'productDescription', 'terms', 'salesOrder',  'lineItem'
     # , 'customerPO', 'CustomerID', 'customername', 'Sidemark'
@@ -227,7 +228,7 @@ def do_something():
 
     conn.commit()
     conn.close()
-    df
+    # df
     # return val
 
 if __name__ == '__main__':
