@@ -46,7 +46,7 @@ INSTALLED_APPS = [
     'dim_product_group',
     'dim_table',
     'fact_sales_order_item',
-    'firstUI',
+    # 'firstUI',
     'home_page',
     'my_django_app',
     'jcwf_data_center',
