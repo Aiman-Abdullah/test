@@ -31,10 +31,10 @@ def contact_us(request):
         New message: {}
 
         From: {}
-        )'''.format(data['message'], data['email'])
+        '''.format(data['message'], data['email'])
 
         send_mail(data['subject'],message,'',['christophgonzalez171@gmail.com'])
-        
+
         # print(data)
 
 

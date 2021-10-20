@@ -8,9 +8,9 @@
         <link rel="stylesheet" href="{% static 'css/styles2.css' %}">
     </head>  
 	<body>
-		{% csrf_token %}
-		<div class = "container">
-			<form action ="" methond="POST" class="contact-form">
+		{% csrf_token %} 
+			<form action = "{% url 'home_page' %}" method ="POST" class="contact-form">
+				{% csrf_token %} 
 				<div class ="form-control">
 					<div class = "tag"> Full Namess</div>
 					<input type="text" name="Full-name">
