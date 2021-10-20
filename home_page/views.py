@@ -2,6 +2,7 @@ from django.shortcuts import render
 import pandas as pd
 from django_pandas.io import read_frame
 # from firstUI.models import Tempcolor
+from django.core.mail import send_mail
 
 df3=pd.read_json('https://cdn.jsdelivr.net/gh/highcharts/highcharts@v7.0.0/samples/data/world-population-density.json')
 # could not change time at 9:21
@@ -10,12 +11,34 @@ df3=pd.read_json('https://cdn.jsdelivr.net/gh/highcharts/highcharts@v7.0.0/sampl
 # could change time at 9:53
 
 def homePage(request):
-
     return render(request,'index.html')
 
 def contact_us(request):
+    if request.method == 'POST':
+        name = request.POST.get('name')
+        email = request.POST.get('email')
+        subject = request.POST.get('subject')
+        message = request.POST.get('message')
 
-    return render(request,'contact_us.html')
+        data = {
+                'name': name,
+                'email': email,
+                'subject': subject,
+                'message': message
+        }
+
+        message = '''
+        New message: {}
+
+        From: {}
+        )'''.format(data['message'], data['email'])
+
+        send_mail(data['subject'],message,'',['christophgonzalez171@gmail.com'])
+        
+        # print(data)
+
+
+    return render(request,'contact_us.html', {})
 
     
 # Create your views here.
