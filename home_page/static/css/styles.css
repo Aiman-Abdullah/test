@@ -84,7 +84,7 @@
 }
 
 .content{
-    color:tan;
+    color:blue;
     grid-area: c;
     /* grid-column: 2/ -1; */
     border: black solid;
@@ -97,9 +97,9 @@
 .footer{
     grid-area: f;
     color:tan;
-    border: black solid;
-    border-style: double;
-    border-width: 1px;
+    /*border: black solid;*/
+    /*border-style: double;*/
+    /*border-width: 1px;*/
     /* grid-column: 1 / -1; */
 }
 

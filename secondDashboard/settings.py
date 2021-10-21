@@ -225,21 +225,22 @@ FILE_UPLOAD_HANDLERS = ("django_excel.ExcelMemoryFileUploadHandler",
 # https://docs.djangoproject.com/en/3.1/howto/static-files/
 
 # local static server---------------------------------------------------------------------------------------------------------------------------------
-STATICFILES_LOCATION ='static'
-STATIC_URL ='/static/'
+# STATICFILES_LOCATION ='static'
+# STATIC_URL ='/static/'
 
-# STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage' 
-# STATIC_ROOT =BASE_DIR/'static' # previous local
-STATIC_ROOT =BASE_DIR/'staticfiles-cdn' # in production we want cdn 
+# # STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage' 
+# # STATIC_ROOT =BASE_DIR/'static' # previous local
+# STATIC_ROOT =BASE_DIR/'staticfiles-cdn' # in production we want cdn 
  
-from .cdn.conf import * #noqa
+# from .cdn.conf import * #noqa
 
-# use for local
-# STATIC_ROOT ='static' 
 
-STATISFILES_DIRS = [
-    os.path.join(BASE_DIR, 'static')  
-]
+# # use for local
+# # STATIC_ROOT ='static' 
+
+# STATISFILES_DIRS = [
+#     os.path.join(BASE_DIR, 'static')  
+# ]
 
 # ------------------------------------------------------------------------------------------------------------------------------------------------------
 # instructions for setting up static server at: https://www.codingforentrepreneurs.com/blog/django-static-files-digitalocean-spaces
@@ -250,12 +251,12 @@ STATISFILES_DIRS = [
 
 # os.environ['AWS_ACCESS_KEY_ID'] = 'OPO72XFPGGFLAUPXGUQU' 
 # os.environ['AWS_SECRET_ACCESS_KEY'] = 'yqV8ieGG6dUvDxWXkSHDtyi9cTjUS/+q5pMSxIc0bLU' 
-# use for deployement
-# Static files (CSS, JavaScript, Images) 
-# https://docs.djangoproject.com/en/3.1/howto/static-files/
+
 
 # online static server---------------------------------------------------------------------------------------------------------------------------------
-STATICFILES_LOCATION ='static'
+#use for deployement
+#https://docs.djangoproject.com/en/3.1/howto/static-files/
+# STATICFILES_LOCATION ='static'
 STATIC_URL ='/static/'
 
 # STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage' 

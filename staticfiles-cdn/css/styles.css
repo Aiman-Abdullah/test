@@ -60,7 +60,7 @@
 }
 
 .image-cell{
-    color:tan;
+    color:blue;
     grid-area: i;
     /* grid-column: 2/ -1; */
     border: black solid;
@@ -84,7 +84,7 @@
 }
 
 .content{
-    color:tan;
+    color:blue;
     grid-area: c;
     /* grid-column: 2/ -1; */
     border: black solid;
@@ -97,12 +97,11 @@
 .footer{
     grid-area: f;
     color:tan;
-    border: black solid;
-    border-style: double;
-    border-width: 1px;
+    /*border: black solid;*/
+    /*border-style: double;*/
+    /*border-width: 1px;*/
     /* grid-column: 1 / -1; */
 }
-
 .btn-test {
     border-radius: 2px;
     font-size: 0.9rem;

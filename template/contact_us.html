@@ -3,34 +3,49 @@
         <meta charset="utf-8">
         <title>Econometric Data Solutions: Data Warehousing, Business Intellegence, and Machine Learning </title>
         {% load static %}
-        <link rel="stylesheet" href="{% static 'css/styles2.css' %}">
+        <link rel="stylesheet" href="{% static 'css/styles.css' %}">
 
-        <link rel="stylesheet" href="{% static 'css/styles2.css' %}">
+        <link rel="stylesheet" href="{% static 'css/styles.css' %}">
     </head>  
 	<body>
 		{% csrf_token %} 
+		<div class = "container">
+			<div class="header">
+                <h1>Econometric Data Solutions </h1>
+            </div>
 			<form action = "{% url 'home_page' %}" method ="POST" class="contact-form">
 				{% csrf_token %} 
-				<div class ="form-control">
-					<div class = "tag"> Full Namess</div>
-					<input type="text" name="Full-name">
+				<div class = "content">
+					<div class ="form-control">
+						<div class = "tag"> Full Namesss</div>
+						<input type="text" name="Full-name">
+					</div>
 				</div>
-				<div class ="form-control">
-					<div class = "tag"> Email </div>
-					<input type="text" name="email">
+				<div class = "login-area">
+					<div class ="form-control">
+						<div class = "tag"> Email </div>
+						<input type="text" name="email">
+					</div>
 				</div>
-				<div class ="form-control">
-					<div class = "tag"> Subject </div>
-					<input type="text" name="subject">
+				<div class = "image-cell">
+					<div class ="form-control">
+						<div class = "tag"> Subjects </div>
+						<input type="text" name="subject">
+					</div>
 				</div>
-				<div class ="form-control">
-					<div class = "tag"> Message </div>	
-					<textarea name="message" cols="30" rows="10"></textarea>
-				</div>	
-				<div class="form-control">
-					<input type="Submit" class="btn submit-btn" value="Send Message">
-				</div>	
+				<div class = "content">
+					<div class ="form-control">
+						<div class = "tag"> Message </div>	
+						<textarea name="message" cols="30" rows="10"></textarea>
+					</div>	
+				</div>
+				<div class = "footer">
+					<div class="form-control">
+						<input type="Submit" class="btn submit-btn" value="Send Message">
+					</div>	
+				</div>
 			</form>
+
 		</div>
 	</body>
 </html>
