@@ -223,6 +223,8 @@ FILE_UPLOAD_HANDLERS = ("django_excel.ExcelMemoryFileUploadHandler",
 # use for deployement
 # Static files (CSS, JavaScript, Images) 
 # https://docs.djangoproject.com/en/3.1/howto/static-files/
+
+# local static server---------------------------------------------------------------------------------------------------------------------------------
 STATICFILES_LOCATION ='static'
 STATIC_URL ='/static/'
 
@@ -239,15 +241,31 @@ STATISFILES_DIRS = [
     os.path.join(BASE_DIR, 'static')  
 ]
 
+# ------------------------------------------------------------------------------------------------------------------------------------------------------
 # instructions for setting up static server at: https://www.codingforentrepreneurs.com/blog/django-static-files-digitalocean-spaces
 # https://econometricdatasolutions.sfo3.digitaloceanspaces.com 
-
 
 # os.environ['AWS_ACCESS_KEY_ID'] = 'RPSM56K7PU3SOZ6ZW5XI' 
 # os.environ['AWS_SECRET_ACCESS_KEY'] = 'NiVrDglKVuEY7DdWNi3WYE4PyvNKARrUO5pc9lYQ7f4' 
 
 # os.environ['AWS_ACCESS_KEY_ID'] = 'OPO72XFPGGFLAUPXGUQU' 
 # os.environ['AWS_SECRET_ACCESS_KEY'] = 'yqV8ieGG6dUvDxWXkSHDtyi9cTjUS/+q5pMSxIc0bLU' 
+# use for deployement
+# Static files (CSS, JavaScript, Images) 
+# https://docs.djangoproject.com/en/3.1/howto/static-files/
+
+# online static server---------------------------------------------------------------------------------------------------------------------------------
+STATICFILES_LOCATION ='static'
+STATIC_URL ='/static/'
+
+# STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage' 
+# STATIC_ROOT =BASE_DIR/'static' # previous local
+STATIC_ROOT =BASE_DIR/'staticfiles-cdn' # in production we want cdn 
+
+
+STATISFILES_DIRS = [
+    os.path.join(BASE_DIR, 'static')  
+]
 
 AWS_ACCESS_KEY_ID = 'GQ753OBSBFSUB3WYRBJG' 
 AWS_SECRET_ACCESS_KEY = '6eKj3tFY8NcAhBrL9SXFWYRac74LkjpD1+/lSCLwgNk' 
@@ -258,13 +276,13 @@ AWS_S3_ENDPOINT_URL='https://sfo3.digitaloceanspaces.com'
 AWS_S3_OBJECT_PARAMETERS = {
     'CacheControl': 'max-age=86400',
 }
-
 AWS_LOCATION="https://econometricdatasolutions.sfo3.digitaloceanspaces.com"
-
 DEFAULT_FILE_STORAGE = "secondDashboard.cdn.backends.MediaRootS3Boto3Storage"
-
 STATICFILES_STORAGE = "secondDashboard.cdn.backends.StaticRootS3BotoStorage"
 
+# ------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Email configuration ----------------------------------------------------------------------------------------------------------
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST  = 'smtp.gmail.com'
 EMAIL_HOST_USER  = 'christophgonzalez171@gmail.com'
