@@ -77,3 +77,4 @@ urlpatterns = [
     path('logout/', include('dim_accounts.urls')),
     url(r'session_security/', include('session_security.urls')),
 ]
+
