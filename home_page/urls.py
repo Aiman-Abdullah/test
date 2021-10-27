@@ -26,7 +26,9 @@ from my_django_app import views as views2
 urlpatterns = [
 
     url('^$', views.homePage, name = 'index'),
-    url('contact_us', views.contact_us, name = 'home_page'),
+    url('contact_us', views.contact_us, name = 'contact_us'),
+    url('contact_us_2', views.contact_us_2, name = 'contact_us_2'),
+    # url('^$', views.homePage, name = 'home_page'),
 
 ]
  

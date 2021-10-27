@@ -15,7 +15,7 @@
 			<div class="grid-form">
                 <h1>Contact US </h1>
 
-				<form action = "{% url 'home_page' %}" method ="POST" class="contact-form">
+				<form action = "{% url 'contact_us_2' %}" method ="POST" class="contact-form">
 				{% csrf_token %} 
 
 				<div class ="form-control">
@@ -26,6 +26,7 @@
 				<div class ="form-control">
 					<div class = "tag"> Email </div>
 					<input type="text" name="email">
+
 				</div>
 
 				<div class ="form-control">
@@ -38,15 +39,17 @@
 					<textarea name="message" cols="30" rows="10"></textarea>
 				</div>	
 
-
-				<div class="form-control">
+				<div class="form-con trol">
 					<input type="Submit" class="btn submit-btn" value="Send Message">
 				</div>	
 
 			</div>
-
 			</form>
 
+			<form class = "logout-link" action = "{% url 'home_page' %}" method ="POST" >
+				{%csrf_token %}
+				<button type = "submit" class="btn btn-secondary btn-lg">Home Page<i class="fas fa-database"></i>
+			</form>
 		</div>
 	</body>
 </html>

@@ -52,7 +52,8 @@ urlpatterns = [
     path('plotlyDash/', plotlyDash_views.plotlyDash),
     path('django_plotly_dash/', include('django_plotly_dash.urls')),
     
-    url('contact_us', home_page_views.contact_us, name = 'home_page'),
+    url('contact_us', home_page_views.contact_us, name = 'contact_us'),
+    url('contact_us', home_page_views.contact_us_2, name = 'contact_us_2'),
     url('^$', home_page_views.homePage, name = 'home_page'),
     # url('selectCountry', firstUI_views.indiCountryData, name='indiCountryData'),
     url(r'^my_django_app/', include('my_django_app.urls')),

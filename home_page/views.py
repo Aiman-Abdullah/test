@@ -13,7 +13,15 @@ df3=pd.read_json('https://cdn.jsdelivr.net/gh/highcharts/highcharts@v7.0.0/sampl
 def homePage(request):
     return render(request,'index.html')
 
+# def contact_us_2(request):
+#     print('contact_us_2')
+#     return render(request,'contact_us_2.html', {})
+
 def contact_us(request):
+    return render(request,'contact_us.html', {})
+
+
+def contact_us_2(request):
     if request.method == 'POST':
         name = request.POST.get('name')
         email = request.POST.get('email')
@@ -37,8 +45,7 @@ def contact_us(request):
 
         # print(data)
 
-
-    return render(request,'contact_us.html', {})
+    return render(request,'index.html', {})
 
     
 # Create your views here.
