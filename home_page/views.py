@@ -13,46 +13,71 @@ df3=pd.read_json('https://cdn.jsdelivr.net/gh/highcharts/highcharts@v7.0.0/sampl
 def homePage(request):
     return render(request,'index.html')
 
-# def contact_us_2(request):
-#     print('contact_us_2')
-#     return render(request,'contact_us_2.html', {})
+def contact_us_2(request):
+    print('contact_us_2')
+    return render(request,'contact_us_2.html', {})
+
+# def contact_us(request):
+#     return render(request,'contact_us.html', {})
+
 
 def contact_us(request):
-    return render(request,'contact_us.html', {})
-
-
-def contact_us_2(request):
     if request.method == 'POST':
         name = request.POST.get('name')
         email = request.POST.get('email')
         subject = request.POST.get('subject')
         message = request.POST.get('message')
-
         data = {
                 'name': name,
                 'email': email,
                 'subject': subject,
                 'message': message
         }
-
         message = '''
         New message: {}
-
         From: {}
+
+
         '''.format(data['message'], data['email'])
-
         send_mail(data['subject'],message,'',['christophgonzalez171@gmail.com'])
-
         # print(data)
 
-    return render(request,'index.html', {})
 
+
+
+    return render(request,'contact_us.html', {})
+
+def contact_us_submitted(request):
+    if request.method == 'POST':
+        name = request.POST.get('name')
+        email = request.POST.get('email')
+        subject = request.POST.get('subject')
+        message = request.POST.get('message')
+        data = {
+                'name': name,
+                'email': email,
+                'subject': subject,
+                'message': message
+        }
+        message = '''
+        New message: {}
+        From: {}
+
+
+        '''.format(data['message'], data['email'])
+        send_mail(data['subject'],message,'',['christophgonzalez171@gmail.com'])
+        # print(data)
+
+
+
+
+    return render(request,'contact_us.html', {})
     
 # Create your views here.
 # test comment
 
 
-# def indexPage(request):
+# def indexPage(request): 
 
 #     confirmedGlobal= pd.read_csv('https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv',encoding='utf-8',na_values=None)
 #     totalCount = confirmedGlobal[confirmedGlobal.columns[-1]].sum()

@@ -22,14 +22,18 @@ from my_django_app import views as views2
 
 
 
+ 
+
+
+
 
 urlpatterns = [
 
     url('^$', views.homePage, name = 'index'),
     url('contact_us', views.contact_us, name = 'contact_us'),
     url('contact_us_2', views.contact_us_2, name = 'contact_us_2'),
+    url('contact_us_submitted', views.contact_us_submitted, name = 'contact_us_submitted'),
     # url('^$', views.homePage, name = 'home_page'),
 
-]
+]                            
  
-
