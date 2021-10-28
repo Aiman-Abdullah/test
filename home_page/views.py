@@ -34,6 +34,8 @@ def contact_us(request):
                 'message': message
         }
         message = '''
+        
+
         New message: {}
         From: {}
 
