@@ -32,7 +32,7 @@ ALLOWED_HOSTS = ['127.0.0.1','econometricdatasolutions.azurewebsites.net','econo
 
 #Super User: ChristopherAdmin
 
-# Applica
+# Applicat
 # tion definition
 
 INSTALLED_APPS = [
