@@ -31,7 +31,7 @@ from dim_product import views as dim_product_views
 from dim_product_group import views as dim_product_group_views
 from dim_table import views as dim_table_views 
 from fact_sales_order_item import views as fact_sales_order_item_views 
-# from plotlyDash import views as plotlyDash_views
+from plotlyDash import views as plotlyDash_views
 from test_page import views as test_page_views
 
 urlpatterns = [
@@ -49,8 +49,8 @@ urlpatterns = [
     path('', include("django.contrib.auth.urls")),
     path('login/', accounts_views.login_view),
     path('logout/', accounts_views.login_view),
-    # path('plotlyDash/', plotlyDash_views.plotlyDash),
-    # path('django_plotly_dash/', include('django_plotly_dash.urls')), 
+    path('plotlyDash/', plotlyDash_views.plotlyDash),
+    path('django_plotly_dash/', include('django_plotly_dash.urls')), 
 
     url('contact_us', home_page_views.contact_us, name = 'contact_us'),
     url('contact_us_2', home_page_views.contact_us_2, name = 'contact_us_2'),

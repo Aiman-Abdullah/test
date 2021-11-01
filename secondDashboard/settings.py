@@ -66,7 +66,7 @@ INSTALLED_APPS = [
     'channels',
     'channels_redis',
     'import_export',
-    # 'plotlyDash',
+    'plotlyDash',
     'session_security',
     'storages',
 ]
