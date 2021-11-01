@@ -18,7 +18,7 @@ from django.conf.urls import url, include
 from django.contrib import admin
 from django.urls import path
 from home_page import views
-from my_django_app import views as views2
+# from my_django_app import views as views2
 
 
 
