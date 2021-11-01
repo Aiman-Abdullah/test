@@ -34,7 +34,7 @@ from fact_sales_order_item import views as fact_sales_order_item_views
 from plotlyDash import views as plotlyDash_views
 from test_page import views as test_page_views
 
-urlpatterns = [
+urlpatterns = [ 
     path('signup/', accounts_views.signup_view),
     path('admin/', admin.site.urls), 
     # path('upload/', my_django_app_views.simple_upload),
