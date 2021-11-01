@@ -14,7 +14,7 @@ Including another URLconf
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
 """
   
-import my_django_app as my_django_app
+# import my_django_app as my_django_app
 from django.conf.urls import url, include
 from django.contrib import admin
 from django.urls import path
@@ -23,7 +23,7 @@ from dim_accounts import views as accounts_views
 from jcwf_data_center import views as jcwf_data_center_views
 # from firstUI import views as firstUI_views
 from home_page import views as home_page_views
-from my_django_app import views as my_django_app_views
+# from my_django_app import views as my_django_app_views
 from dim_customer import views as dim_customer_views
 from dim_date import views as dim_date_views
 from dim_discount import views as dim_discount_views
@@ -31,13 +31,13 @@ from dim_product import views as dim_product_views
 from dim_product_group import views as dim_product_group_views
 from dim_table import views as dim_table_views 
 from fact_sales_order_item import views as fact_sales_order_item_views 
-from plotlyDash import views as plotlyDash_views
+# from plotlyDash import views as plotlyDash_views
 from test_page import views as test_page_views
 
 urlpatterns = [
     path('signup/', accounts_views.signup_view),
     path('admin/', admin.site.urls), 
-    path('upload/', my_django_app_views.simple_upload),
+    # path('upload/', my_django_app_views.simple_upload),
     path('jcwf_data_center/', jcwf_data_center_views.employee_list),
     path('dim_customer/', dim_customer_views.simple_upload),
     path('dim_date/', dim_date_views.simple_upload),
@@ -49,15 +49,15 @@ urlpatterns = [
     path('', include("django.contrib.auth.urls")),
     path('login/', accounts_views.login_view),
     path('logout/', accounts_views.login_view),
-    path('plotlyDash/', plotlyDash_views.plotlyDash),
-    path('django_plotly_dash/', include('django_plotly_dash.urls')), 
+    # path('plotlyDash/', plotlyDash_views.plotlyDash),
+    # path('django_plotly_dash/', include('django_plotly_dash.urls')), 
 
     url('contact_us', home_page_views.contact_us, name = 'contact_us'),
     url('contact_us_2', home_page_views.contact_us_2, name = 'contact_us_2'),
     url('contact_us_submitted', home_page_views.contact_us_submitted, name = 'contact_us_submitted'),
     url('^$', home_page_views.homePage, name = 'home_page'),
     # url('selectCountry', firstUI_views.indiCountryData, name='indiCountryData'),
-    url(r'^my_django_app/', include('my_django_app.urls')),
+    # url(r'^my_django_app/', include('my_django_app.urls')),
     # url(r'^firstUI/', include('firstUI.urls')),
     url(r'^employee/', include('jcwf_data_center.urls'), name='jcwf_data_center'),
     path('dim_accounts/', include('dim_accounts.urls')),

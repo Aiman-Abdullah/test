@@ -49,7 +49,7 @@ INSTALLED_APPS = [
     'fact_sales_order_item',
     # 'firstUI',
     'home_page',
-    'my_django_app',
+    # 'my_django_app',
     'jcwf_data_center',
     'test_page',
 
@@ -66,7 +66,7 @@ INSTALLED_APPS = [
     'channels',
     'channels_redis',
     'import_export',
-    'plotlyDash',
+    # 'plotlyDash',
     'session_security',
     'storages',
 ]
