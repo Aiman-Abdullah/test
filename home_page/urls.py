@@ -36,4 +36,3 @@ urlpatterns = [
     # url('^$', views.homePage, name = 'home_page'),
 
 ]                            
- 

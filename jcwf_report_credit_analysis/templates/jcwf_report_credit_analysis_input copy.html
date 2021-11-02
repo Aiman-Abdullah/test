@@ -1,0 +1,64 @@
+{% block content %}
+{% load plotly_dash %}
+ 
+ {% if messages %}
+    {%for message in messages%}
+<div class = "alert alert-{{message.tags}}" role ="alert">
+        <p{% if message.tags %} class = ""{%endif %}>{{ message }}</p>
+
+</div>
+{%endfor%}
+{%endif%}
+
+<form method ="post" enctype="multipart/form-data">
+    {%csrf_token %}
+    
+    <input type = "file" name ="myfile">
+    <button type = "submit"> Upload</button>
+    <h2>
+        Please Upload Product Excel File
+    </h2>
+    
+    <h3>
+        {{tablename}} table upload screen, last update time {{lastImportTime}}
+        <br>
+        {{totalRecords}} total records
+    </h3>
+
+<div>
+    <h3>
+        
+
+        <h1>List of productNames</h1>
+        <ol>
+        {% for product in productNames %}
+        <li>{{product}} </li>
+        {% endfor %}
+        </ol>
+
+        <h1>List of productids</h1>
+        <ol>
+        {% for productid in productids %}
+        <li>{{productid}} </li>
+        {% endfor %}
+        </ol>
+
+    </h3>
+</div>
+
+<div>
+    <h3>
+        
+        {{productNames}}
+    </h3>
+</div>
+
+<div class="{% plotly_class name='datatable' %} card" style = "height: 100% width 100%">
+{% plotly_app name='datatable' ratio=0.65 %}
+
+</div>
+
+
+
+</form>
+{% endblock %}

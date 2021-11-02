@@ -26,7 +26,7 @@ DEBUG = True
 # SECURITY session expire at browser close
 SESSION_EXPIRE_AT_BROWSER_CLOSE = True
 
-ALLOWED_HOSTS = ['127.0.0.1','econometricdatasolutions.azurewebsites.net','econometricdatasolutions.com'] #['econometricdatasolutionsdb.postgres.database.azure.com'] # '*' # []
+ALLOWED_HOSTS = ['127.0.0.1','econometricdatasolutions.azurewebsites.net','econometricdatasolutions.com', 'localhost'] #['econometricdatasolutionsdb.postgres.database.azure.com'] # '*' # []
 # ALLOWED_HOSTS = [] #['econometricdatasolutionsdb.postgres.database.azure.net'] # '*' # []
 # ALLOWED_HOSTS = ['econometricdatasolutions.azurewebsites.net'] #['econometricdatasolutionsdb.postgres.database.azure.com'] # '*' # []
 
@@ -51,6 +51,7 @@ INSTALLED_APPS = [
     'home_page',
     # 'my_django_app',
     'jcwf_data_center',
+    'jcwf_report_credit_analysis',
     'test_page',
 
     # third-party

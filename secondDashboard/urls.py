@@ -30,9 +30,12 @@ from dim_discount import views as dim_discount_views
 from dim_product import views as dim_product_views
 from dim_product_group import views as dim_product_group_views
 from dim_table import views as dim_table_views 
+from jcwf_report_credit_analysis import views as jcwf_report_credit_analysis_views 
 from fact_sales_order_item import views as fact_sales_order_item_views 
 from plotlyDash import views as plotlyDash_views
 from test_page import views as test_page_views
+
+
 
 urlpatterns = [ 
     path('signup/', accounts_views.signup_view),
@@ -45,6 +48,7 @@ urlpatterns = [
     path('dim_product/', dim_product_views.simple_upload),
     path('dim_product_group/', dim_product_group_views.simple_upload),
     path('dim_table/', dim_table_views.simple_upload),
+    path('jcwf_report_credit_analysis/', jcwf_report_credit_analysis_views.simple_upload),
     path('fact_sales_order_item/', fact_sales_order_item_views.simple_upload),
     path('', include("django.contrib.auth.urls")),
     path('login/', accounts_views.login_view),
@@ -62,7 +66,10 @@ urlpatterns = [
     url(r'^employee/', include('jcwf_data_center.urls'), name='jcwf_data_center'),
     path('dim_accounts/', include('dim_accounts.urls')),
     path('signup/', include('dim_accounts.urls')),
+
+    
     path('jcwf_data_center/', include('jcwf_data_center.urls')),
+    path('jcwf_report_credit_analysis/', include('jcwf_report_credit_analysis.urls')),
     path('dim_date/', include('dim_date.urls')),
     path('dim_discount/', include('dim_discount.urls')),
     path('dim_color/', include('dim_color.urls')),
