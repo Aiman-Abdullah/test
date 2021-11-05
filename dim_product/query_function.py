@@ -9,12 +9,15 @@ def do_something():
     # importing data from the data warehouse using psycopg2
     conn = psycopg2.connect("host='econometricdatasolutionsdb.postgres.database.azure.com' dbname=postgres user='Christopher@econometricdatasolutionsdb' password='Darkknight17!'")
     cur = conn.cursor()
-    cur.execute("""   
+    cur.execute("""
     
     /* Updating transformation table */
     TRUNCATE jcwf_tran_sales_order_item;
 
     insert INTO jcwf_tran_sales_order_item (
+
+
+
 
     sales_order_item_product_category  
     , sales_order_item_warehouse  
@@ -241,3 +244,4 @@ if __name__ == '__main__':
 
     return_val = do_something(arg)
 
+do_something()

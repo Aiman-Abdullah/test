@@ -46,14 +46,134 @@ def simple_upload(request):
         stage_sales_order_item_resource = Stage_sales_order_item_resource()
         dataset = Dataset()
         new_stage_sales_order_items = request.FILES['myfile']
-        stage_sales_order_items = Stage_sales_order_item.objects.all()
-        stage_sales_order_items.delete()
+        # stage_sales_order_items = Stage_sales_order_item.objects.all()
+        # stage_sales_order_items.delete()
         imported_data = dataset.load(new_stage_sales_order_items.read(),format='xlsx') # xlsx
+        # print(imported_data) 
+        
+        datass = pd.DataFrame(columns=[
+              'sales_order_item_product_category'  
+            , 'sales_order_item_warehouse'  
+            , 'sales_order_item_site' 
+            , 'sales_order_item_status' 
+            , 'sales_order_item_product' 
+            , 'sales_order_item_product_foreign_key'
+            , 'sales_order_item_terms' 
+            , 'sales_order_item_order_item'  
+            , 'sales_order_item_po'  
+            , 'sales_order_item_customer_id' 
+            , 'sales_order_item_customer_name' 
+            , 'sales_order_item_sidemark' 
+            , 'sales_order_item_entered' 
+            , 'sales_order_item_credit_ok'  
+            , 'sales_order_item_printed' 
+            , 'sales_order_item_labels' 
+            , 'sales_order_item_packed' 
+            , 'sales_order_item_shipped_date' 
+            , 'sales_order_item_required' 
+            , 'sales_order_item_canceled' 
+            , 'sales_order_item_model' 
+            , 'sales_order_item_color_style' 
+            , 'sales_order_item_width' 
+            , 'sales_order_item_height'
+            , 'sales_order_item_ordered' 
+            , 'sales_order_item_shipped_quantity' 
+            , 'sales_order_item_net_sale'
+            , 'sales_order_item_cost_of_good_sold'
+            ])
+
+        # x_record = pd.Series(['hi','today'])
+
+        for data in imported_data:
+            datass = datass.append({
+                'sales_order_item_product_category': data[0] 
+                , 'sales_order_item_warehouse': data[1] 
+                , 'sales_order_item_site': data[2]  
+                , 'sales_order_item_status': data[3]  
+                , 'sales_order_item_product': data[4]  
+                , 'sales_order_item_terms': data[5] 
+                , 'sales_order_item_order_item': data[6]  
+                , 'sales_order_item_po': data[7]   
+                , 'sales_order_item_customer_id': data[8]   
+                , 'sales_order_item_customer_name': data[9]  
+                , 'sales_order_item_sidemark': data[10]  
+                , 'sales_order_item_entered': data[11]  
+                , 'sales_order_item_credit_ok': data[12]  
+                , 'sales_order_item_printed': data[13]   
+                , 'sales_order_item_labels': data[14]  
+                , 'sales_order_item_packed': data[15]  
+                , 'sales_order_item_shipped_date': data[16]  
+                , 'sales_order_item_required': data[17]  
+                , 'sales_order_item_canceled': data[18]  
+                , 'sales_order_item_model': data[19]  
+                , 'sales_order_item_color_style': data[20]  
+                , 'sales_order_item_width': data[21]  
+                , 'sales_order_item_height': data[22]  
+                , 'sales_order_item_ordered': data[23] 
+                , 'sales_order_item_shipped_quantity': data[24] 
+                , 'sales_order_item_net_sale': data[25]  
+                , 'sales_order_item_cost_of_good_sold': data[26] 
+                                    }, ignore_index=True)
+        # print(datass)
+
+
+        import psycopg2
+
+
+        df = datass
+        conn = psycopg2.connect("host='econometricdatasolutionsdb.postgres.database.azure.com' dbname=postgres user='Christopher@econometricdatasolutionsdb' password='Darkknight17!'")
+        cur = conn.cursor()
+        cur.execute("""   
+        /* Updating transformation table */
+        TRUNCATE jcwf_stage_sales_order_item;
+        """
+        )
+        conn.commit()
+        conn.close()
+        
+        conn = psycopg2.connect("host='econometricdatasolutionsdb.postgres.database.azure.com' dbname=postgres user='Christopher@econometricdatasolutionsdb' password='Darkknight17!'")
+        cur = conn.cursor()
+        for index, row in df.iterrows():
+
+            insertdata =  "('"+str(row[0]).replace("\'", "")+"','"+str(row[1]).replace("\'", "")+"','"+str(row[2]).replace("\'", "")+"','"+str(row[3]).replace("\'", "")+"','"+str(row[4]).replace("\'", "")+"','"+str(row[5]).replace("\'", "")+"','"+str(row[6]).replace("\'", "")+"','"+str(row[7]).replace("\'", "")+"','"+str(row[8]).replace("\'", "")+"','"+str(row[9]).replace("\'", "")+"','"+str(row[10]).replace("\'", "")+"','"+str(row[11]).replace("\'", "")+"','"+str(row[12]).replace("\'", "")+"','"+str(row[13]).replace("\'", "")+"','"+str(row[14]).replace("\'", "")+"','"+str(row[15]).replace("\'", "")+"','"+str(row[16]).replace("\'", "")+"','"+str(row[17]).replace("\'", "")+"','"+str(row[18]).replace("\'", "")+"','"+str(row[19]).replace("\'", "")+"','"+str(row[20]).replace("\'", "")+"','"+str(row[21]).replace("\'", "")+"','"+str(row[22]).replace("\'", "")+"','"+str(row[23]).replace("\'", "")+"','"+str(row[24]).replace("\'", "")+"','"+str(row[25]).replace("\'", "")+"','"+str(row[26]).replace("\'", "")+"');"
+            print("insertdata :",insertdata)
+            try:
+                cur.execute(
+                    """ INSERT INTO jcwf_stage_sales_order_item values """ +insertdata)
+
+                print( "row inserted:", insertdata)
+            except psycopg2.IntegrityError:
+
+
+                print( "Row already exist ")
+                pass 
+            except Exception as e:
+
+                print("some insert error:", e, "ins: ", insertdata)
+        conn.commit()   
+        conn.close()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        '''
 
         #print(imported_data) 
+        print(type(imported_data))
         for data in imported_data:
         	print(data[1])
-        	value = Stage_sales_order_item(
+        	value = Stage_sales_order_item(  
          		data[0]               
         	,	data[1]
         	,	data[2]
@@ -82,10 +202,10 @@ def simple_upload(request):
             ,	data[25]
             ,	data[26]
         	)
-        	value.save()       
+        	# value.save()       
             
         do_something()
-
+        '''
 
         # time.sleep(60)
     # importing data from the data warehouse using psycopg2

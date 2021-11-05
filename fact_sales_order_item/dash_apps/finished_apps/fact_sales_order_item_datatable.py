@@ -28,7 +28,9 @@ app = DjangoDash('fact_sales_order_item_datatable', external_stylesheets=[dbc.th
                 #           ]
                 )
 
-fact_sales_order_item_df = Fact_sales_order_item.objects.all()
+# fact_sales_order_item_df = Fact_sales_order_item.objects.all()
+fact_sales_order_item_df = Fact_sales_order_item.objects.filter(sales_order_item_status = '5 PRODUCTION HOLD')
+
 fact_sales_order_item_df = read_frame(fact_sales_order_item_df)
 df = fact_sales_order_item_df
 
@@ -585,7 +587,8 @@ if __name__ == '__main__':
     ])
 
 def update_table(interval, start_date, end_date, value):
-    fact_sales_order_items_df = Fact_sales_order_item.objects.all()
+    # fact_sales_order_items_df = Fact_sales_order_item.objects.all()
+    fact_sales_order_items_df = Fact_sales_order_item.objects.filter(sales_order_item_status = '5 PRODUCTION HOLD')
     fact_sales_order_items_df = read_frame(fact_sales_order_items_df)
     df = fact_sales_order_items_df
 
