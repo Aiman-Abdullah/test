@@ -95,7 +95,7 @@ pyasn1-modules==0.2.8
 pycparser==2.20
 pyexcel==0.6.6
 pyexcel-io==0.6.4
-pyexcel-ods==0.6.0
+pyexcel-ods==0.6.0 
 pyexcel-webio==0.1.4
 pyexcel-xls==0.6.2
 pyexcel-xlsx==0.6.0

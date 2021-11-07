@@ -220,7 +220,7 @@ PLOTLY_COMPONENTS = [
 FILE_UPLOAD_HANDLERS = ("django_excel.ExcelMemoryFileUploadHandler",
                         "django_excel.TemporaryExcelFileUploadHandler")
 
- 
+  
 # use for deployement
 # Static files (CSS, JavaScript, Images) 
 # https://docs.djangoproject.com/en/3.1/howto/static-files/

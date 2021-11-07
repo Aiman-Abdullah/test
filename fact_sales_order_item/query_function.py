@@ -4,7 +4,7 @@ import psycopg2
 import pandas as pd
 from pandas import DataFrame
 
-def do_something():
+def etl_query():
 
     # importing data from the data warehouse using psycopg2
     conn = psycopg2.connect("host='econometricdatasolutionsdb.postgres.database.azure.com' dbname=postgres user='Christopher@econometricdatasolutionsdb' password='Darkknight17!'")
@@ -239,5 +239,5 @@ if __name__ == '__main__':
     except IndexError:
         arg = None
 
-    return_val = do_something(arg)
+    return_val = etl_query(arg)
 
