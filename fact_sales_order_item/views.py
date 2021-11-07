@@ -12,11 +12,11 @@ from fact_sales_order_item.query_function import etl_query
 from datetime import datetime
 import time
 
-# app_start_time = datetime.now()
+app_start_time = datetime.now()
 
 @login_required(login_url="/accounts/login/")
 def simple_upload(request): 
-    # app_start_time = datetime.now()
+    app_start_time = datetime.now()
     if request.method == 'POST':
 
         app_start_time = datetime.now()
