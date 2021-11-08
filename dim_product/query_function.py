@@ -16,10 +16,7 @@ def do_something():
 
     insert INTO jcwf_tran_sales_order_item (
 
-
-
-
-    sales_order_item_product_category  
+      sales_order_item_product_category  
     , sales_order_item_warehouse  
     , sales_order_item_site 
     , sales_order_item_status 
@@ -48,7 +45,10 @@ def do_something():
     , sales_order_item_shipped_quantity 
     , sales_order_item_net_sale
     , sales_order_item_cost_of_good_sold
-
+    , row_is_current
+    , row_start_date
+    , row_end_date
+    , row_change_reason
     )
 
     SELECT 
@@ -82,6 +82,10 @@ def do_something():
     , sales_order_item_shipped_quantity 
     , sales_order_item_net_sale
     , sales_order_item_cost_of_good_sold
+    , 'Y' AS row_is_current
+    , NOW() AS row_start_date
+    , NOW() AS row_end_date
+    , 'initial upload' AS row_change_reason
 
     from jcwf_stage_sales_order_item
 
@@ -114,7 +118,11 @@ def do_something():
     , sales_order_item_ordered = excluded.sales_order_item_ordered
     , sales_order_item_shipped_quantity = excluded.sales_order_item_shipped_quantity
     , sales_order_item_net_sale = excluded.sales_order_item_net_sale
-    , sales_order_item_cost_of_good_sold = excluded.sales_order_item_cost_of_good_sold;
+    , sales_order_item_cost_of_good_sold = excluded.sales_order_item_cost_of_good_sold
+    , row_is_current = excluded.row_is_current  
+    , row_end_date = excluded.row_end_date
+    , row_change_reason = 'normal update'
+    ;
 
     -------------------------------------------------------------------------------------------------------
     /* Updating fact table */
@@ -208,9 +216,6 @@ def do_something():
     , sales_order_item_shipped_quantity = excluded.sales_order_item_shipped_quantity
     , sales_order_item_net_sale = excluded.sales_order_item_net_sale
     , sales_order_item_cost_of_good_sold = excluded.sales_order_item_cost_of_good_sold;
-
-
-
     """
     )
 
