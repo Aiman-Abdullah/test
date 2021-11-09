@@ -38,6 +38,7 @@ def etl_query():
     , sales_order_item_required 
     , sales_order_item_canceled 
     , sales_order_item_model 
+    , sales_order_item_color_foreign_key
     , sales_order_item_color_style 
     , sales_order_item_width 
     , sales_order_item_height
@@ -72,6 +73,7 @@ def etl_query():
     , sales_order_item_required 
     , sales_order_item_canceled 
     , sales_order_item_model 
+    , (SELECT color_key FROM jcwf_dim_color WHERE jcwf_dim_color.color_name = jcwf_stage_sales_order_item.sales_order_item_color_style LIMIT 1) AS sales_order_item_color_foreign_key
     , sales_order_item_color_style 
     , sales_order_item_width 
     , sales_order_item_height
@@ -105,6 +107,7 @@ def etl_query():
     , sales_order_item_required = excluded.sales_order_item_required
     , sales_order_item_canceled = excluded.sales_order_item_canceled
     , sales_order_item_model = excluded.sales_order_item_model
+    , sales_order_item_color_foreign_key = excluded.sales_order_item_color_foreign_key
     , sales_order_item_color_style = excluded.sales_order_item_color_style
     , sales_order_item_width = excluded.sales_order_item_width
     , sales_order_item_height = excluded.sales_order_item_height

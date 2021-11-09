@@ -24,11 +24,12 @@ def simple_upload(request):
         stage_sales_order_items = Stage_sales_order_item.objects.all()
         stage_sales_order_items.delete()
 
-        map_row = ['sales_order_item_product_category'
+        map_row = [
+                   'sales_order_item_product_category'
                  , 'sales_order_item_warehouse'
                  , 'sales_order_item_site'
                  , 'sales_order_item_status'
-                 , 'sales_order_item_product'
+                 , 'sales_order_item_product'  
                  , 'sales_order_item_terms' 
                  , 'sales_order_item_order_item'  
                  , 'sales_order_item_po'  

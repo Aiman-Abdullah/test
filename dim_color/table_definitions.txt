@@ -75,7 +75,6 @@ CREATE TABLE jcwf_dim_color (
 ,  color_inactive_date  TEXT    NULL
 ,  color_constants  TEXT    NULL  
 
-
 ,  row_is_current  VARCHAR(1)  NULL
 ,  row_start_date  TIMESTAMP  NULL
 ,  row_end_date  TIMESTAMP  NULL

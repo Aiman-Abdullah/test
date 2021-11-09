@@ -41,7 +41,8 @@ def simple_upload(request):
         for data in imported_data:
         	print(data[1])
         	value = Stage_color(
-         		data[0]               
+                [data[0],data[1],data[2],data[3]]
+         	,   data[0]               
         	,	data[1]
         	,	data[2]
             ,	data[3]
