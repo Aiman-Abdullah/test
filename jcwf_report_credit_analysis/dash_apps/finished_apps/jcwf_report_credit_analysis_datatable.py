@@ -19,19 +19,19 @@ from datetime import datetime as dt
 
 import dash_bootstrap_components as dbc
 
+
+from jcwf_report_credit_analysis.query_function import report_query
 #app = dash.Dash('datatable')
 
-app = DjangoDash('dim_product_datatable', external_stylesheets=[dbc.themes.BOOTSTRAP],
+app = DjangoDash('jcwf_report_credit_analysis_datatable', external_stylesheets=[dbc.themes.BOOTSTRAP],
                 # meta_tags=[
                 #             {'name': 'viewport',
                 #             'content': 'width=device-width, initial-scale=1.0'}
                 #           ]
                 )
 
-dim_products_df = Dim_product.objects.all()
-dim_products_df = read_frame(dim_products_df)
-df = dim_products_df
-df["product_id"] = df["product_id"].astype(str).astype(int)
+
+df = report_query('537','2021-08-18', '2021-10-18')
 
 now_year = dt.today().strftime('%Y'),
 now_month = dt.today().strftime('%m'),
@@ -47,7 +47,7 @@ start_date2 = "1/1/2000"
 app.layout = dbc.Container([
     dbc.Row([
         dbc.Col(
-                html.H1("""Select Product Name""",
+                html.H1("""Select Customer""",
                     className = 'm-0 text-left text-dark'
                     #style={'margin-right': '3em'}
                 ),
@@ -218,26 +218,33 @@ app.layout = dbc.Container([
                         id='table',
                         # columns =[{'id': c, 'name': c} for c in df.columns],
                         columns=[
-                            dict(id='product_key', format=Format().align(Align.left)),
-                            dict(id='product_id', type='numeric'),
+                            dict(id='sales_order_item_status', format=Format().align(Align.left)),
+                            dict(id='sales_order_item_product_foreign_key', type='numeric'),
                             dict(id='product_description'),
-                            dict(id='product_pdg'),
-                            dict(id='product_product_type'),
-                            dict(id='product_dtc'),
-                            dict(id='product_min_deposit') ,
-                            dict(id='product_phase_out_date'),
-                            dict(id='product_disc_date'),
-                            dict(id='product_discontinued'),
-                            dict(id='product_col'), 
-
-
-                            dict(id='row_is_current'),
-                            dict(id='row_start_date'),
-                            dict(id='row_end_date'),
-                            dict(id='row_change_reason'),
-                            dict(id='import_version'),
-                            dict(id='import_batch') ,
-                            dict(id='import_user') 
+                            dict(id='sales_order_item_terms'),
+                            dict(id='sales_order_item_order_item'),
+                            dict(id='sales_order_item_po'),
+                            dict(id='sales_order_item_customer_id_foreign_key') ,
+                            dict(id='Customer_Account'),
+                            dict(id='Customer_Name'),
+                            dict(id='sales_order_item_sidemark'),
+                            dict(id='sales_order_item_entered'), 
+                            dict(id='sales_order_item_credit_ok'),
+                            dict(id='sales_order_item_printed'),
+                            dict(id='sales_order_item_labels'),
+                            dict(id='sales_order_item_packed'),
+                            dict(id='sales_order_item_shipped_date'),
+                            dict(id='sales_order_item_required') ,
+                            dict(id='sales_order_item_canceled') ,
+                            dict(id='sales_order_item_model') ,
+                            dict(id='sales_order_item_color_foreign_key') ,
+                            dict(id='color_name') ,
+                            dict(id='color_description') ,
+                            dict(id='sales_order_item_width') ,
+                            dict(id='sales_order_item_height') ,
+                            dict(id='sales_order_item_ordered') ,
+                            dict(id='sales_order_item_shipped_quantity') ,
+                            dict(id='sales_order_item_net_sale') 
                                 ],
 
                         style_data={
@@ -1033,9 +1040,7 @@ html.Div(
     ])
 
 def update_table(interval, start_date, end_date, value):
-    dim_products_df = Dim_product.objects.all()
-    dim_products_df = read_frame(dim_products_df)
-    df = dim_products_df
+    df = report_query('537',start_date, end_date)
 
     if value:
         df = df[df['description'].isin(value)]
