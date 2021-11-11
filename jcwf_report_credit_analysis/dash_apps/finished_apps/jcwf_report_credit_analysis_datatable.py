@@ -945,7 +945,7 @@ html.Div(
     [Input('table','active_cell')
     ,Input('my-date-picker-range', 'start_date')
     ,Input('my-date-picker-range', 'end_date') 
-    ,Input('demo-dropdown', 'Customer_Name')
+    ,Input('demo-dropdown', 'value')
     ])
 
 
@@ -961,32 +961,15 @@ def update_table(interval, start_date, end_date, value):
     print("start_date "+str(start_date))
     print("end_date "+str(end_date))
     print("Customer_Name "+str(Customer_Name))
-    customer_key = customer_foreign_key_query(Customer_Name)
-    print(str('foreign key: '+str(customer_key)))
-    if len(str(customer_key))>1: 
-        df = report_query(customer_key,start_date2, '2021-10-18')
+    res = isinstance(Customer_Name, str)
+    print(str('res is ')+str(res))
+    if res:
+        df = report_query(customer_foreign_key_query(Customer_Name),start_date2, '2021-10-18') #report_query(customer_key,start_date2, '2021-10-18') #537 
     else:
-        df = report_query('',start_date2, '2021-10-18') #537 
-    print(df)
-    print(str('length of key')+str(len(str(customer_key))))
-    # if value:
-    #     df = df[df['description'].isin(value)]
-    # else:
-    #     pass
+        df = report_query('',start_date2, '2021-10-18') #report_query(customer_key,start_date2, '2021-10-18') #537 
+
     print(start_date)
     print(end_date)
-    # start_date = start_date.to_datetime()
-    # end_date = end_date.to_datetime() 
-    # if ((start_date and end_date)):
-    #     df = df.loc[(df['row_end_date']>=start_date) & (df['row_end_date']<=end_date)]
-
-    # for valu in value:
-    #     df = df.loc[df['description']==valu]
-
-
-
-
-    # df["product_id"] = df["product_id"].astype(str).astype(int)
     tabledata=df.to_dict('records')
     return tabledata
     print(interval)

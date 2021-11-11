@@ -6,7 +6,12 @@ import datetime as dt
 # writing query
 
 def customer_foreign_key_query(Customer_Name):
-    # if len(Customer_Name)>1:
+    if Customer_Name=='':
+        Customer_Name = 'CLASSIC ULTRASONIC BLINDS'
+        
+
+    else:
+        Customer_Name = Customer_Name
     Customer_Name = str('\'')+str(Customer_Name)+str('\'')
     
     customer_filter = (str("""
@@ -28,9 +33,14 @@ def customer_foreign_key_query(Customer_Name):
 
     df = DataFrame(rows,columns=[
         'sales_order_item_status'  
-     ])
+    ])
     # print(df.iloc[0]['sales_order_item_status']) 
 
     conn.commit()
     conn.close()
+
+ 
     return(df.iloc[0]['sales_order_item_status'])
+
+
+
