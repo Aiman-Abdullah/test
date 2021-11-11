@@ -21,6 +21,7 @@ import dash_bootstrap_components as dbc
 
 
 from jcwf_report_credit_analysis.query_function import report_query
+from jcwf_report_credit_analysis.foreign_key_query_function import customer_foreign_key_query
 #app = dash.Dash('datatable')
 
 app = DjangoDash('jcwf_report_credit_analysis_datatable', external_stylesheets=[dbc.themes.BOOTSTRAP],
@@ -31,18 +32,20 @@ app = DjangoDash('jcwf_report_credit_analysis_datatable', external_stylesheets=[
                 )
 
 
-df = report_query('537','2021-08-18', '2021-10-18')
-
+df = report_query('','2021-08-18', '2021-10-18') 
+print(df.columns) 
 now_year = dt.today().strftime('%Y'),
 now_month = dt.today().strftime('%m'),
 now_day = dt.today().strftime('%d'),
 
 # getting product name for drop down options
 options2 = []
-for product in df.product_description:
-    options2.append({'label': product, 'value': product})
+for Customer_Name in df.Customer_Name.unique():
+    options2.append({'label': Customer_Name, 'value': Customer_Name})
+
 
 start_date2 = "1/1/2000"
+end_date2 = "1/1/2023"
 
 app.layout = dbc.Container([
     dbc.Row([
@@ -51,11 +54,9 @@ app.layout = dbc.Container([
                     className = 'm-0 text-left text-dark'
                     #style={'margin-right': '3em'}
                 ),
-
                 width =5
-
         ),
-        dbc.Col(html.Div(""), width=3),
+        dbc.Col(html.Div(""), width=3), 
         dbc.Col(html.Div(""), width=4),
     ]),
 
@@ -64,7 +65,7 @@ app.layout = dbc.Container([
             dcc.Dropdown(
                 id='demo-dropdown',
                 options=options2,
-                multi=True
+                multi=False
             ),
         ], width=4)
 
@@ -96,6 +97,7 @@ app.layout = dbc.Container([
                 max_date_allowed=dt(2099, 1, 1),  # maximum date allowed on the DatePickerRange component
                 initial_visible_month=dt(2022, 5, 1),  # the month initially presented when the user opens the calendar
                 start_date= start_date2, #dt(2000, 1, 1).date(),
+                end_date= end_date2, #dt(2000, 1, 1).date(),
                 #end_date=dt(int(now_year[0]),int(now_month[0]), int(now_day[0])).date(),
                 display_format='MMM Do, YY',  # how selected dates are displayed in the DatePickerRange component.
                 month_format='MMMM, YYYY',  # how calendar headers are displayed when the calendar is opened.
@@ -114,89 +116,6 @@ app.layout = dbc.Container([
                 style=dict(display='flex')
                 ),  
     ]),
-
-    dbc.Row([
-        html.H2('Select date range', className='align-middle display-5 m-0 text-left text-dark h-75 font-weight-bolder', id='my-p-element'
-             , style={'margin-right': '3em'}),
-        dbc.Col([
-            dcc.DatePickerRange(
-                id='my-date-picker-range',  # ID to be used for callback
-                calendar_orientation='horizontal',  # vertical or horizontal
-                day_size=39,  # size of calendar image. Default is 39
-                start_date_placeholder_text="1/1/2000",
-                end_date_placeholder_text="1/1/2099",  # text that appears when no end date chosen
-                #end_date_placeholder_text=dt(int(now_year[0]),int(now_month[0]), int(now_day[0])).date(),
-                with_portal=False,  # if True calendar will open in a full screen overlay portal
-                first_day_of_week=0,  # Display of calendar when open (0 = Sunday)
-                reopen_calendar_on_clear=True,
-                is_RTL=False,  # True or False for direction of calendar
-                clearable=True,  # whether or not the user can clear the dropdown
-                number_of_months_shown=1,  # number of months shown when calendar is open
-                min_date_allowed=dt(2000, 1, 1),  # minimum date allowed on the DatePickerRange component
-                max_date_allowed=dt(2099, 1, 1),  # maximum date allowed on the DatePickerRange component
-                initial_visible_month=dt(2022, 5, 1),  # the month initially presented when the user opens the calendar
-                start_date=dt(2000, 1, 1).date(),
-                #end_date=dt(int(now_year[0]),int(now_month[0]), int(now_day[0])).date(),
-                display_format='MMM Do, YY',  # how selected dates are displayed in the DatePickerRange component.
-                month_format='MMMM, YYYY',  # how calendar headers are displayed when the calendar is opened.
-                minimum_nights=2,  # minimum number of days between start and end date
-                persistence=True,
-                persisted_props=['start_date'],
-                persistence_type='session',  # session, local, or memory. Default is 'local'
-                updatemode='singledate',  # singledate or bothdates. Determines when callback is triggered
-                style=dict(
-                    width='40%',
-                    display='inline-block',
-                    verticalAlign="middle"
-                    )
-                )
-                ],
-                style=dict(display='flex')
-                ),  
-    ]),
-
-    dbc.Row([
-
-        html.H2('Select date range', className='align-middle display-5 m-0 text-left text-dark h-75 font-weight-bolder', id='my-p-element'
-             , style={'margin-right': '3em'}),
-
-        dbc.Col([
-            dcc.DatePickerRange(
-                id='my-date-picker-range',  # ID to be used for callback
-                calendar_orientation='horizontal',  # vertical or horizontal
-                day_size=39,  # size of calendar image. Default is 39
-                #start_date_placeholder_text="1/1/2000",
-                end_date_placeholder_text="1/1/2099",  # text that appears when no end date chosen
-                #end_date_placeholder_text=dt(int(now_year[0]),int(now_month[0]), int(now_day[0])).date(),
-                with_portal=False,  # if True calendar will open in a full screen overlay portal
-                first_day_of_week=0,  # Display of calendar when open (0 = Sunday)
-                reopen_calendar_on_clear=True,
-                is_RTL=False,  # True or False for direction of calendar
-                clearable=True,  # whether or not the user can clear the dropdown
-                number_of_months_shown=1,  # number of months shown when calendar is open
-                min_date_allowed=dt(2000, 1, 1),  # minimum date allowed on the DatePickerRange component
-                max_date_allowed=dt(2099, 1, 1),  # maximum date allowed on the DatePickerRange component
-                initial_visible_month=dt(2022, 5, 1),  # the month initially presented when the user opens the calendar
-                start_date=dt(2000, 1, 1).date(),
-                #end_date=dt(int(now_year[0]),int(now_month[0]), int(now_day[0])).date(),
-                display_format='MMM Do, YY',  # how selected dates are displayed in the DatePickerRange component.
-                month_format='MMMM, YYYY',  # how calendar headers are displayed when the calendar is opened.
-                minimum_nights=2,  # minimum number of days between start and end date
-                persistence=True,
-                persisted_props=['start_date'],
-                persistence_type='session',  # session, local, or memory. Default is 'local'
-                updatemode='singledate',  # singledate or bothdates. Determines when callback is triggered
-                style=dict(
-                    width='40%',
-                    display='inline-block',
-                    verticalAlign="middle"
-                    )
-                )
-                ],
-                style=dict(display='flex')
-                ),  
-    ]),
-
 
     dbc.Row([
         dbc.Col([
@@ -265,7 +184,7 @@ app.layout = dbc.Container([
                             }, 
                         style_cell={
                             # all three widths are needed
-                            'minWidth': '180px', 'width': '180px', 'maxWidth': '180px',
+                            'minWidth':  '180px', 'width': '180px', 'maxWidth': '180px',
                             'overflow': 'hidden',
                             'textOverflow': 'ellipsis',
                             'textAlign':'Right',
@@ -491,8 +410,6 @@ app.layout = dbc.Container([
                         # if dataset has greater than 10,000 rows, look into using back end pagination with callbacks
                         # https://dash/plotly.com/datatable/callbacks
                         page_current= 0,
-
-
                         #page_size= 6,
                         # page_action='none',
                         # style_cell={
@@ -508,24 +425,14 @@ app.layout = dbc.Container([
                         #     {'if': {'column_id': 'cases'},
                         #         'width': '30%', 'textAlign': 'left'},
                         #     ]
-
                         export_format="csv",
                         )
-    
                  )
          ])
-
-        
     ]),
-
     dbc.Row([
-
-        
     ]),
-
     dbc.Row([
-
-        
     ]),
 
 ], fluid=True, style={'columnCount': 1, 'rowCount': 4})
@@ -534,7 +441,7 @@ app.layout = dbc.Container([
 if __name__ == '__main__':
     app.run_server(debug=True)
 
-
+'''
 '''
 html.Div(
     
@@ -1030,28 +937,48 @@ html.Div(
 #     [Input('table', 'active_cell'), Input('editing-rows-button', 'n_clicks')],
 #     [Input('table', 'data'), State('table', 'columns')]
 # )
+'''
+
 
 @app.callback(
     Output('table', 'data'),
     [Input('table','active_cell')
     ,Input('my-date-picker-range', 'start_date')
-    ,Input('my-date-picker-range', 'end_date')
-    ,Input('demo-dropdown', 'value')
+    ,Input('my-date-picker-range', 'end_date') 
+    ,Input('demo-dropdown', 'Customer_Name')
     ])
 
-def update_table(interval, start_date, end_date, value):
-    df = report_query('537',start_date, end_date)
 
-    if value:
-        df = df[df['description'].isin(value)]
+def update_table(interval, start_date, end_date, value):
+    from datetime import datetime
+    Customer_Name = value
+    print("value "+str(value))
+    # start_date2 = datetime.strptime(start_date, '%d/%m/%Y')
+    # start_date2 = start_date2.strftime("%Y-%m-%d")
+    print(type(start_date2))
+    print("start_date2 "+str(start_date2))
+    # start_date = start_date.strftime("%H:%M")
+    print("start_date "+str(start_date))
+    print("end_date "+str(end_date))
+    print("Customer_Name "+str(Customer_Name))
+    customer_key = customer_foreign_key_query(Customer_Name)
+    print(str('foreign key: '+str(customer_key)))
+    if len(str(customer_key))>1: 
+        df = report_query(customer_key,start_date2, '2021-10-18')
     else:
-        pass
+        df = report_query('',start_date2, '2021-10-18') #537 
+    print(df)
+    print(str('length of key')+str(len(str(customer_key))))
+    # if value:
+    #     df = df[df['description'].isin(value)]
+    # else:
+    #     pass
     print(start_date)
     print(end_date)
     # start_date = start_date.to_datetime()
-    # end_date = end_date.to_datetime()
-    if ((start_date and end_date)):
-        df = df.loc[(df['row_end_date']>=start_date) & (df['row_end_date']<=end_date)]
+    # end_date = end_date.to_datetime() 
+    # if ((start_date and end_date)):
+    #     df = df.loc[(df['row_end_date']>=start_date) & (df['row_end_date']<=end_date)]
 
     # for valu in value:
     #     df = df.loc[df['description']==valu]
@@ -1059,7 +986,7 @@ def update_table(interval, start_date, end_date, value):
 
 
 
-    df["product_id"] = df["product_id"].astype(str).astype(int)
+    # df["product_id"] = df["product_id"].astype(str).astype(int)
     tabledata=df.to_dict('records')
     return tabledata
     print(interval)

@@ -6,9 +6,9 @@ import datetime as dt
 # writing query
 
 def report_query(customer_key, start_date, end_date):
-    start_date = str('\'')+start_date+str('\'')
-    end_date = str('\'')+end_date+str('\'')
-    if len(customer_key)>1:
+    start_date = str('\'')+str(start_date)+str('\'')
+    end_date = str('\'')+str(end_date)+str('\'')
+    if len(str(customer_key))>1:
         customer_filter = (str("""
         DROP TABLE IF EXISTS  jcwf_temp_table_t;
         SELECT * INTO TABLE jcwf_temp_table_t FROM jcwf_temp_table WHERE sales_order_item_customer_id_foreign_key = """)
