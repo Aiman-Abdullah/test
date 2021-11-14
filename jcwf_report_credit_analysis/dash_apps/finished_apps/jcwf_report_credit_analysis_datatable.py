@@ -18,7 +18,7 @@ from dim_product.models import Dim_product
 from datetime import datetime as dt
 
 import dash_bootstrap_components as dbc
-
+import re
 
 from jcwf_report_credit_analysis.query_function import report_query
 from jcwf_report_credit_analysis.foreign_key_query_function import customer_foreign_key_query
@@ -43,20 +43,25 @@ options2 = []
 for Customer_Name in df.Customer_Name.unique():
     options2.append({'label': Customer_Name, 'value': Customer_Name})
 
+ 
+status_values = []
+for Sales_order_item_status in df.sales_order_item_status.unique():
+    # Sales_order_item_status = re.sub('\d', '', Sales_order_item_status)
+    status_values.append({'label': Sales_order_item_status, 'value': Sales_order_item_status})
 
-start_date2 = "1/1/2000"
+start_date2 = "1/1/2000"   
 end_date2 = "1/1/2023"
 
 app.layout = dbc.Container([
     dbc.Row([
         dbc.Col(
-                html.H1("""Select Customer""",
+                html.H1("""Select Filters""",
                     className = 'm-0 text-left text-dark'
                     #style={'margin-right': '3em'}
                 ),
                 width =5
         ),
-        dbc.Col(html.Div(""), width=3), 
+        dbc.Col(html.Div(""), width=3),
         dbc.Col(html.Div(""), width=4),
     ]),
 
@@ -65,12 +70,21 @@ app.layout = dbc.Container([
             dcc.Dropdown(
                 id='demo-dropdown',
                 options=options2,
+                placeholder="Select a Customer",
                 multi=False
             ),
         ], width=4)
+    ]),
 
-
-
+    dbc.Row([
+        dbc.Col([
+            dcc.Dropdown(
+                id='demo-dropdown2',
+                options=status_values,
+                placeholder="Select Status",
+                multi=True#True False
+            ),
+        ], width=4)
     ]),
 
     html.Br(),
@@ -99,13 +113,13 @@ app.layout = dbc.Container([
                 start_date= start_date2, #dt(2000, 1, 1).date(),
                 end_date= end_date2, #dt(2000, 1, 1).date(),
                 #end_date=dt(int(now_year[0]),int(now_month[0]), int(now_day[0])).date(),
-                display_format='MMM Do, YY',  # how selected dates are displayed in the DatePickerRange component.
-                month_format='MMMM, YYYY',  # how calendar headers are displayed when the calendar is opened.
+                display_format='MM/DD/YYYY',  # how selected dates are displayed in the DatePickerRange component.
+                month_format='MMM, YYYY',  # how calendar headers are displayed when the calendar is opened.
                 minimum_nights=2,  # minimum number of days between start and end date
                 persistence=True,
                 persisted_props=['start_date'],
                 persistence_type='session',  # session, local, or memory. Default is 'local'
-                updatemode='singledate',  # singledate or bothdates. Determines when callback is triggered
+                updatemode='bothdates',  # singledate or bothdates. Determines when callback is triggered
                 style=dict(
                     width='40%',
                     display='inline-block',
@@ -941,32 +955,48 @@ html.Div(
 
 
 @app.callback(
-    Output('table', 'data'),
+     Output('table', 'data'),
     [Input('table','active_cell')
     ,Input('my-date-picker-range', 'start_date')
     ,Input('my-date-picker-range', 'end_date') 
-    ,Input('demo-dropdown', 'value')
+
+    ,Input('demo-dropdown', 'search_value') #search_value
+    ,Input('demo-dropdown2', 'value')#value
+ 
+
     ])
 
 
-def update_table(interval, start_date, end_date, value):
+def update_table(interval, start_date, end_date, search_value, value):
+    print("search_value "+str(search_value))
     from datetime import datetime
     Customer_Name = value
     print("value "+str(value))
     # start_date2 = datetime.strptime(start_date, '%d/%m/%Y')
-    # start_date2 = start_date2.strftime("%Y-%m-%d")
+    # start_date2 = start_date2.strftime("%Y-%m-%d") 
     print(type(start_date2))
     print("start_date2 "+str(start_date2))
     # start_date = start_date.strftime("%H:%M")
     print("start_date "+str(start_date))
     print("end_date "+str(end_date))
     print("Customer_Name "+str(Customer_Name))
+    print("Sales_order_item_status "+str(search_value))
     res = isinstance(Customer_Name, str)
     print(str('res is ')+str(res))
     if res:
-        df = report_query(customer_foreign_key_query(Customer_Name),start_date2, '2021-10-18') #report_query(customer_key,start_date2, '2021-10-18') #537 
+
+        df = report_query(customer_foreign_key_query(Customer_Name),start_date, end_date) #report_query(customer_key,start_date2, '2021-10-18') #537 
     else:
-        df = report_query('',start_date2, '2021-10-18') #report_query(customer_key,start_date2, '2021-10-18') #537 
+        df = report_query('',start_date, end_date) #report_query(customer_key,start_date2, '2021-10-18') #537 
+    print(str('Sales_order_item_status is a string:')+str(isinstance(search_value, str)))
+    print(str('Sales_order_item_status is a list: ')+str(isinstance(search_value, list)))
+    print(type(search_value)) 
+    if isinstance(search_value,str):
+        pass
+    elif isinstance(search_value,list):
+        pass #df = df[df['sales_order_item_status'].isin(Sales_order_item_status)]
+    else:
+        pass
 
     print(start_date)
     print(end_date)

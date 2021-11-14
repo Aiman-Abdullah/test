@@ -561,11 +561,12 @@ if __name__ == '__main__':
     ,Input('my-date-picker-range', 'end_date')
     ,Input('demo-dropdown', 'value')
     ])
-    
+
 
 def update_table(interval, start_date, end_date, value):
     dim_colors_df = Dim_color.objects.all()
-    dim_colors_df = read_frame(dim_colors_df)
+    dim_colors_df = read_frame(dim_colors_df)  
+    
     df = dim_colors_df
 
     if value:
