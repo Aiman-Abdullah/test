@@ -49,8 +49,8 @@ for Sales_order_item_status in df.sales_order_item_status.unique():
     # Sales_order_item_status = re.sub('\d', '', Sales_order_item_status)
     status_values.append({'label': Sales_order_item_status, 'value': Sales_order_item_status})
 
-start_date2 = "1/1/2000"   
-end_date2 = "1/1/2023"
+start_date2 = "2020-01-01"   
+end_date2 = "2024-12-31"
 
 app.layout = dbc.Container([
     dbc.Row([
@@ -68,7 +68,7 @@ app.layout = dbc.Container([
     dbc.Row([
         dbc.Col([
             dcc.Dropdown(
-                id='demo-dropdown',
+                id='demo_dropdown',
                 options=options2,
                 placeholder="Select a Customer",
                 multi=False
@@ -79,8 +79,8 @@ app.layout = dbc.Container([
     dbc.Row([
         dbc.Col([
             dcc.Dropdown(
-                id='demo-dropdown2',
-                options=status_values,
+                id='demo_dropdown2',
+                options=[],
                 placeholder="Select Status",
                 multi=True#True False
             ),
@@ -113,7 +113,7 @@ app.layout = dbc.Container([
                 start_date= start_date2, #dt(2000, 1, 1).date(),
                 end_date= end_date2, #dt(2000, 1, 1).date(),
                 #end_date=dt(int(now_year[0]),int(now_month[0]), int(now_day[0])).date(),
-                display_format='MM/DD/YYYY',  # how selected dates are displayed in the DatePickerRange component.
+                display_format='YYYY-MM-DD',  # how selected dates are displayed in the DatePickerRange component.
                 month_format='MMM, YYYY',  # how calendar headers are displayed when the calendar is opened.
                 minimum_nights=2,  # minimum number of days between start and end date
                 persistence=True,
@@ -954,20 +954,49 @@ html.Div(
 '''
 
 
+#-------------------------------------------------------------------
+@app.callback(
+     Output('demo_dropdown2', 'options'),
+    [Input('my-date-picker-range', 'start_date')
+    ,Input('my-date-picker-range', 'end_date') 
+    ,Input('demo_dropdown', 'value') 
+    ])
+
+def get_status_options(start_date, end_date, value): 
+    print('customer name'+str(value))
+    print('foreign key '+str(customer_foreign_key_query(value)))
+    print("start_date "+str(start_date))
+    print("end_date "+str(end_date))
+    df = report_query('537' ,start_date ,end_date)#'2020-08-18', '2021-10-18')
+    print(df)
+    print(df.sales_order_item_status.unique())
+    return[{'label':i, 'value':i} for i in df.sales_order_item_status.unique()]
+
+@app.callback(
+      Output('demo_dropdown2', 'value')
+    , Input('demo_dropdown2', 'options')
+    )
+def get_status_value(demo_dropdown2):
+    print('options: '+str(demo_dropdown2))
+    print([k['value'] for k in demo_dropdown2][2])
+    return [k['value'] for k in demo_dropdown2][1]
+
+
+#-------------------------------------------------------------------
+
+
 @app.callback(
      Output('table', 'data'),
-    [Input('table','active_cell')
-    ,Input('my-date-picker-range', 'start_date')
+    [
+    #  Input('table','active_cell')
+     Input('my-date-picker-range', 'start_date')
     ,Input('my-date-picker-range', 'end_date') 
-
-    ,Input('demo-dropdown', 'search_value') #search_value
-    ,Input('demo-dropdown2', 'value')#value
- 
-
+    ,Input('demo-dropdown', 'value') #search_value
+    ,Input('demo-dropdown2', 'search_value')#value
     ])
 
 
-def update_table(interval, start_date, end_date, search_value, value):
+def update_table(start_date, end_date, value, search_value):
     print("search_value "+str(search_value))
     from datetime import datetime
     Customer_Name = value
