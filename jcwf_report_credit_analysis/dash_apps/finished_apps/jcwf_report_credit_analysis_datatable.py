@@ -974,16 +974,13 @@ def get_status_options(start_date, end_date, value):
 
 @app.callback(
       Output('demo_dropdown2', 'value')
-    , Input('demo_dropdown2', 'options')
+    , Input('demo_dropdown2', 'value')
     )
 def get_status_value(demo_dropdown2):
-    print('options: '+str(demo_dropdown2))
-    print([k['value'] for k in demo_dropdown2][2])
-    return [k['value'] for k in demo_dropdown2][1]
-
-
-#-------------------------------------------------------------------
-
+    print('value: '+str(demo_dropdown2))
+    demo_dropdown2_value = demo_dropdown2
+    # print([k['value'] for k in demo_dropdown2][2])
+    return demo_dropdown2_value #[k['value'] for k in demo_dropdown2][1]
 
 @app.callback(
      Output('table', 'data'),
@@ -991,13 +988,13 @@ def get_status_value(demo_dropdown2):
     #  Input('table','active_cell')
      Input('my-date-picker-range', 'start_date')
     ,Input('my-date-picker-range', 'end_date') 
-    ,Input('demo-dropdown', 'value') #search_value
-    ,Input('demo-dropdown2', 'search_value')#value
+    ,Input('demo_dropdown', 'value') #search_value
+    ,Input('demo_dropdown2', 'value')#value
     ])
 
 
-def update_table(start_date, end_date, value, search_value):
-    print("search_value "+str(search_value))
+def update_table(start_date, end_date, value, demo_dropdown2):
+    print("search_value "+str(demo_dropdown2))
     from datetime import datetime
     Customer_Name = value
     print("value "+str(value))
@@ -1009,7 +1006,7 @@ def update_table(start_date, end_date, value, search_value):
     print("start_date "+str(start_date))
     print("end_date "+str(end_date))
     print("Customer_Name "+str(Customer_Name))
-    print("Sales_order_item_status "+str(search_value))
+    # print("Sales_order_item_status "+str(demo_dropdown2))
     res = isinstance(Customer_Name, str)
     print(str('res is ')+str(res))
     if res:
@@ -1017,13 +1014,13 @@ def update_table(start_date, end_date, value, search_value):
         df = report_query(customer_foreign_key_query(Customer_Name),start_date, end_date) #report_query(customer_key,start_date2, '2021-10-18') #537 
     else:
         df = report_query('',start_date, end_date) #report_query(customer_key,start_date2, '2021-10-18') #537 
-    print(str('Sales_order_item_status is a string:')+str(isinstance(search_value, str)))
-    print(str('Sales_order_item_status is a list: ')+str(isinstance(search_value, list)))
-    print(type(search_value)) 
-    if isinstance(search_value,str):
+    print(str('Sales_order_item_status is a string:')+str(isinstance(demo_dropdown2, str)))
+    print(str('Sales_order_item_status is a list: ')+str(isinstance(demo_dropdown2, list)))
+    print(type(demo_dropdown2)) 
+    if isinstance(demo_dropdown2,str):
         pass
-    elif isinstance(search_value,list):
-        pass #df = df[df['sales_order_item_status'].isin(Sales_order_item_status)]
+    elif isinstance(demo_dropdown2,list):
+        df = df[df['sales_order_item_status'].isin(demo_dropdown2)]
     else:
         pass
 
