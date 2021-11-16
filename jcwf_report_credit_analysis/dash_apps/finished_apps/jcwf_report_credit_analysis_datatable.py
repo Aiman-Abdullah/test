@@ -81,7 +81,8 @@ app.layout = dbc.Container([
             dcc.Dropdown(
                 id='demo_dropdown2',
                 options=[],
-                placeholder="Select Status",
+                placeholder="Select Status",  
+                
                 multi=True#True False
             ),
         ], width=4)
@@ -967,7 +968,7 @@ def get_status_options(start_date, end_date, value):
     print('foreign key '+str(customer_foreign_key_query(value)))
     print("start_date "+str(start_date))
     print("end_date "+str(end_date))
-    df = report_query('537' ,start_date ,end_date)#'2020-08-18', '2021-10-18')
+    df = report_query(customer_foreign_key_query(value) ,start_date ,end_date)#'2020-08-18', '2021-10-18')
     print(df)
     print(df.sales_order_item_status.unique())
     return[{'label':i, 'value':i} for i in df.sales_order_item_status.unique()]
