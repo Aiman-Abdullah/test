@@ -82,6 +82,18 @@ app.layout = dbc.Container([
                 id='demo_dropdown2',
                 options=[],
                 placeholder="Select Status",  
+
+                multi=True#True False
+            ),
+        ], width=4)
+    ]),
+
+    dbc.Row([
+        dbc.Col([
+            dcc.Dropdown(
+                id='demo_dropdown3',
+                options=[],
+                placeholder="Select Product",  
                 
                 multi=True#True False
             ),
@@ -982,6 +994,40 @@ def get_status_value(demo_dropdown2):
     demo_dropdown2_value = demo_dropdown2
     # print([k['value'] for k in demo_dropdown2][2])
     return demo_dropdown2_value #[k['value'] for k in demo_dropdown2][1]
+
+@app.callback(
+     Output('demo_dropdown3', 'options'),
+    [Input('my-date-picker-range', 'start_date')
+    ,Input('my-date-picker-range', 'end_date') 
+    ,Input('demo_dropdown2', 'value')
+    ,Input('demo_dropdown', 'value')
+    ])
+
+def get_product_options(start_date, end_date, value, demo_dropdown): 
+    print('customer name'+str(value))
+    print('foreign key '+str(customer_foreign_key_query(value)))
+    print("start_date "+str(start_date))
+    print("end_date "+str(end_date))
+    df = report_query(customer_foreign_key_query(value) ,start_date ,end_date)#'2020-08-18', '2021-10-18')
+    print(df)
+    print(df.sales_order_item_status.unique())
+    return[{'label':i, 'value':i} for i in df.sales_order_item_status.unique()]
+
+
+@app.callback(
+      Output('demo_dropdown3', 'value')
+    , Input('demo_dropdown3', 'value')
+    )
+
+def get_status_value(demo_dropdown3):
+    print('value: '+str(demo_dropdown3))
+    demo_dropdown3_value = demo_dropdown3
+    # print([k['value'] for k in demo_dropdown2][2])
+    return demo_dropdown3_value #[k['value'] for k in demo_dropdown2][1]
+
+
+
+
 
 @app.callback(
      Output('table', 'data'),
