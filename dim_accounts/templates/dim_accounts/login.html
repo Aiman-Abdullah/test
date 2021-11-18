@@ -15,9 +15,4 @@
 {% endblock %}
 
 
-<h1>
-    <form class = "form-inline" action = "{% url 'dim_accounts:login' %}" method ="POST" style="margin: 0 10.5%; float: left;" display = "inline-block;">
-        {%csrf_token %}                                                                
-        <button type = "submit" class="btn btn-secondary btn-lg">Login<i class="fas fa-database" style="margin: 0 50.5%; float: right;"></i>
-    </form>
-</h1>
+

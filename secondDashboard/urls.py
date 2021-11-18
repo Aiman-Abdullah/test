@@ -65,7 +65,7 @@ urlpatterns = [
     # url(r'^firstUI/', include('firstUI.urls')),
     url(r'^employee/', include('jcwf_data_center.urls'), name='jcwf_data_center'),
     path('dim_accounts/', include('dim_accounts.urls')),
-    path('signup/', include('dim_accounts.urls')),
+    # path('signup/', include('dim_accounts.urls'), name='signup'),
 
     
     path('jcwf_data_center/', include('jcwf_data_center.urls')),
@@ -82,8 +82,8 @@ urlpatterns = [
     path('home_page/', home_page_views.homePage),
     path('test_page/', include('test_page.urls')),
     path('test_page/', test_page_views.testPage),
-    path('login/', include('dim_accounts.urls')),
-    path('logout/', include('dim_accounts.urls')),
+    # path('dim_accounts/login/', include('dim_accounts.urls'), name='logout'),
+    # path('dim_accounts/logout/', include('dim_accounts.urls'), name='logout'),
     url(r'session_security/', include('session_security.urls')),
 ]
 
