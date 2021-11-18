@@ -971,16 +971,16 @@ html.Div(
 @app.callback(
      Output('demo_dropdown2', 'options'),
     [Input('my-date-picker-range', 'start_date')
-    ,Input('my-date-picker-range', 'end_date') 
-    ,Input('demo_dropdown', 'value') 
+    ,Input('my-date-picker-range', 'end_date')
+    ,Input('demo_dropdown', 'value')
     ])
 
-def get_status_options(start_date, end_date, value): 
+def get_status_options(start_date, end_date, value):
     print('customer name'+str(value))
     print('foreign key '+str(customer_foreign_key_query(value)))
     print("start_date "+str(start_date))
     print("end_date "+str(end_date))
-    df = report_query(customer_foreign_key_query(value) ,start_date ,end_date)#'2020-08-18', '2021-10-18')
+    df = report_query(customer_foreign_key_query(value) ,start_date ,end_date) #'2020-08-18', '2021-10-18')
     print(df)
     print(df.sales_order_item_status.unique())
     return[{'label':i, 'value':i} for i in df.sales_order_item_status.unique()]
@@ -989,6 +989,7 @@ def get_status_options(start_date, end_date, value):
       Output('demo_dropdown2', 'value')
     , Input('demo_dropdown2', 'value')
     )
+
 def get_status_value(demo_dropdown2):
     print('value: '+str(demo_dropdown2))
     demo_dropdown2_value = demo_dropdown2
@@ -998,21 +999,20 @@ def get_status_value(demo_dropdown2):
 @app.callback(
      Output('demo_dropdown3', 'options'),
     [Input('my-date-picker-range', 'start_date')
-    ,Input('my-date-picker-range', 'end_date') 
+    ,Input('my-date-picker-range', 'end_date')
     ,Input('demo_dropdown2', 'value')
     ,Input('demo_dropdown', 'value')
     ])
 
-def get_product_options(start_date, end_date, value, demo_dropdown): 
+def get_product_options(start_date, end_date, value, demo_dropdown):
     print('customer name'+str(value))
     print('foreign key '+str(customer_foreign_key_query(value)))
     print("start_date "+str(start_date))
     print("end_date "+str(end_date))
-    df = report_query(customer_foreign_key_query(value) ,start_date ,end_date)#'2020-08-18', '2021-10-18')
+    df = report_query(customer_foreign_key_query(value) ,start_date ,end_date) #'2020-08-18', '2021-10-18')
     print(df)
     print(df.sales_order_item_status.unique())
     return[{'label':i, 'value':i} for i in df.sales_order_item_status.unique()]
-
 
 @app.callback(
       Output('demo_dropdown3', 'value')
