@@ -86,4 +86,4 @@ urlpatterns = [
     # path('dim_accounts/logout/', include('dim_accounts.urls'), name='logout'),
     url(r'session_security/', include('session_security.urls')),
 ]
-
+   
