@@ -1017,7 +1017,7 @@ def get_product_options(start_date, end_date, value, demo_dropdown):
 @app.callback(
       Output('demo_dropdown3', 'value')
     , Input('demo_dropdown3', 'value')
-    )
+    ) 
 
 def get_status_value(demo_dropdown3):
     print('value: '+str(demo_dropdown3))
